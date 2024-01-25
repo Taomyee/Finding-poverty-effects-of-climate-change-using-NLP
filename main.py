@@ -49,16 +49,23 @@ def PDFprocesser(path):
     papers_list = []
     # Get the average length of the paragraph
     mean_para_length, median_para_length, first_para_quartile, third_para_quartile = GetAvgParagraphLength()
-    # for filename in glob.glob(os.path.join(path, '*.pdf')):
+    # clear the previous output
+    open("./extracted_files.txt", "w", encoding='utf-8').close()
+    open("./invalid_files.txt", "w", encoding='utf-8').close()
     for filename in [x for x in os.listdir('./NDCs') if x.endswith('.pdf')]:
         print(f"INFO: Start reading: {filename}")
         lines = textractor(f"./NDCs/{filename}")
         line_lengths = []
         for line in lines:
             line_lengths.append(len(line))
-        line_avg_length = int(np.mean(line_lengths))
-        line_length_low_bound = np.percentile(line_lengths, 25)
-        line_length_high_bound = np.percentile(line_lengths, 95)
+        if line_lengths:
+            line_avg_length = int(np.mean(line_lengths))
+            line_length_low_bound = np.percentile(line_lengths, 25)
+            line_length_high_bound = np.percentile(line_lengths, 95)
+        else:
+            line_avg_length = 0
+            line_length_low_bound = 0
+            line_length_high_bound = 0
         # print('-------------')
         # print(line_avg_length)
         # print(line_length_low_bound)
