@@ -1,0 +1,536 @@
+CMNUCC Convencin Marco de Naciones Unidas sobre Cambio Climtico ESPAC Encuesta de Superficie y Produccin Agropecuaria Continua FAOSTAT Base de Datos Estadsticos Corporativos de la Organizacin de las GACMO Costo de Abatimiento de Gases de Efecto Invernadero LEAP Sistema de Planificacin de Alternativas Energticas de Largo REDD+ Reduccin de emisiones por deforestacin y degradacin forestal SENPLADES Secretaria Nacional de Planificacin y Desarrollo USCUSS Uso de Suelo, Cambio de Uso de Suelo y Silvicultura 2. Descripcin de objetivos generales de la NDC  implementacin de los objetivos 3.5 Supuestos y enfoques metodolgicos, incluyendo aquellos para estimar y contabilizar emisiones antropognicas de gases de efecto invernadero, y de ser el 4. Componente de adaptacin  Primera Comunicacin de Adaptacin del Ecuador .. 26 4.3 Prioridades nacionales de adaptacin, estrategias, polticas, planes, objetivos y 4.5.2 Barreras, desafos y vacos relacionados a la implementacin de adaptacin 40 5. Informacin sobre cmo el pas considera que su NDC es justa y ambiciosa, a la 1. Circunstancias nacionales, arreglos institucionales y marco legal El Ecuador es un pas andino ubicado en el hemisferio occidental, al noroeste de Amrica del Sur, con una extensin total de 256.370 km2 que cubren tanto la superficie continental, compuesta por 3 regiones: Costa, Sierra y Amazona, como la regin Insular.
+
+El pas cuenta con una notable variedad ecosistmica e inmensa riqueza en patrimonio natural. El 20% del territorio corresponde a reas protegidas de distintas categoras, destacando sitios como el Parque Nacional Yasun y el archipilago de las Galpagos, nicos en el mundo por su invaluable y endmica biodiversidad. El Sistema Nacional de reas Protegidas agrupa al conjunto de reas naturales que garantizan la cobertura y conectividad de ecosistemas importantes en los niveles terrestre, marino, y marino - costero, as como de sus recursos culturales y de las principales fuentes hdricas. En el perodo 2008-2014 la tasa de cambio de la cobertura boscosa en el Ecuador continental fue de -0,37%, que se traduce en una deforestacin neta promedio de 47.497 ha/ao.
+
+El pas dispone adems de 376.018 hm3 de recursos hdricos anuales, de los cuales 361.747 hm3 son superficiales mientras que el 56.556 hm3 son subterrneos. El volumen medio anual para las regiones del pas, Costa, Sierra y Amazona es de 70.046 hm3, 59.725 hm3 y 246.246 hm3, respectivamente.1 Debido a factores atmosfricos, pero tambin a su geografa, Ecuador posee mltiples climas y microclimas que varan a muy cortas distancias, y van desde clido hasta fro glaciar.
+
+Dada su condicin de pas en vas de desarrollo, Ecuador es altamente vulnerable a factores externos de diversa ndole, incluyendo desde eventos de origen natural o antrpicos, hasta impactos del mercado externo, principalmente por su condicin de economa primaria-exportadora.
+
+El cambio climtico ha exacerbado la vulnerabilidad del pas, que es crtica en diversas zonas, por ejemplo, en la zona litoral, donde los cambios en las dinmicas costeras exigen la implementacin de medidas de adaptacin ante el ascenso del nivel medio del mar, el retroceso de la lnea de costa, el aumento de la temperatura del agua, la acidificacin, la desproteccin ante eventos meteorolgicos extremos y las prdidas humanas y econmicas. Aunque no existen previsiones contrastables sobre el aumento del nivel del mar en Ecuador, los datos manejados a nivel mundial prevn elevaciones que permiten considerar a este fenmeno como una amenaza con incidencia significativa, fundamentalmente en las zonas ms bajas, que pueden dar lugar no solo al microcuencas hidrogrficas del Ecuador, (SENAGUA, 2016).
+
+Asimismo, la intensificacin de fenmenos de la variabilidad natural, como El Nio - Oscilacin del Sur (ENOS), que es uno de los principales fenmenos que afectan la regin y el pas, y que presenta un ciclo de ocurrencia de 3, 5 y 7 aos, genera alteraciones principalmente por incrementos de las precipitaciones (Fase El Nio) y por dficits de precipitacin (Fase la Nia)2. Este fenmeno desencadena severas sequas e inundaciones que histricamente han afectado al territorio nacional, incluyendo la zona litoral, ocasionando daos significativos que se traducen en prdidas de vidas humanas, socio-econmicas y ambientales.
+
+Entre los principales cambios observados en precipitacin, temperatura media y temperaturas mximas y mnimas absolutas en el Ecuador en el periodo 1960-2010 se aprecia un incremento de temperatura y variaciones espaciales y estacionales de la precipitacin todo el territorio nacional. En las Islas Galpagos, reconocidas como Patrimonio Natural de la Humanidad, se observa un cambio positivo de las temperaturas media, mxima y mnima absolutas de 1,4C, 1C y 1,1C, respectivamente. En promedio, los volcanes del pas han perdido cerca del 50% de su superficie glaciar durante el ltimo medio siglo.
+
+Las proyecciones de clima futuro realizadas en el marco de la Tercera Comunicacin Nacional sobre Cambio Climtico de Ecuador, muestran que, de mantenerse la tendencia actual de la temperatura, el cambio que podra esperarse en el Ecuador sera de aproximadamente un aumento de 2C hasta fin de siglo; e, incluso, la Amazona y Galpagos presentaran incrementos superiores a este valor.
+
+Considerando un abordaje sectorial a la temtica de la adaptacin, cabe mencionar que el sector denominado Soberana Alimentaria, Agricultura, Ganadera, Acuacultura y Pesca, es uno de los sectores priorizados por la Estrategia Nacional de Cambio Climtico, en razn a los efectos que los cambios de la temperatura y las alteraciones en los regmenes de las precipitaciones causan sobre la produccin de alimentos (consumo interno y exportacin) y las repercusiones que ello tiene sobre los precios, el acceso de las poblaciones a los productos, entre otros.
+
+A su vez los Sectores Productivos y Estratgicos y el Sector de Asentamientos Humanos son muy vulnerables a los efectos del cambio climtico, debido a potenciales impactos en el comercio, en el transporte y en la infraestructura urbana y rural. Grupos y asentamientos humanos vulnerables a los eventos extremos del clima, veran incrementados los factores de riesgo debido a las cada vez ms frecuentes e intensas precipitaciones y temperaturas extremas. En el mbito del sector Salud se prevn incrementos de enfermedades y epidemias exacerbados por las alteraciones climticas, pues se espera ampliacin en la distribucin de transmisores de enfermedades que se adaptaran a nuevos pisos altitudinales (cada vez a cotas superiores).
+
+En el caso de los sectores de Patrimonio Hdrico y Patrimonio Natural, ellos son particularmente sensibles ante la ocurrencia de cambios en las precipitaciones y temperatura, y se veran fuertemente afectados al acentuarse las condiciones de dficit y 2 Ecuador: Referencias bsicas para la Gestin de Riesgos, 2014.
+
+Desde el punto de vista de las emisiones de Gases de Efecto Invernadero que genera el pas, corresponde indicar que las emisiones totales del INGEI 2012 del Ecuador ascienden a 80 627,16 Gg de CO2eq, de los cuales el sector Energa genera el mayor aporte con 46,63% de dichas emisiones, seguido del sector USCUSS, con 25,35% de las emisiones totales netas (valor neto resultante de las emisiones menos las absorciones). El sector Agricultura ocupa el tercer lugar con 18,17% de los GEI emitidos a la atmsfera. Los sectores Procesos industriales y Residuos representan, en conjunto, aproximadamente 10% de las emisiones del pas, registrando 5,67% y 4,19%.
+
+Los resultados de las estimaciones de emisiones derivadas de las fuentes y absorciones por sumideros de los GEI a nivel nacional para el ao 2012 y el anlisis de la serie temporal 1994-2012 fueron realizadas acorde las directrices del IPCC. Los GEI evaluados fueron los siguientes: dixido de carbono (CO2), metano (CH4), xido nitroso (N2O), halocarbonos (HFC), perfluorocarbonos (PFC), hexafluoruro de azufre (SF6), monxido de carbono (CO), xidos de nitrgeno (NOx), compuestos orgnicos voltiles no metanosos (COVNM) y dixido de azufre (SO2) no controlados por el Protocolo de Montreal. Para fines de reporte, las emisiones/remociones se expresan en unidades de dixido de carbono equivalente (CO2-eq) para hacerlas comparables entre s.
+
+El Ecuador tiene 17.267.986 habitantes (INEC, proyecciones de poblacin para 2019), de los cuales el 50,5% corresponden a mujeres. Se identifican pueblos y nacionalidades: mestizos, montubios, indgenas (14 pueblos, 18 nacionalidades y 3 grupos en aislamiento voluntario), afro-ecuatorianos, blancos y otros. Segn la caracterizacin del Censo 2010, el 72% de la poblacin se reconoce como mestizo. Para el 2019 se espera que el 63,9% de la poblacin viva en zonas urbanas (proyeccin de la poblacin ecuatoriana, por aos calendario, segn regiones, provincias y sexo). De acuerdo a los datos publicados por el INEC, el nivel de analfabetismo de la poblacin en 2017 fue de 5,9%. La tasa neta de asistencia a educacin general bsica lleg en 2017 al 96,06%, mientras que la tasa de bachillerato alcanz el 70,8% en el mismo ao (tabulados de educacin de la encuesta nacional de empleo, desempleo y subempleo-ENEMDU). En cuanto al acceso a servicios bsicos, en 2017 el 88,5% de la poblacin nacional tuvo acceso al agua potable (los hogares urbanos con acceso a la red de agua potable representan el 96,6% del total de hogares urbanos y el 69,8% de los hogares rurales). A 2017, el 89,4% de los hogares a nivel nacional cuentan con un sistema adecuado de eliminacin de excretas, el 88,1% de hogares cuenta con servicio de recoleccin de basura, y el 99,1% de los hogares tienen acceso a electricidad (tabulados de vivienda de la encuesta nacional de empleo, desempleo y subempleo- ENEMDU).
+
+A diciembre de 2018, la pobreza por ingresos se ubic en 23,2%, la cual, en comparacin con el ao 2015 (23,3%), ha disminuido en 0,1 puntos porcentuales, y representa una reduccin notable en relacin al ao 2010 (9,6 puntos porcentuales). En el mismo ao, la pobreza urbana se ubic en 15,3% y la rural fue de 40%; la pobreza extrema por ingresos fue de 8,4%, teniendo mayor incidencia en el rea rural (17,7%).
+
+El Coeficiente de Gini, reportado a diciembre de 2018, fue de 0,469 frente a 0,505 reportado para el ao 2010 (indicadores de pobreza y desigualdad de la encuesta nacional de empleo, desempleo y subempleo-ENEMDU).
+
+En 2014, el 41,4% de la poblacin posea algn tipo de seguro de salud y se haban reducido, con relacin a 2006. Algunas de las principales causas de mortalidad infantil (nios menores a 1 ao) son: dificultad respiratoria del recin nacido (14,68%) y neumona (6,24%) (INEC).
+
+Entre 2010 y 2017, el Producto Interno Bruto (PIB) real present un crecimiento promedio del 3,38%. A 2017, el PIB nominal de Ecuador alcanz los 104.296 millones de dlares. La previsin del PIB nominal para el 2018 fue de 109.454 millones de dlares, y para el ao 2019 de 113.097 millones de dlares. Las principales exportaciones del pas estn centradas en petrleo (44%) y productos del mar elaborados (25%) (Informacin macroeconmica del Banco Central del Ecuador).
+
+Mediante Decreto Legislativo 0 (cero) publicado en el Registro Oficial 449 del 20 de octubre de 2008 se expidi la Constitucin de la Repblica del Ecuador. La Carta Magna establece en su Artculo 3, numerales 1 y 7 como deberes primordiales del Estado, el garantizar sin discriminacin alguna el efectivo goce de los derechos establecidos en la Constitucin y en los instrumentos internacionales, en particular la educacin, la salud, la alimentacin, la seguridad social y el agua para sus habitantes y la proteccin del patrimonio natural y cultural del pas, mientras que las personas tienen el derecho a vivir en un ambiente sano, ecolgicamente equilibrado, libre de contaminacin y en armona con la naturaleza, segn el numeral 27 del Artculo 66.
+
+En el Artculo 14 se reconoce el derecho de la poblacin a vivir en un ambiente sano y ecolgicamente equilibrado, que garantice la sostenibilidad y el buen vivir, Sumak Kawsay y se declara de inters pblico la preservacin del ambiente, la conservacin de los ecosistemas, la biodiversidad y la integridad del patrimonio gentico del pas, la prevencin del dao ambiental y la recuperacin de los espacios naturales degradados; para lo cual el Estado; segn el Artculo 15, deber promover, en el sector pblico y privado, el uso de tecnologas ambientalmente limpias y de energas alternativas no contaminantes y de bajo impacto.
+
+El Artculo 389 de la Constitucin establece que el Estado proteger a las personas, colectividades y la naturaleza frente a los efectos negativos de los desastres de origen natural o antrpico mediante la prevencin ante el riesgo, la mitigacin de desastres, la recuperacin y mejoramiento de las condiciones sociales, econmicas y ambientales, con el objetivo de minimizar la condicin de vulnerabilidad. El Sistema Nacional Descentralizado de Gestin de Riesgos est compuesto por las unidades de gestin de riesgos de todas las instituciones pblicas y privadas en los mbitos local, regional y nacional.
+
+De acuerdo al Artculo 414, el Estado deber adoptar medidas adecuadas y transversales para la mitigacin del cambio climtico, mediante la limitacin de las emisiones de gases de efecto invernadero, de la deforestacin y de la contaminacin atmosfrica;
+
+Asimismo, la Poltica Nacional Ambiental, el Decreto Ejecutivo que declara como poltica de Estado a la adaptacin y la mitigacin del cambio climtico (2009), la Estrategia Nacional de Cambio Climtico (2012), y, los Decretos Ejecutivos relativos a la creacin y conformacin y funcionamiento del CICC (2009, 2010, 2017) son parte sustantiva de las polticas pblicas para la gestin del cambio climtico. En adicin se dispone de varios Acuerdos Ministeriales, expedidos por la Autoridad Nacional Ambiental (Ministerio del Ambiente), que acta adems como punto focal tcnico ante la Convencin Marco de Naciones Unidas sobre Cambio Climtico y tiene a su cargo la Presidencia del CICC y, por intermedio de la Subsecretara de Cambio Climtico, la Secretara Tcnica de dicho Comit.
+
+En este contexto, Ecuador firm el Acuerdo de Pars en Nueva York, en julio de 2016 y su ratificacin est establecida mediante Decreto Ejecutivo Nro. 98 del 27 de julio de 2017.
+
+El Cdigo Orgnico Ambiental (2017) actualiza, complementa y aclara la normativa establecida en Ecuador para la gestin del cambio climtico, y representa una permitir la integracin de la adaptacin en la planificacin del desarrollo a escala local de parte de los Gobiernos Autnomos Descentralizados.
+
+Ecuador reconoce tambin, a travs de su Cdigo Orgnico de Planificacin y Finanzas Pblicas (COPFP, 2010), que en el diseo e implementacin de los programas y proyectos de inversin pblica se promover la incorporacin de acciones favorables al ecosistema, mitigacin y adaptacin al cambio climtico, y a la gestin de vulnerabilidades y riesgos naturales y antrpicos.
+
+El Reglamento a la Ley de Seguridad Pblica y del Estado, en su Artculo 3, determina que el rgano rector y ejecutor del Sistema Nacional Descentralizado de Gestin de Riesgos es la Secretara Nacional de Gestin de Riesgos, encargada de asegurar que todas las instituciones pblicas y privadas incorporen obligatoriamente, y en forma transversal, la gestin de riesgos en su planificacin y gestin.
+
+En lo que refiere a la poltica internacional, el Ecuador ratific la CMNUCC en 1994 (mediante su promulgacin en el Registro Oficial N.  562) y trabaja en una adecuacin progresiva de su gobernanza e institucionalidad para reforzar la gestin del cambio climtico en el territorio nacional.
+
+En consonancia, Ecuador adopt la Agenda 2030 para el Desarrollo Sostenible como una poltica de Estado mediante Decreto Ejecutivo N 371 en abril de 2018. Si bien las prdidas de vidas y medios de vida causadas por desastres naturales no climticos se han mantenido estables, aquellas causadas por desastres meteorolgicos han aumentado dramticamente durante las ltimas tres dcadas como efecto del cambio climtico. Por lo tanto, la brecha global de proteccin de riesgos estimada, debido a fenmenos meteorolgicos extremos, es de USD 1.7 trillones, lo que vuelve la reduccin del riesgo de desastres una prioridad en la lucha contra el cambio climtico.
+
+Con base en este escenario el Ecuador signatario del Marco de Sendai, marco que manifiesta la importancia de integrar la reduccin del riesgo de desastres en la sostenibilidad y reconoce la importancia de abordar el cambio climtico como uno de los motores del riesgo de desastres.
+
+En este contexto, el Plan Nacional de Desarrollo 2017-2021 Toda Una Vida est alineado con la Agenda 2030 y sus 17 Objetivos de Desarrollo Sostenible. Cabe indicar gestin del gobierno, posicionando a cada ecuatoriano como sujeto de derechos, durante todo el ciclo de vida. El Plan Nacional de Desarrollo (PND) 2017-2021, instrumento de planificacin nacional propone 3 ejes vinculados con la gestin del cambio climtico: Eje 1. Derechos para todos durante toda la vida y sus 3 objetivos; Eje 2. Economa al servicio de la sociedad; Eje 3. Ms sociedad, mejor Estado.
+
+La Estrategia Nacional Territorial (ETN) representa parte constitutiva del PND, cuyas determinaciones tendrn el carcter de vinculante y sern de obligatorios cumplimiento para todas las instituciones del Servicio Nacional Descentralizado de Planificacin Participativa (SNDPP). Adicionalmente, se debe mencionar a la Estrategia Territorial Nacional, como expresin de la poltica pblica nacional en el territorio e instrumento de ordenamiento territorial a escala nacional, que comprende criterios, directrices y guas de actuacin sobre el ordenamiento del territorio y orienta la gestin de los recursos naturales, su infraestructura, asentamientos humanos, actividades econmicas, equipamientos y proteccin del patrimonio natural y cultural sobres la base de los Por otro lado, La Estrategia Nacional de Cambio Climtico (ENCC) 2012-2025 a travs de Acuerdo Ministerial 95, publicado en el Registro Oficial Edicin Especial 9 de 17 de junio del 2013, es el documento que establece los sectores priorizados para la adaptacin (Soberana alimentaria, agricultura, ganadera, acuacultura y pesca; Sectores Productivos y Estratgicos; Salud; Patrimonio Hdrico; Patrimonio Natural; Grupos de atencin prioritaria; Asentamientos humanos; y Gestin de Riesgos) y la mitigacin del cambio climtico (Agricultura; Uso del Suelo, Cambio de Uso del Suelo y Silvicultura;
+
+Energa; Manejo de desechos slidos y lquidos; y Procesos industriales).
+
+El rgano de decisin poltica es el Comit Interinstitucional de Cambio Climtico (CICC), creado mediante el Decreto Ejecutivo Nro. 495 en 2010 y reformado en 2017 mediante el Decreto Ejecutivo 064. El CICC constituye la instancia de ndole poltica que direcciona la gestin del cambio climtico a nivel nacional en el marco de los acuerdos internacionales vigentes sobre la temtica, y est conformado por las instituciones encargadas del ambiente, relaciones exteriores, agricultura y ganadera, electricidad y energa renovable energa, industrias y productividad, agua, gestin de riesgos, la Asociacin de Municipalidades del Ecuador y el Consorcio de Gobiernos Provinciales del Ecuador.
+
+Los Grupos Tcnicos de trabajo adscritos al CICC, conformados acorde a necesidades especficas, brindan asistencia tcnica e insumos para la toma de decisiones y constituyen en la prctica rganos que permiten la participacin ampliada de actores pblicos, privados, acadmicos, investigadores, gremiales y otros, segn corresponda en cada caso.
+
+Otras instancias de carcter tcnico y local para la gestin del cambio climtico a escala local, en las cuales participan Gobiernos Autnomos Descentralizados del nivel provincial y municipal, son el Pacto Global de Alcaldes por el Clima y la Energa, el Grupo de Liderazgo Climtico (C40), y el Proyecto de Accin Provincial frente al Cambio Climtico. Las Universidades y Escuelas Politcnicas participan a travs de esquemas generados para la coordinacin con la academia.
+
+El Ecuador, no escatima esfuerzos para sumarse a la lucha global para combatir el cambio climtico de acuerdo a sus capacidades, a pesar de que es responsable de un porcentaje mnimo de emisin de gases de efecto invernadero a la atmsfera a nivel mundial. En este sentido presenta su Contribucin Determinada a nivel Nacional, en cumplimiento con las obligaciones que emanan del Acuerdo de Pars.
+
+Es as que desde mediados del 2017, el Ecuador inici el proceso de recopilacin y procesamiento de informacin, mapeo de actores y roles, identificacin de iniciativas sectoriales y arreglos institucionales necesarios, construccin de escenarios incondicional y condicionado, y planteamiento / priorizacin de medidas y lneas de accin para la construccin de su primera NDC. El proceso participativo de la NDC ha sido diseado con tres principios rectores:
+
+1. Facilitar la participacin de las y los actores como agentes de cambio y fomentar su compromiso con el proceso de formulacin de la NDC.
+
+2. Transversalizar el enfoque de gnero en cada fase del proceso.
+
+3. Generar mecanismos de mejora constante de los resultados y actividades de la NDC.
+
+Con el fin de llevar a cabo una adecuada incorporacin del enfoque de gnero y su transversalizacin en la formulacin de la NDC, una de las estrategias implementadas en la metodologa participativa consiste en contar con la asesora tcnica y acompaamiento permanente de actores relevantes en la temtica a nivel nacional como el Consejo para la Igualdad de Gnero.
+
+La transversalizacin de gnero implica la integracin del enfoque de gnero desde la preparacin, el diseo, la implementacin, el seguimiento y la evaluacin de polticas, medidas reguladoras e iniciativas, con el objetivo de promover la igualdad entre mujeres y hombres y combatir la discriminacin. En el proceso participativo, principalmente se han presentado los principios rectores de la integracin del enfoque de gnero y la generacin de recursos didcticos para la reflexin conjunta sobre los aspectos sociales y de gnero relacionados al cambio climtico, enfocados a generar capacidades, pero tambin un compromiso de los actores involucrados para la incorporacin del anlisis de gnero en cada una de las instancias de su trabajo diario.
+
+Los resultados, en este sentido se vern con el tiempo en la medida en que se generen procesos continuos en trminos de indicadores sensibles al gnero e indicadores transformadores de gnero. Esta fase, es el inicio de un trabajo sobre gnero que espera ser desarrollado de manera continua y mejorado a lo largo del tiempo.
+
+La evaluacin del desarrollo del proceso se basa en el pensamiento sistmico y respalda la innovacin mediante la recopilacin y el anlisis de datos en tiempo real de manera que conduce a la toma de decisiones informada y continua como parte del proceso de diseo, desarrollo e implementacin.
+
+Es importante recalcar el gran involucramiento de actores gubernamentales, no gubernamentales, academia, sector privado, gobiernos locales, etc durante toda la construccin de este instrumento asegura su validez y fortaleza tcnica Este proceso ha tomado aproximadamente un ao y medio desde sus inicios. Es as que en los primeros meses de 2019 se realiz el proceso oficial de validacin tcnica y poltica del documento de la NDC con instituciones involucradas en su proceso de formulacin. A continuacin se detalla los datos relevantes de la formulacin de la NDC del Ecuador.
+
+Nmero de instituciones involucradas Ms de 150 entidades del sector internacionales.
+
+Es necesario recordar que el cambio climtico es el resultado histrico de un modelo de produccin y desarrollo que se sustenta en la explotacin indiscriminada de la naturaleza como proveedora de recursos naturales, afectando a las personas y destruyendo el entorno natural lo cual pone en riesgo a las futuras generaciones. No es ajeno el hecho de que las negociaciones en el mbito del cambio climtico son que se ciernen alrededor del tema. Por lo tanto este esfuerzo global, debe estar acompaado de la provisin de los medios de implementacin oportunos y adecuados mediante la provisin de financiamiento, la transferencia de tecnologa y el desarrollo de capacidades y sobre todo, a travs del liderazgo de la accin climtica con la ratificacin de la Enmienda de Doha para cubrir el vaco jurdico del perodo pre -2020, sin lo cual no habr bases slidas para conseguir las medas del Acuerdo de Pars.
+
+Cabe resaltar que la implementacin de las lneas de accin y medidas que se contemplan en esta NDC, tanto en materia de mitigacin como adaptacin, son de aplicacin nacional y su ejecucin contemplar la participacin del sector pblico, privado, gobiernos subnacionales, la academia y la sociedad en general. El detalle de la implementacin de estas medidas se incluir en los reportes que se presenten en conformidad con las disposiciones del Acuerdo de Pars.
+
+2 Descripcin de objetivos generales de la NDC  implementacin de los objetivos de la Convencin y el Acuerdo de Pars.
+
+El Ecuador est comprometido en la lucha contra el cambio climtico, y como un pas altamente vulnerable a sus efectos, debe hacer el mejor uso de los mecanismos e instrumentos internacionales y nacionales para el diseo e implementacin de polticas ,planes y proyectos de mitigacin y adaptacin que a su vez operacionalicen las disposiciones de la Constitucin, el Plan Nacional de Desarrollo, la Estrategia Nacional de Cambio Climtico y las polticas nacionales vinculadas a la gestin del cambio climtico.
+
+Adicionalmente, la lucha contra el cambio climtico en el Ecuador se ve informada y guiada por los instrumentos internacionales vigentes y relevantes, incluyendo la Agenda 2030 y los Objetivos de Desarrollo Sostenible, el Acuerdo de Paris y la Convencin Marco de Naciones Unidas sobre Cambio Climtico, Marco de Sendai, que forman el marco bajo el cual el Ecuador disea e implementa una serie de acciones en la materia, Por lo tanto, el objetivo general de la NDC para el Ecuador es implementar polticas, acciones y esfuerzos que promuevan la reduccin de gases de efecto invernadero y el aumento de la resiliencia y disminucin de la vulnerabilidad a los efectos adversos del cambio climtico en los sectores priorizados en la Estrategia Nacional de Cambio Climtico. Estas acciones y esfuerzos se vern guiados por las lneas estratgicas y medidas identificadas en las secciones posteriores del documento.
+
+A travs de la implementacin de esta NDC, el Ecuador busca cumplir con las obligaciones del Acuerdo de Pars para coadyuvar al logro de su objetivo general y sus objetivos especficos como estn estipulados en su artculo 2. Esto implica generar arreglos y disear acciones y esfuerzos para implementar de mejor manera todos los compromisos estipulados en el artculo 4 de la Convencin, as como los objetivos especficos del Acuerdo de Pars relacionados a a) limitar el aumento de temperatura global muy por debajo de los 2 grados centgrados por encima de niveles preindustriales, b) aumentar la habilidad de adaptarse a los impactos adversos del cambio climtico y aumentar la resiliencia alimentaria de una forma que no amenace la produccin alimenticia y c) hacer que los flujos financieros sean consistentes con un todos los pases por los principios y provisiones de la Convencin Marco de Naciones Unidas sobre Cambio Climtico y del Acuerdo de Pars.
+
+En este contexto, se recuerda que el Acuerdo de Pars (Artculo 3 y artculo 4, prrafo 2) requiere que cada pas Parte prepare, comunique y mantenga las sucesivas contribuciones determinadas a nivel nacional (NDC) que pretende cumplir y que en ellas incluya medidas de mitigacin domsticas que reflejen la ambicin del pas de reducir las emisiones y adaptarse a los efectos adversos del cambio climtico, teniendo en cuenta sus circunstancias y capacidades internas.
+
+En lo referente a mitigacin, en trminos generales, se ha acordado que los pases deben llegar a un pico de emisiones de gases de efecto invernadero lo ms pronto posible, reconociendo que el pico de emisiones tomar ms tiempo para pases en desarrollo, sin establecer aos o periodos en especfico. Ecuador realizar, a travs de esta primera NDC, sus esfuerzos iniciales hacia este fin.
+
+En lo que refiere al marco general para la adaptacin, Ecuador resalta que el Acuerdo de Pars establece un objetivo global de mejorar la capacidad adaptativa, fortalecer la resiliencia y reducir la vulnerabilidad al cambio climtico y as contribuir al desarrollo sostenible; este objetivo es primordial para el pas en su calidad de pas en desarrollo, por lo que un gran componente de la NDC del pas tiene el objetivo de determinar acciones en materia de adaptacin al cambio climtico que aporten a su consecucin, tomando en cuenta la prioridad para el pas de la adaptacin en la lucha contra el cambio climtico y los compromisos de pases desarrollados de canalizar recursos financieros para la adaptacin en pases vulnerables como el Ecuador.
+
+Por esta razn, el Ecuador ha optado por presentar a la primera comunicacin de adaptacin del pas como componente de adaptacin de su primera NDC, en lnea con las guas adoptadas en la COP24.
+
+El objetivo especfico de la NDC en materia de mitigacin es contribuir a los esfuerzos globales de reduccin de gases de efecto invernadero identificando sectores, medidas y lneas de accin que aporten a la mitigacin del cambio climtico en el pas. A travs de estas acciones, se pretende implementar el literal a) del artculo 2 del Acuerdo de Pars, que estipula como uno de los objetivos del Acuerdo: Mantener el aumento de la temperatura media mundial muy por debajo de 2 C con respecto a los niveles preindustriales, y proseguir los esfuerzos para limitar ese aumento de la temperatura a 1,5 C con respecto a los niveles preindustriales, reconociendo que ello reducira considerablemente los riesgos y los efectos del cambio climtico.
+
+Para apoyar la consecucin de dicho objetivo global, el Ecuador a travs de la Estrategia Nacional de Cambio Climtico, ha planteado crear las condiciones favorables para la adopcin de medidas que reduzcan emisiones de gases de efecto invernadero y aumentar los sumideros de carbono en los sectores estratgicos.
+
+Ecuador ha diseado su NDC considerando una serie de esfuerzos en lneas de accin correspondientes con un potencial de reduccin de emisiones de gases de efecto invernadero, sobre la base de un anlisis agregado que incluye a los sectores: Energa, Agricultura, Procesos Industriales y Residuos. El sector Uso de Suelo y Cambio de Uso de Suelo y Silvicultura (USCUSS) ha sido analizado de manera separa debido a la diferencia en la metodologa aplicada en los sectores. Tanto para el anlisis agregado como para el sector USCUSS se plantean dos escenarios de mitigacin: i) uno derivado apoyo internacional (condicional). El potencial de reduccin de emisiones de gases de efecto invernadero para el anlisis agregado se lo establece en comparacin al escenario tendencial y para el sector USCUSS en comparacin al nivel de referencia de emisiones forestales por deforestacin (2000-2008).
+
+Dentro del proceso de formulacin de la NDC, en el componente de mitigacin se abordaron los cinco sectores priorizados en la Estrategia Nacional de Cambio Climtico del Ecuador 2012-2025 (ENCC):
+
+Uso del Suelo, Cambio de Uso de la Suelo y Silvicultura (USCUSS) gnero; mismos que son desarrollados en relacin a los principios descritos en la Estrategia Nacional de Cambio Climtico que hacen referencia a la articulacin regional e internacional, consistencia con principios internacionales sobre cambio climtico, nfasis en la implementacin local, integridad ambiental, participacin ciudadana, proactividad, proteccin de grupos y ecosistemas vulnerables, responsabilidad intergeneracional y transversalidad e integralidad.
+
+De de esta forma, en el proceso participativo basado en el enfoque de gnero, se busc la reflexin y formulacin de propuestas que promuevan el involucramiento de mujeres y hombres de la sociedad civil, organizaciones comunitarias y privadas y representantes de los diferentes niveles de la administracin pblica. Tanto los ejes transversales como los principios, estn orientados al uso de mecanismos de participacin ciudadana que promuevan los derechos e igualdad de oportunidades en la construccin de medidas para la reduccin de GEI.
+
+Junto con mitigar sus emisiones de GEI, Ecuador aspira a reducir la pobreza, disminuir la inequidad y continuar avanzando hacia un desarrollo sostenible en armona con la naturaleza, competitivo, inclusivo, resiliente y bajo en carbono, promoviendo el respeto y aplicacin de los derechos de la naturaleza estipulados en su Constitucin. Para enfrentar estos desafos, el pas deber utilizar todas sus capacidades nacionales y las alianzas internacionales tendrn un rol esencial para disminuir la relacin positiva entre crecimiento econmico y crecimiento de las emisiones de GEI.
+
+Para el establecimiento de los parmetros de referencia se consider la calidad y cantidad de informacin, as como las polticas nacionales e internacionales. Los parmetros utilizados para la formulacin del escenario tendencial y de referencia son los siguientes:
+
+Ao base 2010 para los sectores Energa, Agricultura, Procesos Industriales y Residuos.
+
+Ao de referencia 2008 para el sector USCUSS.
+
+Cobertura geogrfica para la cuantificacin de las emisiones: Nacional  Periodo de anlisis:
+
+2010-2025 (sectores: Energa, Agricultura, Procesos Industriales y Residuos) Tanto para el escenario tendencial como para el nivel de referencia se ha establecido un anlisis ex-ante, es decir una representacin de lnea base hacia el futuro, en funcin de la informacin existente al momento de realizar la proyeccin.
+
+Tabla 1. Parmetros considerados para la construccin del escenario tendencial y de referencia.
+
+Estadsticas:
+
+Para mantener la consistencia con las variables consideradas, las fuentes de datos usadas, la metodologa para la cuantificacin de las emisiones , la mtrica, los GEI Mtrica Potencial de Calentamiento Global a 100 aos(GWP-100), Valores IPCC AR2 referencia.
+
+Cambios significantes en las variables consideradas para la proyeccin tendencial de emisiones, escenarios de mitigacin.
+
+Efectos climticos extremos o situaciones imprevistas, que impidan el cumplimiento de las medidas y acciones dentro de las lneas de accin.
+
+Actualizacin de la metodologa (IPCC 2006).
+
+El periodo de implementacin de la NDC cubre el periodo 2020-2025. En este periodo el pas implementar lneas de accin identificadas a partir del proceso participativo intersectorial multinivel con mltiples actores de distinto niveles. Al ao 2025 se evaluar el avance de la implementacin de las lneas de accin identificadas.
+
+La NDC del Ecuador presenta el compromiso del pas en lneas de accin por sector, cuyo aporte de mitigacin ha sido incluido en una estimacin agregada para los sectores: Energa, Agricultura, Procesos Industriales y Residuos. El sector USCUSS fue analizado de manera separada. Los resultados se muestran en las ilustraciones 1 y 2 respectivamente.
+
+Ilustracin 1 - Escenarios de emisiones de GEI: tendencial, incondicional y condicional agregado de los sectores Energa, Agricultura, Procesos Industriales y Residuos Ilustracin 2 Nivel de referencia y escenarios de mitigacin incondicional y condicional para el sector USCUSS.
+
+Las lneas de accin y las iniciativas identificadas corresponden a un potencial de reduccin de emisiones a travs de esfuerzos nacionales (incondicionado), as como con el apoyo internacional (condicionado), y se presentan en la Tabla 2 y 3. Para mayor comprensin de la presente seccin se plantean las siguientes definiciones:
+
+Lneas de accin: Se conciben como estrategias de orientacin y organizacin de diferentes iniciativas, de tal forma que se pueda promover la articulacin, integracin y continuidad de esfuerzos para apoyar la mitigacin del cambio climtico.
+
+Iniciativas: Son planes, programas, proyectos, acciones y medidas identificadas que aportan en la mitigacin del cambio climtico.
+
+Escenario incondicional: Se refiere a las medidas y acciones que el pas puede implementar en funcin de sus propios recursos y dentro de sus propias capacidades (UNEP DTU PARTNERSHIP, 2015)3.
+
+Escenario condicional: Es aquel que va ms all de la contribucin incondicional, y que el pas est dispuesto a emprender si se dispone de medios de apoyo desde la cooperacin internacional (UNEP DTU PARTNERSHIP, 2015).
+
+Estos escenarios se obtendrn a travs de la implementacin de las siguientes lneas de accin e iniciativas.
+
+Tabla 2 Lneas de accin de mitigacin del escenario incondicional  Impulsar al uso de la energa renovable.
+
+Fortalecer la eficiencia energtica y el cambio de conducta del consumo.
+
+Fomentar e implementar la movilidad sostenible.
+
+Desarrollo de Centrales Hidroelctricas - Aprovechamiento del recurso hdrico para generacin de electricidad.
+
+Energa Renovable No Convencional - Potenciacin de la energa elica, solar y biogs de rellenos sanitarios.
+
+Programa de Coccin Eficiente - Reemplazo de cocinas de Gas Licuado de Transporte Pblico Eficiente - Operacin del Metro de Quito (22 km) y Tranva de Cuenca (12km).
+
+3 UNEP DTU Partnership (2015). Guidance note: Development INDCs on mitigation.
+
+Lneas de accin Desarrollar investigacin y generacin de sistemas de informacin para fortalecer la gestin del cambio climtico en el sector agropecuario.
+
+Promover el desarrollo pecuario sostenible a nivel nacional.
+
+Lneas de accin Disminuir las emisiones de GEI mediante adiciones en la produccin de cemento.
+
+Promover la captura activa de metano en rellenos sanitarios.
+
+(Quito).
+
+- Captura activa y quema de biogs.
+
+Conservar el patrimonio natural.
+
+Fortalecer el manejo forestal sostenible.
+
+Fortalecer la restauracin del patrimonio natural.
+
+Fortalecer e incrementar el establecimiento y manejo de las plantaciones forestales comerciales sostenibles.
+
+Fortalecer el control forestal.
+
+Fortalecer el Sistema Nacional de reas Protegidas.
+
+Sostenible (PROAmazona) del pas y las polticas de los sectores 2016-2025.
+
+Tabla 3 Lneas de accin de mitigacin del escenario condicional sostenible y eficiencia energtica de forma incluyente en cada uno de los subsectores.
+
+Desarrollar e implementar el transporte seguro y sostenible.
+
+Promover el uso y desarrollo de energa renovable, garantizando plena accesibilidad.
+
+Promover el uso y desarrollo de eficiencia energtica y cambio de conducta de consumo.
+
+Promover la investigacin para la implementacin de soluciones energticas, reduciendo la brecha de gnero.
+
+Plan Nacional de Eficiencia Energtica - Proyectos de identificacin de usos finales comercial y pblico.
+
+- Cogeneracin en la industria.
+
+(ESCOs).
+
+Programa).
+
+Energas Renovables - Bloque de Proyectos de Renovables no convencionales.
+
+- Energa Geotermia.
+
+NAMA de transporte de carga y pasajeros - Acciones de reduccin de emisiones de GEI en transporte de carga.
+
+Guayaquil y Cuenca.
+
+Oleoductos Transecuatoriano (SOTE).
+
+- Ciclo Combinado en Refinera.
+
+Interconectado (SNI).
+
+Promover el desarrollo pecuario sostenible a nivel nacional.
+
+Desarrollar e implementar sistemas agroproductivos sostenibles (agrcola pecuario y forestal) a nivel nacional.
+
+Lneas de accin Disminuir las emisiones de CO2 mediante adiciones en la produccin de cemento.
+
+Promover la investigacin sobre medidas de mitigacin para el sector Procesos Industriales.
+
+Apoyar la generacin; el intercambio y la difusin de informacin para impulsar acciones de mitigacin en el sector de Procesos Industriales.
+
+Generar alianzas pblico-privadas para la reduccin de gases de efecto invernadero en la gestin de residuos (slidos y lquidos), mediante la implementacin de medidas de mitigacin.
+
+Impulsar campaas inclusivas de sensibilizacin a la poblacin e industria en la gestin de residuos slidos y lquidos, hacia una economa circular.
+
+Tschilas.
+
+(ampliacin).
+
+Compostaje con aireacin forzada. Compostaje de residuos orgnicos de mercados y residuos de jardinera.
+
+Fortalecer e incrementar la superficie de zonas bajo mecanismos de conservacin.
+
+Fortalecer el manejo forestal sostenible.
+
+Impulsar acciones para la restauracin del patrimonio natural. Fortalecer e incrementar el establecimiento y manejo de las plantaciones forestales comerciales sostenibles.
+
+Fortalecer el control forestal.
+
+Fortalecer la prevencin de incendios forestales.
+
+Fortalecer e incrementar la superficie de reas del Sistema Nacional de reas Protegidas.
+
+Conservar las zonas de importancia hdrica.
+
+Iniciativas adicionales que sean cuantificables en reduccin de emisiones de gases de efecto invernadero podrn presentarse para apoyar la mitigacin del cambio climtico en el periodo de implementacin de esta NDC tanto en el escenario incondicional como en el escenario condicional. Estas debern estar articuladas a las lneas de accin descritas anteriormente.
+
+Finalmente, en cumplimiento de lo establecido en el Acuerdo de Pars y como resultado del proceso participativo intersectorial, con mltiples actores de distinto niveles de la formulacin de la NDC, las lneas de accin que se han identificado y que contribuyen con la mitigacin del cambio climtico en los sectores de Energa, Agricultura, Procesos Industriales y Residuos dan por resultado un potencial de reduccin de emisiones de GEI estimado que corresponde a un 9% en comparacin al escenario tendencial para el 2025. As mismo, se ha identificado un potencial de reduccin de emisiones de GEI del 20,9% al mismo periodo, sujeto al apoyo de la cooperacin internacional para implementar las lneas de accin establecidas en este escenario condicional. Esto dara paso a un incremento de ambicin en materia de mitigacin de un 11,9% en referencia al escenario tendencial al ao 2025.
+
+Con respecto al sector USCUSS y las lneas de accin establecidas a partir de los esfuerzos nacionales, se ha identificado un potencial de reduccin de emisiones de GEI del 4% en comparacin a nivel de referencia al ao 2025. Sin embargo, en el caso de contar con apoyo de la cooperacin internacional para desarrollar las lneas de accin del escenario condicional de este sector, se contara con un potencial adicional de mitigacin de 16%, es decir, una reduccin total de emisiones de GEI del 20% en comparacin al nivel de referencia para el ao 2025.
+
+3.5 Supuestos y enfoques metodolgicos, incluyendo aquellos para estimar y contabilizar emisiones antropognicas de gases de efecto invernadero, y de ser el caso, remociones.
+
+El Ecuador, a travs del Ministerio del Ambiente, como punto focal tcnico ante la Convencin Marco de Naciones Unidas sobre Cambio Climtico (CMNUCC), lider un proceso participativo que cont con el apoyo y participacin de alrededor de 150 instituciones provenientes del sector pblico, privado, academia, sociedad civil y la cooperacin internacional para la formulacin de la NDC, lo cual ha proporcionado legitimidad al proceso y sus resultados asociados.
+
+Para el componente de mitigacin de la NDC del Ecuador se ha realizado un anlisis agregado que incluye a los sectores: Energa, Agricultura, Procesos Industriales y Residuos. El sector USCUSS ha sido analizado de manera separada debido a las diferencias en las metodologas aplicadas en los sectores; y se plantean dos escenarios de mitigacin: uno condicional y uno incondicional, en comparacin a un escenario tendencial y nivel de referencia, respectivamente.
+
+Para el anlisis agregado, los escenarios tendencial, incondicional y condicional se establecieron mediante la aplicacin del Modelo de Costo de Abatimiento de Gases de Efecto Invernadero (GACMO, siglas en ingls) en base a las metodologas del Mecanismo de Desarrollo Limpio (MDL) del Protocolo de Kioto. Las principales variables utilizadas (generales) son la tasa de crecimiento poblacional anual compuesta, el PIB, factores de emisin del IPCC y nacionales.
+
+A nivel sectorial se aplicaron metodologas que responden a las necesidades y caractersticas de cada uno de los sectores analizados para el componente de mitigacin. A continuacin se presenta una descripcin de las suposiciones y enfoques metodolgicos usados:
+
+Para el diseo y construccin de los escenarios del sector Energa se utiliz la informacin de las Estadsticas Econmicas y Energticas Nacionales. La principal informacin levantada es en base a las variables de Producto Interno Bruto (PIB), crecimiento poblacional y los consumos energticos. Adicionalmente, se recopil informacin de los consumos energticos para las categoras y subcategoras de los Inventarios Nacionales de GEI con el objetivo de desagregar la informacin para las iniciativas.
+
+El modelo LEAP de planificacin energtica a largo plazo permiti realizar las proyecciones de las variables en base a los datos histricos levantados. El modelo LEAP utiliz los factores de emisin del IPCC 2006 para estimar las emisiones de GEI y determinar las emisiones por cada iniciativa.
+
+Las emisiones del escenario tendencial del sector Agricultura se calcularon ao a ao considerando como punto de partida el 2010 y como meta el 2025. Para el clculo se emplearon los Datos de Actividad (DA) y la metodologa descrita en el Reporte del Inventario Nacional de Gases de Efecto Invernadero (NIR) de Ecuador del ao 2010, que corresponde a un nivel 1 de las Directrices del IPCC revisadas en 1996 y Factores de Emisin (FE) por defecto para todas las categoras de fuente, en acompaamiento de las Guas de Buena Prcticas del IPCC (GBP) del 2000 y Directrices del IPCC del 2006.
+
+Los gases de efecto invernadero considerados en este clculo fueron: metano (CH4) y xido nitroso (N2O), para la transformacin a CO2 equivalente se utilizaron los potenciales de calentamiento global (GWP) del Segundo Informe de Evaluacin del IPCC (AR2).
+
+La estimacin de los datos de mitigacin en las iniciativas condicionadas e incondicionadas del sector Agricultura se realiz utilizando la serie histrica de emisiones del escenario tendencial junto con el potencial de mitigacin de las medidas priorizadas, tomando en cuenta su nivel de implementacin.
+
+Cabe indicar que durante el proceso de formulacin se registraron iniciativas que contribuyen a la mitigacin del cambio climtico en el sector.
+
+Dentro del sector Procesos Industriales, las principales fuentes de informacin para el diseo de los escenarios se derivan del Primer Informe Bienal del Ecuador, el cual incluye los inventarios de gases de efecto invernadero calculados a partir de las directrices del IPCC 1996. Adicionalmente se considera el modelo econmico, con la proyeccin del Producto Interno Bruto (PIB) del Ecuador (PNUD, 2018), y la informacin utilizada en el modelo GACMO donde se ingres informacin proporcionada directamente por la industria cementera.
+
+Para la construccin de los mencionados escenarios, el Modelo GACMO relaciona las variables del sector. Es decir, las Emisiones de Gases de Efecto Invernadero (GEI), que se toman del inventario del ao base correspondiente (2010) y se relacionan con el Producto Interno Bruto (PIB), para los perodos: 2010-2020; 2020-2025, considerando que el crecimiento del sector procesos industriales est directamente relacionado con esta variable.
+
+Las emisiones de GEI han sido cuantificadas utilizando factores de emisin del IPCC, usando la metodologa 1996. Esta informacin se la obtuvo del Inventario Nacional de GEI presentado dentro del Primer Informe Bienal de Actualizacin. Para el diseo del escenario tendencial se us el modelo GACMO, usando como variable de apoyo la tasa de crecimiento poblacional anual compuesta.
+
+En relacin a la estimacin cuantitativa de la mitigacin de las iniciativas incondicionales y condicionales del sector Residuos se usaron datos reales (histricos) para el primer caso (Captura activa de metano y generacin elctrica del relleno sanitario de El Inga - Quito), y para el segundo (Captura activa de metano y generacin elctrica del relleno sanitario de Pichacay - Cuenca): datos definidos en estudios tcnicos referenciales.
+
+Cabe mencionar que dentro del proceso de formulacin se registraron algunas iniciativas de carcter no cuantificable en trminos de mitigacin de GEI.
+
+El sector USCUSS cuenta con caractersticas nicas, por lo cual se opt por tratar el sector de manera distinta al resto de sectores reportados en el INGEI. Existen dos mtodos principales para realizar la contabilidad en este sector:
+
+1. Enfoque basado en las tierras: evala las emisiones de categoras de uso de tierra especficas (tierras forestales, agrcolas, pastizales, humedales, asentamientos, otras).
+
+2. Enfoque basado en la actividad: donde se evalan las emisiones de las actividades de uso de tierras especficas (deforestacin, degradacin, aumento de reservas de carbono, entre otros).
+
+El enfoque adoptado en este anlisis es el basado en la actividad, dado que es consistente con los avances que el pas est realizando en la implementacin de REDD+. Adems, este mtodo de contabilidad resulta conveniente porque permite al pas adoptar un enfoque progresivo para incluir actividades adicionales de uso de tierras basadas en la disponibilidad de datos y de capacidad.
+
+En relacin a la metodologa de clculo para los escenarios de emisiones, se ha utilizado la metodologa del INGEI del sector USCUSS. Esta metodologa se basa en la orientacin del IPCC sobre las buenas prcticas para el uso de la tierra, cambio de uso de la tierra y silvicultura, publicada en el ao 2003.
+
+Los datos de actividad provienen de la serie temporal histrica de mapas de cobertura y uso de la tierra, elaborados por el MAE para los aos 2000 y 2008.
+
+Los datos sobre las reservas forestales de carbono para los nueve tipos de bosques naturales fueron generados por el pas a partir de los resultados del Inventario Nacional Forestal del Ecuador. La informacin incluye los siguientes depsitos de carbono: biomasa area, biomasa subterrnea, madera muerta y hojarasca (MAE, 2015)4.
+
+Las emisiones de GEI se calcularon multiplicando el dato de actividad (deforestacin bruta de cada estrato de bosque nativo) por su respectivo factor de emisin (reservas de carbono). Se considera adems, que la biomasa inmediatamente despus de la deforestacin es cero, de acuerdo a lo planteado en el nivel metodolgico 1 de la Orientacin sobre las buenas prcticas para uso de la tierra, cambio de uso de la tierra y silvicultura del IPCC 2003.
+
+4 MAE. (2015). Ecuadors Forest Reference Emission Level for Deforestation. Quito.
+
+Las otras actividades de REDD+ relacionadas con emisiones y remociones (degradacin, aumento de reservas de carbono, conservacin y manejo forestal sostenible) se incorporarn de forma gradual en la medida en que se cuente con financiamiento internacional y se den las circunstancias nacionales adecuadas. 4. Componente de adaptacin  Primera Comunicacin de Adaptacin del Ecuador Una sntesis que brinda el contexto sobre el avance de las acciones frente a la problemtica del cambio climtico en Ecuador, especficamente en lo relativo a la adaptacin al cambio climtico, se muestra a travs de los siguientes aspectos clave, detectados durante la preparacin de la Tercera Comunicacin Nacional sobre Cambio Climtico de Ecuador (2017) y en las fases de formulacin de la NDC de Ecuador y del Plan Nacional de Adaptacin (PNA), entre 2017 y 2018:
+
+Experiencia institucionalizada en el anlisis de la gestin del riesgo (climtico y no climtico) a nivel local y nacional, desde una perspectiva prospectiva y reactiva a eventos naturales extremos, incluyendo disponibilidad de polticas pblicas, metodologas y mecanismos para la gestin planificada del riesgo.  Informacin cuantitativa y cualitativa actualizada, a 2015, sobre evidencias del cambio climtico, y sobre los impactos y acciones de adaptacin implementadas para afrontar los efectos del cambio climtico.
+
+Lecciones aprendidas de modelos de gestin utilizados en proyectos de adaptacin al cambio climtico co-ejecutados con comunidades, gobiernos locales y entidades sectoriales.
+
+Procesos piloto desarrollados para la incorporacin del cambio climtico en los planes de desarrollo de gobiernos locales desde 2014.
+
+Coordinacin mantenida con la institucin rectora de la planificacin y desarrollo del pas, para la implementacin de mecanismos articuladores que faciliten la incorporacin de consideraciones climticas en los instrumentos de la planificacin local y/o sub-nacional (en proceso).
+
+Proyecciones de cambio climtico adaptadas a las condiciones de clima, relieve y dems caractersticas del pas, generadas tomando como referencia la metodologa e informacin del IPCC en marco al Quinto Reporte de Evaluacin.  Identificacin de mecanismos (tcnicos, administrativos y polticos) que permiten la generacin, manejo, tratamiento y difusin de datos meteorolgicos, hidrolgicos y climticos, como poltica estatal.
+
+Existencia de proyectos de adaptacin al cambio climtico financiados con recursos fiscales, fondos de la cooperacin internacional, banca multilateral, recursos de la cooperacin bilateral y financiamiento mixto (fondos nacionales e internacionales), a travs de mecanismos innovadores, para reducir la vulnerabilidad de los medios de vida, la poblacin y ecosistemas.  Evolucin de la poltica pblica, marco jurdico e instrumentos de planificacin para la gestin adecuada de la adaptacin al cambio climtico.
+
+Institucionalizacin de la gestin del cambio climtico a travs del Comit Interinstitucional de Cambio Climtico, Estrategia Nacional de Cambio Climtico, y Libro IV sobre Cambio Climtico del Cdigo Orgnico Ambiental.
+
+Actores privados, pblicos y comunitarios con inters en fortalecer sus capacidades y replicar sus experiencias exitosas en iniciativas vinculadas con la gestin de la adaptacin al cambio climtico.
+
+Experiencias pioneras realizadas en desarrollo de metodologas para la identificacin y estimacin de co-beneficios de mitigacin vinculados con acciones de adaptacin.
+
+Ecuador es muy sensible a factores externos de ndole diversa, como mencionado en la seccin 1 de este documento. Adicionalmente, el cambio climtico y la intensificacin de fenmenos de la variabilidad climtica natural, como El Nio-Oscilacin del Sur (ENOS), irrefutablemente inciden sobre el desarrollo del pas, pues su ubicacin geogrfica, accidentada orografa y caractersticas atmosfricas imperantes en esa zona de Amrica del Sur, favorecen el acaecimiento de tales amenazas climticas, cada vez con mayor frecuencia, ocasionando impactos severos sobre su economa. Sin duda, el cambio climtico constituye uno de los mayores desafos que enfrenta Ecuador.
+
+Los datos que se incluyen a continuacin muestran el comportamiento histrico de la precipitacin y la temperatura media para el perodo de referencia 1960  20105: En la regin costa de Ecuador, se evidencia un incremento del 33% de la lluvia y un aumento de 0.6C de la temperatura media. En la sierra se evidencia un aumento del 13% de la precipitacin y un aumento de 1.1C de la temperatura media. En la Amazona, se observa una reduccin de la precipitacin de 1% y un incremento en la temperatura media de 0.9C. Para la regin insular (estacin de San Cristbal) se evidencia un aumento del 66% en la precipitacin y un aumento de 1.4C de la temperatura media.
+
+Eventos extremos pasados, relacionados a las precipitaciones, son representados en Ecuador por el rea inundable que implican, y tienen el potencial de alcanzar un total de 40.860 km2, es decir el 15,9% de la superficie nacional, en la cual se asentaba, a 2010, una poblacin de 7,17 millones de habitantes, que equivala al 49,5% de la poblacin total del pas. Por otra parte, sequas intensas han llegado a afectar el rea agrcola en 2,03 millones de ha, que constituyen el 66,7% del rea agrcola total del pas. El rea de pastos cultivados, afectada por la sequa, alcanz los 2,10 millones de ha, es decir el 53,7% de la superficie total de pastos (datos del Plan Nacional de la Gestin Integrada e Integral de los Recursos Hdricos de las cuencas y microcuencas hidrogrficas del Ecuador, 2016).
+
+Durante el primer trimestre de 2019, se han registrado precipitaciones que superan ampliamente las medias histricas, constituyendo por tanto anomalas significativas, lo que ha motivado que se declare en alerta naranja por inundaciones a las provincias de Guayas, El Oro, Santo Domingo de los Tschilas y Esmeraldas.
+
+Para el futuro, las proyecciones climticas disponibles para el territorio nacional6, muestran que, de mantenerse las actuales tendencias, el incremento de la temperatura media variar, hasta el ao 2040, en al menos 0,5 C a 1 C, con respecto a la 5 Informacin del INAMHI, tomada de la Tercera Comunicacin Nacional sobre Cambio Climtico de Ecuador (MAE, 2017). 6 Datos generados a partir de informacin de la Tercera Comunicacin Nacional sobre Cambio Climtico de Ecuador  Escenario RCP 4.5, perodo 2011 - 2040.
+
+2C en casi todo el territorio continental ecuatoriano y, aumentos an mayores, en las islas Galpagos. Las alteraciones de los regmenes espaciales y temporales de las lluvias igualmente agravarn las condiciones de dficit y supervit hdrico, a nivel nacional. Algunos de los impactos, riesgos y vulnerabilidades ms representativos, se muestran a continuacin desde una perspectiva sectorial (referida a los seis sectores prioritarios para la adaptacin, establecidos por la Estrategia Nacional de Cambio Climtico):
+
+Patrimonio Natural La biodiversidad y las funciones ecosistmicas (servicios provistos por los ecosistemas), son altamente sensibles al ecuatoriana, as como la regin insular con las Islas Galpagos son altamente frgiles y en consecuencia altamente vulnerables a los impactos esperados del cambio climtico, en el corto, comportamiento adquirido a travs del proceso evolutivo de biomas andinos mostrarn desplazamiento vertical ascendente, siendo el pramo el bioma que sufra la mayor prdida de su rea actual de distribucin. Los resultados reportados para el grupo de especies de plantas y aves presentan un patrn similar. Patrimonio Hdrico7 El Ecuador, a pesar de ser un pas con abundante agua, factores como el acaparamiento, redistribucin y la actualizacin (bajo escenarios de cambio climtico) de las autorizaciones de uso y potenciales conflictos y competencia por parte de los usuarios.
+
+Por otro lado, el exceso de agua podra causar inundaciones y deslizamientos.
+
+Ntese que el 88% de la poblacin ecuatoriana se aloja en la cuenca del Pacfico, pero en esta zona la disponibilidad del agua es limitada y solo el 31% de los recursos hdricos se encuentran all. De igual manera, a nivel nacional el 80% de la poblacin soberana alimentaria c) Caudal ecolgico; y, d) Actividades productivas.
+
+Se prev que impactos relacionados al exceso de precipitacin extrema se podran manifestar en la regin costera y andina, principalmente en la zona centro y sur, mientras que aquellos acentuaran en la zona central de la Costa y en las zonas central y sur de la Sierra.
+
+Otro impacto asociado a los recursos hdricos, es el retroceso de glaciares, los cuales han perdido ms del 50% de su superficie en los ltimos 50 aos, causando repercusiones significativas a los usuarios del agua, en comunidades andinas, especialmente relacionadas a riesgos de deslizamientos.
+
+Costa, e incrementando inundaciones en las Costa hacia la zona sur de los Andes.
+
+Las poblaciones que viven en la Costa y Amazona ecuatoriana son especialmente vulnerables a este tipo de cambios en el clima, as tambin las reas localizadas en la zona pie de monte en los Andes ecuatorianos, que atraviesan de norte a sur el pas.
+
+Coca, y Pastaza, son altamente vulnerables debido al incremento de la frecuencia e intensidad de las amenazas climticas y trayendo mayor cantidad de sedimentos hacia reservorios). Situacin similar se prev en los Sub-sectores: agricultura, agro- industrial y servicios.
+
+Costa, presentan este tipo de asentamientos irregulares y en condiciones de riesgo. Ecuador tiene un anlisis de viviendas precarias, con carencias de servicios bsicos, con posesin irregular de la propiedad (ausencia de ttulos y/o escrituras) y, SENAGUA (2019).
+
+No obstante a lo sealado en el numeral 4.1, considerando las condiciones sociales y econmicas predominantes en el pas, y teniendo en cuenta que en Ecuador an est muy poco desarrollada la capacidad de adaptacin de los sistemas humanos y naturales asentados en el territorio nacional, es posible colegir que, en general, el pas mantiene siendo por tanto fundamental abordar esta problemtica desde una perspectiva que incremente la capacidad adaptativa como va primaria para el incremento de la resiliencia y la reduccin de la vulnerabilidad de dichos sistemas. 4.3 Prioridades nacionales de adaptacin, estrategias, polticas, planes, objetivos y Los sectores prioritarios para la adaptacin al cambio climtico, establecidos por la Estrategia Nacional de Cambio Climtico (2012), son:
+
+La gestin de riesgos y la prioridad para los grupos de atencin prioritaria son enfoques prioritarios transversales a los seis sectores.
+
+Desde la perspectiva de adaptacin, el objetivo especfico que se persigue con la NDC de Ecuador es contribuir, a escala nacional, sub nacional y local, con los esfuerzos globales de incrementar la capacidad de adaptacin, promover la resiliencia al clima y reducir el riesgo ante los efectos del cambio climtico, en un contexto de equidad, desarrollo sostenible y erradicacin de la pobreza, respetando el principio de responsabilidades comunes pero diferenciadas, y en concordancia con las capacidades del pas.
+
+La Contribucin Nacionalmente Determinada ser progresiva y se implementar mediante un enfoque participativo y transparente, basado en la realidad nacional y tomando en cuenta aspectos como:
+
+La necesidad de reducir las brechas de gnero;
+
+La incidencia de la adaptacin sobre grupos de atencin prioritaria;
+
+La necesidad de informacin cientfica con suficiente rigor; y,  La consideracin de conocimientos tradicionales / ancestrales de actores locales.
+
+Se prev que la contribucin se integre paulatinamente en la planificacin del desarrollo de Ecuador a escala intersectorial y local, plasmndose en medidas, alineadas con o insertas en polticas, estrategias, planes, programas, proyectos, procesos e iniciativas de ndole social, econmica, ambiental u otra naturaleza, que se desarrollen en el pas. El Plan Nacional de Adaptacin8 constituir herramienta que facilite la implementacin de las medidas (contribuciones) de adaptacin y contribuir en la generacin de instrumentos tiles para la gestin de adaptacin al cambio climtico en Ecuador.
+
+Los objetivos del Plan Nacional de Adaptacin son:
+
+La construccin del Plan Nacional de Adaptacin busca construir las condiciones habilitantes para la integracin del riesgo climtico en la planificacin al desarrollo a travs de:
+
+Adaptacin estarn disponibles en 2022.
+
+(estndares, guas tcnicas, entre otros), regulaciones (a nivel nacional y local), mtodos estandarizados y herramientas para facilitar el manejo del riesgo climtico, utilizando la perspectiva de gnero;
+
+Plan Nacional de Adaptacin, y para las acciones de adaptacin implementadas por actores estratgicos, incorporando el enfoque de gnero.
+
+Como resultado de los acuerdos y compromisos asumidos durante el proceso de formulacin de la NDC de Ecuador (2019), los ministerios sectoriales directamente vinculados con la gestin de la adaptacin al cambio climtico, son:
+
+Estratgicos:
+
+Electricidad.
+
+Transporte.
+
+PETROAMAZONAS EP, Instituto Nacional de Investigacin en Salud Pblica, Fondos de Agua e Instituciones de Educacin Superior.
+
+Mejoramiento de instrumentos de poltica pblica de patrimonio natural que incorporan la adaptacin al cambio climtico.
+
+Incremento de la superficie de bosques, cobertura de vegetacin natural remanente y ecosistemas marinos y costeros conservados o con manejo sostenible, para mantener su funcionalidad ecosistmica en escenarios de cambio climtico.
+
+Implementacin de prcticas sostenibles de uso de los recursos naturales en zonas de influencia de reas bajo diferentes estatus de conservacin, vulnerables a los efectos del cambio climtico.
+
+Establecimiento de corredores de conservacin y restauracin de bosques secundarios y zonas de amortiguamiento para mantener la conectividad del paisaje, reducir impactos (actuales y esperados) del cambio climtico e incrementar la resiliencia ecosistmica.
+
+Creacin y fortalecimiento de capacidades sobre cambio climtico y gestin del patrimonio natural en actores sociales, acadmicos, investigadores y Fortalecimiento del Sistema Nacional Estratgico del Agua como mecanismo de coordinacin e interaccin sectorial para incrementar la capacidad adaptativa del Implementacin de un sistema nacional de informacin para el sector hdrico como herramienta de apoyo a la gestin, monitoreo y evaluacin de los efectos del cambio climtico.
+
+Formulacin e implementacin de una estrategia nacional de cultura del agua, que incluya prcticas y saberes de los pueblos ancestrales, como mecanismo que contribuya a la sensibilizacin local de los efectos del cambio climtico. ** Generacin e implementacin de mecanismos para la valoracin econmica y social de los impactos del cambio climtico en el sector hdrico. ** Incorporacin de criterios de cambio climtico en estrategias y planes nacionales y Inclusin de variables de cambio climtico en las viabilidades tcnicas y en la Gestin de la oferta y demanda hdrica nacional integrando variables de cambio Implementacin de programas de comunicacin, divulgacin y fortalecimiento de capacidades que permitan la sensibilizacin de actores del sector hdrico y usuarios del agua, sobre los efectos del cambio climtico.
+
+Generacin y establecimiento de mecanismos de conservacin de fuentes hdricas e implementacin de sus planes de manejo para asegurar, a futuro, agua en cantidad y calidad.
+
+Diseo e implementacin de acciones que contribuyan a aumentar la capacidad adaptativa de la infraestructura hidrulica (existente y nueva) de uso mltiple. ** Emisin de polticas pblicas, basadas en la mejor informacin disponible, que permitan enfrentar impactos del cambio climtico sobre la salud.
+
+Generacin de conocimiento y estudios cientficos sobre los efectos del cambio climtico en la salud y las interacciones entre los cambios del clima y la dinmica de Fortalecimiento de capacidades institucionales, gobiernos locales y ciudadanas en la implementacin de respuestas ante los impactos del cambio climtico sobre la salud. Emisin de polticas pblicas, basadas en la mejor informacin disponible, que permitan enfrentar impactos del cambio climtico sobre la salud.
+
+Desarrollo de un Registro nico de Afectados y Damnificados de impactos del cambio climtico e implementacin de un programa de simulaciones y simulacros, vinculados a amenazas climticas sobre la salud, que faciliten la atencin y respuesta efectiva de la poblacin.
+
+Generacin de anlisis de vulnerabilidad y riesgo climticos a nivel nacional que permitan la implementacin de un sistema de alerta temprana para enfrentar los impactos del cambio climtico.
+
+Estrategias para la implementacin de un sistema integrado de vigilancia y monitoreo de la salud ambiental y riesgos epidemiolgicos sobre la salud en un contexto de cambio climtico.
+
+Desarrollo e implementacin de la poltica pblica de hbitat, ordenamiento territorial, planificacin territorial y gestin de suelo, con criterios de adaptacin frente a riesgos climticos.
+
+Desarrollo de polticas y estrategias frente a la migracin temporal o permanente de la poblacin por condiciones vinculadas al cambio climtico. ** Reduccin del riesgo climtico de la poblacin mediante la validacin de suelo seguro, promocin y dotacin de vivienda digna, accesible y asequible en zonas con baja exposicin a amenazas climticas.
+
+Desarrollo de instrumentos locales de poltica pblica para la accin climtica, que prioricen medidas de adaptacin frente a los efectos del cambio climtico. Diseo y dotacin de sistemas pblicos de soporte resilientes frente a la ocurrencia de Fortalecimiento de capacidades para la gobernanza multiactor y multinivel para la gestin del riesgo climtico en los asentamientos humanos a nivel nacional y local, fomentando la participacin de la sociedad civil.
+
+Generacin de lneas de investigacin para la evaluacin de la vulnerabilidad de los asentamientos humanos frente a efectos adversos de cambio climtico.
+
+Inclusin de la variable climtica en polticas pblicas e instrumentos de gestin de riesgos y de la planificacin sectorial (Sectores de Hidrocarburos, Minera, Integracin de las proyecciones climticas en el desarrollo de nuevos estudios de infraestructura vial.
+
+Reduccin del Riesgo Climtico en las cadenas de valor de la industria petrolera y minera, y en la infraestructura elctrica de generacin, trasmisin, distribucin y comercializacin, mediante el desarrollo de estudios de Vulnerabilidad y Riesgo Climtico especficos del sector, que permitan identificar, proponer e implementar medidas de adaptacin ante los efectos de la variabilidad climtica y el cambio Generacin de estudios de vulnerabilidad y riesgo climtico para la infraestructura vial, que permitan identificar, proponer e implementar medidas de adaptacin ante los efectos de la variabilidad climtica y el cambio climtico en las fases de diseo, construccin, operacin y mantenimiento de proyectos de infraestructura vial. ** Soberana alimentaria, agricultura, ganadera, acuacultura y pesca Soberana alimentaria, agricultura, ganadera, acuacultura y pesca Diseo e implementacin de poltica pblica para fortalecer la resiliencia climtica de los sistemas agroalimentarios.
+
+Promocin de gobernanza responsable sobre el uso y manejo del suelo que asegure produccin agropecuaria sostenible y resiliente a los efectos del cambio climtico.
+
+Emisin de regulaciones y normativa tcnica para la integracin de la adaptacin al cambio climtico en la planificacin del desarrollo a escala sectorial (sectores agrcola y pecuario) y local (a nivel de los gobiernos autnomos descentralizados).
+
+Promocin de iniciativas orientadas al consumo responsable de produccin agropecuaria resiliente a los efectos del cambio climtico.
+
+Desarrollo, promocin e implementacin de modelos y tecnologas de produccin agropecuaria sostenible y resiliente a los efectos del cambio climtico. Fortalecimiento de capacidades locales del sector agropecuario (incluido el uso sostenible del suelo), a travs de metodologas de aprendizaje participativo con enfoque de sostenibilidad ambiental y resiliencia ante amenazas climticas. Fortalecimiento de capacidades e investigacin cientfica para la generacin de informacin relacionada con produccin agropecuaria resiliente a los efectos del cambio climtico.
+
+Generacin de informacin para fortalecer la gestin de riesgos agroclimticos, que permita establecer estrategias de alerta temprana ante eventos climticos extremos. ** Promocin de mecanismos, instrumentos y herramientas financieras que permitan gestionar recursos para la implementacin de acciones de adaptacin frente a los impactos del cambio climtico.
+
+Actualizacin y fortalecimiento de los programas de generacin, procesamiento, control de calidad, difusin y libre acceso de los datos meteorolgicos e hidrolgicos, como soporte a los procesos de adaptacin a los efectos negativos del cambio climtico.
+
+Incremento de capacidades del sistema financiero nacional para el manejo de recursos provenientes de la cooperacin internacional, destinados a la gestin del cambio climtico.
+
+4.4 Necesidades de apoyo e implementacin.
+
+Conforme el cuadro de medidas de adaptacin priorizadas, se ha previsto recursos financieros, asistencia tcnica y tecnologa bajo el escenario incondicionado que permita implementar acciones efectivas orientadas a reducir el riesgo al cambio climtico e incrementar la resiliencia de sistemas naturales y humanos vinculados a los sectores prioritarios de la adaptacin al cambio climtico en Ecuador.
+
+Sin embargo, la implementacin de las citadas medidas, bajo el escenario condicionado, slo ser posible si se cuenta con los medios de implementacin relativos al financiamiento, fortalecimiento de capacidades y transferencia de tecnologa que provengan de los pases desarrollados.
+
+Una valoracin de necesidades de apoyo e implementacin ser realizada conforme los lineamientos y metodologas que para ello se dispongan establecidos en el marco de implementacin del Acuerdo de Pars y en la Convencin Marco de Naciones Unidas sobre Cambio Climtico, que permitan cuantificar las necesidades de apoyo e implementacin para la adaptacin al cambio climtico.
+
+Como conclusin del proceso para el componente de adaptacin de la NDC se evidencia que las capacidades actuales no son suficientes para implementar las medidas estipuladas de manera integral, frente a ello se ver limitada la implementacin y cumplimiento de la NDC, afectando la capacidad nacional para cumplir el objetivo enmarcado en el Artculo 2 literal b del Acuerdo de Pars.
+
+4.5.1 Esfuerzos de adaptacin de pases en desarrollo para su reconocimiento Un hito trascendental en la gestin de adaptacin al cambio climtico en Ecuador es la incorporacin explcita de la temtica en el Cdigo Orgnico Ambiental (2017), que permite disponer de un marco normativo amplio, moderno y eficaz para integrar la adaptacin en la planificacin del desarrollo sectorial y local del pas, e impulsar el desarrollo de acciones efectivas por parte de los distintos actores, pblicos y privados, orientadas al incremento de la resiliencia y la disminucin de la vulnerabilidad de los sistemas humanos y naturales del pas.
+
+Un resumen que indica y describe de manera general los principales artculos de dicho cdigo se incluye a continuacin.
+
+Captulo I:
+
+Capitulo II.
+
+Autoridad Ambiental Nacional.
+
+Captulo I.
+
+Autoridad Ambiental Nacional.
+
+Criterios para el desarrollo de la adaptacin:
+
+Capitulo II.
+
+b. Avances en la integracin de la adaptacin en la planificacin del desarrollo local (el caso de los Planes de Desarrollo y Ordenamiento Territorial).
+
+La integracin de la dimensin climtica, incluidos los temas de adaptacin, represent desde 2014 prioridad para el ente rector de la gestin del cambio climtico. En ese sentido, en tal ao se emprendi un proceso piloto a escala nacional que provey de instrumentos tcnicos a los Gobiernos Autnomos Descentralizados del pas para incorporar la variable del cambio climtico en sus Planes de Desarrollo y Ordenamiento Territorial (PDOT) y para la preparacin de Planes de Cambio Climtico.
+
+Desde entonces, ms de 60 gobiernos locales, de los diferentes niveles (provincial, cantonal y parroquial) emprendieron en tal esfuerzo y disponen a la fecha de instrumentos de planificacin tiles para los propsitos de la adaptacin a escala sub- nacional. Esta iniciativa tuvo carcter voluntario.
+
+Posteriormente, a partir de 2018, la iniciativa se incorpora al proceso que lleva adelante la Secretara Nacional de Planificacin y Desarrollo (SENPLADES), en su calidad de ente rector del ordenamiento territorial, para la actualizacin de Guas para Planes de Desarrollo y Ordenamiento Territorial para los Gobiernos Autnomos Descentralizados provinciales, cantonales y parroquiales, y la generacin de una Caja de Herramientas, constituida por un conjunto de insumos que permitan que los GAD aplique las mencionadas Guas en el proceso de planificacin territorial. A marzo de 2019 este proceso se halla en curso.
+
+4.5.2 Barreras, desafos y vacos relacionados a la implementacin de adaptacin Las principales barreras, desafos y vacos relacionados a la implementacin de la adaptacin al cambio climtico en Ecuador giran en torno a condiciones limitadas para la incorporacin de la adaptacin al cambio climtico en la planificacin al desarrollo a nivel sectorial, territorial y local, y estn compuestas por: i) Falta de polticas y estndares tcnicos que permitan integrar la adaptacin al cambio climtico en la planificacin del desarrollo.
+
+Adicionalmente se han identificado otras barreras, desafos y vacos tales como:
+
+Insuficiente difusin de regulaciones existentes relacionadas a la gestin y desarrollo de la planificacin de la adaptacin al cambio climtico.  Falta de presupuesto para asumir las responsabilidades y funciones inherentes a la gestin de la adaptacin al cambio climtico.
+
+Dbil capacidad tecnolgica (por ejemplo, estaciones hidrolgicas y meteorolgicas, equipamiento, software, y sistemas de medicin, reporte y verificacin para la adaptacin al cambio climtico, entre otros).  Insuficiente calidad y cantidad de informacin (por ejemplo, informacin climtica de base, informacin para anlisis de riesgo climtico, entre otros).
+
+Baja difusin y aplicacin de hallazgos cientficos relativos a los impactos del cambio climtico, sumada a la escasa comunicacin que recibe la sociedad civil sobre esta problemtica.
+
+Desconocimiento de los costos y efectos de no realizar acciones de adaptacin, o de realizar mala adaptacin, y de las repercusiones de ello sobre la economa o las comunidades.
+
+4.6 Informacin de cmo las acciones de adaptacin previstas contribuyen con el cumplimiento de los Objetivos de Desarrollo Sostenible.
+
+El grfico que se muestra a continuacin muestra algunas de las principales interacciones que se vislumbran entre las medidas de adaptacin al cambio climtico, previstas de implementarse en el marco de la NDC de Ecuador, y los Objetivos de Desarrollo Sostenible.
+
+La NDC de Ecuador incluye medidas concretas para enfrentar los impactos causados por el cambio climtico. El enfoque aplicado durante la formulacin del componente de adaptacin de la NDC, permiti alinear las iniciativas y medidas con las metas del Plan Nacional de Desarrollo Toda una Vida y con la Estrategia Nacional de Cambio Climtico. Asimismo, las NDC pretender constituirse en un mecanismo que contribuya al cumplimiento de los 17 Objetivos de Desarrollo Sostenible, establecidos en la Agenda 2030 que, en general, tienen por finalidad erradicar la pobreza, proteger el planeta y asegurar la prosperidad para todos los seres humanos.
+
+A manera de ejemplo, las medidas que conforman la NDC del Sector Patrimonio Hdrico promueven la generacin de informacin de calidad y el fortalecimiento de capacidades institucionales y de capital humano, para contribuir a la conservacin y manejo responsable del recurso hdrico, y asegurar as, la disponibilidad del agua para la poblacin en un contexto de cambio climtico. En este contexto, las medidas de las NDC contribuyen al ODS 4, ODS 6, ODS 12, ODS 13, ODS 15 y ODS 17.
+
+5. Informacin sobre cmo el pas considera que su NDC es justa y ambiciosa, a la El proceso de NDC del Ecuador representa un esfuerzo de una ambicin sin precedente en el pas para el diseo e implementacin de poltica de cambio climtico, en particular frente a sus circunstancias nacionales.
+
+El Ecuador es un pas con necesidades marcadas de desarrollo sostenible y urgencias apremiantes para resolver problemticas sociales que limitan su nivel de vida en comparacin con pases desarrollados. Hasta 2018 la pobreza a nivel nacional se ubic en el 23,2% y la pobreza extrema en 8.4%. La pobreza urbana lleg al 15,3% y la pobreza rural de 40%, con niveles de pobreza extrema en el 17,7%. En ese ao, el coeficiente de Gini a nivel nacional fue de 0,469. La pobreza multidimensional fue de 37,9% a nivel nacional; con 23,9% en el rea urbana y 67,7% en el sector rural. (INEC, En lo que refiere a las tasas relevantes al empleo, en 2018 se registr un 16,5% de subempleo, un 9,9% de empleo no remunerado y un 28,8% de empleo no pleno con un desempleo nacional del 3,7% y de trabajo infantil del 8,56%. (INEC, 2018) De igual forma, las tasas netas de la poblacin que logra obtener un bachillerato se mantienen hasta 2017 a nivel nacional en un 70,8%, a nivel urbano en un 75,65% y a Todas estas circunstancias, entre otras, suman a las limitaciones de la capacidad de la poblacin para acceder a servicios bsicos, a educacin bsica y bachillerato, a reducir tasas de mortalidad infantil y materna y generan a nivel general consecuencias sociales adversas, incluyendo circunstancias de hacinamiento, desnutricin infantil, analfabetismo y pobreza.
+
+Pese a estas condiciones, el Ecuador est comprometido con la lucha contra el cambio climtico, enmarcada en sus esfuerzos de erradicacin de la pobreza, de garantizar la soberana alimentaria e hdrica, el acceso a servicios bsicos y sobre la base de los compromisos internacionales vigentes.
+
+Entre estos compromisos, el Ecuador reitera su voluntad de implementar todas las disposiciones de la Convencin Marco de Naciones Unidas sobre Cambio Climtico y de inventarios nacionales de gases de efecto invernadero, la formulacin, implementacin y actualizacin de programas y medidas para mitigar el cambio climtico, el manejo, conservacin y fortalecimiento de sumideros de carbono, la generacin de esfuerzos para la adaptacin a los efectos adversos del cambio climtico, entre otros. Sin embargo, Ecuador resalta que el cumplimiento de estas acciones y compromisos derivados de los acuerdos internacionales estn vinculados al cumplimiento de compromisos de toda la comunidad internacional, en particular aquellos que se refieren a la provisin de recursos financieros por parte de pases desarrollados en lnea con los artculos 4.3, 4.4, 4.5 y 4.7 de la Convencin y los artculos 9, 10 y 11 del Acuerdo de Pars.
+
+La implementacin conjunta de todos estos compromisos por la comunidad internacional permitir al Ecuador hacer uso de su mximo potencial en la lucha global contra el cambio climtico, aprovechando todas las oportunidades identificadas en esta NDC para reducir y limitar la emisin de gases de efecto invernadero e implementar medidas y acciones para reducir la vulnerabilidad y aumentar la resiliencia de los sistemas a los efectos adversos del cambio climtico.
+
+No obstante, pese a las circunstancias nacionales y a la conjuncin necesaria de los compromisos internacionales, el Ecuador ha mantenido un proceso de proporciones sin precedentes a nivel nacional para el diseo de su primera NDC. Se ha consultado a actores de sectores pblico, privado, acadmico, no gubernamental, de investigacin, entre otros. Se han mantenido dilogos, talleres y reuniones tcnicas para identificar aquellos aspectos que requieren de recursos financieros adicionales para su implementacin pero tambin aquellos que estn dentro de la capacidad nacional para implementarse sin recursos adicionales y como producto, se han definido medidas y metas que sern implementadas con la participacin de entidades sectoriales, empresas privadas, gobiernos subnacionales y una serie de acciones que sern mapeadas en el plan de implementacin de la NDC, esperado para 2020.
+
+Adicionalmente, cabe resaltar que las acciones que han sido identificadas como parte de la NDC tienen una cobertura nacional y se visualiza que su implementacin incluya a actores a todos los niveles del estado. Al mismo tiempo, estas acciones han sido desagregadas por sectores en lnea con la Estrategia Nacional de Cambio Climtico, lo que ha implicado un compromiso por parte de los actores sectoriales a varios niveles, posicionando la temtica de cambio climtico en la agenda de todas instancias. Por estas razones, y por la serie de medidas y lneas de accin identificada, esta primera NDC del Ecuador es sin duda ambiciosa y justa frente a sus circunstancias nacionales como un pas en desarrollo, sus compromisos y responsabilidades internacionales y da un paso robusto hacia una implementacin de medidas de mediano y largo plazo en el pas para la lucha contra el cambio climtico.
+

@@ -1,0 +1,392 @@
+CCNUCC Convention Cadre des Nations Unies sur les Changements Climatiques CNEDD Conseil National de lEnvironnement pour un Dveloppement Durable CR AGHRYMET Centre rgional de formation et d'application en agromtorologie et en FPMA Fonds du Programme dadaptation pour les petits agriculteurs GIEC Groupe dExperts intergouvernemental sur lvolution du climat HCi3N Haut-Commissariat-Initiative  Les Nigriens Nourrissent les Nigriens  MESUDD Ministre de l'Environnement, de la Salubrit Urbaine et du Dveloppement ME/LCD Ministre de l'Environnement et de la Lutte contre la Dsertification NAMA Nationally Appropriate Mitigation Actions (Mesures dAttnuation NDC-Partnership Nationally Determined Contributions (Partenariat pour la Contribution ONG/AD Organisation non gouvernementale/Association de Dveloppement PIC-CDN Plan dInvestissement Climat pour la mise en uvre de la CDN PNEDD Plan National de lEnvironnement pour un Dveloppement Durable PNEDD-2016 Politique Nationale en matire dEnvironnement et de Dveloppement SDDCI Stratgie de Dveloppement Durable et de Croissance Inclusive SNCCC Stratgie Nationale de Communication sur les Changements Climatiques SNPA/CVC Stratgie Nationale et le Plan dAction en matire de Changements et SPN2A Stratgie et Plan National dAdaptation face aux changements climatiques UTCATF Utilisation des Terres, Changements dAffectation des Terres et Foresterie Tableau 2 : Rpartition des missions par secteur selon la Quatrime Communication Nationale Tableau 3 : Mesures et technologies dattnuation inconditionnelles et conditionnelles dans le Figure 1 : Simulation de lvolution des cumuls moyens de prcipitations durant la saison des pluies (JJAS) pour le court et le moyen terme, compars  la priode de rfrence 1981- 2010.
+
+Ces rsultats sont la mdiane des simulations effectues avec 29 modles globaux de lexprience dintercomparaison de modles globaux (CMIP5) pour les scnarios RCP 4.5 et RCP 8.5. Les valeurs reprsentes correspondent au pourcentage de variation par rapport aux Figure 2 : Diffrences de tempratures moyennes de surface au Niger durant la saison des pluies (JJAS), simules sur le court terme et le moyen terme par comparaison avec la priode de rfrence 1981- 2010. Ces rsultats sont la mdiane des simulations effectues avec 29 modles globaux de lexprience dintercomparaison de modles globaux (CMIP5) pour les Graphique 3 : Rduction  inconditionnelle  et  conditionnelle  par rapport  BAU (2025- Graphique 4 : Flux du financement par phase de mise en uvre de la CDN dans le secteur de Graphique 5 : Flux du financement par phase de mise en uvre de la CDN dans le secteur La Contribution Dtermine au niveau National (CDN) du Niger sinscrit dans le cadre de la Convention Cadre des Nations Unies sur les Changements Climatiques (CCNUCC) et de lAccord de Paris sur le climat. Elle saligne aux politiques et stratgies nationales, notamment la SDDCI- Niger 2035, le PDES-2017-2021 ainsi que les programmes/projets de gestion durable des ressources naturelles et de laccs aux services nergtiques modernes pour tous  lhorizon 2030.
+
+Le processus de rvision de la CDN au Niger a dmarr en 2020 et a prvu la soumission de la CDN rvise en 2021. Le Niger en tant que membre du NDC Partnership depuis 2018, bnficie  ce titre dun appui technique et financier pour la rvision de sa CDN  travers lInitiative CAEP et lInitiative du PNUD  UNDP Climate Promise . La rvision du document et sa dclinaison en plans de mise en uvre (de Partenariat et dInvestissement Climat) et le Systme de Suivi Evaluation-SSE, etc. sont coordonnes par le Ministre de lEnvironnement et de la Lutte Contre la Dsertification (ME/LCD) par lentremise du Comit National charg de la rvision et du renforcement de la CDN cr par Arrt n0155/ME/SU/DD/SG du 31 Aot 2020.
+
+Le SSE est compos de deux volets (Attnuation, Adaptation) dont le volet Adaptation est achev et log au sein du ME/LCD. Le volet Attnuation est en cours de finalisation.
+
+La rvision de la CDN a permis de i) faire un tat des lieux de la mise en uvre des engagements de 2015, ii) rehausser les ambitions du Niger en matire dadaptation et dattnuation sur la base de nouvelles estimations des missions pour les secteurs cls (AFAT et Energie) et sur de nouvelles projections climatiques. Lanne de rfrence retenue pour lvaluation des GES est lanne 2014, galement lanne de rfrence pour llaboration de la QCN. Ainsi les missions globales du pays sont de lordre de 28 777,299 GgCO2eq en 2014. Les secteurs AFAT et Energie restent prioritaires pour le Niger avec des niveaux dmissions de GES respectifs de 23 952,674 GgCO2eq soit 88,30% et de 3 833,789 GgCO2eq soit 9,30% des missions totales pour la mme anne de rfrence de la QCN.
+
+Des partenaires (Banque Mondiale, PNUD, FAO, IRENA, Belgique, AFD, FENU et Save The Children) appuient le Niger dans ce processus du CAEP ainsi que lOIM et le BIT. Lapproche mthodologique choisie pour cette rvision sest voulue participative et inclusive avec tous les acteurs (Administration, institutions de recherche et de formation, OSC, secteur priv, PTF). Tous les produits des diffrentes tudes thmatiques livrs dans le cadre de la rvision ont t valids par le Comit National au fur et  mesure de leur laboration.
+
+La rvision de la CDN sest droule en vue de corriger les insuffisantes releves dans la CDN de 2015, comme le manque de cadre institutionnel qui garantit loprationnalisation et le suivi de la mise en uvre des objectifs fixs, le systme de Communication, de partage, dappropriation au niveau national comme dans les rgions, le faible niveau de mobilisation des ressources financires notamment la part inconditionnelle des engagements, le plan de renforcement de capacits des acteurs institutionnels et du renforcement du partenariat avec les PTF. Lenjeu du processus de rvision est de prendre en charge ces insuffisances et de faire de la CDN la base de rfrence pour lensemble des interventions  Climat  du Niger et des acteurs non tatiques, le cadre solide et dynamique de gouvernance qui permet la planification, le suivi et lvaluation des objectifs et qui pose des bases de collaboration troites entre les institutions gouvernementales dune part, et dautre part les autres acteurs (PTF, secteur priv, instituions de recherche, OSC).
+
+Au terme de cet exercice, la CDN rvise ambitionne des rductions inconditionnelles et conditionnelles selon le scnario de rfrence de base BAU pour :
+
+- le secteur AFAT : Rductions Inconditionnelles : 4,50% (BAU 2025) et 12,57% (BAU 2030) et Rductions Conditionnelles : 14,60% (BAU-2025) et 22,75% (BAU 2030) - le secteur Energie : Rduction Inconditionnelles : 11,20% (BAU-2025) et 10,60% (BAU- 2030) et Rductions Conditionnelles : 48% (BAU-2025) et 45% (BAU-2030).
+
+La mise en uvre de la Contribution du Niger est estime, pour la priode 2021-2030,  un cot total de 9,9081 Milliards USD dont pour :
+
+- ladaptation : 6,743 Milliards USD dont 2,40 Milliards USD (36%) en Inconditionnel et 4,343 Milliards USD (64%) en Conditionnel ;
+
+- lattnuation : 3,1647 Milliards dont 0,2127 Milliards USD (6,72%) en Inconditionnel et Le cot total Inconditionnel et Conditionnel de la CDN slve respectivement  2,6127 Milliards USD (26,4%) et  7,2954 Milliards USD (73,60%).
+
+Loprationnalisation de la nouvelle CDN requiert dimportants moyens financiers, technologiques et logistiques ainsi que des renforcements de capacits humaines  condition de mobiliser les appuis de la communaut internationale et de la Finance Climatique afin de permettre  latteinte des objectifs de dveloppement conomique et social, de la CDN et de lAccord de Paris.
+
+La mise  jour de la CDN sur la priode 2021-2030, prsente la feuille de route du Niger contribuant  latteinte de lobjectif fix par lAccord de Paris sur le Climat notamment le maintien de la hausse de temprature en dessous de 2oC voire 1,5 oC  lhorizon 2050.
+
+Les quatre Communications Nationales produites par le Niger (CNI-1990, SCN-2000, TCN-2008, QCN-2014), et les documents de PANA et de NAMA font tat des dispositions prises en matire des missions de GES et dadaptation au changement climatique.
+
+Dans le cadre de la mise en uvre de lAccord de Paris, le Niger se fixe comme objectif de contribuer  la rduction des missions globales des Gaz  Effet de Serre (objectif 2C voire 1,5oC  lhorizon 2050) tout en poursuivant son dveloppement socioconomique sobre en carbone et rsilient aux effets nfastes de changements climatiques. Aussi, la CDN sera mise en uvre pour contribuer aux objectifs nationaux de dveloppement suivants :
+
+- Lutter contre la pauvret ;
+
+- Assurer la scurit alimentaire et nutritionnelle des nigriens et des nigriennes ; - Promouvoir la gestion durable des ressources naturelles et lutilisation massive des Energies Renouvelables ;
+
+- Renforcer la rsilience des cosystmes et des communauts.
+
+La CDN se veut un outil stratgique et dengagement du Niger pour la mise en uvre de lAccord de Paris par des actions cibles dans les secteurs prioritaires (AFAT, Energie). Cette priorit est confirme par les inventaires nationaux de GES effectus  loccasion des Communications Nationales. Aussi, toutes les tudes ont confirm une forte exposition du Niger et de sa vulnrabilit au changement climatique. Malgr cette situation, le Niger entend contribuer  leffort mondial  travers sa CDN actualise par des mesures accrues dattnuation et dadaptation  co- bnfices forts en matire de squestration de carbone et de rduction des missions de GES.
+
+La prsente CDN saligne aux politiques et stratgies nationales (SDDCI-2035, PDES, 2017- 2021, i3N, CS-GDT,2014-2029, SPN2A, SNPA-CVC, SNAE, SNT) en vue damorcer une transition vers une conomie sobre en carbone et plus rsiliente aux impacts du drglement climatique. Cela est possible grce aux contributions financires adquates des Partenaires Techniques et Financiers mobiliss  travers les mcanismes financiers ddis au climat et en faveur des PMA et des pays en dveloppement.
+
+Depuis 2019,  linstar des autres pays parties prenantes  la Convention Cadre des Nations Unies sur les Changements Climatiques, le Niger rvise et renforce sa CDN  travers linitiative Climate Actions Enhancement Package(CAEP) du Partenariat des CDN. Cette rvision est sous le leadership du ministre en charge de lenvironnement. Ce dernier est assist dans cette tche par les points focaux des secteurs AFAT et Energie, les institutions de recherche et de formation et les Organisations de la socit civile fdrs par le comit national de la rvision et du renforcement de la CDN.
+
+La rvision de la CDN ambitionne de capitaliser les acquis de la mise en uvre de la premire CDN et de combler les insuffisances grce  lappui multiforme des partenaires membres de NDC Partnership qui financent actuellement des tudes relatives  la gouvernance et  la mise en uvre oprationnelle de la CDN. Les livrables dcoulant de ces tudes ont t valids par deux (2) instances  savoir le sous-comit technique et le Comit National charg de la rvision et du renforcement de la CDN. Les documents valids ont servi de base  la formulation de la CDN rvise qui sera soumise  la CCNUCC par le Gouvernement du Niger en prlude  la COP26 sur le Climat en novembre 2021  Glasgow en Ecosse.
+
+La stratgie du Niger en la matire repose sur la prise en compte dans les politiques et stratgies de la dimension Climat et des priorits nationales de dveloppement telles que la lutte contre la pauvret, linscurit alimentaire et nutritionnelle, lintensification de la pntration des nergies nouvelles et renouvelables, et lefficacit nergtique.
+
+En outre, le Niger a pris loption de prendre en compte dans ses politiques, stratgies et CDN, la dimension migration, le genre et linclusion sociale et les Initiatives Africaines en lien avec le Climat y compris celle relative  la Scurit, Stabilit et Soutenabilit (3S).
+
+Aussi, le secteur priv au Niger sengage  consentir des investissements pour latteinte des objectifs de la CDN et de lAccord de Paris  travers loprationnalisation effective de la Responsabilit Socitale des Entreprises (RSE) et dans la Vision de la SDDCI-Niger, 2035. Pour ce faire, le secteur priv opte pour le renforcement de capacits de ses membres en matire de CC et de la finance climatique, la promotion et la vulgarisation des technologies innovantes au service de l'action climatique et travailler pour la mobilisation et laccs aux financements climatiques.
+
+Enfin, la CDN saligne sur loption commune africaine de ngociations sur le Climat et de financements des programmes transnationaux structurants de rsilience des populations et des cosystmes (Commission Climat pour la Rgion du Sahel -17 pays membres).
+
+Population : 23,3 Millions (80% rural, 20% urbain), (INS, 2019).
+
+Taux de croissance dmographique : 3,9% (RGPH/2011).
+
+PIB faible, de 12,9 Milliards USD en 2018, soit 553,65 USD/hab, Croissance conomique : +7,2%, (Banque Mondiale, 2018). Le secteur agricole apporte 80% des revenus  la population. Le secteur de lagriculture est trs dpendant des alas climatiques au Niger. Le cheptel est estim  52 693 034 de ttes toutes espces confondues soit 20 876 240 UBT, (DS/MAGEL2020).
+
+Lagriculture est le principal secteur dactivit (69% dhommes et 31% de femmes) 36% des femmes possdent au moins une parcelle de terres (contre 55% pour les hommes) (ONU-Femmes, 2017).
+
+Les CC vont entrainer une modification de laire des cultures pluviales, une baisse de 9  15% des rendements en grains du mil non photopriodique, photopriodique, une augmentation de 17%  18% des rendements en grains du mas (Lona et al., 2019 in SPN2A, 2020).
+
+Pertes et dommages :
+
+Pertes moyennes dues  la scheresse : plus de 70 Millions USD (World Bank. Climate risk assessment, Niger, 2012).
+
+Dommages dus aux inondations sur la priode 1990-2020 valus  3 115 290 personnes et 7 100 localits touches avec plus de 225 000 maisons dtruites et des pertes d'environ 205 000 hectares de cultures et 46 540 UBT (SAP, 2021).
+
+Objectif global Le Niger se fixe comme objectif de contribuer  la rduction des missions globales des Gaz  Effet de Serre (objectif 2C voire 1,5 o C  lhorizon 2050) tout en poursuivant son dveloppement socioconomique sobre en carbone et rsilient aux effets nfastes de changements climatiques.
+
+Objectifs nationaux :
+
+- Lutter contre la pauvret ;
+
+- Assurer la scurit alimentaire et nutritionnelle des nigriens et des nigriennes ;
+
+- Promouvoir la gestion durable des ressources naturelles et lutilisation massive des Energies Renouvelables ;
+
+- Renforcer la rsilience des cosystmes et des communauts.
+
+28 777,299 GgCO2eq (QCN-2014) dont le Secteur AFAT avec 23 952,674 GgCO2eq (88,30%), Energie avec 3 833,789 GgCO2eq (9,30%), Dchets avec 945,758 GgCO2eq (2,29%) et Procds Industriels et Utilisation des Produits (PIUP) avec 45,078 GgCO2eq (0,11%).
+
+Couverture et tendue de de la contribution :
+
+- 100% du territoire couvert par la CDN.
+
+- Gaz couverts : CO2, CH4, N2O. (88,7% des gaz mis).
+
+- Secteur AFAT : 88,30% des missions totales de GES ;
+
+- Secteur Energie : 9,30% des missions totales de GES.
+
+Contribution : - Contribution base sur une approche mixte Rsultats et Actions, inconditionnel et conditionnel selon le scnario rfrence BAU.
+
+- Approche Rsultats : taux de rduction des missions par rapport  BAU, 2025 et BAU, 2030.
+
+- Approche Actions : actions de la SPN2A 2020-2035 ; du CS-GDT- 2014-2029.
+
+- BAU : 2025 et 2030, construit  partir des missions de la QCN-2014 (28777,299GgCO2eq) en tenant compte galement de lhistorique des GgCO2q. ; 2020 : 66 821GgCO2q. ; 2030 : 96 468GgCO2q.
+
+- Priode de mise en uvre : 2021-2030.
+
+Rduction des missions de GES dici  2030 :
+
+- Rductions Inconditionnelles : 4,50% (BAU 2025) et 12,57% (BAU 2030). - Rductions Conditionnelles : 14,60% (BAU-2025) et 22,75% (BAU 2030) - Rductions Inconditionnelles : 11,20% (BAU-2025) et 10,60% (BAU- 2030) - Rductions Conditionnelles : 48% (BAU-2025) et 45% (BAU-2030).
+
+Mesures dAttnuation des missions de GES  lhorizon 2030 :
+
+AFAT (Agriculture, Foresterie et Autres Utilisations des Terres): - Mise  lchelle des bonnes pratiques et des techniques de GDT/E et de lAIC sur lensemble des zones agrocologiques pour augmenter la rsilience des cosystmes et des mnages, et squestrer le carbone dans les sols et les arbres.
+
+- Amnagement durable des formations forestires pour rduire les missions de GES dues  la dforestation.
+
+Energie :
+
+- Amlioration du taux daccs  llectricit 60% en 2030. - Atteindre 100% le taux dclairage efficace en rseau  lhorizon 2030.
+
+- Eclairage hors rseau  priori efficace,  100 % en 2030. - Atteindre 100% dutilisation de lampes basse consommation  lhorizon 2030.
+
+- Atteindre 100% le taux de lclairage public  lhorizon 2030.
+
+- Rduction de la demande en bois-nergie par habitant par diffusion massive de foyers amliors, avec un taux de pntration de 100% en milieu urbain et de 30% en milieu rural ;
+
+- Promotion du gaz domestique, du biogaz et des biocarburants  lchelle industrielle et familiale ;
+
+- Pntration du gaz butane  60% en zones urbaines,  10% dans les zones rurales en 2030 (PANER).
+
+- Diffusion des plateformes multifonctionnelles.
+
+- Atteindre 100MW pour la capacit hors rseau  lhorizon 2030. - Amlioration de lefficacit nergtique dans les industries, les mnages, les transports et la distribution dlectricit.
+
+Procd de mise en uvre :
+
+- Renforcement des capacits institutionnelles, techniques, financires des acteurs, et transfert de technologies.
+
+- Participation inclusive (secteur priv, ONG, Socit Civile, PTF).
+
+- Vulgarisation, communication, gestion de connaissances.
+
+Hypothses et mthodologie :
+
+- Directives GIEC 2006 pour les inventaires nationaux de GES.
+
+- Secteur Energie : logiciels GACMO, MAED, MESSAGE.
+
+Mesures dAdaptation au changement climatique :
+
+- Rgnration naturelle assiste : 913 932 ha.
+
+- Fixation de dunes vives : 10 053 ha.
+
+- Rhabilitation des forts classes dgrades : 10 000 ha.
+
+- Plantations despces  usages multiples : 750 000 ha.
+
+- Foresterie prive : 75 000 ha.
+
+- Programme  un village un bois  : 12 500 ha.
+
+- Amnagement et scurisation des enclaves pastorales, aires de pturage et aires de repos : 455 848 ha.
+
+- Amnagement et matrialisation de couloirs de passage : 279 702 ha. - Amnagement et scurisation des enclaves pastorales, aires de pturage et aires de repos : 455 848 ha.
+
+- Amlioration des systmes dlevage bass sur lembouche bovine et ovine : 4500 fermes.
+
+- Dveloppement de fermes laitires (stabulation permanente) : 258 fermes. - Amnagement des terres pour les cultures irrigues ou de dcrues :
+
+424 000 ha.
+
+Besoins en financements sur 10 ans, pour la priode 2021- 2030 : Cot total de la CDN sur 10 ans : 9,9077 Milliards USD (990,77 millions USD/an), dont :
+
+Inconditionnel (36%) et 4,343 Milliards USD Conditionnel (64%) (93,28%).
+
+Caractre ambitieux et quitable :
+
+- Le Niger nappartient pas  lAnnexe I de la Convention, donc na pas dobjectifs quantifis en termes de rduction de GES (Attnuation). - Cependant, le Niger contribue  la rduction des impacts du CC  lchelle mondiale, par une double approche Rsultats/Actions. - Emissions de 28 777,299 GgCO2eq en 2014 (anne de rfrence de la QCN) reprsentent 1,61 t/hab. et 0,0001% des missions mondiales de CO2. Malgr ses besoins importants pour dvelopper son conomie et lutter contre la pauvret, le Niger ambitionne de limiter ses missions de GES  lhorizon 2030 par la mise en uvre de la prsente CDN. Le Niger compte sur les mcanismes et leurs ressources tels que le FIC et les autres mcanismes de financement du climat (FVC, FA, FEM, FSC, leurs ressources.
+
+Le Niger est un pays dAfrique de lOuest qui se caractrise par des conditions climatiques particulirement drastiques dues au fait que 2/3 de sa superficie (1 267 000 km) sont localiss en zone saharienne et 1/3 en zone soudanienne et sahlienne. Il est tributaire des alas climatiques avec une pluviomtrie  variabilit interannuelle, spatiale et temporelle importante. Sa population est estime en 2015  17,7 Millions dhabitants, pour un taux de croissance dmographique (3,9%/an) (INS, 2015) et 23,3 Millions habitants en 2019, dont la grande partie tire son revenu de lexploitation des ressources naturelles (MP, 2020a). Ainsi, en 2019 les jeunes reprsentent 51,6 % de moins de 15 ans. Lindice synthtique de fcondit qui traduit le nombre moyen denfants ns vivants par femme (de 15-49 ans) est de 7,6 pour la mme anne.
+
+Le PIB est faible (12,9 Milliards USD en 2018), soit 553,65 USD/hab. et une croissance conomique de +7,2%, [Banque Mondiale, 2018]. Ce PIB tait de 6,3 Milliards USD en 2015, soit 413 USD/hab, avec un IDH de 0,374 (PNUD, 2016). La production du secteur primaire est domine par le secteur agro-sylvo-pastoral avec 37% du PIB et 80% des emplois (INS, 2018) varie beaucoup dune anne  lautre.
+
+A linstar des autres pays dAfrique de lOuest, le Niger est trs vulnrable au changement climatique, caractris par une forte variabilit climatique et des prcipitations qui entranent des dficits pluviomtriques rcurrents. Ces dficits se traduisent par des scheresses rptitives et cycliques trs nfastes. Les phnomnes de la dsertification et de la dgradation des ressources naturelles et des terres constituent depuis des dcennies une proccupation majeure pour le dveloppement conomique et social du pays. Face  cette situation, lEtat continue  dvelopper des initiatives et  conduire des actions de nature  prserver la durabilit des bases productives, ainsi que des stratgies appropries dattnuation et dadaptation.
+
+Ces perturbations de variabilits et de changement climatiques augmentent considrablement l'inscurit alimentaire et nutritionnelle, provoquent des migrations et lexode rural des populations, des conflits entre les producteurs ruraux autour de la gestion et de laccs aux ressources naturelles, perturbent les rgimes des cours d'eau et la disponibilit de la ressource eau, diminuent le rendement et de la production des cultures, augmentent la persistance des conflits fonciers, accentuent lintensit des maladies climato-sensibles, augmentent la dgradation des terres, etc.
+
+Le Niger a soumis trois CN pour le besoin de la mise en uvre de la Convention Cadre des Nations Unies sur les Changements Climatiques (CCNUCC) et de lAccord de Paris sur le Climat.
+
+La quatrime communication est en cours de finalisation.
+
+Les quatre communications nationales (CNI-1990, SCN-2000, TCN-2008 et QCN-2014) montrent une tendance  laugmentation des missions nationales des GES notamment dans les deux secteurs prioritaires tout en gardant la mme proportion.
+
+Les valeurs des missions de Gaz  effet de Serre (GES) sont rcapitules dans le tableau ci- aprs pour les communications nationales (CNI-1990, SCN-2000 et TCN-2008, QCN-2014).
+
+Tableau 1 : Rpartition des missions par secteur selon les Communications Nationales Les rsultats de linventaire de GES pour la QCN (anne de rfrence 2014) ont tabli les missions/absorptions agrges pour les gaz directs CO2 : - 8 192,006GgCO2eq ; CH4 : 17585,35 GgCO2eq et N2O : 19 384,006 GgCO2eq. Les missions de CO2 sont values  2 217,741 GgCO2eq contre une absorption de -10 434,735 GgCO2eq, soit une capacit de squestration de CO2 de lordre de - 8 192,006 GgCO2eq. Do, les missions/absorptions globales des principaux gaz directs (CO2, CH4, N2O) estimes  28 777,299 GgCO2eq.
+
+A titre dexemple pour lanne de rfrence 2014, la dcomposition des missions entre les diffrents secteurs est prsente comme suit :
+
+Tableau 2 : Rpartition des missions par secteur selon la Quatrime Communication Nationale (2014) Le climat du Niger est de type tropical semi-aride, caractris par deux saisons : une saison sche allant doctobre  mai et une saison pluvieuse allant de juin  septembre.
+
+Pendant la saison sche, la temprature moyenne varie entre 18,1 et 33,1 C. Les records de tempratures observes sont de  2,4C (observ le 13 janvier 1995  Bilma) pour les tempratures minimales et de 49,5 C (observ le 7 septembre 1978  Diffa) pour les tempratures maximales (PANA, Niger 2006).
+
+Pendant la saison des pluies, la temprature moyenne varie entre 28,1 et 31,7 C. Le rgime pluviomtrique est unimodal avec un maximum de prcipitations survenant autour du mois daot. En anne normale, la pluviomtrie permet la recharge des nappes, la formation des plans deau et le dveloppement du couvert vgtal.
+
+Depuis les annes 50, le climat du Niger a connu 3 cycles pluviomtriques distincts, communs  lensemble du Sahel :
+
+- entre les annes 1950 et 1970, le Niger a bnfici dun cycle dannes humides ;
+
+- entre les annes 1970 et 1990, le Niger a t confront  un cycle de scheresses majeures, marqu par des pisodes particulirement secs en 1970 et en 1984, comme dans le reste du Sahel ;
+
+- ds le dbut des annes 1990, des conditions pluviomtriques bien meilleures se sont rinstalles sur cette rgion (Ali et al., 2008, 2010), saccompagnant toutefois dune hausse de la variabilit interannuelle des prcipitations.
+
+Au regard de cette situation, le Niger est confront aux alas climatiques extrmes qui deviennent plus frquents et violents (scheresses rcurrentes et successives, les inondations, les vents violents, les tempratures extrmes et les temptes de sable ou de poussires ; la variabilit des pluies saccroit et sa mauvaise rpartition dans le temps et dans lespace ; la persistance dautres facteurs indirects comme les pidmies (mningite, cholra), les ennemis de cultures (chenilles mineuses, insectes floricoles, pucerons, oiseaux granivores), les maladies pour le cheptel (pizooties), les feux de brousse, etc.
+
+La figure 1 ci-dessous reprsente lvolution simule des cumuls moyens de prcipitations durant la saison des pluies (JJAS) sur le court terme (en haut) et sur le moyen terme (en bas), pour les scnarios RCP4.5 ( gauche) et RCP 8.5 ( droite).
+
+Les modles prvoient une tendance gnrale  la hausse des cumuls de prcipitations durant la saison des pluies (JJAS) par rapport  la rfrence climatologique 1981-2010.
+
+Ces conclusions sont cohrentes avec les tendances obtenues par diffrents auteurs. Daprs les modles, la hausse de la pluviomtrie devrait tre plus importante au Nord et  lEst du pays. La hausse de la pluviomtrie devrait tre plus importante sur le moyen terme compar au court terme, et dautant plus importante que lon se situe dans un scnario pessimiste daugmentation de gaz  effets de serre (RCP 8.5 compar au RCP 4.5).
+
+Figure 1 : Simulation de lvolution des cumuls moyens de prcipitations durant la saison des pluies (JJAS) pour le court et le moyen terme, compars  la priode de rfrence 1981- 2010. Ces rsultats sont la mdiane des simulations effectues avec 29 modles globaux de lexprience dintercomparaison de modles globaux (CMIP5) pour les scnarios RCP 4.5 et RCP 8.5. Les valeurs reprsentes correspondent au pourcentage de variation par rapport aux cumul de prcipitation de rfrence.
+
+La figure 2 ci-dessous reprsente lvolution simule des tempratures durant la saison des pluies (JJAS) sur le court terme (en haut) et le moyen terme (en bas) pour les scnarios RCP 4.5 ( gauche) et RCP 8.5 ( droite).
+
+Les modles prvoient des hausses de tempratures durant la saison des pluies (JJAS) dans toutes les localits du Niger de lordre de 1C  court terme (horizon 2030), contre 1,5  3C sur le moyen terme (horizon 2050).
+
+La hausse des tempratures moyennes projetes est significativement plus importante dans le scnario RCP 8.5 que dans le scnario RCP 4.5., ce qui est logique.
+
+Les modles indiquent des augmentations de tempratures moyennes de surface lgrement plus importantes dans les rgions situes les plus au Nord, par rapport au Sud et  lOuest du Niger.
+
+Les conclusions obtenues sont cohrentes avec les tendances dj releves par plusieurs auteurs.
+
+Figure 2 : Diffrences de tempratures moyennes de surface au Niger durant la saison des pluies (JJAS), simules sur le court terme et le moyen terme par comparaison avec la priode de rfrence 1981- 2010. Ces rsultats sont la mdiane des simulations effectues avec 29 modles globaux de lexprience dintercomparaison de modles globaux (CMIP5) pour les scnarios RCP 4.5 et RCP 8.5.
+
+Les modles tendent  montrer une tendance  la diminution du nombre de jours pluvieux pendant la priode JJAS sur lensemble du Niger. La diminution du nombre de jours pluvieux est plus importante  moyen terme compare au court terme, mais similaire entre les scnarios RCP 4.5 et 8.5.
+
+Au Niger, la conjonction dune hausse des cumuls de prcipitation (Figure 2) et dune diminution du nombre de jours pluvieux sur la saison JJAS (figures 1) indique une tendance  lintensification des pluies et  laccroissement de la dure des pisodes secs durant la saison agricole.
+
+Lconomie nationale repose essentiellement sur le secteur agro-sylvo-pastoral et halieutique qui demeure la source principale demplois et de revenus pour plus de 80% de la population. Ce secteur reste pourtant tributaire des alas climatiques.
+
+En termes dimpact sur lagriculture, les attaques du criquet plerin et des autres ravageurs des cultures ont endommag plus de 1,6 millions dhectares. Les alas (scheresse, feux de brousse, inondations) comptent ensemble pour plus de 1 million dhectares. Plus de 17 millions de ttes de btail ont galement pri durant les vnements entre 2001 et 2014. Les impacts conomiques, les scheresses et les inondations ont contribu pour 96% des pertes conomiques. Les valeurs des dommages et pertes causs aux secteurs de lagriculture et du logement vont au-del de 3,2 Milliards USD (PNUD, 2017 in CNEDD, 2020).
+
+Les changements climatiques futurs vont entraner une diminution de 10  20% de rendements de la plupart des cultures pluviales  lhorizon 2050, par rapport  lanne 2020 (MESUDD/SPN2A, 2020).
+
+Les simulations les plus rcentes montrent que les CC devraient entraner  lhorizon 2050, par comparaison aux rendements moyens sur la priode 1981-2010 : une baisse de 9  15% des rendements en grains du mil non photopriodique ; une baisse de 18  23% des rendements en grains du sorgho ; une augmentation de 21  25% des rendements en grains du mil photopriodique et une augmentation de 17  18% des rendements en grains de mas (MESUDD/SPN2A, 2020).
+
+Tous ces vnements extrmes climatiques constituent une entrave  latteinte des objectifs de la lutte contre la pauvret et pour le dveloppement conomique et social tels que dclins dans les politiques et stratgies (SDDCI-2035, PDES, Initiative 3N, PNEDD-2016, SPN2A, etc.). Cette situation constitue un dfi de taille  relever.
+
+Les missions de GES du Niger sont de 28 777,299 GgCO2eq. (QCN-2014) et seulement 0,0001% des missions mondiales de CO2. Le Niger nappartient pas  lAnnexe I de la CCNUCC, donc na pas dobligation chiffre en termes dattnuation. Cependant, malgr ses besoins importants pour dvelopper son conomie et la ncessit de sortir une grande partie de sa population de la pauvret, lambition du Niger est de limiter ses missions  1,61tCO2eq/hab.  lhorizon 2030, dans le cadre de lobjectif conditionnel. La CDN est quitable au regard des capacits nationales, du crot dmographique, de la situation gographique du Niger et de laridit de son climat, et le degr de vulnrabilit de son conomie qui dpend de la pluviomtrie. La rvision de la CDN met le Niger sur une trajectoire de dveloppement sobre en carbone pour assurer la rsilience des populations, des cosystmes, des bases productives et de ses infrastructures de dveloppement.
+
+Le Niger continue, malgr cette priode de pandmie  COVID-19 et ces dcennies marques par linscurit dans lespace du Sahara et du Sahel et le dplacement des populations, dappliquer les mesures pour sadapter et lutter contre les effets nfastes du drglement climatique. Cette situation annihile les efforts du Gouvernement et ralentit les activits socioconomiques dans le pays.
+
+Malgr, la situation de vulnrabilit du Niger et son appartenance au groupe des PMA, la CDN prvoit une rduction des missions de GES durant la priode 2021-2030 dans les deux secteurs (AFAT, Energie) suivants les projections des missions projetes pour les BAU-2025 et BAU- 2030 et selon un scnario de rfrence bas sur des hypothses. Les mesures dattnuation se rpartissent en contributions inconditionnelles et conditionnelles.
+
+Ladaptation est primordiale pour le pays. Pour participer aux efforts dattnuation de la communaut internationale, le Niger privilgie les actions dadaptation  co-bnfices forts en faveur de lattnuation.
+
+Lattnuation dans le secteur de lEnergie ncessite des investissements importants pour faciliter laccs  une nergie bon march, durable et propre.
+
+Tout en mobilisant ses ressources nationales, le Niger souhaite utiliser la Finance Climat Internationale et dautres mcanismes financiers internationaux et bnficier de lappui de la coopration internationale pour atteindre les objectifs.
+
+Le scnario BAU du secteur AFAT a t dfini  travers loutil EX-ACT (EX-Ante Carbon-balance Tool) de la FAO en prenant en compte les tendances de dveloppement actuelles du secteur AFAT et les activits humaines futures.
+
+Les rsultats montrent que sans les mesures dadaptation  co-bnfice, les missions qui taient values  24 000 ktCO2-eq en 2014, passeront 69 434 ktCO2-eq en 2025 et  107 296 ktCO2- eq en 2030 comme le montre la figure 3.
+
+Graphique 1 : Tendance des missions du secteur AFAT sur la priode 2014-2030 Le scnario BAU a t dfini  travers loutil  The Greenhouse Gas Abatement Cost Model (GACMO)  sur la base du bilan nergtique de lanne de rfrence de linventaire des GES de 2014, de la croissance de la population, du PIB, de la demande dnergie des diffrents secteurs dactivits et des missions du secteur de lEnergie. Les rsultats du scnario BAU sur la priode 2014-2030, montrent une tendance  laugmentation des missions. En effet, les missions du CO2 du secteur estimes  2 146 ktCO2 en 2014 passeront  7 454 ktCO2 en 2025 et 11 756 ktCO2 en 2030. Comme le montre la figure 4, sans les mesures dattnuation, la trajectoire de dveloppement du secteur serait une source dmissions des GES.
+
+Graphique 2 : Tendance des missions du secteur de lnergie sur la priode 2014-2030 Les technologies identifies sont des mesures  co-bnfice. Dune manire globale, leur mise en uvre font lobjet de projets/programmes en cours ou planifis. Ainsi sont retenues pour la CDN rvise : Plantations despces  usages multiples : 750 000 ; Promotion de rgnration naturelle assiste (RNA) : 913 932 ha ; Amnagement des terres pour les cultures irrigues ou de dcrues : 424 000 ha ; Haies vives et brises vents : 145 000 km ; Amnagement et scurisation des enclaves pastorales, aires de pturage et aires de repos : 455 848 ha ; Amnagement et matrialisation et couloirs de passage : 279 702 ha ; Restauration des terres pastorales dgrades : 112 500 ha ; Foresterie prive : 75 000 ha : dveloppement de fermes laitires en zro pturage (stabulation permanente) : 258 fermes ; intensification des systmes dlevage bass sur lembouche bovine : 1 500 fermes ; intensification des systmes dlevage bass sur lembouche ovine : 3 000 fermes ; Programme  un village un bois  : 12 500 ha ; Fixation de dunes vives : 10 053 ha ; Rhabilitation des forts classes dgrades : 10 000 ha ; Gestion des intrants : 10 822 tonnes ; Lutte contre le dboisement (dfrichement) et les feux de brousse (pare- feu) : 7 500 ha ; Culture fourragre : 2 000 ha. Mises en uvre sur une superficie de 4 838 899,5 ha (soit 4% de la superficie du pays), ces technologies permettront au Niger de squestre 4,2 tonnes de CO2-eq / ha/an.
+
+Les options dattnuation inconditionnelles et conditionnelles dans le secteur de lEnergie concernent la proportion de lefficacit nergtique dans les secteurs rsidentiel et tertiaire ; la rduction des pertes de transport et distribution dlectricit ; le dveloppement des nergies renouvelables et lamlioration de lefficacit nergtique dans le secteur de transport. Les cibles retenues sont consignes dans le tableau 3.
+
+Tableau 3 : Mesures et technologies dattnuation inconditionnelles et conditionnelles dans le secteur de lEnergie Promotion de lefficacit nergtique dans les secteurs rsidentiel et tertiaire Amlioration de lefficacit nergtique dans le secteur du transport Limpact de ces mesures sur la rduction des missions a t valu  travers loutil GACMO.
+
+Les rsultats montrent une rduction importante des missions du secteur. En effet, sans les mesures, les missions passeront  11 766 ktCO2 en 2030 et avec les mesures, ces missions seront de 6 432 ktCO2 soit une rduction de 5 324 ktCO2. La figure 5 ci-aprs prsente limpact des mesures des rductions (Inconditionnelles et Conditionnelles) par rapport  BAU-2025 et BAU-2030.
+
+Graphique 3 : Rduction  inconditionnelle  et  conditionnelle  par rapport  BAU (2025- 2030) BAU Scnario Inconditionnel (ktCO2e) Scnario Conditionnel (ktCO2e) Lvaluation de la vulnrabilit des secteurs AFAT et Energie a permis didentifier les options dadaptation suivantes : i) Promotion de lAgriculture Intelligente face au Climat ; ii) Valorisation des donnes mtorologiques par les producteurs ; iii) Dveloppement de la gestion durable des terres et des eaux ; iv) Renforcement de la gestion participative et numrise des massifs forestiers ; v) Elaboration et mise en uvre dun plan dcennal de reboisement ; vi) Dveloppement de la Foresterie urbaine et pri-urbaine ; vii) Subventions des kits dutilisation des nergies fossiles et solaires ; et viii) Dveloppement de Partenariat Public Priv (PPP) pour la mise en valeur des nergies nouvelles et renouvelables.
+
+Les mesures dadaptation dans le secteur AFAT portent sur lamlioration de la rsilience des sous-secteurs de lagriculture, de llevage, de la foresterie, des ressources en eau, halieutiques et fauniques ainsi que de la sant des populations. En effet, laccent est mis sur la promotion des techniques dAIC prenant en compte la valorisation de linformation climatique, lalerte prcoce, la gestion des risques et de catastrophes, le genre et linclusion sociale, lassurance indicielle agricole climatique et lintgration de la dimension  changement climatique  dans la planification locale, rgionale et nationale.
+
+Les mesures dattnuation prvues, dans le secteur AFAT, sont relatives  la mise  lchelle des bonnes pratiques de gestion durable des terres (GDT) et des eaux sur lensemble des zones agrocologiques en vue daugmenter la rsilience des cosystmes et des mnages, et de squestrer le carbone.
+
+Pour le secteur de lEnergie, les mesures visent  faciliter laccs  une nergie bon march, durable et propre ainsi que laccs aux services nergtiques modernes pour tous en 2030. Les options dattnuation concernent la gestion du sous-secteur Rsidentiel(mnages), par llectrification rurale, lconomie du bois-nergie et sa substitution par dautres combustibles plus modernes (gaz butane, biocarburants, solaire) ; le sous-secteur Transport par la baisse de ses consommations spcifiques ; la gestion des secteurs Demande, Transformation et Vulgarisation des nergies Renouvelables par lamlioration de lefficacit nergtique des filires et la promotion du solaire photovoltaque pour le pompage deau, la sant et llectrification.
+
+Le tableau 4 suivant reflte les impacts et vulnrabilits dans les sous-secteurs de lAFAT dune part et dautre part les mesures dadaptation pour faire face  ces impacts.
+
+Tableau 4 : Impacts et mesures dadaptation dans les sous-secteurs dAFAT rgionaux.
+
+- Ralisation de plantations dalignement, dornement et dombrage - Promotion de llevage non conventionnel.
+
+- Prolifration de certaines espces vgtales non apptes par les animaux (Sida cordifolia, Calotropis procera) - Accroissement de la mortalit du cheptel, surtout des bovins, li aux scheresses rcurrentes - Diminution de la contribution de llevage au PIB.
+
+- Appui  llevage traditionnel par le renforcement des amnagements pastoraux et des capacits de scurisation dans la zone pastorale ;
+
+- Lutte contre les pizooties et mise en place de veille sanitaire llevage au Niger et mesures daccompagnement.
+
+- Scheresses.
+
+- Amlioration de la connaissance et de la matrise des ressources en eau - Amlioration de la couverture des besoins en eau des populations et de leur cadre de vie - Clarification et le respect des rles des diffrents partenaires (Etat, collectivits, secteur priv, populations bnficiaires - Protection des ressources en eau, de la qualit de leau et des cosystmes aquatiques - Mise en place de brise vent pour protger les plans et cours deau contre lrosion olienne - Valorisation des ressources en eau  travers une meilleure organisation des filires - Adquation entre la fourniture de leau  usage domestique, industriel, agricole...
+
+- Adquation entre les amnagements, urbanisation.
+
+La mise en uvre intersectorielle de la CDN ncessite la mobilisation des acteurs tatiques relevant des ministres sectoriels et des institutions de recherche et de formation dont les universits publiques, le secteur priv et les OSC.
+
+La mise en uvre de la CDN requiert galement un mode de gouvernance assurant les fonctions dorientation/dcisions, de pilotage, de concertation et de mise en uvre. Cette gouvernance sera fonde sur un leadership solide de communication, dchanges ainsi que limplication et ladhsion des parties prenantes suscites. Il savre indispensable de crer une bonne synergie institutionnelle et l'appropriation du processus par lensemble des acteurs.
+
+Le Secrtariat Permanant (SP), organe excutif de mise en uvre de la CDN, assure la coordination et dot de ressources humaines qualifies et matrielles adquates et dune autonomie de gestion. Il sera charg spcifiquement de la coordination et du suivi de la mise en uvre de la CDN avec des missions et attributions bien dfinies pour viter tout conflit de comptence avec les autres structures. La mise en uvre des activits de la CDN relvera de la comptence des administrations sectorielles concernes, les ONG/AD et le secteur priv.
+
+Un comit de pilotage sera mis en place pour donner des orientations au SP  mettre en uvre les dcisions. Le comit de suivi de la mise en uvre de la CDN tel quil existe actuellement dans sa composition (administrations sectorielles, recherche et formation, OSC, secteur priv, PTF) continuera ses missions.
+
+Le montant global (investissement inconditionnel et conditionnel) de mise en uvre des technologies dattnuation identifies est valu  3,1651 Milliards USD pour la priode 2021- 2030 en deux phases de cinq ans.
+
+En effet, les cots des options inconditionnelles et conditionnelles sont valus respectivement  0,2127 Milliards de USD soit 6,72% et 2,9524 Milliards de USD soit 93,28%.
+
+Le rcapitulatif de ces cots est contenu dans la figure 6 et le tableau 5 ci-aprs.
+
+Graphique 4 : Flux du financement par phase de mise en uvre de la CDN dans le secteur de lEnergie Le montant global (investissement inconditionnel et conditionnel) de mise en uvre des technologies dadaptation identifies est valu  6,743 Milliards USD pour la priode 2021- 2030 en deux phases de cinq ans.
+
+En effet, les cots des options inconditionnelles et conditionnelles sont valus respectivement  2,40 Milliards USD (36%) et 4,343 Milliards USD (64%).
+
+Le rcapitulatif de ces cots est contenu dans la figure 7 et le tableau 6 ci-aprs.
+
+Graphique 5 : Flux du financement par phase de mise en uvre de la CDN dans le secteur AFAT Un dispositif de suivi-valuation de la CDN est mis en place pour permettre de suivre les indicateurs de performance et les efforts du Niger en matire dadaptation et dattnuation dans le cadre de la mise en uvre de lAccord de Paris. Un suivi rgulier et des valuations annuelles seront mens pour des ajustements ncessaires tenant compte des indicateurs pertinents et objectivement vrifiables. Le suivi-valuation sera assur par un Secrtariat Permanent log au ME/LCD et se fera de faon participative avec tous les reprsentants de lorgane dorientation charg de la mise en uvre de la CDN. Le suivi-valuation sintressera au double plan des ralisations physiques et financires.
+
+Le mcanisme de suivi-valuation de la CDN prvoit deux types de suivi  savoir : le suivi dexcution qui va exploiter les donnes des rapports dactivits des structures nationales et des partenaires, et  llaboration de rapports dactivits du Secrtariat Permanent ; le suivi dimpact va sappuyer sur les indicateurs de performance  deux chelles (nationale, locale) et sous les deux formes interne et externe.
+
+Aussi, le systme MRV (Mesurable, Rapportage et Vrifiable), constitue un  vecteur de confiance entre les pays, en exposant de manire transparente leurs actions dattnuation ainsi que les obligations de financement des pays dvelopps . Ds que le systme MVR serait dvelopp et adopt par le Niger, il savre important de renforcer les capacits des acteurs-cls de mise en uvre de la CDN.
+
+Le besoin financier du Niger pour la mise en uvre de la CDN durant la priode 2021-2030 est de 9,9081 Milliards USD dont 2,6127 Milliards USD (scnario Inconditionnel) soit 26,37% soutenu par lEtat, et 7,2954 Milliards USD (scnario Conditionnel) soit 73,63 %  mobiliser auprs des PTF et de la Finance Climatique internationale.
+
+La CDN contribue  latteinte des ODD et  lobjectif de dveloppement conomique et social du Niger  travers ses politiques et stratgies. La ralisation de cet objectif passe par la prise en compte ou la mise en uvre des lments principaux des diffrents plans dactions de soutien et des outils de gouvernance Climat de la CDN durant sa priode. Il sagit de :
+
+- Renforcement de capacits des parties prenantes et des institutions de mise en uvre de la CDN ;
+
+- Etudes de prfaisabilit/faisabilit et le dveloppement des projets et programmes du secteur de lEnergie ;
+
+- Dveloppement des documents des projets/programmes  ;
+
+- Appropriation par les partenaires du Plan de partenariat (PP) ;
+
+- Dveloppement de Partenariat Public Priv (PPP) pour la mise en valeur des projets dnergies nouvelles et renouvelables ;
+
+- Elaboration des Notes Conceptuelles de Projets/Programmes dattnuation et dadaptation ;
+
+- Dveloppement du Plan dinvestissement Climat de la CDN ;
+
+- Transfert de technologies appropries ;
+
+- Finalisation du systme de suivi-valuation de la CDN ;
+
+- Systme denregistrement et les procdures de MNV ;
+
+- Mise en place des organes de Gouvernance de la CDN (excution, pilotage et orientation, suivi, ) ;
+
+- Mise en place dune Stratgie de Communication et Changement Climatique ;
+
+- Adoption de la Feuille de route de mise en uvre de la CDN ;
+
+- Organisation des structures nationales de collecte de donnes et informations, et la mobilisation des moyens ncessaires  la conduite d'un inventaire de GES, au stockage des donnes,  larchivage et la constitution dune base de donnes. LIGES prendra en compte des nouveaux gaz utiliss au Niger et ayant un PRG fort, dans le respect des engagements du Niger auprs des autres Accords Multilatraux Environnementaux.
+
+Le systme national de MRV (Mesure, Rapportage et Vrification) est capital pour mesurer les progrs de mise en uvre de la CDN notamment pour les mesures d'attnuation. Le systme MRV marquera la volont du Niger  travailler dans la transparente avec les partenaires.
+
+Les besoins prioritaires en transfert de technologies sont identifis dans le cadre du projet  valuation des Besoins en Technologies (EBT)  et un portefeuille de projets et programmes a t identifi, pour prendre en charge les effets nfastes des CC par le transfert et laccs aux technologies propres. Le transfert de technologies concerne bien ladaptation et lattnuation.
+
+Le Niger compte sur la coopration internationale pour mobiliser les ressources financires suffisantes pour latteinte des objectifs de la CDN. Les ressources mobilisables au niveau national sont limites et insuffisantes do lintrt marqu du Niger  accder aux Fonds Climat. Pour cela, il est donc important de renforcer les capacits des acteurs pour faciliter laccs aux mcanismes financiers et aux ressources pour favoriser la mise en uvre de la CDN. La stratgie de mobilisation des ressources reposera sur les axes suivants : le renforcement du rseau de partenariat existant, la conception doutils daide  la dcision, le dveloppement dactions de plaidoyer, la diversification des sources de financement et la valorisation des opportunits de financement.
+
+Le Plan dInvestissement Climat pour la mise en uvre de la CDN concernera tous les projets/programmes dadaptation et dattnuation identifis ou dcids par les porteurs et le Gouvernement.
+
+En outre, il savre ncessaire de renforcer la sensibilisation des acteurs sur les enjeux de la CDN  tous les chelons, mais aussi identifier et mobiliser les sources des mcanismes financiers pour faire face aux dfis de la mise en uvre de la CDN et du dveloppement conomique et social du Niger. Dores et dj, les sources de financement suivantes pourraient tre mobilises : le Fonds Vert pour le Climat, le Fonds dAdaptation pour les PMA, les Fonds Stratgiques pour le Climat (FSC), les Fonds du programme dadaptation pour les petits agriculteurs, les  Small Grants Programme (SGP)  du FEM, les Fonds Fiduciaires pour les Technologies Propres, etc.
+
+Aussi, la gouvernance Climat au Niger est marque par la volont politique affirme pour la mise en uvre de lAccord de Paris, du renforcement de la gouvernance locale, de lintgration du genre et linclusion, des enjeux de CC dans les politiques et stratgies nationales, de la mise en uvre du Plan dInvestissement Climat pour la Rgion du Sahel et son Programme Prioritaire pour Catalyser les Investissements Climatiques au Sahel.
+
+Enfin, les engagements des partenaires annoncs pour le financement de la CDN ouvrent des perspectives en matire de mobilisation de financements et dlaboration de projets structurants bancables pour le Niger et la Rgion du Sahel et de la zone CEDEAO.
+
+Le Niger a entam un processus de dveloppement des notes conceptuelles et des tudes de prfaisabilit/faisabilit et de cots-bnfices des projets et programmes des domaines de lAgriculture, de lEnvironnement, des Ressources en Eau, de lEnergie, de la Sant, des Transports et Equipements, de lElevage, de la GMV, etc. Ces initiatives seront soumises aux mcanismes internationaux de financement climatique dont le Fonds Vert pour le Climat (FVC).
+
+Ces projets et programmes relvent des deux secteurs prioritaires AFAT et Energie et sont repris dans le Plan de Partenariat et le Plan dInvestissement Climat de la CDN pour lesquels, il faut mobiliser les ressources financires dans le cadre de loprationnalisation de la CDN. Certains projets sont dj financs par le FVC pour les prochaines annes.
+
+Les projets du secteur AFAT concernent la gestion durable des ressources naturelles (terres, forestires, pastorales, eau). Les projets du secteur de lEnergie sont ceux de la Feuille de route pour le sous-secteur de llectricit  lhorizon 2035 dont les centrales lectriques dcides ou planifies par le Gouvernement et des nouvelles autres options  slectionner par le modle.
+
+Tous ces projets et programmes concourent aussi bien  ladaptation qu lattnuation pour la rsilience des communauts et des cosystmes.
+
+La rvision et la soumission de la CDN avant la tenue de COP-26 de Glasgow traduit la volont du Gouvernement du Niger  honorer ses engagements vis--vis de la Convention et de lAccord de Paris en vue de contribuer  la rduction la limitation de la hausse de la temprature mondiale La prsente mise  jour des objectifs et des mesures dattnuation des GES et dadaptation au CC ainsi que les financements des secteurs prioritaires (AFAT, Energie) sont dtermins pour la priode 2021-2030 afin de permettre  toutes les parties nationales de se prparer pour des actions de renforcement de capacits humaines, institutionnelles et logistiques, de rvaluer tous les projets et programmes dinvestissement. Cette mise  jour a pris en compte les outils de gouvernance Climat de la CDN rvise dont la Feuille de route de sa mise en uvre, la Stratgie de mobilisation de ressources, le Systme MRV, le Dispositif de suivi-valuation, la Stratgie de Communication et CC, le Plan dInvestissement Climat de la CDN et la mise en place de la base de donnes sur linventaire national de GES.
+
+Les nouveaux objectifs proposs salignent aux cadres stratgiques et politiques du Niger : SDDCI-Niger 2035, PDES, I3N, SPN2A, DPNE, SNPA/CVC, PNCC, PNEDD-2016, SNT, etc.
+
+La mise en uvre des technologies dattnuation et dadaptation identifies respectivement dans les secteurs Energie et AFAT contribuera  latteinte de ces nouveaux objectifs pour la priode 2021-2030 et ncessitera un investissement total de 9,9081 Milliards USD dont 2,6127 Milliards USD (scnario Inconditionnel) soit 26,37% soutenu par lEtat, et 7,2954 Milliards USD (scnario Conditionnel) soit 73,63%  mobiliser auprs des PTF et de la Finance Climat Internationale.
+
+A travers la mise en uvre de la Contribution, le Niger contribuera  latteinte de lobjectif de lAccord de Paris consistant   intensifier la rponse plantaire  la menace du changement climatique en maintenant laugmentation de la temprature mondiale bien en dessous de 2C, et de mener des efforts encore plus pousss pour limiter cette hausse  1,5C au-dessus des niveaux prindustriels .
+
+Aussi, la rvision de la CDN est une opportunit dintensifier la mobilisation des partenaires et des ressources en faveur de la mise en uvre de la Feuille de route et du Plan dInvestissement Climat pour financer les projets et programmes dinvestissement pour inverser la tendance au drglement climatique dune part, et dautre part permettre aux vaillantes populations et aux cosystmes du Niger dtre plus rsilients au climat.
+
+En outre, le Niger a pris en compte la dimension du genre et linclusion et associer pleinement le secteur priv dans tout le processus de rvision, de planification et de la mise en uvre de la Contribution.
+

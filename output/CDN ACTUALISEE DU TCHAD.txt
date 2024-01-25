@@ -1,0 +1,526 @@
+AFAT : Agriculture, de la foresterie et des autres utilisations des terres CCNUCC : Convention Cadre des Nations-Unies sur les Changements Climatiques CEDEF : Convention pour llimination de toutes les formes de Discrimination  lgard des DEELCC : Direction de lducation Environnementale et de la Lutte contre les Changements FAO : Organisation des Nations Unies pour lAlimentation et lAgriculture FEM-AFD : Projet de prservation du Lac Tchad : contribution  la stratgie de dveloppement du INSEED : Institut National de la Statistique, des tudes conomiques et Dmographiques MRV/MNV : Mesurage, Rapportage et Vrification/ Mesure, Notification et Vrification PACNSC : Plan d'Action pour la mise en uvre du Cadre National pour les Services Climatiques PAN-LCD : Programme dAction National de lutte contre la dsertification PARSAT : Projet dAmlioration de la Rsilience des Systmes Agricoles au Tchad PNISRT : Plan National d'Investissement du Secteur Rural du Tchad PRESAO : Prvisions Saisonnires en Afrique de lOuest au Cameroun et au Tchad PRODEBALT : Programme de dveloppement durable du bassin du lac Tchad P2RS : Projet de Renforcement de la Rsilience  lInscurit Alimentaire et Nutritionnelle au PRRRPS : Programme rgional pour le renforcement de la rsilience des pays du Sahel REDD+ : Rduction des missions lies  la Dforestation et la Dgradation Forestire SNLCC : Stratgie Nationale de Lutte contre les Changements Climatique au Tchad Conformment aux articles 4.1, 4.2 et 4.3 de lAccord de Paris, aux paragraphes 23 et 24 de la dcision 1/CP.21 et aux autres dispositions pertinentes de lAccord, le Tchad prsente la mise  jour de sa Contribution Dtermine au niveau National (CDN). Elle se dcline en deux grands axes en vue de confirmer sa participation  lambition collective qui vise  maintenir laugmentation de la temprature moyenne mondiale  moins de 2C, idalement  1,5C au-dessus des niveaux prindustriels, ainsi qu lobjectif global de renforcer les capacits dadaptation, la rsilience et rduire les vulnrabilits aux changements climatiques des populations.
+
+Cette CDN combine la vision d'un Tchad mergent avec une voie de dveloppement rsiliente au climat et  faible mission de carbone, axe sur les secteurs de l'eau, de l'agriculture/agroforesterie, de l'levage et de la pche ainsi que axes transversaux (renforcement de capacits, technologies, prvisions de prcipitation, gestion de risques, etc.). Il ressort de ce document stratgique que les ambitions du Tchad sont revues  la hausse et cela en attente des appuis des diffrents partenaires techniques et financiers dans les secteurs prioritaires tant pour l'attnuation que pour l'adaptation au changement climatique. Ce document stratgique est galement align  la vision 2030 du Tchad sur l'objectif principal de son axe 4, qui est d'amliorer les conditions de vie de la population et de rduire les ingalits sociales tout en assurant la prservation des ressources naturelles et l'adaptation au changement climatique.
+
+La prsente CDN prvoit la rduction cumule des missions des GES dici  2030  88 350 kt CO2eq (mesures inconditionnelles et conditionnelles) avec un objectif dattnuation global de 19,3 % par rapport au scnario de rfrence. Linvestissement ncessaire  la mise en uvre des actions dattnuation de la CDN est estim  6 700,2 M USD.
+
+Ainsi, les besoins en financement pour rpondre au niveau lev des risques climatiques attendus au Tchad pourraient slever  plus de 375 millions dUSD ds 2021 (soit sur la base destimation de 3% du Produit intrieur brut) pour atteindre le cot annuel de 645 millions dUSD  lhorizon 2030. Sur cette base, les projections pour la priode 2021-2030 pourraient slever  plus de 5 002 milliards dUSD. Sans ngliger limportance des sources de financement domestiques et prives, les apports financiers internationaux des Partenaires Techniques et Financiers devront jouer un rle trs significatif.
+
+Les apports prioritaires internationaux pour ladaptation sont estims de lordre de 75 % des besoins en financement, et devraient slever  plus de 281 millions USD / an ds 2021 pour atteindre plus de 483 millions USD / an ds 2030. Il est  noter que le Programme Pays Fonds Vert Climat a un budget estim de 2 280 milliards US$ pour onze (11) projets dadaptation  lhorizon 2030, et que le programme nadresse quune partie des secteurs prioritaires identifie par cette CDN actualise. Pour faciliter le renforcement la gouvernance climatique au sein du gouvernement du Tchad, la faisabilit de la mise en uvre d'un Fonds Climatique Tchadien (FCT) est  explorer sur la base des expriences nationales et internationales qui pourrait tre charg de mobiliser des opportunits de financement pour la mise en uvre des activits de la CDN et des autres activits en relation avec lattnuation et ladaptation aux changements climatiques  long terme.
+
+Par ailleurs, la pandmie du Covid-19 a eu un impact conomique important dans le pays et a contribu  retarder la mise en uvre des actions d'attnuation et d'adaptation prvues. Cette pandmie a galement amplifi les vulnrabilits des communauts rurales aux changements climatiques, en particulier celles des personnes les plus exposes et marginalises dont les femmes.
+
+Le Gouvernement du Tchad prsente ici une actualisation de sa CDN de 2015 pour la priode 2120- 2030, conformment aux articles 4.2 et 4.1 de lAccord de Paris, aux paragraphes 23 et 24 de la dcision 1/CP.21 et aux autres dispositions pertinentes de lAccord.
+
+Pour respecter ses engagements internationaux en matire du climat, le Tchad, par cette mise  jour sa CDN confirme sa participation  lambition collective qui vise  maintenir laugmentation de la temprature moyenne mondiale  moins de 2C, idalement  1,5C au-dessus des niveaux prindustriels, ainsi qu lobjectif global de renforcer les capacits dadaptation, de renforcer la rsilience et rduire les vulnrabilits aux changements climatiques.
+
+La CDN, les Communications Nationales aussi bien que le Plan National dAdaptation (PNA) sont les principaux moyens de communication que le Gouvernement utilise pour informer la communaut internationale des actions qu'il entend mener pour faire face aux changements climatiques. La prparation du premier PNA a t ralise conjointement et a contribu au processus de mise  jour de cette CDN.
+
+La contribution en matire d'adaptation intgre les donnes collectes lors des consultations nationales et provinciales et les tudes danalyse de la vulnrabilit aux changements climatiques dans les secteurs prioritaires sensibles qui ont identifi les principaux risques et impacts climatiques, les groupes vulnrables, les secteurs affects et les propositions de mesures d'adaptation. Elle reflte galement les co-bnfices des interventions d'adaptation, ainsi que les potentielles synergies avec les conventions de Rio et objectifs de dveloppement durable (ODD)/ Agenda 2030 du dveloppement.
+
+Cette CDN a t conue pour intgrer l'galit des genres dans sa planification, en soutenant l'inclusion de mesures d'adaptation et d'attnuation sensibles au genre qui ont t recommandes lors de consultations aux niveaux national et rgional et qui contribueront  une action climatique plus efficace.
+
+Elle s'appuie galement sur l'analyse de la convergence des priorits du Fonds vert pour le climat (FVC) et du Tchad pour dvelopper le programme pays en termes d'interventions dans les secteurs prioritaires tant pour l'attnuation que pour l'adaptation au changement climatique.
+
+Les conclusions et recommandations de cette CDN refltent les apports de toutes les parties prenantes concernes au niveau national et rgional qui ont permis de faire le point sur les diffrents risques climatiques auxquels sont confrontes les communauts des diffrentes rgions du pays lesquelles ont exprim leurs proccupations et ont fourni des options pour amliorer leur bien-tre et leurs activits gnratrices de revenus afin d'accrotre leur rsilience aux impacts du changement climatique. dsertique. Il est aussi reconnu comme tant lun des pays le plus chaud et est compt parmi les pays les plus vulnrables face  la variabilit et aux changements climatiques. Cet tat de fait est d au fait que le Tchad est particulirement touch par les faibles rendements et la baisse des rcoltes, qui sont exacerbs par la faiblesse des prvisions, de la prparation, de la rponse et de l'adaptation.
+
+Le pays a ratifi la Convention Cadre des Nations Unies sur les Changements Climatiques (CCNUCC) en 1993 et le protocole de Kyoto en 2009. Dans le cadre des engagements pris vis--vis de la CCNUCC, le pays a labor deux Communications Nationales sur les changements climatiques respectivement en 2001 et 2012, son Programme dAction Nationale dAdaptation (PANA) en 2010, et a soumis sa premire CDN en 2015. A travers sa CDN, et la ratification de lAccord de Paris sur le climat en 2016, le Tchad sest engag dans le cadre de la nouvelle dynamique de coopration internationale sur les changements climatiques,  contribuer  leffort mondial de rduction des missions de gaz  effet de serre et de renforcement de la rsilience au changement climatique.
+
+La premire CDN de 2015 combinait la vision d'un Tchad mergent  l'horizon 2030 avec une voie de dveloppement rsiliente au climat et  faible mission de carbone, axe sur les secteurs de l'eau, de l'agriculture/agroforesterie, de l'levage et de la pche. La CDN indiquait galement les principales priorits en matire d'adaptation, tant les priorits sectorielles (Eau, Agriculture, levage et Pche) que transversales (renforcement de capacits, technologies, prvisions de prcipitation, gestion de risques, etc.).
+
+La CDN anticipait la mise en uvre d'une dizaine de programmes dans le domaine de l'adaptation et d'une douzaine de programmes prioritaires dans le secteur de l'attnuation. Les possibilits estimes pour atteindre les objectifs de la CDN comprenaient : (i) Adaptation : 14,17 milliards USD au total sur la priode d'engagement 2030, dont 11,38 milliards USD pour atteindre l'objectif conditionnel (avec les contributions de la communaut internationale), (ii) Attnuation : 7,063 milliards USD au total sur la priode d'engagement, dont 6,54 milliards USD pour atteindre l'objectif conditionnel. Le cot total de la mise en uvre de la CDN s'est lev  21,23 milliards USD, dont 17,92 milliards USD pour atteindre les objectifs conditionnels. A moyen et long terme, le Fonds vert pour le climat fournira une part substantielle du financement de la mise en uvre de la CDN du Tchad.
+
+A partir des tudes ralises dans le cadre du Programme dAction National dAdaptation (PANA), la CDN de 2015 dfinissait les priorits dadaptation transversales et sectorielles. La prsente CDN vise  actualiser ces priorits. En matire dadaptation, lactualisation devait sappuyer sur les travaux raliss dans le cadre du processus PNA puisque ce dernier fournirait un mcanisme pour amliorer la capacit et l'appropriation en ce qui concerne la planification, la budgtisation, la mise en uvre et le suivi de l'adaptation. Le processus PNA amliorera galement les capacits individuelles et institutionnelles  fournir des services climatiques pour la planification de l'adaptation dans les secteurs prioritaires.
+
+Conformment aux orientations de la politique du Gouvernement du Tchad en matire de dveloppement, le Tchad aspire  devenir un pays mergent  lhorizon 2030. A cet gard, le Gouvernement entend, entre autres, renforcer la protection de lenvironnement, lattnuation des missions de GES et ladaptation aux effets des changements climatiques.
+
+La Covid-19 a eu un impact conomique important dans le pays et a contribu  retarder la mise en uvre des actions d'attnuation et d'adaptation. Cette pandmie a galement amplifi les vulnrabilits des communauts rurales aux changements climatiques, en particulier celles des personnes les plus exposes et marginalises.
+
+Depuis la publication de la CDN, des politiques et stratgies importantes ont t adoptes pour soutenir les efforts du pays dans la lutte contre le changement climatique, telles que la  Vision 2030, le Tchad que nous voulons . De cette Vision, dcoule le PND 2017- 2021 qui constitue un modle dintgration de la dimension changements climatiques dans une politique de dveloppement. Le Plan national d'investissement pour le secteur rural du Tchad (2016 - 2022), la Stratgie nationale de lutte contre le changement climatique (2017), la Politique Nationale de lEnvironnement (2017) en cours de validation, le Plan d'action pour la mise en uvre du Cadre national des services climatiques au Tchad (2016-2020) et le Schma Directeur pour le dveloppement des nergies Renouvelables au Tchad (2018) sont autant dautres cadres pour la mise en uvre de cette vision.
+
+En outre, suite  ladoption du nouveau cadre daction  Sendai, un Plan dAction National de Renforcement des Capacits pour la Rduction des Risques de Catastrophes, la Prparation et la Rponse aux Urgences (2015-2020) a t labor par le Ministre de lAdministration du Territoire et le Ministre de lconomie et de la Planification du Dveloppement avec lappui technique du Programme des Nations Unies pour le Dveloppement (PNUD). Il recommande dtablir une Stratgie nationale spcifique pour la prparation  la gestion des catastrophes qui clarifie les rles et responsabilits des structures existantes en cas dopration durgence Le processus de la mise  jour de la CDN offrait ainsi une opportunit d'valuer, d'ajuster et de renforcer les stratgies nationales et de les aligner sur les priorits nationales. Il sagissait galement dune opportunit de mieux intgrer les questions climatiques dans la planification du dveloppement national et de rvaluer les options d'attnuation et d'adaptation en vue des annes 2020-2030 tout en renforant la participation des parties prenantes.
+
+En parallle, le PNA avait t initi par le gouvernement du Tchad en octobre 2019 et couvrira  terme 19 provinces rparties dans les zones sahlienne et soudanienne. Cette initiative permettra de faire face aux risques lis aux changements climatiques  court, moyen et long-termes, dtablir des efforts de renforcement des politiques et de renforcement des capacits, dintgrer les changements climatiques dans les processus de planification, de budgtisation du dveloppement et de catalyser les investissements pour l'adaptation aux changements climatiques.
+
+2021, en utilisant des approches participatives et interactives avec les parties prenantes. Celles-ci comprennent diffrentes institutions publiques et prives, des rgions, des chefs traditionnels et communauts locales, des services techniques des ministres sectoriels dconcentrs, de l'enseignement suprieur, des responsables d'organisations de la socit civile, des reprsentants du secteur priv, des responsables d'organes de presse, des associations d'organisations de producteurs, des organisations de femmes, des jeunes et des autorits communales, des partenaires techniques et financiers.
+
+Les ateliers rgionaux ont eu lieu dans la Province du Logone Occidental (Moundou), Logone Orientale (Doba), de la Tandjil Est (Lai), du Mayo kebbi Est (Pala) et du Moyen-Chari (Sarh), la Province de Hadjer-Lamis (Massakory), du Kanem (Mao), du Bahr el Gazal (Moussoro) et du Lac (Bol), la Province du Guerra (Mongo), du Batha (Ati), de lOuadda (Abch) et du Biltine (Biltine). Ces ateliers taient trs importants non seulement pour sensibiliser et faire participer les autorits et les communauts locales au processus, mais aussi pour recueillir des informations supplmentaires sur l'attnuation et l'adaptation auprs des parties prenantes dans les rgions. Le processus a t complt par un atelier national de pr-validation, qui a permis aux parties prenantes nationales et rgionales de valider et complter les donnes utilises dans les analyses et les actions prioritaires de la CDN en matire dadaptation et attnuation.
+
+Le dveloppement de la CDN a aussi contribu  la formation et renforcement des capacits techniques en termes d'apprentissage de l'utilisation d'un outil de modlisation des trajectoires des GES (LEAP). Les scnarios de la CDN et impacts des mesures dattnuation considres ont t dvelopps sur la base de linventaire national de GES mis  jour en 2021 sur la priode 2010-2018 et de loutil GACMO (Greenhouse Gas Abatement Cost Model).
+
+L'actualisation de cette CDN a pris en considration les priorits dfinies dans le PANA, la premire CDN, et les analyses de la vulnrabilit des secteurs sensibles au climat. En plus, une analyse a t effectue sur la base des tudes, rapports, stratgies et plans nationaux, afin d'intgrer les informations les plus rcentes en termes de risques climatiques et de vulnrabilits et principaux secteurs vulnrables. A ce titre, la stratgie nationale de lutte contre le changement climatique de 2017 est importante dans le contexte de la CDN rvise car elle labore les principaux secteurs cls impacts par le changement climatique. Dans ce contexte, le programme pays du Fonds vert pour le climat Tchad 2019, est galement important car il fournit des valuations de la vulnrabilit et des impacts de la vulnrabilit par secteur.
+
+Une analyse des tudes rcentes sur le genre et le changement climatique et sur l'intgration du genre a t effectue et a montr la faible comprhension du concept de genre par les diffrents acteurs et des liens avec les changements climatiques. Il est aussi important de noter le rle des femmes dans la gestion cologique et les ingalits dans l'accs et le contrle des ressources qui exacerbent leur vulnrabilit restent peu reconnus.
+
+Cette actualisation a principalement bnfici de lappui de lInitiative pour la Transparence de lAction Climatique (ICAT), du PNUD (Projet FEM-PNA, Promesse Climat et Programme dAppui Global au PNA, PAG-PNA), du Rseau Mondial sur le PNA (NAP Global Network) et lUnion Europenne, et de la coordination du NDC Partnership.
+
+Paris, le Tchad reste fermement attach  laugmentation de ses ambitions comparativement  ses engagements antrieurs, ce qui s'est reflt dans la vision de cette CDN actualise pour l'attnuation et l'adaptation et sexprime en ces termes :
+
+Soutenir dici  2030, une conomie diversifie et rsiliente aux changements climatiques sinscrivant dans une trajectoire de dveloppement moins mettrice des Gaz  Effet de Serre pour le bien-tre de la population Tchadienne, tout en protgeant des cosystmes et une conomie rsiliente aux changements climatiques, capables d'anticiper, de grer et de rduire les risques et phnomnes extrmes environnementaux et climatiques, tout en rduisant les ingalits sociales et assurant la prservation des ressources naturelles.
+
+Cette vision est en conformit avec la Vision 2030 du Tchad un pays mergent  revenu intermdiaire, port par des sources de croissance et de valeur ajoute diversifies et durables. Il est galement align les ingalits sociales tout en assurant la prservation des ressources naturelles et l'adaptation au changement climatique (Vision 2030).
+
+Dans ce contexte, il est important dorienter et de faire converger des initiatives politiques institutionnelles, techniques, scientifiques et financires pour faire face au changement climatique. Plus spcifiquement, promouvoir l'efficacit nergtique et les nergies renouvelables, notamment l'nergie solaire, olienne et le biogaz, dans tous les secteurs. Encourager la gestion durable des terres et des forts afin de rduire les missions dues  la dgradation et  la dforestation. Ainsi qu' intgrer la dynamique de genre tout au long du processus d'laboration et de mise en uvre des CDN. zone saharienne, sahlienne et soudanaise. Le relief est vari et contrast. Il est constitu principalement dune vaste cuvette borde par des massifs montagneux.
+
+Le domaine hydrographique reste domin par les cours deau et les lacs dont les permanents sont le Chari et le Logone. Ces cours deau forment le systme Chari-Logone avec une superficie de leur bassin versant de 600 000 km.1 Le Lac Tchad, fraction dune vaste mer intrieure, constitue le plan deau libre le plus vaste du Tchad.
+
+Le climat tropical du Tchad est rparti dans les grandes zones bioclimatiques, saharien au Nord, sahlien au Centre, Soudanien au Sud. En ce qui concerne la biodiversit, les principales formations vgtales du Nord au Sud sont les suivantes : (i) steppes arbustives  pineux et herbaces annuelles ; (ii) steppes arbores et arbustives  pineux et non pineux et herbaces annuelles ; (iii) savanes arbores et arbustives  combrtaces avec herbaces annuelles et herbaces prennes et (iv) savanes boises et forts claires dominant une strate herbace vivace.
+
+Le Tchad partage ses biomes avec ses pays voisins : (a) biomes dsertiques du Sahara avec la Lybie, le Soudan et le Niger ; (b) biomes Sahliens avec le Soudan, le Niger et le Nigria ;(c) savanes sches avec le Soudan, la Rpublique Centre Africaine (RCA), le Cameroun et le Nigria et (d) savanes humides avec la RCA et le Cameroun.
+
+La structure de lconomie du pays, qui reste trs peu diversifie, est fortement domine par le secteur primaire (ptrole, agriculture, levage et mines). Le secteur agricole qui se limite aux cultures vivrires, notamment les crales, et des cultures de rente, notamment le coton, la canne  sucre et la gomme arabique, est trs vulnrable aux alas climatiques. Le secteur priv n'est constitu que de petites et moyennes entreprises oprant pour la plupart dans l'conomie informelle.
+
+En outre, la vulnrabilit due  une faible irrigation,  la dsertification et  la dgradation des terres et des forts a des effets importants sur l'ensemble de la chane alimentaire de la population tchadienne.2 Les phnomnes mtorologiques extrmes tels que les scheresses, les inondations et les vagues de chaleur, ont un impact svre sur les ressources naturelles dont la population tchadienne, majoritairement rurale, tire ses moyens de subsistance.
+
+Le Tchad abrite une population estime  prs de 15 millions dhabitants en 2018. Elle est compose de 50,6% de femmes, de 78,1% de ruraux et de 50,6% de jeunes de moins de 15 ans. Les femmes et les jeunes filles au Tchad ont un accs ingal aux ressources (ducation, foncier) dans un contexte gnral de contraintes socioculturelles : coutumes, normes et traditions psent sur les femmes et freinent lapplication effective de leurs droits3. En outre, les femmes ne sont pas dans la mme position que les hommes pour faire face aux impacts ngatifs associs au changement climatique et n'ont pas les mmes capacits et possibilits pour y faire face, ce qui fait qu'elles sont plus exposes ou vulnrables.4 Lvolution du climat du Tchad  linstar dautres pays de lespace sahlien a connu au cours de ces dernires dcennies des ruptures marquant des phases bien distinctes. Cette volution se mesure par rapport au profil climatique qui mettra en exergue principaux alas climatiques observs et futurs, les groupes et secteurs vulnrables, les impacts et les capacits dadaptation qui sont les composantes de la vulnrabilit.
+
+1 Atlas du Tchad, aot 2013. 2 Programme Pays Fonds Vert Climat, 2019 3 tude sur l'intgration du genre dans le processus du PNA au Tchad, 2021. 4 tude sur l'intgration du genre dans le processus du PNA au Tchad, 2021.
+
+Avant les annes 70, la rgion a travers une succession dannes humides, puis a t svrement affect par deux dcennies de scheresse (1970-80).  partir des annes 1990, la pluviomtrie sest globalement amliore mais elle est caractrise par de fortes irrgularits (figure 1).
+
+Figure 1. Indice de variation annuelle des prcipitations au Sahel entre 1900 et 2010.
+
+Source : Washington University , NOAA, NCDC. Global Historical Climatology National Data (2012) Le climat du Tchad de type tropical sec situ entre les isohytes 0 et 1 200 mm dans trois grandes zones bioclimatiques (figure 2) est fortement contrastes :
+
+La zone saharienne ou dsertique au nord qui couvre le septentrional constitu des provinces du Borkou-Tibesti-Ennedi (BET) et les parties nord des provinces du Kanem et du Batha, soit 47% du territoire national. Avec une pluviomtrie infrieure  100 mm/an, seuls lagriculture oasienne et llevage camelin et de petits ruminants peuvent y tre pratiqus. La saison qui dure de deux mois dans le Nord (quasi nulle  lextrme Nord).
+
+La zone sahlienne au centre du pays couvre 43% du territoire national. Avec une pluviomtrie comprise entre 100 et 800 mm/an, elle prsente dimportants contrastes entre la partie nord aride (climat saharo-sahlien avec des pluies annuelles comprises entre 100 et 200 mm) et la zone sahlo-soudanienne au sud caractris par une pluviomtrie comprise entre 600 et 800 mm/an.
+
+La zone soudanienne au sud du pays, comprise entre les isohytes 800 et 1 200 mm, ne reprsente que 10% du territoire national. Elle concentre toutefois prs de la moiti de la population tchadienne. Le climat de type tropical subhumide - la pluviomtrie dans la zone soudano-guinenne  lextrme sud du pays est suprieure  1 200 mm  permet la pratique dune large varit de productions agricoles et llevage de nombreuses espces (bovins, caprins, ovins, porcins, volaille).
+
+Source : PANA, Ministre de lEnvironnement et de lEau, 2009.
+
+Il est  constater quaprs des annes humides de 1950 et 1960, la baisse des prcipitations sest amorce vers la fin des annes 1960, en phase avec ce qui a t observ dans le Sahel, et sest intensifie au cours des annes 1970 et 1980 avant de connatre une lgre rmission  partir des annes 1990 et 2000.
+
+Lvolution de lindice national de la pluviomtrie montre une forte variabilit  partir de 1965 avec une tendance  la baisse avec des rpercussions sur les systmes naturels et humains.
+
+La longueur de la saison agricole est galement sujette  dimportantes variabilits interannuelles, avec une tendance marque vers des saisons plus courtes. Une autre tendance est la frquence accrue de Au Tchad, lvolution interannuelle de 1950  2019 de lindice des tempratures montre une hausse continue de la temprature depuis le dbut des annes 80 jusqu nos jours. A limage du globe, les annes 1990 et 2000 ont t les plus chaudes depuis le dbut des enregistrements mtorologiques au Tchad. Les tempratures maximales ont augment en moyenne de 1,1 C sur lensemble du pays. Les tempratures minimales auraient augment de 2C sur la priode 1951-2010 et les tempratures maximales de 1C, avec des valeurs leves entre 2002-2010 (Mbaiguedem, 2012).
+
+Au Tchad, la recrudescence des phnomnes mtorologiques extrmes (scheresses, inondations, vagues de chaleur, vents violents, etc.) est un des faits marquants des changements climatiques enregistrs au cours de ces dernires dcennies au Tchad (PANA, 2010). Les pisodes de scheresses des annes 70, 80, ont caus de chute de production agricole et animale, de pertes en vies humaines et de la biodiversit, de dgradation du couvert vgtal, migration de la population et du btail et dinscurit alimentaire (PANA, 2010).
+
+La scheresse qui a prvalu au cours de la campagne 2009/2010, a affect prs de 2 millions de personnes, avec une diminution de la rcolte cralire denviron 31% par rapport  la moyenne quinquennale et de plus de 50 % dans la zone sahlienne (FAO, 2011).
+
+Les impacts du climat sont importants sur les grands systmes hydrographiques que sont les bassins du lac Tchad et du Niger, les systmes naturels, agro-sylvo-pastoraux, halieutiques et humains. Ils impliquent des dysfonctionnements des saisons agricoles, des perturbations des cycles biologiques des cultures et une baisse des productions cralires.
+
+Les modles climatiques montrent quil est trs probable que les tempratures en Afrique augmenteront au cours du 21me sicle de 3  4 C en moyenne, soit 1,5 fois plus que la moyenne globale. Cette augmentation de temprature sera plus importante dans les rgions continentales arides.5 Les rsultats sur les projections des changements de prcipitations et de temprature sur la base de 29 models globaux de lexprience CMIP6  lhorizon 2030 par rapport au scenario le plus optimiste (RCP4.5 ou profil reprsentatif dvolution des concentrations de gaz  effet de serre) et le scnario pessimiste ou RCP8.5, indiquent une hausse significative des tempratures de surface relativement  la priode 1981  2010. Selon ces RCP, la temprature moyenne au Tchad augmenterait en moyenne de + 1 C pour le scnario optimiste notamment dans partie Nord du Sahel et toute la zone saharienne. Pour le RCP8.5 (scnario pessimiste), cette hausse avoisinerait + 1,5 C  lhorizon 2030 dans lextrme Nord du pays. Concernant les prcipitations, les projections indiquent des hausses gnralises sur lensemble du pays. Cette hausse qui varie de 10  20 % sera plus importante dans les parties septentrionales du A la station de NDjamena, lvolution temporelle des tempratures de 1950  2100 relativement par rapport  la rfrence climatologique de 1981-2010 montre un accroissement des tempratures autour Toutefois, ces projections climatiques, en particulier celle relatives aux prcipitations, prsentent de nombreuses incertitudes (AGRHYMET, 2015). Entre facteurs globaux, dynamiques rgionales et continentales, le climat de lAfrique sahlienne est soumis  de fortes incertitudes.8 Au regard de la politique du Gouvernement en matire de dveloppement, le Tchad qui aspire  devenir un pays mergent  lhorizon 2030 entend, entre autres, renforcer la protection de lenvironnement, ladaptation aux effets des changements climatiques et rduire considrablement les missions de gaz  5 Stratgie Nationale de Lutte contre les Changements Climatique au Tchad, 2017. 6 Stratgie Nationale de Lutte contre les Changements Climatique au Tchad, 2017. 7 Stratgie Nationale de Lutte contre les Changements Climatique au Tchad, 2017. 8 Stratgie Nationale de Lutte contre les Changements Climatique au Tchad, 2017.
+
+La protection de lenvironnement est inscrite dans la Constitution tchadienne (Articles 47 et 52 et Loi N014/PR/1998. La politique nationale en matire du climat est confie au Ministre en charge de lenvironnement - dont la dnomination est  lheure actuelle Ministre de lEnvironnement, de la Pche et du Dveloppement Durable -  travers la Direction de lducation Environnementale et de la Lutte Contre les Changements climatiques (DEELCC).
+
+Le Gouvernement Tchadien, en signant et ratifiant respectivement en 1992 et 1993 la Convention-Cadre des Nations Unies sur les Changements Climatiques (CCNUCC) et en ratifiant son Protocole de Kyoto en 2009 et lAccord de Paris sur le climat en 2015, sest engag  apporter les changements  moyen et long termes ncessaires pour attnuer les missions de Gaz  Effet de Serre (GES) et  sadapter aux effets nfastes de ces changements climatiques  travers le dveloppement des stratgies plus rsilientes et adaptes. Dans ce cadre et conformment aux engagements, le Tchad a labor et mis en uvre des politiques, stratgies et plans qui abordent les impacts du changement climatique :
+
+(i) La 1re Communication Nationale sur les changements climatiques en 2001 et la 2me en 20129 ; (ii) Programme dAction National de lutte contre la dsertification (PAN-LCD) adopt en 2000 dont les quatre objectifs prioritaires sont : le dveloppement durable des filires, la sauvegarde des cosystmes menacs, la lutte contre la dsertification et la gestion des risques ;
+
+(iii) Programme dAction National pour lAdaptation (PANA) prsent en 2009 ;
+
+(iv) Contribution Prvue Dtermine au niveau National (CPDN) devenue CDN aprs lentre en vigueur de la ratification de lAccord de Paris le 12 janvier 2017 ;
+
+(v) Plan National d'Investissement du Secteur Rural du Tchad (2016 - 2022) ; (vi) Plan d'Action pour la mise en uvre du Cadre National pour les Services Climatiques du Tchad (2016-2020) ;
+
+(vii) Plan National de Dveloppement (PND 2017-2021) ;
+
+(viii) Stratgie Nationale de Lutte contre les Changements Climatique (SNLCC) au Tchad e 2017 ; (ix) Politique Nationale de lEnvironnement (PNE), 2017 en cours de validation ;
+
+(x) Vision 2030, le Tchad que nous voulons (2017) ;
+
+(xi) Le Plan National d'Adaptation est en cours d'laboration ;
+
+(xii) Mise  jour de la CDN.
+
+La CDN actualise du Tchad se base sur des lments mis  jour, notamment un inventaire des missions de GES couvrant la priode 2010  2018, anne choisie comme anne de rfrence. Lobjectif fix dans le scnario conditionnel est de rduire les missions de GES de 19,3%, en 2030, par rapport  un scnario de rfrence. Cet objectif conditionnel, le Tchad entend le raliser tout en poursuivant les efforts de dveloppement et en valorisant de manire durable ses ressources disponibles.
+
+La CDN couvre les missions de GES du territoire national pour les secteurs de lnergie, lagriculture, la fort et laffectation des terres ainsi que des dchets. Les missions lies au procds industriels nont pas t comptabilises faute de donnes. Nanmoins, elles sont considres comme faibles tant donn dofficialisation  la date de soumission de la CDN.
+
+La rvision de la CDN du Tchad a permis de revoir linventaire des missions de GES sur la srie temporelle 2010-2018 en appliquant les dernires lignes directrices du GIEC sur la base des statistiques disponibles. Les missions de nouveaux secteurs, telles que les missions fugitives, les missions de CH4 et N2O lies  la combustion du bois, les missions du traitement des eaux uses, etc. ont t incluses.
+
+Les GES couverts sont le CO2, le CH4 et le N2O. Les PRG appliqus sont ceux de lAR4 du GIEC. Les lignes directrices 2006 du GIEC sont appliques  lensemble des secteurs couverts.
+
+Linventaire des missions de GES mis  jour porte sur la priode 2010  2018 et couvre les secteurs de :
+
+- Lnergie : production dlectricit, industrie, transport, habitat, missions fugitives lies  lextraction de ptrole et de gaz et  la production de charbon de bois, - Lutilisation des terres, changement d'affectation des terres et foresterie, - Le traitement des dchets solides et liquides.
+
+Selon les rsultats dinventaire, les missions de GES incluant les puits ont augment de 49 320 kt CO2eq  74 090 kt CO2eq entre 2010 et 2018 soit une augmentation de 50%.
+
+Lagriculture est le principal secteur metteur de GES au Tchad et reprsente environ 95% des missions de GES.
+
+Selon ce scnario de rfrence, les missions de GES augmenteraient de 74 090  84 960 kt CO2e entre 2018 et 2030. Cette projection a t labore  laide de loutil GACMO en prenant en compte les Le secteur de lnergie porte sur les secteurs de la production et transformation dnergie ainsi que sur les usages dans les diffrents secteurs. Les bilans nergtiques de la division des statistiques des Nations Unies (UNSD) qui sont cohrents sur la priode 2010  2018 ont t utiliss afin destimer les missions de GES de ce secteur. Pour la consommation de biomasse, seules les missions de CH4 et de N2O sont considres dans ce secteur, conformment aux lignes directrices du GIEC. En effet, les missions de CO2 lies  la consommation de biomasse sont comptabilises dans le secteur UTCATF.
+
+Lconomie tchadienne est largement dpendante de la production de ptrole (20 % du PIB et plus de 80 % des exportations de biens en 2019) qui a dbut en 2003 et a permis au pays de connatre une priode de croissance rapide jusquen 2014 (taux de croissance annuel moyen de 13,7 %). Les missions fugitives lies  lextraction de ptrole sont estimes et reprsentent environ 30% des missions de lnergie en 2018. Cette industrie tant rcente et moderne, les facteurs dmission des pays dvelopps ont t appliqus. Dautre part, des missions fugitives lies  la production de charbon de bois sont galement estimes sur la base du raffinement 2019 des lignes directrices du GIEC et reprsentent 18% des missions de lnergie.
+
+Pour la production dlectricit, le taux daccs  llectricit tait de lordre de 11% en 2020, concentr essentiellement  NDjamena et dans certaines zones urbaines. Selon le Plan durgence daccs  llectricit 2021-2023, lobjectif  lhorizon 2030 est datteindre un taux daccs  llectricit de 53% sur lensemble du territoire. Lactivit et les missions associes lies  la production dlectricit augmentent donc rapidement dans le scnario de rfrence.
+
+Dans la consommation finale, le secteur des transports est le principal secteur consommant des produits ptroliers.
+
+Les secteur rsidentiel/tertiaires consomment essentiellement du bois et du charbon de bois.
+
+Lindustrie manufacturire est peu dveloppe et consomme essentiellement de la biomasse et de llectricit.
+
+Faute de projections officielles, des taux de croissance annuels entre 4 et 6% sont appliqus selon les secteurs, sur la base des volutions estimes du PIB et de la population sur la priode. Pour la production dlectricit, les taux de croissance suivent les objectifs de raccordement dlectricit de la population.
+
+Lindustrie manufacturire occupe une place marginale et repose essentiellement sur la production de bire et boissons gazeuses, la production de sucre, et lgrenage du coton.
+
+Seules les missions lies aux consommations nergtiques sont comptabilises pour ce secteur. Les missions lies aux usages non nergtiques de combustibles et aux fuites de gaz fluors ne sont pas estimes et sont considres comme ngligeables.
+
+Les missions de GES du Tchad dans le secteur agriculture sont principalement lies aux activits dlevage (79% des missions du secteur dont 50% dus  la fermentation entrique et 29% aux djections) et du brulage des savanes (13%). Elles proviennent galement des activits de riziculture (2%), de lusage dengrais et du brulage des rsidus agricoles (3%).
+
+Les missions dues  llevage ont t estimes  partir des statistiques fournies par le Bureau Central de Recensement Gnral de l'Elevage disponibles sur la priode 2010  2020 avec une mthode de niveau 1 et les facteurs dmission par dfaut du GIEC.
+
+Les missions lies  la production agricole (riziculture, brulage des rsidus de rcolte et les missions directes et indirectes de N2O des sols cultivs) ont aussi t estimes avec les donnes de surfaces, de productions et de consommations dengrais fournies par les services statistiques du Tchad. Les hypothses sur le brlage des rsidus sur le coton et les crales ont t inspires par des rfrences sur les pratiques au Mali, la riziculture a t suppose de type pluvial avec une dure de croissance de 183 jours de mai  octobre. Les missions sont ensuite calcules en appliquant les mthodes de niveau 1 des lignes directrices 2006 du GIEC. Quant aux missions de GES lies au brlage des savanes, les donnes de surfaces et de biomasse brules sont directement rcupres sur le site de la FAO auxquelles les mthodologies des lignes directrices 2006 ont t appliques.
+
+Le Tchad est subdivis en deux zones bien distinctes : la zone dsertique au nord avec une couverture vgtale presque inexistante et la zone soudano-sahlienne qui dispose dune couverture vgtale denviron 128 400 000 ha.
+
+Les missions/absorptions lies au secteur de lUtilisation des terres, changement daffectation des terres et Foresterie (UTCATF) ont t estimes sur la base des lignes directrices du GIEC 2006. Les changements doccupation des terres ont t estims  partir des cartes produites par le centre U.S. Geological Survey Earth Resources Observation and Science (USGS EROS) qui prsente une volution des terres sur la priode 1975-2015. La caractrisation des diffrents types daffectation des terres (forts, savanes, etc.) en termes de productivit est base sur la base des donnes recueillies de la base de Donnes de lOccupation du Sol (BDOCS) de P-SIDRAT. Les estimations sur la consommation de bois sont galement issues des travaux raliss dans le cadre du programme SIDRAT.
+
+Le puits du secteur UTCATF estim   5 144 kt CO2eq en 2010 sest rduit jusqu  641 kt CO2eq en 2018 du fait dun fort taux de dboisement et de dforestation.
+
+Les quantits de dchets produites en 2030 sont estimes sur la base dune moyenne historique par habitant denviron 88 kg/habitant/an (donnes Banque Mondiale). Ce taux de production de dchets est considre stable jusqu 2030.
+
+Le scnario de rfrence prvoit le prolongement des mmes pratiques de gestion des dchets observes actuellement : environ 86% des quantits de dchets vont en dcharges ouvertes considres comme des dcharges non gres peu profondes et le reste est trait par feux ouvert.
+
+Dans ces conditions, les missions associes au traitement des dchets solides, calcules en appliquant les lignes directrices 2006 du GIEC, augmenteraient de 326 kt CO2eq en 2018  environ 546 kt CO2eq en 2030, soit une progression moyenne de 5% par an sur la priode.
+
+Pour les eaux uses, les quantits de DBO (demande biochimique en oxygne) produite sont estimes  presque 293 kt par an en 2030 compares  prs de 222 kt en 2020. Le prolongement des pratiques de gestion actuelles conduit  des missions de GES de 814 kt CO2eq en 2030 contre 552 kt CO2eq en 2018.
+
+Les missions cumules des trois sous-secteurs (feux ouverts, stockage et traitement des eaux) sont ainsi estimes  environ 1 360 kt CO2eq en 2030 contre 878 kt CO2eq en 2018, soit une augmentation annuelle moyenne de 4,3% par an.
+
+Le Tchad prsente des objectifs dattnuation en termes de rduction par rapport au scnario de rfrence,  lhorizon 2030. Limpact des actions considres, en termes de rduction des missions de GES, est estim  partir de loutil GACMO. Les actions couvrent essentiellement les secteurs de la production dlectricit, de lindustrie, du rsidentiel, de la pche et de la foresterie.
+
+Deux scnarios sont considrs pour les projections dmissions : un scnario inconditionnel (o seules les actions finances au niveau national sont mises en uvre) et un scnario conditionnel (avec des actions dattnuation supplmentaires couvertes par des appuis internationaux).
+
+Le scnario inconditionnel entraine une rduction minime de 0,5% en 2030 par rapport au scnario de rfrence.
+
+La plupart des actions ont t comptabilises dans le scnario conditionnel qui permet quant  lui datteindre une rduction de 19,3% des missions de GES par rapport au scnario de rfrence, en 2030 soit 16 372 kt CO2eq dmissions vites en 2030 et 88 350 kt CO2eq dmissions vites de manire cumule entre 2018 et 2030. Ce scnario est trs ambitieux tant donn que la baisse des missions repose uniquement sur les secteurs de lnergie (production dlectricit et efficacit nergtique), sur laugmentation du puits de carbone et trs lgrement sur le secteur des dchets.
+
+201020112012201320142015201620172018201920202021202220232024202520262027202820292030 Tableau 2 missions de GES (kt CO2eq) et impacts des diffrents scnarios sur la priode 2018-2030 Les actions considres sont dcrites ci-dessous :
+
+Les projets considrs dici 2030 dans les scnarios sont pour le secteur de la production dlectricit :
+
+Scnario inconditionnel :
+
+- La construction dune centrale  turbine fonctionnant au gaz de 210 MW implante  NGouri dans la Province des Lac ;
+
+- La prise en compte de 2,2 MW doliennes ;
+
+- La mise en place de fours de schage amliors pour le secteur de la pche (150 fours de type chokor et 200 claies de schage amliores) permettant des gains de 30  40% de la consommation de bois par rapport  un four traditionnel pour le fumage du poisson.
+
+Scnario conditionnel (actions supplmentaires) :
+
+- La construction de deux centrales (2x15 MW chacune) alimentes  la biomasse  Moundou et Sarh ;
+
+- Le mise en uvre du projet dinterconnexion du rseau lectrique entre le Tchad et le Cameroun qui permettrait dutiliser lnergie dorigine hydraulique (40 MW) ;
+
+- La construction de plusieurs centrales photovoltaques de grande envergure pour un total de 240 MW  trs court terme (2025) et de 400 MW  lhorizon 2030 ;
+
+- La construction de centrales hybrides solaire-diesel pour un total de 60 MW (plusieurs projets sont  ltude  Sarh, Moundou et Pala) ;
+
+- La construction dune centrale solaire avec stockage dune capacit de 65 MW dans la ville de NDjamena ;
+
+- La construction de centrales oliennes, pour un total de 100 MW,  Bol, Mao, Amdjarass, Faya, Biltine, Fada, Gurfa, Iriba, Kalaite et Arada ;
+
+- Lextension de lusage des fours et claies de schage amliors pour le secteur de la pche (1500 fours de type chokor et 2000 claies de schage amliores) permettant la rduction de la consommation de bois pour cette activit.
+
+- En termes defficacit nergtiques les actions sont :
+
+- Enfin, lvitement de CH4 via la mise en place de 10 000 digesteurs dans les fermes permettant de rduire les consommations de combustible fossile est considr dans le scnario conditionnel.
+
+La mise en place de ces actions dici 2030 permettra dviter lmission de 6 900 kt CO2eq par rapport au scnario de rfrence dont 1 979 kt CO2eq sont comptabilises dans le secteur de lnergie, 4 909 kt CO2eq sont comptabiliss en foresterie (du fait de la baisse de la consommation de bois dans le rsidentiel et dans lindustrie) et enfin 12 kt CO2eq avec lvitement dmissions de CH4. Cet engagement pourrait tre renforc  lavenir par la mise en place dactions dattnuation dans le secteur du transport notamment via la construction de lignes de chemin de fer, le dveloppement des transports en commun dans les villes et lamlioration de lefficacit nergtique du parc roulant, notamment via linterdiction dimportation des vhicules trop anciens. Ce secteur na pas t considr dans les actions, faute de donnes prcises sur le parc roulant et les consommations au niveau national.
+
+Un inventaire plus prcis de ce secteur devrait tre raliss afin de pouvoir valuer les actions  mettre en uvre ainsi que leur impact en termes dattnuation.
+
+Lagriculture est le secteur le plus metteur au Tchad. Nanmoins, aucune action prvue (hormis la mise en place de digesteurs dans les fermes, comptabilise en nergie) ne vise directement une rduction des missions agricoles, les principaux objectifs tant lis  la scurit alimentaire du pays et au dveloppement de la productivit agricole.
+
+La priorit pour ce secteur devra donc porter sur laffinement des donnes dactivit et des pratiques qui permettront daffiner linventaire des missions de GES et ainsi pouvoir tablir un plan dactions dtaills selon les priorits dfinies au niveau national.
+
+Des actions de reboisement et de reforestation sont en cours ou/prvues pour amliorer le puits du carbone dici 2030. Dans le cadre du Dfi de Bonn, le Tchad sest engag  reboiser un total de 5 millions dhectares dici 2030, notamment des savanes arbustives dans la zone sahlienne (3,5 Mha) et arbore dans la zone soudanaise (1,5 Mha). Des actions de protection permettant dviter la dforestation (877 000 ha) et de restauration sont aussi prvues (50 000 ha) dans le plan dactions  lhorizon 2030. Limpact de ces actions est estim  des absorptions supplmentaires de 9 400 kt CO2eq en 2030 auxquelles sajoutent 4 909 kt CO2eq dmissions vites lies aux actions defficacit nergtique.
+
+La mise en place dune politique nationale de gestion des dchets est cruciale en termes de sant publique et de dveloppement du pays. Le scnario conditionnel prend en compte la mise en place dusines de traitement des dchets dans les grands centres urbains avec un impact de rduction estim  environ 10% des missions lies  la gestion des dchets solides. La priorit est encore damliorer la connaissance du secteur et de mettre en place des actions efficaces de collecte et traitement des dchets tels que la valorisation du mthane gnr dans des dcharges gres. Le traitement de eaux uses (notamment en zone urbaine) et la mise en place du compostage des dchets sont aussi  tudier.
+
+Tchad est considr par la communaut scientifique internationale comme lun des  hotspot  du changement climatique dans le monde. En effet, Le Tchad a t classifi comme le pays le plus en pril, parmi les 186 pays valus, dans le cadre d'une tude sur la vulnrabilit climatique. 10 10 Indice de vulnrabilit au changement climatique 2017. Verisk Maplecroft 2016 Conscient de ces dfis, le Gouvernement du Tchad a clairement mis laccent sur la ncessit de ladaptation dans sa premire CDN qui a dfini plusieurs secteurs et mesures prioritaires. Depuis, le gouvernement du Tchad a labor un nombre de stratgies et plans dactions qui renforces les actions visant  asseoir une conomie et une socit plus rsiliente aux changements climatiques. Celles-ci incluent,  la Vision 2030, le Tchad que nous voulons  et le Plan National de Dveloppement 2017  2021, la Stratgie Nationale de Lutte contre les Changements Climatiques et la Politique Nationale de lEnvironnement (2017).
+
+La mise  jour de cette CDN, en termes dactions pour ladaptation, sest droule en parallle et en troite collaboration avec llaboration du premier PNA. Ceci a permis de faire des consultations a chelle nationale et rgionale et de mettre  jour la liste des principaux alas climatiques, secteurs vulnrables et priorits stratgiques en matire dadaptation, en tenant compte comme point de dpart les priorits dfinies dans le PANA, la premire CDN, la stratgie nationale de lutte contre les changements climatiques et le programme pays FVC, qui sont rsumes dans le tableau ci-dessous. Tableau 3 Priorits dfinies dans le PANA, la premire CDN, la SNLCC et le programme pays FVC L'importance de l'adaptation au changement climatique dans les politiques nationales et sectorielles se manifeste par l'intgration dans les plans et stratgies nationaux des aspects lis  gestion durable des ressources naturelles, la coordination et la convergence efficaces des initiatives en matire de changement climatique, l'intgration de l'adaptation dans la planification nationale et dans les politiques et stratgies aux niveaux central, rgional et local. Ainsi que lapplication effective de services et dinformations mtorologiques et climatologiques pertinentes et facilement comprhensibles.
+
+Il est  noter que ces alas et impacts ont des importances et priorits diffrentes selon les zones bioclimatiques du Tchad.
+
+Tableau 5 Zones bioclimatiques du Tchad, alas et secteurs prioritaires Les options d'adaptation prioritaires ont t identifies pour chaque domaine d'intervention sur la base des priorits nationales, de consultations avec les parties prenantes au niveau nationale et rgional, ainsi quune consultation dans les rgions avec les communauts et les responsables rgionaux et l'analyse de la vulnrabilit des secteurs sensibles au climat du Tchad. Les tudes ont utilis une combinaison de revue de la littrature, de discussions de groupe et d'entretiens individuels. Les graphes suivants rsument les mesures prioritaires pour chaque domaine d'intervention, class selon un score compilant les valuations de lefficacit, faisabilit, rapport cots/bnfices ainsi que lacceptabilit de chaque mesure.
+
+Les domaines d'intervention suivants ont t classs selon les rsultats des consultations avec les parties prenantes : Agriculture et levage, Environnement et forts ; Eau et Assainissement ; nergies Renouvelables ; Genre et protection sociale ; ducation et communication ; Gestion de risque, Infrastructure et Amnagement du Territoire ; et Ressources halieutiques et aquaculture. Il convient de noter que le nombre et lordre des domaines d'intervention prioritaires a chang en comparaison avec la premire CDN. Les parties prenantes ont par ailleurs identifis un nombre additionnel de domaines d'intervention prioritaires,  savoir, les domaines d'intervention de lenvironnement, le genre et la protection sociale et ducation.
+
+Domaines d'intervention agriculture et levage : tant un pays enclav, son conomie repose essentiellement sur lagriculture et llevage qui sont des secteurs trs sensibles aux changements climatiques. Le secteur de lagriculture qui est tributaire des conditions climatiques est fortement affect par les changements climatiques (baisse des rcoltes, rtrcissement des espaces culturaux, scheresse). Les capacits limites des populations locales  s'adapter aux risques climatiques constituent galement un obstacle majeur pour btir leur rsilience.
+
+Les options d'adaptation prioritaires envisages, reprsentent un certain nombre de mesures visant pour devenir plus rsilient. Elles sarticulent autour de la diminution des menaces en intervenant sur les alas notamment, entre autres, par la promotion des varits amliores des cultures, qui offrent des rendements plus levs et plus stables et une meilleure rsistance au climat. Autres options prioritaires en matire d'agriculture et levage comprennent galement, dveloppement de lagroforesterie et le dveloppement de lapproche par filire des filires agro-pastorales, lamlioration de lefficacit globale de llevage, linvestissement dans lamlioration de la gestion des pturages, rglementation de la mobilit pastorale et la diversification des techniques de conservation de leau et des sols.
+
+Diversification des techniques de conservation de leau et des sols (CES) Dveloppement de lapproche par filire des filires agro- pastorales et agriculture biologique Domaines d'intervention environnement et forts : La hausse des tempratures et la recrudescence des pisodes de scheresse pourraient influencer le renouvellement des systmes forestiers et pouvant conduire  des dforestations irrversibles. Les aires protges couvrent 12% du territoire mais sont soumises  de fortes pressions : pression pastorale, braconnage, pche, pression dmographique, surexploitation des ressources naturelles, feux de brousse et agriculture. Au Tchad, il y a un manque important de donnes environnementales, ce qui limite la possibilit dvaluer les impacts.
+
+Les mesures d'adaptation identifies soutiendront la restauration des forts et la gestion durable des forts, par exemple,  travers la promotion des produits forestiers non ligneux, ce qui profitera  la conservation de la biodiversit et rduira la dforestation, ainsi que l'impact des inondations, et contribuera au dveloppement d'activits gnratrices de revenus pour les communauts Domaines d'intervention eau et assainissement. Les projections actuelles de la disponibilit de l'eau au Tchad prsentent une grande incertitude dans les deux scnarios d'missions de GES. Les effets combins de la rduction des prcipitations et des tempratures leves conduisent dans certains cas  l'asschement de certains cours d'eau et installations d'eau potable. Lorsque des inondations se Promotion et valorisation des Produits Forestiers Non Ligneux (PFNL) Sytmes de collecte et traitement des eaux uses des eaux de pluies Promotion des mesures de base en assainissement (e.g. assainissement total Pilot par la Communaut et Amlioration des Connaissances sur les Ressources en Eau de surface et souterraine produisent, elles augmentent la pollution des eaux de surface et souterraines. Dautre part, les inondations provoquent la pollution des eaux souterraines  travers des ouvrages de captage mal protgs. Dans les milieux urbains, la plupart des populations font leur besoin dans des latrines pas ou peu tanches et creuses  des profondeurs dpassant le niveau de la nappe phratique. Laccs (ou le manque daccs)  leau,  lassainissement et  lhygine contribue fortement  la vulnrabilit structurelle du Tchad et affecte la situation sanitaire et nutritionnelle du pays. En matire dducation, les carences en eau, assainissement et hygine pnalisent aussi le dveloppement du capital humain.
+
+Les options proposes en matire d'eau, d'assainissement et d'hygine amlioreront la sant et contribueront aux avantages conomiques des communauts. Ces mesures amlioreront l'accs des communauts  l'eau et  l'assainissement de base et soutiendront les infrastructures d'eau et d'assainissement rsilientes au climat. De mme que l'utilisation durable, la protection et la gestion des ressources en eaux de surface et souterraines, et la gestion rsiliente des dchets solides et liquides. Domaines d'intervention nergies renouvelables. La consommation nationale dnergie est domine  96,5% par la consommation de combustibles ligneux dont la productivit reste fortement dpendante du climat et ses variations.11 Cette surexploitation des ressources en bois pour les usages mnagers combins au changement climatique ont conduit une dforestation suprieure  90% du patrimoine national et une extinction de certaines espces vgtales de 1970  nos jours.12 Comme la principale source dnergie pour la cuisine est le bois ou le charbon de bois, la vulnrabilit du bois-nergie peut avoir un impact considrable sur les mnages qui en sont dpendant, surtout la population la plus Les options prioritaires identifies comprennent des mesures qui favoriseront et soutiendront l'utilisation d'nergies renouvelables, telles que le biogaz et l'nergie solaire, qui contribueront  rduire la dpendance des communauts vis--vis du bois de chauffage. Cela contribuera  rduire la dforestation et la dgradation de la couverture terrestre, et aura des retombes positives sur l'conomie, la sant publique, la sant et l'environnement.
+
+Domaines d'intervention genre et protection sociale. Une ducation limite, des barrires culturelles, les ingalits des responsabilits sociales et la faible participation des femmes dans les prises de dcisions sont  la base de leur vulnrabilit et entravent leur capacit  sadapter aux changements climatiques14 . Les femmes ne se trouvent pas dans les mmes conditions que les hommes pour affronter les impacts ngatifs associes aux changements climatiques et nont pas les mmes capacits et possibilits pour y faire face, ce qui les expose ou les rend plus vulnrables.
+
+Les options prioritaires identifies pour faire face  ces questions comprennent entre autres, la facilitation  laccs  la terre aux femmes, le dveloppement des filets sociaux ou le dveloppement dune base nationales de donnes dsagrge.
+
+Domaines d'intervention gestion de risques, infrastructure et amnagement du territoire. Le changement climatique aura des impacts importants sur les tablissements humains et sur les sites de production conomique, particulirement dans les zones urbaines  forte densit de population comme NDjamena, Moundou ou Sarh. Les centres urbains sont dj confronts  des pisodes dinondations lors de fortes pluies ou de crues des fleuves. Le Tchad, dpend fortement du transport routier, mais la densit routire du pays schelonne entre 6 et 40,5 km pour 1 000 km2 et de nombreuses routes non 14 IISD. MEP. 2021. Integration du genre dans le processus PNA au Tchad.
+
+Promotion des instruments tels que le zonage, les codes de construction et le ramnagement* Mettre en uvre un amnagement du territoire sensible aux risques et participatif * Gestion des nouvelles catastrophes naturelles lies au climat sur la base de cartes de zones a risque* Mise en place des Plan de Gestion des Risques et Catastrophes Climatiques  chelle nationale et locale Sensibilisation des communauts sur la prvention et gestion des risques climatiques bitumes deviennent impraticables pendant la saison des pluies, de nombreux villages et communauts rurales se retrouvant alors isols.
+
+Les options prioritaires amlioreront la prparation des communauts et incluront l'intgration de mesures de rduction des risques telles que des mcanismes d'alerte prcoce pour les inondations et les scheresses. Les mesures d'adaptation profiteront aux tablissements urbains en rduisant leur vulnrabilit aux effets des phnomnes mtorologiques extrmes grce  la cartographie des risques, aux codes de construction rsistants au climat et  la rhabilitation des infrastructures.
+
+Domaines d'intervention ducation et communication.
+
+Le secteur de lducation est un secteur primordial pour avancer tous les objectifs de dveloppement du Tchad. Il est impact directement et indirectement par le changement climatique, particulirement suite aux phnomnes extrmes (inondations, vagues de chaleurs, etc) qui peuvent engendrer des mortalits des enfants scolariss, et enseignants ou avoir un impact sur les infrastructures scolaires. Selon lIndice des risques climatiques pour les enfants (IRCE) de lUNICEF, le Tchad est le deuxime pays au monde ou les enfants sont le plus  risque des changements climatique.15 Par consquent, et  travers les priorits identifies pour ce domaine d'intervention, le rsultat attendu est que les adultes, les jeunes et les enfants amliorent leurs connaissances et leurs informations tout en les encourageant  participer  des activits scolaires axes sur l'adaptation au climat et la rsilience afin de contribuer aux solutions au changement climatique.
+
+15 UNICEF. 2021. Unicef. 2021. La crise climatique est une crise des droits de lenfant.
+
+Adaptation des calendriers scolaires aux changements climatiques Intgration de ladaptation dans le curricula de lducation et dans les modules denseignement  Promotion de lalphabtisation a fonction cologique pour les adultes Finaliser et mettre en oeuvre la strategie de communication du PNA* Promotion des clubs environnementaux dans les tablissements scoloaires et universitaires Domaines d'intervention ressources halieutiques et aquaculture : La variation des rgimes pluviomtriques et l'utilisation de l'eau ont un impact sur les activits de pche en eau douce. La variabilit climatique agit davantage sur les activits de la pche et de production de spiruline artisanale. Par consquent, une irrgularit des pluies entraine une faible productivit des pcheries et des ouadis producteurs de spiruline. Le secteur de la pche et de laquaculture est essentiellement artisanal et est confronte aux scheresses rcurrentes, le colmatage des cours deau et des lacs du fait de lrosion dans les bassins versants consquences de la dforestation acclre. Lintgration de changements climatiques dans ce secteur est trs faible en raison de linsuffisance de qualit des analyses conomiques et des valuations approfondies des risques et de la vulnrabilit du secteur de la pche.
+
+Les options prioritaires identifies comprennent des mesures qui contribueront  une meilleure adaptation des communauts aux impacts climatiques et, en mme temps,  l'amlioration de leurs moyens de subsistance, comme la pratique de la pche amplifie ou l'empoissonnement des barrages et des bassins de rtention.
+
+Les deux tudes ont aussi soulign la faible comprhension du concept de genre par les diffrents acteurs (dcideurs nationaux, et certaines femmes elles-mmes) et des liens avec les changements climatiques. Ce dficit s'explique en partie par un manque de formation sur les approches de dveloppement inclusif mais aussi le manque dinitiatives de dveloppement qui reposent sur la collecte systmatique de donnes dsagrges par sexe et par ge. Le rle de femmes dans la gestion cologique et les ingalits d'accs et de contrle des ressources qui aggravent leur vulnrabilit demeure par exemple peu reconnu. Les deux tudes ont mis laccent sur trois priorits transversales qui seront importantes  avancer dans les deux volets de la CDN, adaptation et attnuation :
+
+Renforcer les capacits du Ministre en charge du genre et des autres ministres impliqus dans la lutte contre les changements climatiques  exercer leur rle catalyseur  lintgration du genre dans les systmes de formulation, de budgtisation et de planification de ladaptation sensible au genre,  Systmatiser la mise en uvre de lapproche genre dans llaboration des politiques climatiques, des stratgies, plans, programmes et projets de dveloppement durable,  Garantir laccs des femmes aux sphres de prise de dcisions  travers un accompagnement qui assure lducation, linformation et lautonomisation conomique.
+
+L'amnagement du territoire est ressorti comme un lment transversal important pour la planification et lefficacits des priorits dattnuation et dadaptation de la CDN.
+
+Un amnagement du territoire efficace est un lment important d'une rponse russie au changement climatique, car il peut  la fois influencer les missions de gaz  effet de serre et reprsenter une stratgie d'adaptation rentable  l'chelle nationale, rgionale ou locale. Les choix en matire d'amnagement du territoire influencent de manire significative les impacts finaux du changement climatique et peuvent accrotre la rsilience  l'impact du changement climatique grce  l'emplacement, la combinaison et la conception du dveloppement. Actuellement, de plus en plus de pays intgrent la prise en compte des urbaines.
+
+En effet, d'ici 2030, le Tchad mettra en uvre plusieurs mesures d'adaptation au changement climatique qui se traduiront par des avantages en termes d'attnuation, spcialement les solutions bases sur la nature (SBN) qui auront lavantage de renforcer la rsilience aux changements climatiques, contribuer  la capture de GES et aussi permettre d'atteindre dautres ODD. Ces actions auront galement des effets bnfiques sur la biodiversit, la sant et le bien-tre socio-conomique des communauts.
+
+ce titre et compte tenu de la vulnrabilit de l'agriculture aux changements des rgimes de prcipitations dans le pays, la promotion et le soutien de SBN relatives  l'agriculture durable et intelligente face au climat ainsi que lagroforesterie qui comme la gestion des nutriments des terres important quant  lattnuation doubl dun nombre considrables de bnfices dadaptation avec des avantages environnementaux et socio-conomiques en termes d'amlioration de la biodiversit et des services des cosystmes ainsi que d'augmentation de la production agricole, d'amlioration des moyens de subsistance, de scurit alimentaire et de nutrition.
+
+La gestion du btail et des pratiques durables de pturage et d'alimentation peuvent avoir des avantages en termes d'amlioration de la fertilit des sols, de la couverture vgtale et des cosystmes des prairies, ce qui aura des avantages connexes d'adaptation au climat et de squestration du carbone. Ces actions seront galement associes aux pratiques de gestion du fumier et au compostage, qui auront des effets d'attnuation en rduisant les missions de mthane (CH4) et d'oxyde nitreux (N2O).
+
+D'autres mesures d'adaptation prsentant des avantages en termes d'attnuation soutiendront la restauration des forts et la gestion durable des forts, qui bnficieront  la conservation de la biodiversit et rduiront la dforestation, et limpact des inondations, ce qui contribuera  la squestration du carbone et aidera les communauts  mettre en place des activits gnratrices de revenus alternatives.
+
+L'intgration de l'adaptation et de l'attnuation dans l'accs  l'eau,  l'assainissement et  l'hygine amliorera la sant et contribuera aux avantages conomiques des communauts. Les mesures d'adaptation amlioreront l'accs des communauts  l'eau et  l'hygine de base et soutiendront les infrastructures d'eau et d'assainissement rsistantes au climat. Des mesures d'attnuation seront galement intgres en termes de traitement des eaux uses et d'utilisation de l'nergie solaire pour extraire l'eau, ce qui peut rduire les missions.
+
+Il est aussi important de noter que les parties prenantes ont identifi le domaines d'intervention des nergies renouvelables comme tant important pour ladaptation vu que la promotion et le soutien de l'utilisation d'nergies renouvelables, telles que le biogaz et l'nergie solaire, gnreront des co-bnfices en rduisant les missions de mthane (CH4) et d'oxyde nitreux (N2O) provenant du fumier et rduiront la dpendance des communauts vis--vis du bois de chauffage, ce qui contribuera  diminuer la dforestation et la dgradation du couvert vgtal, ce qui, en plus daugmenter la squestration du carbone est un lment important pour rduire la vulnrabilit aux changements climatiques et aura des avantages conomiques, de sant publique, sanitaires et environnementaux.
+
+La majorit des mesures d'adaptation et d'attnuation de cette CDN sont en parfaite synergie avec les engagements du Tchad dans les trois conventions de Rio sur la biodiversit, le changement climatique et la dsertification, ainsi qu'avec les Objectifs de dveloppement durable et ses engagements dans le cadre du Dfi de Bonn visant  restaurer 5 millions d'hectares de terres dgrades et dboises d'ici 2030. Dans ce contexte, les mesures d'adaptation prioritaires identifies ainsi que les actions d'attnuation promues par cette CDN soutiendront la restauration des forts et des terres, s'attaquer aux causes de la perte de biodiversit,  la dgradation des terres et  la rduction des missions de gaz  effet de serre.
+
+Certaines des mesures de rponse gnreront galement des synergies et co-bnfices, notamment en termes d'attnuation, d'activits gnrant des rductions d'missions de gaz  effet de serre, qui seront menes dans les secteurs de l'agriculture, de la foresterie et des autres utilisations des terres (AFAT). La CDN gnre galement des synergies qui peuvent galement gnrer des co-bnfices pour plusieurs ODD, particulirement en ce qui concerne les activits qui sont lies  des thmes tels que l'eau potable forts, les cosystmes, lenvironnent, la rduction des risques de catastrophe, la sensibilisation, l'emploi, le bien-tre, l'efficacit des ressources et la capacit d'adaptation, qui sont lis aux ODD 1, 2, 3, 4, 5, 6, 7, 9, 10, 13 et 15.
+
+Les actions dattnuation considres dans les scnarios sont clairement identifies ce qui permettra de suivre efficacement leur mise en place et leur impact rel en termes de rduction des missions de GES ainsi que les supports reus. Des indicateurs de suivi ainsi que les entits responsables de ce suivi seront dfinis dans le plan de mise en uvre de la CDN, pour chacune des actions.
+
+Linvestissement ncessaire  la mise en uvre des actions dattnuation de la CDN est estim ci- dessous :
+
+Tableau 6 Investissement ncessaire  la mise en uvre des actions dattnuation de la CDN La mise en uvre des actions couvertes par le scnario conditionnel ncessite lappui financier international  hauteur de 6,285,385,669 USD soit 94% des investissements ncessaires  latteinte de lobjectif national.
+
+Compte tenu du manque d'tudes et de donnes quantifies pour dterminer les impacts socio- conomiques du changement climatique sur les diffrents secteurs au Tchad, il tait difficile d'estimer le cot des interventions d'adaptation. Ainsi, les besoins de financement de cette CDN ont t estims en fourchette.
+
+Le montant minimum correspond est estim suivant une approche top-down qui estime les besoins dadaptation  un pourcentage du PIB. Celle-ci se base sur des simulations globales des besoins en adaptation dveloppes par le PNUE (approche top down tire de lAdaptation Gap Report), ainsi que plusieurs rapports et tudes qui ont valu que les couts dadaptation pourraient tre quivalent  une perte annuelle entre 1.5 et 3% du PIB en Afrique  lhorizon de 2030.18 Le Tchad tant lun des pays les plus vulnrables au monde, lestimation de 3% du PIB a t choisie.
+
+Selon cette approche, les besoins en financement pour rpondre au niveau lev de risques climatiques attendus au Tchad pourraient slever  plus de 375 millions dUSD ds 2021 (soit sur la base destimation de 3% du Produit intrieur brut) pour atteindre le cot annuel de 645 millions dUSD  lhorizon 2030 (tableau 7). En se basant sur ces simulations annuelles, les besoins en financement pour la priode 2021-2030 pourraient slever  plus de 5, 002 milliards dUSD.
+
+Tableau 7 Rcapitulatif des besoins de financement de ladaptation (approche top-down) Les besoins de financement proposs de 5,002 milliards dUSD pour la CDN rvise sont plus prudents par rapport aux besoins de financement de l'adaptation inclus dans la CDN 2015 et qui reprsentaient un total de 14,169 milliards dUSD. Cette valeur est garde comme la valeur maximale des couts dadaptation pour la priode allant  2030. Elle dcoule de lextrapolation des couts de deux programmes nationaux du Tchad axs sur la rsilience : le Programme Rsilience Pays du Tchad dans le cadre de lAlliance globale pour la rsilience (AGIR) (PRP_AGIR) et du Plan National dInvestissement du Secteur Rural (PNISR) couvrant la priode. Lextrapolation des couts de ces deux programmes a t faite en appliquant un taux annuel de croissance pour la population de 3,5% et un taux annuel dinflation de 2,9%10 pour arriver au montant de 14,169 milliards dUSD.
+
+Le PNISR, dun montant total de 2 301,7 milliards de FCFA, sappuie sur cinq programmes  savoir :  Gestion durable des ressources naturelles et adaptation aux changements climatiques (243,6 milliards de FCFA) ;
+
+dveloppement des infrastructures et des quipements du secteur rural (1 277,1 milliards de FCFA) ;  dveloppement des filires agro-sylvo-pastorales et halieutiques (360,1 milliards de FCFA) ;  scurit alimentaire et nutritionnelle, genre et renforcement de la rsilience des mnages ruraux (94,6 milliards de FCFA) ;
+
+recherche, adoption et diffusion des technologies, renforcement des capacits humaines et institutionnelles (326,3 milliards de FCFA).
+
+18 Watkiss, P. 2010. The economics of climate change.
+
+Le cot global du PRP slve  1 241 milliards de FCFA pour une priode de 5 ans jusquen 2020 et ses priorits sappuient sur les 4 piliers suivants :
+
+Pilier 1 : amliorer la protection sociale des communauts et mnages les plus vulnrables pour une scurisation de leurs moyens dexistence (415,7 milliards de FCFA) ;
+
+Pilier 2 : renforcer la nutrition des mnages vulnrables (249 milliards de FCFA) ;
+
+Pilier 3 : amliorer durablement la productivit agricole et alimentaire, les revenus des plus vulnrables et leurs accs aux aliments (564 milliards de FCFA) ;
+
+Pilier 4 : renforcer la gouvernance de la scurit alimentaire et nutritionnelle (12 milliards de FCFA). Les chiffres rels des couts dadaptation  lhorizon 2030 se situeraient dans une fourchette entre 5 et 14 milliards de Dollars Amricains. Des tudes plus dtailles destimations de couts des besoins en adaptation seront labores par le PNA-FEM.
+
+Sans ngliger limportance des sources de financement domestiques et prives, les apports financiers internationaux des Partenaires Techniques et Financiers devront jouer un rle trs significatif. Vu que le Tchad est parmi les pays les moins avancs, les apports prioritaires internationaux sont estims de lordre de 75 % des besoins en financement, et devraient slever  plus de 281 millions dUSD / an ds 2021 pour atteindre plus de 483 millions dUSD / an ds 2030.
+
+Il est  noter que le Programme Pays Fonds Vert Climat a un budget estim de 2,280 milliards dUSD pour onze (11) projets dadaptation  lhorizon 2030, et que le programme nadresse quune partie des secteurs prioritaires identifie par cette CDN actualise.
+
+Un plan d'investissement dfinira les priorits et le programme de financement ncessaire  la mise en uvre des diffrentes mesures. Ainsi, une liste de concepts de projets sera labore avec des propositions de financement qui seront soumises aux sources de financement. Dans ce contexte, le Tchad aura besoin d'une combinaison d'allocations budgtaires nationales, de sources de financement externes et de financement du secteur priv.
+
+Entre autres, le plan d'investissement climatique estimera les besoins en ressources et proposera des mcanismes et instruments financiers complmentaires ncessaires au financement de la CDN. Ainsi que des mcanismes pour encourager ou mobiliser le secteur priv afin de promouvoir la mobilisation de ressources. Elle contribuera aussi  proposer un mcanisme de suivi des investissements raliss pour la mise en uvre de la CDN et  proposer un cadre pour le rapport annuel des fonds mobiliss et des investissements raliss pour la mise en uvre de la CDN rvise.
+
+Par ailleurs et afin de renforcer la gouvernance climatique au sein du gouvernement du Tchad, la faisabilit de la mise en uvre d'un Fonds Climatique Tchadien sera explore sur la base des expriences nationales et internationales qui pourrait tre charg de mobiliser des opportunits de financement pour la mise en uvre des activits de la CDN et des autres activits en relation avec lattnuation et ladaptation des changements climatiques  long terme.
+
+Afin de rduire les risques institutionnels, techniques, politiques et financiers inhrents, cette activit doit faire lobjet dun renforcement des capacits techniques, de recherche et de coordination des parties prenantes. Le Tchad encourage les Parties inscrites  lAnnexe 1 de la Convention  soutenir techniquement et financirement la mise en place dinitiatives de suivi et valuation de la CDN au Tchad. Notamment, lappui  la mise en place de lAgence nationale sur le MRV impliquant les diffrents secteurs permettront la mise en place dun systme national de transparence portant sur la mise  jour rgulire des inventaires de GES, la dfinition et le rapportage des indicateurs de suivi des actions dattnuation et des supports ncessaires et reus.
+
+Le renforcement des capacits dans le domaine des statistiques nationales et de la dfinition des actions dattnuation au niveau sectoriel. Cest notamment le cas dans le cadre de la transition nergtique (comptabilit nergtique, prospective, programmation des actions de maitrise de lnergie, suivi et valuation des actions mises en uvre, la dfinition de nouveau plans dactions sectoriels,) mais aussi des autres secteurs tels que lagriculture, lUTCF (avec la mise en place dun inventaire forestier et le suivi dans le temps de limpact des actions) et le traitement des dchets. Le renforcement de capacits des parties prenantes dans la mise en uvre des mcanismes de march carbone prvus dans larticle 6 de lAccord de Paris ainsi que des transferts de technologies.
+
+Le besoin du Tchad est lev en renforcement des capacits et transfert de technologie en plus des risques, fonciers, scuritaires et climatiques et du risque financier. Aussi l'attractivit du pays pour le secteur priv est trs faible en raison de multiples et complexes lments socio-conomiques et gopolitiques. Les capacits locales dans la chane de valeur des projets d'nergie durable sont insuffisantes et les donnes statistiques sur les ressources nergtiques sont limites. Compte tenu des priorits du gouvernement en matire d'nergies renouvelables, d'lectrification rurale et d'efficacit nergtique ( La lettre de politique nergtique (LPE) (2018 - 2030), du niveau de dveloppement du secteur de l'nergie durable au Tchad mais aussi de lurgence  intervenir sur le secteur lectrique, les actions suivantes prsentent un besoin urgent en renforcement des capacits et transfert des technologies :
+
+Renforcement du secteur de llectricit :
+
+- Amlioration du cadre lgal et rglementaire ncessaire au bon fonctionnement du secteur ;
+
+- Restructuration de la SNE et rvision de ses fondamentaux (politique de tarification, politique de recouvrement) ;
+
+- Rduction du cot de production du kWh ;
+
+- Dveloppement et amliorer les rseaux de distribution et de transport de llectricit  travers le pays ;
+
+- Renforcement des capacits institutionnelles pour permettre lexistence dun march de lnergie efficient ;
+
+Augmentation de laccs  lnergie de lensemble des populations ;
+
+- Dveloppement de llectrification dans les villes principales et secondaires ;
+
+- Dveloppement de llectrification dans le monde rural par des solutions dcentralises de type mini-rseaux ou kits solaires ;
+
+- Dvelopper des solutions alternatives au bois de feu pour la cuisson ;
+
+Promotion de la part des ENRs dans le bilan nergtique du Tchad ;
+
+- Augmentation de la contribution des EnRs sur le rseau lectrique ;
+
+- Promotion des solutions des ENRs pour llectrification rurale ;
+
+- Promotion des projets dlectrification par EnR de caractre social ;
+
+- Renforcement des comptences techniques locales sur les EnR et amlioration des procdures de contrles du march ;
+
+Appui des actions relatives aux technologies et innovation dans le domaine de lEfficacit nergtique :
+
+- Renforcement des procdures de soutien et dveloppement du march de lEE, domestique et industriel ;
+
+- Promotion des Foyers Amliors et la cuisson propre ;
+
+- Promotion des comptences techniques locales sur lEE et amlioration des procdures de contrles du march ;
+
+Le cot ncessaire aux actions de renforcement des capacits est estim entre 20 et 30 millions USD, avec lappui international.
+
+Afin de rduire la vulnrabilit et accroitre la rsilience, les besoins dadaptation touchent le renforcement des capacits humaines, institutionnelles, techniques, lappui financier et le transfert des technologies.
+
+Besoins en renforcement des capacits humaines et institutionnelles :
+
+Informer, duquer et communiquer sur les risques climatiques et les technologies dadaptation (dveloppement des capacits des populations  ragir) ;
+
+Renforcer les aptitudes des acteurs (surtout femmes et agriculteurs) sur de nouveaux itinraires techniques dans le cadre de modes de production intensifis et durables ;
+
+Appuyer la recherche et encourager les transferts de technologie entre les organismes de recherche et les acteurs agro-sylvo-pastoraux ;
+
+Soutenir les institutions  dfinir des priorits en matire dadaptation selon les secteurs socio- conomiques en fonction des besoins de la population et favoriser la cohrence intersectorielle, notamment lors de llaboration du Plan National dAdaptation.
+
+Besoins en renforcement des capacits organisationnelles :
+
+Les organisations de la socit civile et les collectivits locales du pays ont besoin dtre renforcs en termes de :
+
+Dfinition dune vision et stratgie qui permettent une meilleure prise en charge des proccupations des couches dfavorise et/ou vulnrables ;
+
+Dfinition des structures organisationnelles appropries ;
+
+Mise en place des mcanismes de recherche de financement et systmes de gestion des ressources (financires et humaines.
+
+Besoins en renforcement des capacits organisationnelles techniques :
+
+Les collectivits territoriales ont besoin des capacits en formulation participative et mise en uvre des stratgies, programmes et projets en matire dadaptation aux changements climatiques qui soient intgrs dans des plans communaux de dveloppement durable ;
+
+Les acteurs ont besoin de connaissances et savoir-faire en matire de :
+
+Construction douvrages de protection contre les impacts des changements climatiques ;  Conception et oprationnalisation des modes de production et de consommation plus cologiques ;
+
+Identification des espces vulnrables ;
+
+Conception et dveloppement des dispositifs dalerte et de prvention des catastrophes qui rsultent des changements climatiques ;
+
+Connaissances et savoir-faire sur les mthodes actives de recherche participative (administrations dconcentres), associations, ONG, chercheurs et autres acteurs de dveloppement - ces formations devront avoir pour focus ladaptation des groupes vulnrables aux impacts des changements climatiques.
+
+Besoins en renforcement des capacits daccs  linformation et aux connaissances :  Elaboration et mise en uvre dans chacun des pays dune stratgie de communication entre ladministration coordinatrice du volet changements climatiques et les autres acteurs de dveloppent ;
+
+Dveloppement dun programme national de sensibilisation, information et formation sur les changements climatiques ou appui aux programmes existants ;
+
+Appui  donner  tous les acteurs pertinents pour participer aux fora mondiaux, rgionaux et sous rgionaux en rapport avec les changements climatiques ;
+
+Ncessit dinformer et former les dirigeants et animateurs des fora provinciaux, locaux et communautaires sur les thmatiques en rapport avec ladaptation des groupes vulnrables aux changements climatiques.
+
+Besoins en renforcement des capacits de la recherche-dveloppement :
+
+Appuis permettant didentifier et de dvelopper des projets de recherche-action dans le domaine des politiques et de la rglementation pour accrotre le savoir-faire ncessaire dans le commerce volontaire du carbone, la mobilisation des financements qui en dcoulent et les mcanismes transparents et quitables de partage des bnfices.
+
+Le Tchad dispose dj dun certain nombre de structures et dun cadre institutionnel pour mettre en uvre lAccord de Paris. Notamment, au sein du ministre en charge de lenvironnement, la Direction de lducation Environnementale et de la Lutte contre les Changements Climatiques (DEELCC) est dsigne comme le point focal national de lAccord de Paris, et assure une fonction de coordination de laction climatique avec tous les acteurs publics et privs, spcialement avec tous les ministres sectoriels (Ministre en charge de lagriculture, Ministre en charge de llevage, Ministre de la sant publique, Ministre en charge des mines, de lnergie et du ptrole, Ministre en charge des infrastructures et des transports, Ministre en charge de lamnagement du territoire, Ministre en charge du commerce et de lindustrie, Ministre de lducation nationale, Ministre en charge de lenseignement suprieur, Ministre en charge de linformation et de la communication, Ministre en charge de la femme et des affaires sociales, Ministre en charge de la dfense nationale).
+
+Le Haut Comit National pour lEnvironnement (HCNE) cr par le Dcret N822/PR/MET/95 du 20 octobre 1995, est un autre organe important dans ce dispositif institutionnel, puisquil veille  la mise en application effective des articles de la Constitution relatifs  la protection de lenvironnement ;  lintgration effective de lenvironnement et le dveloppement ; et  la mise en uvre concrte des politiques de Dveloppement Durable. Le HCNE a aussi une fonction darbitrage en cas doptions contradictoires entre priorit de dveloppement et de protection de lenvironnement. Lors des consultations pour la mise  jour de la CDN, il est constat une ncessit urgente damliorer et surtout doprationnaliser et assurer une stabilit du cadre institutionnel et des points focaux pour viter une dispersion dnergie dans la gouvernance climatique. Cette action est primordiale pour garantir la durabilit de la mise en uvre des actions et projets climatiques Ces actions de renforcement du cadre institutionnel doivent renforcer aussi le rle des acteurs non tatiques et des communauts locales dans la formulation et la mise en uvre des politiques et processus dcisionnel.
+
+Une tude plus approfondie du cadre institutionnel en vue de recommander des structures pratiques simpose.
+
+Pour la prparation et la mise en place de projets dattnuation, le pays entend solliciter laide internationale auprs des diverses sources disponibles notamment les agences daide au dveloppement, les institutions financires bilatrales et multilatrales, les mcanismes financiers de la CCNUCC ainsi que le recours aux mcanismes bas sur le march pour un dveloppement durable de larticle 6.4 mais aussi des dmarches non fondes sur le march qui sont prvues par larticle 6.8 de lAccord de Paris.
+
+Information ncessaire  faciliter la clart, la transparence et la 1. Informations quantifiables sur le point de rfrence (y compris, selon quil convient, une anne de compris, le secteur UTCATF, est de 74 090 kt CO2eq.
+
+0,5% par rapport au scnario de rfrence, en 2030.
+
+a. Une description gnrale de la cible Un objectif de rduction inconditionnel de 0,5% en CO2eq de rduction).
+
+a. Des informations sur les processus de planification que la Partie a suivis pour laborer sa contribution dtermine au niveau national et, si elles sont disponibles, sur les plans de mise en uvre de la Partie, y compris, le cas chant sur :
+
+La CDN couvre :
+
+- Lensemble du territoire national ;
+
+- Les GES suivants ; CO2, CH4 et N2O ;
+
+Les PRG de lAR4 sont appliqus.
+
+Dautres programmes ci-dessous :
+
+37 C.
+
+Celle-ci a facilit :
+
+la ralisation de la collecte des donnes ;
+
+ODD, mais aussi lagenda 63 de lunion africaine.
+
+Les priorits sont :
+
+2- Dans le domaine de Ladaptation ;
+
+Llaboration du plan national dadaptation ;
+
+3- Les financements ;
+
+4- Le renforcement des capacits et ducation ;
+
+5- Le transfert de technologie ;
+
+6- La scurit alimentaire ;
+
+7- Lgalit des sexes (genre) ;
+
+8- Les actions en faveur de la jeunesse ;
+
+9- Les objectifs de dveloppement durable (ODD).
+
+Centrale.
+
+CDN pour rehausser lambition du Tchad.
+
+5. Hypothses et dmarches mthodologiques, y compris celles concernant lestimation et la comptabilisation des missions anthropiques de gaz  effet de serre et, le cas chant, des absorptions anthropiques :
+
+2006 du GIEC.
+
+Gas Abatement Cost Model).
+
+- Rduction des missions ;
+
+- Elimination des maladies ;
+
+Mthodologies : Lignes directrices 2006 du GIEC.
+
+PRG appliqus : les PRG sont ceux de lAR4 du GIEC :
+
+Produits Ligneux Rcolts ne sont pas encore estimes.
+
+GACMO, appliqus sur la priode 2018  2030.
+
+6. La manire dont la Partie considre que sa contribution dtermine au niveau national est quitable et et les technologies propre  faible mission de carbone.
+
+La CND actualise du Tchad est anime par :
+
+Tchad sont normes.
+
+Ministres cls, experts des diffrents secteurs).
+
+7. La faon dont la contribution dtermine au niveau national concourt  la ralisation de lobjectif de poursuivre.
+
+Climatiques souligne :
+
+23 L'article 2.1(a) de l'Accord de Paris comprend deux objectifs de temprature globale - "bien en dessous de 2 degrs" et 1,5 degr.
+

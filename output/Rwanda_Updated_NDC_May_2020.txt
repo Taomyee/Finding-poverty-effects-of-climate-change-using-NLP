@@ -1,0 +1,764 @@
+Like all Parties to the Paris Agreement, Rwanda must take the necessary actions to fulfill the commitments in its Nationally Determined Contribution (NDC) and achieve inclusive and sustainable development. These contributions are the instruments that guide Rwandas climate action to limit the increase in global average temperature, raise global resilience and mobilize public and private investments. Collectively, our task is to move forward on a path towards sustainable development while balancing environmental, social and economic variables.
+
+In 2011, Rwanda developed its Green Growth and Climate Resilience Strategy to guide the countrys response to climate change. The strategy has positioned Rwanda to play its part in the global response and, as a result, the country hosted the 28th Meeting of the Parties to the Montreal Protocol at which the Kigali Amendment was agreed. The amendment is the single most impactful step the world has taken to limit the growth of greenhouse gases and we are proud this decision was taken in Rwanda.
+
+Rwandas firm commitment to climate action can be seen in this revised NDC, which increases ambition in all components. It is particularly focused on transparency, clarity and the monitoring of the goals we have set for ourselves. As a party to the Paris Agreement, Rwanda is committed to setting ambitious targets needed to enact change.
+
+Rwandas Nationally Determined Contribution is built on data-driven analyses of the main contributors to the countrys greenhouse gas emissions. The report demonstrates Rwandas progress and commitment to identifying targets for reducing emissions across sectors through inter-ministerial cooperation, working with sub-national entities, mobilizing domestic resources, and support from bilateral and multilateral donors. This document, therefore, is a testament to the spirit of community that is needed to address climate change.
+
+Rwandas Nationally Determined Contribution will serve as a blueprint for advancing targeted and measurable climate action in key sectors. The document will also serve to guide coordinated responses for both government agencies as well as international organizations, NGOs, civil society, and community-based organizations. Achieving our targets will depend on sustained, multi-agency action in every segment of Rwandan society.
+
+This document sets a path for ambitious climate action and allows organizations, individuals, and communities to see where their efforts fit within the national and global strategies needed to address the biggest challenge of our time.
+
+Climate change is causing enormous damage to the natural environment and has resulted in the loss of life and livelihoods. Recognizing the consequences of inaction, Rwanda remains steadfastly committed to the Paris Agreement and has dedicated the resources required to achieve substantial emissions reductions.
+
+We all have a role to play in the global movement to reduce emissions. This challenge comes at a time of multiple, competing priorities requiring government funding and coordinated response. However, the path towards low-carbon, climate resilient development has been prioritized not only by the Government of Rwanda, but also the people of Rwanda as the most desirable way forward to realize a sustainable future for generations to come.
+
+Rwanda benefits not only from enormous natural resources but also the will of the people to make coordinated progress in reaching our national targets. The vision of the countrys progress is intertwined with both the collective climate action and individual agency required to reduce our carbon footprint for the benefit of all.
+
+As the document draws from the input of multiple institutions, so will the combined response build from inter-agency cooperation and engagement. It is imperative that despite the enormous sacrifices required, the nation as a whole move forward together with the international community in a way that fully recognizes the challenges threatening our shared future and fully acknowledges the responsibility each of us must take to correct the global response that has thus far proved inadequate.
+
+However, it is also with sheer optimism and a shared sense of purpose that Rwanda continues to make progress not only as part of the Paris Agreement, but also as part of the moral and ethical leadership required to leave a better future for the generations that follow.
+
+Rwandas Nationally Determined Contribution is submitted in full recognition of not only the enormity of the task, but also with the knowledge of the disastrous consequences in the event of failure. Nevertheless, the targets presented here are a testament not only to the level of technical capacity needed to achieve them, but also the shared sense of responsibility and agency that will make the actions possible.
+
+It is with this full commitment and acknowledgement of the gravity of the global consequences of climate change that Rwanda remains wholly supportive of the Paris Agreement and to all of the responsibilities and actions outlined therein. Together we will build a green Rwanda and protect the planet.
+
+Forward i Acronyms and Abbreviations iii Contents vi Executive Summary 01 Introduction 01 01 Introduction 08 02 National Circumstances 10 2.1 Geographic profile 10 2.2 Climate and climate change impacts 10 2.3 Environment and natural resources 11 2.4 Socio-economic characteristics 12 2.5 Economic sectors 13 05 Mitigation Contribution 23 5.1 Overview 23 5.2 National GHG Inventory 24 5.3 Mitigation actions 26 5.4 Implementation plan 35 5.5 Funding requirements 43 06 Adaptation Contribution 45 6.1 Introduction 45 6.2 Rwandas impacts and vulnerability to climate change 45 6.3 Priorities for adaptation and resilience 47 6.4 Funding requirements 55 07 Monitoring, Reporting and Verification Framework 58 7.1 Institutional arrangements for tracking NDC implementation 58 7.2 Mitigation 68 7.3 Adaptation 69 08 Means of Implementation 71 8.1 Finance needs 71 8.2 Capacity Building and technology transfer 72 8.3 Policy mechanisms and Institutional arrangements as a means of effective NDC implementation 74 Introduction This document presents the Government of Rwandas update of its first Nationally Determined Contributions (NDCs) for mitigation and adaptation for the period to 2030. The contributions described in this submission build upon Rwandas existing NDC, new policies and national plans, and reflect subsequent work in developing quantifiable mitigation and adaptation targets, and the prioritization of interventions to support these two areas. The updated NDC represents a more detailed and robust assessment of mitigation and adaptation measures in Rwanda informed by in-depth analysis, improved information and data, increased ambition, and an extensive stakeholder-driven consultation process.
+
+Rwandas Vision for Climate Change As like many other countries, Rwanda is increasingly experiencing the impacts of climate change. Rainfall has become increasingly intense and the variability is predicted to increase by 5% to 10% (GoR, 2018a). Changes in temperature and precipitation and their distributions are the key drivers of climate and weather-related disasters that negatively affect Rwandans and the countrys economy, including through droughts, floods, and landslides which results in damage to infrastructure, loss of lives and property (including crops) and contribute to soil erosion and water pollution. Rwanda is highly reliant on rain-fed agriculture both for rural livelihoods and exports of tea and coffee, in addition to depending on hydropower for half of its electricity generation. The countrys ongoing economic growth is therefore highly threatened by climate change.
+
+The Government of Rwanda is committed to taking urgent action to mitigate and adapt to the effects of climate change. As a Party to the United Nations Framework Convention on Climate Change (UNFCCC), the country seeks to contribute to the ambitious goal of limiting temperature rise to 2oC with efforts to reach 1.5oC agreed under the Paris Agreement. Because Rwanda is highly vulnerable to climate change, adaptation is a key concern and a priority for the country. As is true of most African nations, Rwandas contribution to climate change in the form of greenhouse gas (GHG) emissions is relatively small, however, although emissions from deforestation, agriculture, and land use, combined with strong expected emission growth from expected economic development and energy use, and are significant enough within Rwandas carbon footprint to demand a mitigation response.
+
+Reflecting these aims, in 2011 the country adopted the Green Growth and Climate Resilience Strategy (GGCRS) setting out the countrys actions and priorities on climate change relating to both mitigation and adaptation and to how these will be mainstreamed within economic planning. The GGCRS is also embedded in the recently developed National Strategy for Transformation (NST) (2018  2024) in alignment with Rwandas 7-year Government Program. The NST is a high-level planning policy that frames the countrys subsequent local government and sector plans and includes specific projects or actions along three pillars for economic, social and governance transformation. The GGCRS provides a vision for how Rwanda can tackle climate change through become a climate resilient and low carbon economy, and projects actions to be undertaken to inform Rwandas strategy for economic development, Vision 2050. The actions set out in the GGCRS provide the basis for the development of the NDC, as well as other key national guiding documents informing the countrys low carbon development, culminating most recently in the National Environment and Climate Change Policy enacted in 2019 with the goal of achieving a climate resilient nation with a clean and heathy environment.
+
+Mitigation contribution Rwandas mitigation contribution takes the form of a reduction in GHG emissions relative to a business-as-usual (BAU) emissions baseline over the period 2015-2030.
+
+Rwandas latest GHG inventory data is reported in its Third National Communication (TNC) report to the UNFCCC and covers emissions up to the year 2015. This year is adopted as the NDC baseline year. Total emissions excluding forestry were estimated at 5.33 million tCO2e. The agriculture sector accounted for the largest share of the total (2.94 million tCO2e, 55% of total), followed by energy (1.68 million tCO2e, 31% of total) and waste (0.64 million tCO2e, 12% of total). Emissions from industrial processes and product use (IPPU) represented just 0.08 million tCO2e, equivalent to around 2% of total emissions in 2015 and mainly associated with calcination CO2 emissions from clinker production.
+
+Under a BAU projection, Rwandas total emissions are forecast to more than double over the 2015-2030 period, rising from 5.3 million tCO2e in the base year to 12.1 million tCO2e in 2030. The forecast indicates the growing contribution from fossil fuels to national emissions, arising from increasing demand for power generation, road transport and other modern energy uses. At the same time, despite potential for increased productivity, agricultural output is expected to be limited due to land availability, thereby limiting emissions growth from this sector. With the ongoing development of the country, Rwanda will therefore need to explore other innovative approaches in agriculture such as utilizing vertical farming technologies to increase crop yields within a smaller land area.
+
+A detailed assessment of identified GHG mitigation options for Rwanda estimates a total emissions reduction potential of around 4.6 million tCO2e in 2030 against the BAU emissions in the same year of 12.1 million tCO2e. Based on this analysis, mitigation measures have been grouped according to two different components:
+
+Unconditional contribution: A reduction of 16 per cent relative to BAU in the year 2030; equivalent to an estimated mitigation level of 1.9 million tonnes of carbon dioxide equivalent (tCO2e) in that year. This is an unconditional target, based on domestically supported and implemented mitigation measures and policies.
+
+Conditional contribution: An additional reduction of 22 per cent relative to BAU in the year 2030; equivalent to an estimated mitigation level of 2.7 million tCO2e in that year. This represents an additional targeted contribution, based on the provision of international support and funding.
+
+The combined unconditional and conditional contribution is therefore a 38 per cent reduction in GHG emissions compared to BAU in 2030, equivalent to an estimated mitigation level of up to 4.6 million tCO2e in 2030.
+
+The mitigation contributions are summarised in the figure below against the BAU baseline for the target year 2030 (Figure ES-1).
+
+The sectoral scope of the contribution covers all emissions sources described in the IPCC 2006 Reporting Guidelines (IPCC, 2006), including emissions from the categories of energy; industrial processes and product use (IPPU); waste; and agriculture, forestry and other land use (AFOLU) but excluding sources from forestry and other land use. These sources may be included within future contributions, subject to improved data availability and ongoing development in the accuracy of their quantification within the national GHG inventory. The coverage of the contributions includes the three main greenhouse gases carbon dioxide (CO2), methane (CH4), nitrous oxide (N2O), and also hydrofluorocarbons (HFCs).
+
+Adaptation contribution Rwandas adaptation contribution prioritises adaptation interventions, establish baselines, and develops sector-level performance indicators and targets. These build upon the GGCRS and associated sector working papers, climate change vulnerability assessments reports, as well as the Strategic Programs for Climate Resilience (SPCRs). In total, 24 adaptation interventions are proposed, classified according to 8 key sectors (Figure ES-1). A total of 38 adaptation indicators have been developed to be aligned with baselines and adaptation targets. Basing on the experiences in reporting at the global level (including expectations of adaptation investment funds) and national level (including projects), the indicators have the potential to position Rwandas envisaged robust engagement and efforts at addressing challenges of measurement of climate adaptation/resilience.
+
+Water 1 A national water security through water conservation practices, wetlands restoration, water storage and efficient water use Agriculture 4 Develop climate resilient crops and promote climate resilient livestock 5 Develop climate resilient post harvest and value addition facilities and technologies 13 Integrated approach to planning and monitoring for sustainable land use management 14 Harmonized and integrated spacial data management system for sustainable land use 15 Inclusive land administration that regulate and provide guidance for land tenure security The NDC adaptation indicators will be embedded in the Environment and Natural Resources Management Results Based Monitoring and Evaluation framework (RBME) used to track and inform progress on NDC implementation towards the NST. This reporting framework is conducted biennially through Joint Sector Reviews (JSRs). In addition, reporting on NDC adaptation indicators will be carried out in the context of a High Level Policy Dialogue that tracks progress on the implementation of the GGCRS that circumscribes the broader context of NDC implementation.
+
+Measuring, reporting and verification (MRV) framework The successful implementation of Rwandas NDC requires an effective Measuring, Reporting and Verification (MRV) framework, enabling the country to monitor the effectiveness of its mitigation and adaptation measures and facilitating its access to climate finance. Internationally, the implementation of an MRV system is the basis for understanding the current GHG emission levels, the ambition of the existing efforts, and the progress made in contributing towards the goals of the Paris Agreement.
+
+Rwanda submitted its Third National Communication (TNC) in September 2018, reporting on its national GHG inventory up to the year 2015. The country is currently preparing its first Biennial Update Report (BUR) and an updated GHG inventory. The Paris Agreement contains several additional MRV requirements which, when taken together with the existing UNFCCC arrangements, provide an enhanced basis for Rwandas international reporting requirements. New requirements are mainly covered by Article 13, which establishes a new Enhanced Transparency Framework (ETF) through which Parties must regularly account for their NDCs alongside other reporting requirements similar to those contained in National Communications (NCs), BURs and the International Consultation and Analysis (ICA).
+
+Health 18 Strengthen preventive measures and create capacity to adapt to disease outbreaks Rwanda has developed an MRV framework consistent with these requirements that will allow the government to effectively track progress of the mitigation activities identified in this NDC consistent with UNFCCC reporting standards, and carry out ongoing evaluation of whether the country is on course to meet its targets through 2030. This takes the form of a framework of indicators for each of the key emitting sectors, which can be used for international reporting as well as for domestic tracking of NDC implementation. The framework enables monitoring of the counterfactual BAU baseline emissions as well as actual emissions arising from implementation of NDC mitigation measures. It will also facilitate tracking of climate finance flows for NDC implementation and other forms of international support.
+
+A monitoring, reporting and verification (MRV) framework has been developed for adaptation, including MRV on financing of adaptation measures. An approach has been proposed to organize the MRV framework in a way that facilitates reporting at selected levels. The levels have identified indicators that are relevant at global and national levels. The national level reporting will respond to data and information demands at strategic levels, sector strategic plans that inform joint sector reviews and other reporting requirements at the Prime Minister and Ministry of Finance and Economic planning (MINECOFIN) levels.
+
+Means of Implementation In order to fully implement the mitigation and adaptation measures contained in this NDC, Rwanda will require finance, capacity building and technology transfer. The total estimated cost for Rwandas identified NDC mitigation measures through 2030 is estimated at around 5.7 billion USD, and over 5.3 billion USD for adaptation priorities, representing a combined funding requirement of around 11 billion USD (Table ES-2). For both mitigation and adaptation combined, unconditional measures account for around 40% of the total estimated funding requirements, and conditional measures around 60%.
+
+The Government of Rwanda will continue to commit significant resources to climate change relevant strategies. Rwandan communities, private sector and NGOs can also contribute significantly to these climate change-related activities through public-private partnerships. The Rwanda Green Fund, FONERWA, will continue to play a vital role in financing low carbon projects and programmes and leveraging investment.
+
+However, the full implementation of the strategic mitigation actions is conditional on the support of international stakeholders. The implementation of the prioritised policies and actions assume the continued use of existing and planned national and international financial sources.
+
+Rwanda intends to meet its conditional contribution through the use of climate finance and international market mechanisms where appropriate, building upon the experience of the Clean Development Mechanism (CDM) and other existing market mechanisms. These include the potential involvement in international cooperative approaches under Article 6 of the Paris Agreement.
+
+The consultations undertaken through the NDC revision process have created momentum for strengthening planning, implementation and monitoring and accountability frameworks. Thus, the updated NDC will continually guide successful mainstreaming of climate change into sector priorities building on existing country driven policy mechanisms and institutional arrangements, Technology transfer and capacity building, areas that are considered critical to fully implement Rwandas mitigation and adaptation contributions, as outlined further in this submission.
+
+1.1 Overview At the 21st Conference of the Parties (COP21) in Paris, on 12 December 2015, Parties to the United Nations Framework on Climate Change (UNFCCC) reached a landmark agreement to combat climate change and to accelerate and intensify the actions and investments needed for a sustainable low carbon future. The Paris Agreement (PA) entered into force in November 2016, following the universal adoption of the Agreement by Parties. Through the PA, developed and developing countries made individual commitments to transition toward a climate-resilient and low-emissions future.
+
+Parties are required to undertake and communicate efforts to contribute to the achievement of these goals in the form of Nationally Determined Contributions (NDCs) communicated to the UNFCCC (Article 3). NDCs are therefore the centrepiece of the Paris Agreement agreed through an international partnership that forms the foundation for the pathway towards a low-carbon and climate resilient development.
+
+To ensure increasing levels of ambition to combat climate change, the PA requires that, at a minimum of every five years, Parties submit revised NDCs that represent a progression beyond the Partys then current NDC (Article 4). The PA also establishes a new enhanced transparency framework (ETF) for action and support, providing the basis for Parties to monitor and report on their progress in implementing their NDCs (Article 13).
+
+Parties have been requested to submit their updated and revised NDCs to the UNFCCC Secretariat in 2020. In this context, Rwandas is submitting this updated NDC ahead of the 26th Conference of the Parties (COP26) to be held in Glasgow in 2021. The contributions described in this submission build upon Rwandas existing first NDC, new policies and national plans, and reflect subsequent work supported by the World Bank NDC Support Facility in developing quantifiable mitigation and adaptation targets, and the prioritization of interventions to support these two areas. The updated NDC represents a more detailed and robust assessment of mitigation and adaptation measures in Rwanda informed by in-depth analysis, improved information and data, and an extensive stakeholder-driven consultation process.
+
+1.2 Outline of this document This document describes Rwandas update of its first Nationally Determined Contribution (NDC) for mitigation and adaptation for the period 2020 to 2030. It is structured as follows:
+
+Section 2 describes Rwandas national circumstances.
+
+Section 3 presents Rwandas vision for climate change and a brief summary of its policy response through national, regional and global efforts to tackling climate change.
+
+Section 4 summarises the NDC revision process covering both mitigation and adaptation contributions.
+
+Section 5 presents Rwandas contribution to mitigation, including a description of GHG emissions mitigation options across key sectors and their reduction potential and funding requirements against a business-as-usual baseline to 2030, according to unconditional and conditional measures.
+
+Section 6 summarises Rwandas vulnerability to climate change and sets out a framework of proposed measures relating to adaptation and resilience.
+
+Section 7 proposes a measuring, reporting and verification (MRV) framework for implementing and tracking the mitigation and adaptation measures contained in the NDC, consistent with best practice and Rwandas reporting requirements under UNFCCC and the Paris Agreement.
+
+Section 8 outlines the means of implementation for the mitigation and adaptation measures contained in the NDC.
+
+An Annex to this document outlines a framework of indicators for tracking implementation of the mitigation and adaptation contributions.
+
+This section provides a brief overview of Rwandas national circumstances, including the countrys geographic profile, its climate and climate change impacts, key socio-economic characteristics, natural resources and economic sectors.
+
+2.1 Geographic profile Rwanda is a country located in the east of central Africa between 14 and 251south latitude, and 2853 and 3053 east longitude, and covers an area of 26,338 km2. It lies approximately at 120 km south of the equator, at 1,100 kms from the Indian Ocean, at 1,920 km from the Atlantic Ocean, at 3,750 km from the Mediterranean Sea, and at 3,980 km from South Africa Cape. It is bordered by Uganda at the North, Tanzania at the East, Burundi at the South and the Democratic Republic of Congo at the West (GoR, 2018a).
+
+Rwandas administrative structure comprises 4 provinces (Eastern, Western, Northern and Southern Provinces) and City of Kigali, all subdivided into 30 districts, 416 sectors, 2,148 cells and 14,816 villages. The altitude varies between 900 m and 4,507 m from east to west where eastern plains lay between 1,000 m to 1,500 m and the central plateau region between 1,500 m and 2,000 m. The Congo-Nile Ridge and volcanic chains of Birunga have altitudes between 1,800 m and 4,507 m (the countrys highest point, on the top of the Kalisimbi volcano) while the regions around Kivu Lake and Bugarama plains are located at altitudes of between 900 m and 1800 m (Sirven et al, 1974; MINIRENA, 2010).
+
+2.2 Climate and climate change impacts Rwanda has a tropical climate moderated by hilly topography stretching from east to west. The country is divided into four main climatic regions: the eastern plains, central plateau, highlands, and regions around Lake Kivu. The eastern plains receive an annual rainfall of between 700 mm and 1,100 mm, with mean annual temperature oscillating between 20C and 22C. The central plateau region enjoys rainfall of between 1,100 mm and 1,300 mm, with an annual mean temperature of between 18C and 20C.
+
+The highlands, including the Congo-Nile Ridge and volcanic chains of Birunga, benefit from an annual rainfall of between 1,300 mm and 1,600 mm, with annual mean temperature ranging between 10C and 18C. Regions around Lake Kivu and Bugarama plains have an annual rainfall of between 1,200 mm and 1,500 mm, with an annual mean temperature between 18C and 22C (Ilunga et al., 2004; MINIRENA, 2010; Muhire and Ahmed, 2015; 2016).
+
+As with many other countries, Rwanda is increasingly experiencing the impacts of climate change. Rainfall has become increasingly intense and the variability is predicted to increase by 5% to 10% (GoR, 2017b). Temperature increases have also been experienced, with records from 1971 to 2016 showing rises in mean temperature of between 1.4C and 2. 56C in the south-west and eastern regions of Rwanda (GoR, 2018a). Changes in temperature and precipitation and their distributions are the key drivers of climate and weather-related disasters that negatively affect Rwandans and the overall economy. The main risks/impacts that adversely affect the population include droughts, floods, landslides and storms. These are associated with damages to infrastructure, loss of lives and property including crops, soil erosion, water pollution, etc. (GoR, 2017b; REMA, 2015).
+
+A rise in temperature is predicted across Rwanda in the coming years up to 2050, especially during the dry seasons. An additional seasonal increase of between 0.1 C and 0.3 C is projected on top of the annual mean temperature throughout the country, except for the northern region where a decrease of 0.06C is expected. Furthermore, a decreasing trend in mean rainfall and number of rainy days is projected (GoR, 2018a).
+
+This explains why increased dry spells are anticipated across the country, especially in the eastern region. Climate change will also upset the north-west highlands and south-western districts of Rwanda with a rise in rainfall intensities. According to the TNC, there is a high probability that the number of days with extreme temperature will continue to increase by 2050 whereas the days with extreme rainfall will be relatively constant (GoR, 2018a). Rwanda is highly reliant on rain-fed agriculture both for rural livelihoods and exports of tea and coffee, and depends on hydropower for half of its electricity generation. The countrys ongoing economic growth is therefore highly threatened by climate change.
+
+Rwanda is highly vulnerable to climate change. The National Risk Atlas of Rwanda highlights that the country is highly prone to droughts, floods, landslides and windstorms (MIDIMAR, 2015). Other factors influencing the countrys climate change vulnerability include socio- economic drivers such as building in flood prone areas, high population density in prone areas, increased value of assets in flood-prone areas, and poor management of soil erosion.
+
+2.3 Environment and natural resources Rwandas socio-economic development is dependent on the environment and natural resources such as land, water, air, minerals and biodiversity.
+
+Total arable land is estimated at 14,000 km2 or 52% of the countrys total surface area (26,338 km2). However, in 2014 the total cultivated area increased to 1,747,559 hectares or 66% of the national territory. This means that some mountainous and protected areas have progressively been cultivated, exposing the country to more climate change and climate variability impacts (GoR, 2018a). Furthermore, farm ownership per household has decreased significantly, from 1.2 ha in 1984 to 0.89 ha in 1990 and 0.6 ha in 2010 (GoR, 2018a). These smaller plots are overexploited, leading to degradation and a decrease in soil fertility (GoR, 2018a).
+
+Rwandas hydrographic system is split into two basins divided by the Congo-Nile ridge, with water systems to the west of the ridge flowing into the Congo basin, and those to the east of ridge flowing into the Nile basin. The countrys hydrologic network covers 8% of the national territory, equivalent to about 2,143 km2, on which 101 lakes cover around 1300 km2 (RNRA, 2015), 861 rivers occupy about 72.6 km2 while the water of 860 wetlands and valleys covers 770 km2 (Sirven et al, 1974; REMA, 2009; MINIRENA, 2012). The Congo basin drains around 33% of the national territory with around 10% of the countrys water. The Nile basin drains around 67% of the national territory, with 90% of countrys water (Sirven et al, 1974).
+
+Rwandas territory is covered with diverse ecosystems which include natural ecosystems (mountain rainforests, gallery forests, savannah woodland, wetlands and aquatic forests), forested area and agro ecosystems. Nationally protected areas are mainly represented by four national parks: (i) Volcanoes National Park which is famous worldwide due to the presence of mountain gorillas and a wide variety of plants and animal species, (ii) Nyungwe National Park which has more than 1,200 species of flora and 275 species of birds, (iii) Akagera National Park which covers 108,500 ha and has more than 900 species of plants and 90 mammals, and (iv) Gishwati-Mukura National Park covering an area of 4,520 ha. Unfortunately, Rwandas protected areas have lost around 50% of their original surface area over the last 40 years. There are also small reserve forests including Busaga, Buhanga, Sanza, Iwawa, Rubirizi, Makera, and a number of public and private plantation forests.
+
+Rwandas wetlands comprise marshlands, lakes, rivers and streams and represent around 15% of the national territory (of which 6.3% are marshlands and 8.6% are lakes and streams). Total wetlands cover an area of 276,477 ha of which 74% is classified as conditionally exploited, 6% unconditionally exploited, and 20% fully protected. Wetlands are dominated by papyruses, especially in the Kamiranzovu, Gishoma and Rugezi marshlands and around lakes such as Muhazi, Burera and Ruhondo. Plantations forest are distributed throughout the country and dominated by exotic species such as Eucalyptus, Pinus, and Grevillea.
+
+2.4 Socio-economic characteristics Rwanda has experienced a rapid socio-economic and demographic transformation since 2000. According to data from the National Institute of Statistics of Rwanda (NSIR), real gross domestic product (GDP) across the period 2007-2017 rose from RWF 3.26 trillion to RWF 6.69 trillion, or by an average of 7.45% per year (GoR, 2018b).
+
+For the year 2015, the NSIR reports the working population (16 years and above) in Rwanda to be 6.4 million, with females representing 54% and males 46%. The majority (82%) live in rural areas and 18% live in urban areas. The total labour force participation rate was 87.4% and was lower in urban areas (79%) compared to rural areas (89%). This employment rate represents 85% of the working age population. The majority of Rwandan households are reliant on agriculture for food and income. The agricultural sector employs over 70% of the working population and is characterized by low productivity and low economic value (NISR, 2014).
+
+According to the Fifth Integrated Household Living Survey (EICV5), Rwandas population grew from 8.13 million in 2002 to 11.23 million in 2015 (GoR, 2018b). Around 77% of the population lives in rural areas, and 23% in urban areas (of which the capital Kigali is by far the largest). The EICV5 foresees significant population growth under its central medium growth scenario reaching 14.16 million by 2025 and 15.71 million by 2030 (Table 2.1).
+
+Rwandas policies for addressing poverty, and the goals for poverty reduction, are set out in the First National Strategy for Transformation (NST1), the Vision 2020 and Vision 2050 strategies (GoR, 2018b). These commit the government to reduce poverty from 44.9% in 2011 to 20% by 2020. The results of the EICV5 survey show that 38.2% of the population was poor in 2016/17, as compared to 39.1% in 2013/14 and 44.9% in 2010/11. Since 2010/11, extreme poverty fell from 24.1% to 16.0%. There are substantial geographical differences in the poverty rates, with lower rates in urban areas than elsewhere (GoR, 2018b).
+
+2.5.1 Agriculture, fisheries and forests Agriculture is an important sector of the Rwandan economy, contributing 33% to national GDP in 2015 (GoR, 2018a) with almost 90% of households practice traditional subsistence agriculture, mainly on narrow plots of land exhausted by continuous utilization (ibid).
+
+National crop production comprises tubers and roots (37%) such as cassava, followed by banana (28%) and cereals (11%), legumes and pulses (8%), and vegetables and fruits (5%). Coffee and tea constitute Rwandas main export crops. The use of chemical fertilizers has increased from 29% to 37% between 2010/11 and 2013/14 and remains higher than expenditure on organic fertilizers. The country has committed to reducing the population working in the agriculture sector by increasing productivity per hectare and promoting the recycling of organic waste and use of manure to improve soil fertility.
+
+The largest livestock population is concentrated in the eastern and southern parts of the country with goats, cattle and chickens being the most commonly owned types (GoR, 2018a). Cattle predominate on the larger farms in the east and central regions while in the southern parts where farms are often as small as 0.5 ha, few households own cattle. In these areas, the government is promoting the One-Cow-per-Poor-Family, or Grinka, program.
+
+Fish production has increased significantly since 2011 (for example, rising from 11.662 tons in 2011 to 24,550 tons in 2013; GOR, 2018a).
+
+Rwanda is turning around a legacy of deforestation in keeping with its 2020 goal to increase forest cover to 30% of national land area (MINIRENA, 2015). Natural forests, which cover 10.8 % of the country, comprise forested belts in National Parks, forest reserves, natural and gallery forests and other remnant forests. Forest plantations of exotic tree species (mostly eucalyptus and pine), woodlots and agro-forestry plantations cover 18.4 % and represent nearly 63% of the countrys total forest cover. Plantation forests supply almost all fuelwood, with charcoal accounting for about 15.2 % of households primary energy sources. Rwanda is actively promoting agro-forestry to provide wood for fuel during the transition to available and affordable electricity for all. Agro-forestry also helps combat soil erosion, provides fodder, improves soil fertility and contributes to social well-being and green economic growth (GoR, 2018a).
+
+2.5.2 Services and tourism The services and tourism sector is a major driver of economic growth in Rwanda, contributing 47% to national GDP in 2015 (GoR, 2018a). Key growing service areas include banking, insurance, and transport. Services exports grew by 10% per annum between 2009 and 2014. The travel sector (including tourism) has steadily increased its share of total services exports in recent years. In 2014, 76% of services receipts were generated in the travel and tourism sector, contributing USD 303 million in export revenue, up from USD 174 million in 2009 (GoR, 2018a). Freight and other transportation services are also important contributors. The number of visitors to Rwanda has increased over recent years, driven largely by tourist visits to the countrys national parks. In 2015 national parks counted 72,790 visitors, of which 44% visited the Volcano national park and 44% visited the Akagera national park (GoR, 2018a).
+
+2.5.3 Trade and industry Rwandas industry sector mainly comprises construction, manufacturing, mining and quarrying. In 2011, the Ministry of Trade and Industry (MINICOM) developed a national export strategy aiming to transform Rwanda into a globally competitive export economy. The industry sector has since grown to contribute 14% to national GDP (GoR, 2018a).
+
+In the fourth quarter of 2017, Rwandas total trade amounted to USD 959.48 million, an increase of 19.8% over the fourth quarter of 2016. Exports totalled USD 157.53 million, imports totalled USD 724.15 million and re-exports were valued at USD 77.70 million (NISR, 2017). The deficit in the balance of formal trade in goods was USD 136.17 million in January 2018, a decrease of 24% compared to the previous month of December 2017. Year-over- year, the formal trade in goods deficit increased by 1.45% on the deficit of January 2017 (NISR, 2018). National exports are dominated on a volume basis by re-export products (including petroleum products, machines, vehicles and engines), tea and coffee. On a value basis, national exports are dominated by minerals including gold, cassiterite, coltan, and wolfram.
+
+2.5.4 Energy Rwanda energy primary use is dominated by biomass, which accounts for around 86% of the total (GoR, 2018a). Over 80% of Rwandan households use wood for their cooking fuel, followed by charcoal, crop waste, gas or biogas. Households are also the dominant consumers of electricity (51%), the bulk of which demand is primarily used for lighting. The industrial sector (42%) is the second largest consumer of energy, which mainly comes from motor- drivers and lighting. Public sector consumption of electricity (6%) is mainly used for public buildings, street lighting and water pumping. The average household uses around 1.8 tons of firewood each year to meet its cooking needs with a traditional stove (GoR, 2018a). Reliance on traditional energy represents a major challenge, and increasing the use of sustainable biomass and charcoal is a key priority for Rwandas energy policy.
+
+Rwanda has one of the lowest electricity consumptions per capita in the region, and generation capacity is low. According to the Rwanda Energy Group Ltd (REG), national electricity generating capacity is currently around 150 MW of which hydropower accounts for around one third (50 MW) and fossil based units the remaining two thirds (99 MW), mainly from oil- fired generation and recently added peat-fired capacity. Several small solar PV and biomass installations account for around 2 MW (REG, 2019). Increasing investment in generating capacity and improving access to electricity represent important energy policy aims, and recent years have seen major improvements. For example, during the period between 2012 and 2015, electricity generation increased by 72% and access to electricity improved from around 5% to 36% although lower than the 50% targeted in 2016 (GoR, 2018a). Rwanda is also undertaking various energy efficiency programs including the distribution of compact fluorescent lights (CFL), the SolaRwanda Solar Water Heaters (SWH) project, and the replacement of high-pressure sodium lamps with LEDs in street lights.
+
+2.5.5 Transport Rwandas transport sector is dominated by land transport due to the improved national and districts road network and increased investment in public transport. Transport is mainly undertaken by road with a current classified road network consisting of national roads (2,749 km), district roads class 1 (3,906 km) district roads class 2 (9,706 km) and other unclassified roads. With increasing demand for travel, the number of vehicles has increased dramatically over the past decade. Based on number of registrations, total vehicle numbers are estimated to have grown from 47,631 in 2006 to 161,925 in 2015, representing an increase of over 300%1. Motorcycles accounted for around 51% of total vehicles in 2015, followed by passenger cars (34%), and other vehicles including buses and trucks (15%).
+
+To reduce the number of accidents on Rwandas roads, motor vehicle inspection centres has been created. To reduce atmospheric pollution levels from the transport sector, the government has also committed to reducing the number of imported used cars by increasing taxes and plans the introduction of electric vehicles from 2020 onwards as part of its e-mobility program. Other key transport strategies include bus promotion as part of public transport development, replacement of minibuses by modern buses and the promotion of mass rapid transportation.
+
+1 Based on data in NISR, 2018.
+
+2.5.6 Health Although heath facilities in Rwanda (public and private) have increased in number since 2009, the country faces challenges to improving the countrys health and reducing levels of disease. May such diseases have a close linkage with climate change, such as malaria, which is a vector borne disease, tuberculosis which is affected by environmental pollution and malnutrition which may indicate the persistence of food insecurity among population. Morbidity data indicate that acute respiratory infections are the leading causes of death in the country, followed by malaria and intestinal parasites (GoR, 2018a). According to the UNDP, life expectancy in Rwanda was 68.7 years in 2018, compared to 55.3 years in 2005 (UNDP, 2019).
+
+2.5.7 Waste Rwanda is experiencing a rapid urbanization process associated with rapid population growth in its towns and cities. This increase is resulting in huge waste generation and high demand in public services including solid waste management services. For instance in City of Kigali, levels of waste entering landfill sites increased from 141.38 tons per year in 2006 to 495.76 tons per year in 2015. A standard collect and dump approach is the dominant waste management in most Rwandan cities.
+
+Increased involvement of the private sector increased the coverage of solid waste collection service; for example, 90% of the population in Kigali had access to solid waste collection service in 2015 compared to 44% in 2012. The same improvement is also being seen in other urban areas. Generation of electric power from landfill gas (LFG) collection at landfill site presents an opportunity to utilise waste methane and help meet growing energy demand.
+
+The main wastewater treatment and disposal systems in Kigali and secondary cities are dominated by septic tanks, soakaways and direct discharge in natural wetlands. In general, there are no centralized wastewater treatment systems although the main hotels, hospitals, new real estates, major governmental buildings and some industries have installed their own treatment systems.
+
+There are several plans to develop wastewater treatment (WWT) systems over the coming years, including a Kigali central WWT project in Nyarugenge and a centralized sewerage system for Kibagabaga and Kinyinya catchments in the Gasabo District. The government also plans to increase waste recycling initiatives, including through the use of aerobic biological treatment (composting).
+
+The Government of Rwanda (GoR) is committed to taking urgent action to mitigate and adapt to the effects of climate change. As a Party to the UNFCCC, the country seeks to contribute to the ambitious goal of limiting temperature rise to 2oC with efforts to reach 1.5oC agreed under the Paris Agreement (UNFCCC, 2015).
+
+Rwanda ratified the United Nation Framework Convention on Climate Change (UNFCCC) in 1995, the Kyoto Protocol in 2004, and the Paris Agreement in 2016. Rwanda submitted its National Adaptation Programmes of Actions (NAPA) in 2006. In line with the Paris Agreement, Rwanda submitted its Intended Nationally Determined Contribution (INDC) in 2015 which became its first NDC in 2016. Rwanda submitted its first National Communication to the UNFCCC in 2005, its second in 2012, and its third in 2018.
+
+Though Rwanda is among the countries with lowest emission per capita worldwide (GoR, 2011), it is highly vulnerable to climate change. Therefore, adaptation to climate change is a key concern and a priority for the country. As it is true of most African nations, Rwandas contribution to climate change in the form of greenhouse gas (GHG) emissions is relatively small, although emissions from deforestation, agriculture, and land use, combined with strong expected emission growth from expected economic development and energy use, and are significant enough within Rwandas carbon footprint to demand a mitigation response.
+
+Reflecting these aims, in 2011 the country adopted the Green Growth and Climate Resilience Strategy (GGCRS) setting out the countrys actions and priorities on climate change relating to both mitigation and adaptation and how these will be mainstreamed within economic planning (GoR, 2011). The strategy provides a vision for how Rwanda can tackle climate change through becoming a climate resilient and low carbon economy, and projects actions to be undertaken to inform Rwandas strategy for economic development, Vision 2050. The strategy contains 14 Programmes of Action (PoA), as summarised in Table 3.1 below.
+
+The actions set out in the GGCRS provide the basis for the development of the NDC and the countrys commitment towards the implementation of the Paris agreement with mitigation and adaptations actions, as well as other key national guiding documents including Vision 2050, the National Strategy for Transformation (NST1), sectoral policies, Sector Strategic Plans, the Strategic Programme for Climate Resilience (SPCR), and Sustainable Energy for All (2015-2030).
+
+Rwanda has also been an active member of regional and global initiatives to respond to the threat of climate change. These include participation in the East African Community (EAC) Climate Change Policy (2010) and subsequent East African Community (EAC) Climate Change Master Plan 20112031. Rwanda also joined the NDC Partnership and launched its NDC Partnership Plan during the Africa Green Growth Forum held in Kigali in November 2018. In addition, after conducting an assessment of economic impact of climate change in 2009, the GoR decided to establish a department of climate change within REMA to advise the government on all climate change related issues in the country.
+
+The Rwanda Green Fund (FONERWA) was established in 2012 and invests in sustainable wealth creation and poverty reduction by providing strategic financing that accelerates Rwandas commitment to building a strong climate resilient and green economy.
+
+In addition, the GoR revised its environment law in 2018 to include a number of articles that are relevant to climate change mitigation and adaptation. It covers a wide variety of articles on environment and climate change such as mainstreaming the environment and climate change into planning process, reporting, education on the conservation, and response measures on climate change and technology transfer.
+
+Most recently, the National Environment and Climate Change Policy was enacted in 2019 with the goal of achieving a climate resilient nation with a clean and healthy environment (MoE, 2019). The policys objectives include (MoE, 2019):
+
+Greening economic transformation (resource efficiency, low carbon, climate resiliency, circular economy, green technology and procurement, green urbanization and settlements, and green mobility);
+
+Strengthening meteorological and early warning services (climate and weather services production and mainstreaming into all sectors of Rwandas socio-economic development, production and access of meteorological, climate and weather services for better planning in all sectors of economy;
+
+Promoting climate change adaptation, mitigation and response (strengthen mitigation and adaptation in both planning and implementation);
+
+Strengthening environment and climate change governance (mainstreaming of environment and climate change into all sector policies, national coordination for the management of critical ecosystems, inclusive decision-making and interventions for environment and climate change management, education & awareness of Rwandan society on environment, weather and climate change, and strengthen the institutional framework and coordination mechanisms); and  Promoting green foreign and domestic direct investment and other capital inflows (strengthening environment & climate financial mechanisms for more efficiency, effectiveness and impact and strengthening climate proofing capital inflow in national economic planning).
+
+Rwanda submitted its Intended Nationally Determined Contribution (INDC) to the UNFCCC in September 2015, setting out its adaptation and mitigation goals. With the entry into force of the Paris Agreement in November 2016, the INDC became Rwandas first Nationally Determined Contribution (NDC). The first NDC is built upon the Green Growth and Climate Resilience Strategy (GGCRS), as well as other key national policies and guiding documents. This updated NDC updates and strengthens the first NDC for both the mitigation and adaptation contributions, informed by improved data collection, in-depth technical analysis and extensive stakeholder engagement. In the case of mitigation, detailed sector- and project-based modelling has been undertaken to now estimate the countrys mitigation potential and develop quantified conditional and unconditional contributions through 2030. This section provides a brief description of the revision process of Rwandas nationally determined contribution for both the mitigation and adaptation components.
+
+Business-as-usual (BAU) emissions forecasting The mitigation contributions presented in this updated NDC are based on achieving a relative GHG emissions reduction through 2015-2030 against a counterfactual baseline emissions projection representing the national emissions pathway in the absence of the mitigation measures. This requires developing sectoral BAU forecasts of output/activity and associated emissions through the NDC period; the subsequent tracking of progress against this baseline through implementation of mitigation projects will require the ongoing updating of the baseline.
+
+Rwandas Third National Communication (TNC) to the UNFCCC (GoR, 2018a) provide long-term emissions projections for Rwanda through 2050 using the Long-range Energy Alternatives Planning System (LEAP) software system (SEI, 2009) and calculations applying IPCC Tier 1 national emissions modelling. The BAU projections used in this updated NDC build upon and strengthen this analysis in several ways:
+
+Modelling linked to GDP growth and other emissions drivers. Whereas the TNC projections were based on projecting future emissions by extending previous trends from the historic emissions data, the current BAU forecasting links future changes more closely to relevant factors driving output and emissions changes, including economic growth, population growth, official agricultural production plans and power expansion planning2.
+
+2 The national GDP growth forecast aligned with Rwandas Vision 2050 strategy for economic growth (GoR, 2017a) has been used as the baseline assumption for economic growth. The medium population growth case for national population growth has been used from the Fifth Integrated Household Living Survey (EICV5) (GoR, 2018b).
+
+Use of regression analysis. Extensive use of regression analysis has been undertaken based on latest available data to better understand and inform relationships between certain forecast model parameters (e.g. analysis of vehicle growth by type/class according to GDP and population changes, from historic data).
+
+Further characterization of emitting sectors to enable more in-depth and robust modelling of factors determining output and corresponding energy use and GHG emissions (e.g. development of detailed road transport fleet modelling).
+
+Use of recent information and data. In addition, the updated BAU projections makes use of more recently available information sources such as e.g. national population projections, official power demand and generation projections, transport and vehicle survey data, official statistics, policy planning documents etc.
+
+Identifying and assessing mitigation measures Rwandas first NDC identified seven broad programmes of action, covering a number of interventions within each of the countrys key emitting sectors. However, these were only partially assessed for their GHG mitigation potential.
+
+The analysis used to develop this updated NDC has involved identifying a range of mitigation options from within each of the NDC sectors for further consideration and quantitative analysis. A bottom-up long-list was developed through close consultation with various stakeholders and experts, based on Rwandas NDC (GoR, 2015a); an assessment of NAMAs in Rwanda (GoR, 2015b); an adjusted list of NDC options, as contained in the Rwanda NDC Implementation Plan (GoR, 2017b); and Rwandas TNC to the UNFCCC (GoR, 2018a).
+
+A workshop was held in June 2019 in order to identify and discuss the long-list according to sector-based discussion groups3. Guided discussions focused on three elements:
+
+1. Review of NDC options: What is the current status of these projects? What is the planned timing? What are the implementation arrangements and needs?
+
+2. Discussion of additional options: What other options could be applicable in Rwanda? What are the key challenges? What are the policy gaps and support needs?
+
+3. Identifying data sources and gaps: What are the existing information sources? Where are the key data gaps required for detailed analysis? Discussion of contact points and specific arrangements for follow-up data collection.
+
+A modified long list emerging from the workshop discussions was further refined, based on subsequent meetings held between the consulting team, government officials and sector experts though July 2019 - January 2020. The projects identified in the NDC were re-assessed, as well as additional projects and programmes. In some cases, the details, and context, regarding many of the projects were found to have changed since the time of INDC submission. The long list of options identified thereby reflects a set of real projects and programmes under consideration, or having been studied, from within government departments and agencies4. The identified measures provided the basis for the GHG emissions modelling described in the following section.
+
+3 Rwanda NDC Implementation Workshop on BAU and mitigation options, held on 18 June 2019, Serena Hotel Kigali 4 As such, the long-list of mitigation options can be considered to be a comprehensive list of mitigation options across Rwandas emitting sector but does not represent a technical assessment of the countrys full mitigation potential. Technically possible by highly unfeasible options (e.g. carbon capture storage) were not considered.
+
+4.2 Adaptation The adaptation inputs depicted in this updated NDC are based on producing quantified targets for adaptation/resilience, evaluate priority interventions, develop monitoring and evaluation (M&E) framework for adaptation interventions. This was conducted through the evaluation of updated NDC adaptation long list of interventions based on updated information and an in-depth assessment of the countrys vulnerability to climate change. The following points outline the key steps that were followed in this revision process for identifying and assessing adaptation measures:
+
+The process involved an extensive review of relevant documents on climate adaptation that have developed over time starting with the Green Growth and Climate Resilience Strategy (2011) and the associated sector working papers.
+
+The analysis builds on the first NDC work and other more recent studies including the Strategic Program for Climate Resilience (2017) along with the Gaps and Needs Analysis, the Forest Investment Program (2017), the vulnerability index (National, 2015 and District 2018), Rwanda National Communication to UNFCCC (2018), the Sector Strategic Plans (2017) and the first NDC Implementation Plan (2017).
+
+Priority sectors were identified based on the NDC Partnership Plan that was led by the MoE with the support of the NDC Secretariat. The consideration was also based on the focus of the World Bank support in the context of the NDC Partnership Plan endorsed by the GoR in November 2018.
+
+The selection of adaptation interventions, the metrics including indicators, baselines, milestones and targets were conducted through workshops which were followed by extensive consultations with sector expert teams through various iterative discussions within sectors. In addition, a multi-criteria analysis methodology was used for prioritization of adaptation interventions.
+
+This then helped set adaptation indicators to guide baselines and categories of metrics at global, national/sub-national (to influence SSPs and DDSs) and finally at program and project levels.
+
+5.1 Overview Rwandas mitigation contribution takes the form of a reduction in GHG emissions relative to a business-as-usual (BAU) emissions baseline over the period 2015-2030. The contribution comprises of two components:
+
+Unconditional contribution: A reduction of 16 per cent relative to BAU in the year 2030; equivalent to an estimated mitigation level of 1.9 million tonnes of carbon dioxide equivalent (tCO2e) in that year. This is an unconditional target, based on domestically supported and implemented mitigation measures and policies.
+
+Conditional contribution: An additional reduction of 22 per cent relative to BAU in the year 2030; equivalent to an estimated mitigation level of 2.7 million tCO2e in that year. This represents an additional targeted contribution, based on the provision of international support and funding.
+
+The combined unconditional and conditional contribution is therefore a 38 per cent reduction in GHG emissions compared to BAU in 2030; this is equivalent to an estimated mitigation level of up to 4.6 million tCO2e in 2030.
+
+The sectoral scope of the contribution covers all emissions sources described in the IPCC 2006 Reporting Guidelines, including emissions from the categories of energy; industrial processes and product use (IPPU); waste; and agriculture, forestry and other land use (AFOLU) but excluding sources from forestry and other land use. These sources may be included within future contributions, subject to improved data availability and ongoing development in the accuracy of their quantification within the national GHG inventory. Note also that due to the lack of an intentionally recognised GHG accounting methodology, emissions reductions arising from utilisation of methane from Lake Kivu for electricity generation have not been quantified or included within this contribution. This may be revised in future contributions subsequent to development of suitable accounting and reporting guidance, and the development of relevant project data.
+
+The coverage of the contribution includes the three main greenhouse gases carbon dioxide (CO2), methane (CH4), nitrous oxide (N2O), and also hydrofluorocarbons (HFCs).
+
+This section describes Rwandas nationally determined contribution to mitigation. It describes the emissions sources covered by the contribution according to the latest national GHG inventory year, the development of BAU emissions projections by sector to 2030, the expected contribution from mitigation measures according to each sector, and the associated funding requirements expected for both the unconditional and conditional components.
+
+5.2 National GHG Inventory Rwandas latest GHG inventory data is reported in its Third National Communication (TNC) to the UNFCCC (GoR, 2018a) covers emissions up to the year 2015. This is the year adopted as the NDC baseline year. As part of the NDC revision process, a review of the GHG inventory data was undertaken. This resulted in the correction of some errors and inconsistencies. In addition, more recently available information and survey data allowed for actual activity and energy consumption data to replace previously estimated values. The historic and base year data described below are therefore based on this revised dataset which is considered the most recent and accurate information available against which to assess NDC mitigation contributions. These will be reflected in Rwandas forthcoming Biennial Update Report (BUR) and in the next National Communication.
+
+GHG inventory data in the base year 2015 are shown in Table 5.1 according to IPCC reporting categories for all GHG emissions sources, and summarised in aggregated form in Figure 5.1. Total emissions excluding forestry are estimated at 5.33 million tCO2e for 2015. The agriculture sector accounted for the largest share of the total (2.94 million tCO2e, 55% of total), followed by energy (1.68 million tCO2e, 31% of total) and waste (0.64 million tCO2e, 12% of total). Emissions from IPPU represented just 0.08 million tCO2e, equivalent to around 2% of total emissions in 2015; mainly associated with calcination CO2 emissions from clinker production.
+
+Emissions from livestock, predominantly CH4 from enteric fermentation in cattle, represented the largest emissions source category in the base year, followed by N2O emissions from managed soils in crop production. Following these agricultural sources, major sources included CO2 emissions from fuel combustion for heating and cooking in buildings (LPG, kerosene), which accounted for 14% of the total, and CO2 emissions from liquid fuel use in road transport (diesel, gasoline), which accounted for 13% of the total.
+
+Source: Rwanda National GHG Inventory data (as of September 2019); forestry excluded.
+
+Source: Rwanda National GHG Inventory data (as of September 2019); forestry excluded.
+
+5.3.1 Methodological approach Rwandas NDC mitigation targets are based on an in-depth assessment of the countrys mitigation potential against a BAU baseline through 2030. This has been undertaken through a process that integrates an analysis of Rwandas existing sectoral and climate policy framework, the generation of qualitative information through consultation with government officials, experts and stakeholders, quantitative modelling of mitigation options and scenarios, and multi-criteria assessment to prioritise measures and determine conditional and unconditional contributions.
+
+As described above, the mitigation assessment builds on the work undertaken in support of Rwandas INDC submission in 2015 and other more recent studies including e.g. GHG mitigation estimates made in the context of NAMAs and the TNC (GoR, 2018a), and a variety of other official data and information sources. The analysis comprised of three main stages:
+
+Stage 1: Develop BAU emissions forecasts: Based on the national GHG inventory emissions described above for the base year of 2015, develop a revised BAU baseline scenario through 2030 according to key drivers of national GHG emissions e.g. GDP, population, sectoral output projections.
+
+Stage 2: Assess and prioritise mitigation actions: Identify and collect information on mitigation options within each sector based on extensive cross-departmental discussions between officials and experts, quantify their emissions reduction potential through 2030 compared to BAU and undertake an economic cost-benefit analysis (CBA) of each option. In order to prioritize actions and determine which can be supported domestically and which require international support, a multi-criteria-based assessment of the identified measures was undertaken to determine environmental effectiveness, socio-economic effectiveness and feasibility.
+
+Stage 3: Develop alternative GHG pathways for NDC: Model alternative GHG pathways based on the identified and prioritised mitigation options against the BAU baseline through 2030 to quantify emissions reduction potential for the NDC across sectors and associated costs and investment needs.
+
+The interaction between these three elements is shown below in Figure 5.2.
+
+5.3.2 Business as usual (BAU) projections Rwandas mitigation contribution is based on a reduction relative to business as usual (BAU) emissions 2015-2030. The BAU projection represents the scenario according to which mitigation policies and actions are not implemented. It therefore provides the reference case (or baseline) against which the emissions reduction potential from mitigation actions have been quantified.
+
+Emission reduction outputs (absolute; per capita; per GDP) Economic outputs (abatement The development of BAU projections was based on detailed bottom-up modelling of activity and GHG forecasts developed for each emitting sector through 2030. These reflect a number of assumptions determining changes in inter alia energy supply and demand, sector output, technology uptake, and policy choices. In so doing, existing government projections and plans were assessed, during cross-departmental consultations between relevant ministries, agencies and organisations. Note that as work is currently ongoing to better quantify national emissions and removals from forestry, these were excluded from the analysis.
+
+The modelling draws heavily upon, and updates, the emissions projections work undertaken as part of the TNC work (GoR, 2018a). These provide long-term emissions projections for Rwanda through 2050 using the Long-range Energy Alternatives Planning System (LEAP) software system developed by the Stockholm Environment Institute (SEI, 2009) and supplemented by various excel-based calculations. As described above, the BAU modelling develops and improves in the TNC projections in several ways, including through the use of more recent data and sectoral analysis.
+
+Changes in production, energy use and GHG emissions through 2030 will be driven by a number of factors. The two most important drivers in the specific context of Rwandas NDC sectors are considered to be:
+
+Economic growth: Economic growth within key sectors will drive demand for energy, industrial output and services such as road transport and housing. Lower rates of GDP growth over the coming years will therefore tend to restrain demand and output, and GHG emissions levels. As set out in the countrys vision for continued economic development5, Vision 2050, Rwanda aspires to reach Middle Income Country (MIC) and High-Income Country (HIC) status by 2035 and 2050, respectively. The Vision will be delivered through a series of seven-year National Strategies for Transformation (NST1), underpinned by detailed sectoral strategies (World Bank, 2019). The current NST1 covers the period 2017-2024 (GoR, 2017a). GDP growth assumptions consistent with the Vision have been used as the base assumption for the BAU emissions projections.
+
+Population growth: Population increases within rural and urban areas will drive demand for road transport, housing, and other services, as well as levels of waste generation and resource use. Lower population growth will tend to restrain demand and GHG emissions levels. The National Institute of Statistics Rwanda (NISR) publishes population projections based on regulator household surveys and censuses. The most recent of these is the Fifth Integrated Household Living Survey, EICV5, (NISR, 2018). The EICV5 provides detailed projections of population according to low, medium and high scenarios. The medium population scenario has been used as the base assumption in BAU emissions6.
+
+An aggregated economy-wide forecast of BAU emissions through 2030 in shown below in Figure 5.3. This represents the BAU baseline projection, consistent with the Vision 2050 outlook, against which Rwandas mitigation contribution has been quantified. At an aggregate level, total emissions are forecast to more than double over the 2015-2030 period, 5 GDP growth averaged 7.5% over the decade to 2018 while per capita GDP grew at 5% annually (World Bank, 2019).
+
+6 The medium scenario predicts a total population growth of around 39% over the period 2015-2030; this rises to 43% under the high scenario and falls to 32% under the low scenario.
+
+The most rapid growth is forecast within industrial processes and energy use: the former expands its share of total emissions from 2% to around 4%, and the latter from 31% to 40% by 2030. The share of emissions from waste generation remains at around 12-13%, whilst agricultural sources decline from 55% to 43%. Although these do not represent dramatic shifts in emissions sources, they clearly indicate the growing contribution from fossil fuels to national emissions, arising from increasing demand for power generation, road transport services and other modern energy uses. At the same time, despite potential for increased productivity, agricultural output is expected to be limited due to land availability, thereby limiting emissions growth from this sector.
+
+8 Note that this value is corrected to account for data errors in the TNC reported data (GoR, 2018a).
+
+5.3.3 Mitigation assessment A detailed assessment of GHG mitigation options for Rwanda was undertaken in order to determine which options are most suitable within the NDC. The analysis was undertaken according to a three-step process:
+
+Step 1: Identifying mitigation options. A long-list list of potentially suitable emission reduction projects and measures was developed through discussions and consultation with government officials, technical and sector experts, and other stakeholders. This include Rwandas NDC (GoR, 2015a); assessment of NAMAs in Rwanda (GoR, 2015b); an adjusted list of NDC options, as contained in the Rwanda NDC Implementation Plan (GoR, 2017b); and Rwandas TNC (GoR, 2018a).
+
+Step 2: Assessing the potential. The identified long-list of mitigation options were then assessed in terms of their mitigation potential through 2030 compared to the BAU baseline projection and their economic costs and benefits.
+
+Step 3: Evaluating the options. The quantitative analysis undertaken in Step 2 was complimented by a broader, multi criteria-based, assessment in order to identify those options considered most suitable or feasible to be implemented under the NDC and to determine which can be implemented through domestic efforts (unconditional measures) and those requiring international support and finance (conditional measures).
+
+Assessing the potential Figure 5.4 summarises the estimated emissions reduction potential in 2030 for all mitigation measures assessed from the long list of all mitigation measures.
+
+The pie charts indicate the relative contribution made from projects within the key sectors of energy (covering energy use in electricity generation, industry, transport, commercial and residential, and agriculture), waste, IPPU and agriculture against the BAU baseline described above. The total mitigation potential is estimated at around 4.6 million tCO2e in 2030 compared to BAU emissions in the same year of 12.1 million tCO2e. According to the analysis, mitigation measures identified within the agriculture sector accounts for 49% of the total potential, followed by energy (34% of total), waste (14%), and IPPU (3%).
+
+Within agriculture, soil conservation measures  which include terracing, conservation tillage, multi-cropping and crop rotation practices  account for around half of the sectors mitigation potential. The bulk of the remaining mitigation potential includes measures to reduce enteric fermentation emissions from livestock, including the introduction of new species to replace local herds and improved husbandry, and the use of windrow composting.
+
+Within energy use, increased use of renewables to meet increasing energy demand dominates the mitigation potential. Significant emissions reduction potential exists across each of the main sub-sectors. Hydropower, covering large- and small-scale new generation, represents the largest share of the identified GHG reduction potential, followed by the use of solar energy for water heating, pumping for agricultural irrigation and off-grid electricity which together account for around a quarter of all mitigation. Emissions reductions arising from use of electric vehicles and vehicle fuel economy standards are also considered to be potentially significant, although assumptions around the rate of implementation over the coming decade (e.g. new vehicles entering the fleet and development of charging infrastructure) and the rate of electricity grid decarbonisation achieved are key to the net level of abatement achieved.
+
+Within waste, the most significant potential is identified within energy utilisation measures such as landfill gas recovery and direct waste-to-energy (WtE) plants. Mitigation potential from IPPU sources is by comparison relatively limited, with the majority of emissions reductions arising from increased use of clinker substitute for cement production (volcanic pozzolanas), followed by reduction of fluorinated gases (F-gases), in line with the 2016 Kigali amendment of the Montreal Protocol on Substances that Deplete the Ozone Layer (UN, 1987).
+
+Figure 5.4 Estimated GHG mitigation potential in 2030 from all mitigation measures Evaluating the options The identified mitigation options were assessed according to a multi-criteria evaluation framework. This was undertaken partly to assess the suitability of the identified measures within the NDC, and also to help inform the decision of which could be considered unconditional (domestically supported) measures, and which could be instead considered as conditional on international support.
+
+A detailed economic assessment was made for the full list of options. Although economic efficiency is a key criterion, climate policy must also respond to other key issues such as e.g. local pollution reduction, energy security, energy access, poverty, and seeking reduced electricity tariffs. A broader evaluation framework is therefore needed. Suitable mitigation options seek to maximise the following key criteria:
+
+Environmental effectiveness: mitigation actions should achieve real emissions reductions, at the national and global level, whilst minimising indirect environmental impacts and ensuring resilience to climate change impacts.
+
+Socio-economic impacts and co-benefits: mitigation actions should prioritize the most cost-effective options including those with developmental co-benefits and be acceptable to all entities involved taking account impacts and risks to affected groups including households, businesses, and communities.
+
+Feasibility of implementation: mitigation actions should be feasible to implement in the specific context of the national infrastructure and legal framework, be in alignment with national policy aims and objectives, and be suitable to international support and climate finance consistent with the UNFCCC and Paris Agreement.
+
+A set of criteria was chosen according to these three broad categories, drawing from international literature and guidance on good practice climate policy development (IPCC, 2007).
+
+On the balance of the criteria evaluation framework, and informed by stakeholder and cross- departmental consultation, the majority of the assessed options were considered to be high priority or medium priority options; no options are considered inappropriate as part of Rwandas mitigation contribution. All measures were also considered to be potentially applicable for implementation before 2030, subject to financial support and overcoming implementation challenges.
+
+In common with many other developing country Parties, Rwanda mitigation contribution has been developed according to two different components:
+
+Unconditional contribution: Those mitigation measures and policies which will be implemented unconditionally through domestic efforts alone (e.g. funded within committed national policy plans and actions); and  Conditional contribution: Additional mitigation measures which could be implemented, but only conditional upon the availability of international support (including funding and other types of support from donors, climate finance and potentially carbon markets).
+
+The multi-criteria evaluation process provided a basis to clarify the identified options according to these two groupings. In so doing, the following broad considerations were also used to help guide the choices:
+
+1. Costs and investment levels: Higher cost projects and those requiring significant investment levels are typically considered more suitable to international support given national budget and resource constraints. 2. Inclusion within existing national policies and sector plans: Several projects and measures are already included within national policy planning and budgeted within sector plans: these can therefore be viewed as domestically supported.
+
+3. Suitability to international support: Some measures are more or less suited to existing and emerging forms of support and climate finance, for example in terms of projects types.
+
+The subsequent classification of the mitigation measures according to unconditional and conditional measures is shown in the NDC Implementation Plan presented further below.
+
+5.3.4 Mitigation contribution Figure 5.5 illustrates the emission projections for the BAU baseline, and Rwandas mitigation contribution for domestic unconditional projects and for all projects (unconditional and conditional). The associated values are shown in the table below. The graph shows emissions more than doubling under the BAU projection from 5.3 MtCO2e in the base year to around 12.1 MtCO2e in 2030. With the domestically supported unconditional mitigation measures, 2030 emissions are forecast to instead rise to around 10.2 MtCO2e, representing a reduction against BAU of around 16%. With both domestic and conditional mitigation measures, emissions are forecast to instead total around 7.5 MtCO2e, equal to a reduction of 38% by 2030 against the same baseline.
+
+The mitigation contributions are summarised in Figure 5.6 below for the year 2030, which also shows the contribution of each sector to the total estimated mitigation potential.
+
+5.4 Implementation plan The following tables present a high-level summary for each of the mitigation measures quantified as part of the unconditional and conditional contributions, shown by sector and summarised by each of the key implementation aspects including responsible government ministries and implementing lead agencies, the planned timeline, and estimated funding requirements. Adaptation benefits and linkages with the United Nations (UN) Sustainable Development Goals (SDGs) are also shown.
+
+Development of 56.75 MW large hydro capacity (capacity > 5 MW), 24.5 MW small and mini hydro projects (capacity <5MW) and 75 MW regional projects by 2030. Displacement of GHG emissions from fossil fuel power generation (peat, diesel oil).
+
+Total plant capital costs estimated at 328 million USD.
+
+Potential for improved water management through flood and drought control. Increase in agricultural production due to improved water management and reduced exposure to extreme climate events.
+
+Installation of solar lighting and LED systems to replace high-pressure sodium (HPS) lamps for street lighting and public spaces within populated areas and main roads by 2024. Reduction of grid-based GHG emisisons.
+
+Total lighting, battery and installation costs estimated at 28 million USD.
+
+Reduced reliance on grid-based power generation and infrastructure, and imported energy.
+
+A range of energy efficiency measures focused on reducing firewood and electricity consumption in the coffee and tea sector.
+
+Increased resilience of tea and coffee plantations. Reduced pressure on forests resources, with reduced impacts from extreme rainfall events.
+
+Phasing out of diesel gensets for on-site electricity consumption, to be replaced with grid and/or on-site renewable power production.
+
+MOE (RMB, mining companies) Up to 5 million USD.
+
+Reduced reliance on energy imports through use of indigenous energy resources.
+
+Phasing out use of clamp kilns, and applying energy efficiency measures in the brick manufacturing industry.
+
+Increased resilience of brick manufacturing industry. Reduced reliance on biomass energy and related air pollution. Reduced pressure on forests.
+
+Use of waste heat recovery (WHR) and increased use of rice husks as fuel within clinker production.
+
+11 million USD Increased resilience of cement industry. Reduced reliance on imported energy supply.
+
+Measures introduced to increase vehicle emissions performance of national vehicle fleet, including tax incentives and scrappage of older vehicles, and inspection. Reduction of GHG and local emissions from gasoline and diesel use.
+
+Incremental vehicle costs and scheme administration est. 190 million USD.
+
+Reduction of harmful pollutants from conventional diesel and gasoline vehicles, enhancing resilience of population to disease and adverse climate impacts.
+
+Further dissemination of CFL and LED lamps in residential, commercial and institutional buildings. Supported by government subsidies and VAT exemptions on energy saving lamps. Reduction of grid-based GHG emisisons.
+
+6.4 million USD (assumes 1.6 million CFL replacements with 7 year lifetime and 2 USD unit cost).
+
+Increased opportunities for education, indirectly increasing population resilience to extreme weather events. Reduced household expenditure on energy enhances resilience.
+
+Dissemination of modern efficient cook stoves to 80% of the rural population and 50% of the urban population by 2030, achieving a more sustainable balance between supply and demand of biomass, and reducing firewood and fossil energy consumption for cooking.
+
+380 million USD (new stoves, training and scheme monitor- ing).
+
+Reduced dependence on availability of traditional biomass fuels, which is vulnerable to climate variability. Reduced pressure on forests resources, with reduced impacts from extreme rainfall events.
+
+Use of solar water pumping systems for irrigation within agricultural production to replace diesel pumps, displacing fossil fuel use and associated GHG emissions.
+
+285 million USD. Reduced dependence on imported energy and increased food security.
+
+68 MWp of solar mini-grids to be installed in off-grid rural areas by 2030, as reflected in the Rural Electrification Strategy. Displacement of traditional biomass fuels, diesel and kerosene for domestic energy use.
+
+Reduced dependence on availability of traditional biomass fuels, which is vulnerable to climate variability. Reduced pressure on forests and forest biodiversity. Increased adaptative capacity as a result of increased off-farm business for rural community having access to electricity/ energy.
+
+Wide range of measures including bus rapid transport (BRT) project, bus lanes, non-motorised transport lanes, and other modal shift projects contained in the Transport Sector Strategic Plan as part of the NST1.
+
+50 million USD (but cost estimates are limited to bus mea- sures only).
+
+Increased resilience of transport infrastructure. Improved health and reduction of harmful pollutants, enhacing resilience of population to disease and adverse climate impacts.
+
+The e-mobility programme plans for the phased adoption of electric buses, passenger vehicles (cars) and motorocycles from 2020 onwards, resulting in displaced conventional vehicle sales, transport fuel imports and associated GHG emissions.
+
+Total costs including EVs and charging infrastructure est. up to 900 million USD.
+
+Reduction of harmful pollutants, enhacing resilience of population to disease and adverse climate impacts.
+
+Penetration of off-grid solar and rooftop solar PV panels consistent with the ESSP targets of around 1,500,000 households to be electrified through, equivalent to 250,000 connections per year. Displacement of grid power and diesel consumption and associated GHG emissions.
+
+Reduced dependence on imported energy and increased resilience and energy security of buildings, households and companies.
+
+Installation of solar thermal water heaters within urban residential buildings supported by use of loans and grants to subsidise purchase costs, as part of the National Green Building Code minium compliance system.
+
+SWH costs est. 52 million USD. Support programme est. 8 million USD.
+
+Improved climate resilience of buildings and reduced reliance on material and energy consumption, including energy imports.
+
+Increased use of on-farm anaerobic digestion of manure for bioenergy (bio-digestors).
+
+Reduced dependence on availability of traditional biomass fuels, which is vulnerable to climate variability. Reduced pressure on forests and forest biodiversity, and food security Increasing the share of volcanic pozzalanas used within national cement production beyond current cement-to-clinker ratio of 0.7, with target for an incremental 5% substitution of clinker with pozzolana through 2030. Reduced clinker production and associated calcination process CO2 emissions.
+
+Capital costs est. 1.2 million USD. Pozzolana material costs est. 7 million USD through 2030.
+
+Reduced dependence on imported coal, which results in reduction of cement production costs, thereby contributing to address national cement demand for adaptation to the effects of climate change.
+
+Gradual substitution of F-gases by less polluting substitutes, implemented as part of Rwandas commitments to the Kigali Amendment to the Montreal Protocol on Substances that Deplete the Ozone Layer. F-gases not to exceed the following percentages: (a) 2020 to 2024: 95%; (b) 2025 to 2028: 65%; (c) 2029 to 2033: 30%.
+
+Additional capital costs est. 3.2 million USD. Material costs est. 20 million USD through 2030 Reduction of climate impacts from F-gases with high GWP, which results in enhanced population resilience to adverse climate impacts.
+
+Continous crop rotation of up to 600,000 Ha, leading to prevention of soil erosion and reduction of CO2 and N2O emissions and carbon sequestration in soils.
+
+Increased food security through enhanced soil fertility, increased crop stability and reduced soil erosion. Cleaner water provision, through reduced nutrient and soil runoff.
+
+Promotion of better livestock feed (i.e. legume fodder species) and training in better livestock management, under the Rwanda Livestock Master Plan. Reduction in CH4 emissions from enteric fermentation.
+
+Adoption of more efficient manure management systems, including promotion of collective farms and training, under the Rwanda Livestock Master Plan. Reduction in GHG emissions from manure management.
+
+Increased use of organic waste in soil fertilizers, supported by target to apply composting within all agricultural households by 2030, and more judicious fertilizer use and promotion of fertigation to enhance fertiliser uptake.
+
+Enhanced effectiveness of fertilizer application, thereby supporting agricultural activities of vulnerable farmers. Reduced compostable waste related health risks such as dengue fever. Enhanced soil fertility and reduced soil erosion.
+
+Installation of 165,000 Ha land protection terracing structures in sloped arable areas to present soil erosion, leading to reduction of CO2 and N2O emissions and carbon sequestration in soils.
+
+Increased food security through enhanced soil fertility, increased crop stability and reduced soil erosion. Cleaner water provision, through reduced nutrient and soil runoff.
+
+Multicropping of coffee and bananas of up to 40,000 Ha, leading to prevention of soil erosion and reduction of CO2 and N2O emissions and carbon sequestration in soils.
+
+Increased food security through enhanced soil fertility, increased crop stability and reduced soil erosion. Cleaner water provision, through reduced nutrient and soil runoff.
+
+Conservation tillage:
+
+Reduction in vertical movement of soil, leaving more crop residue on the soil surface, thereby reducing soil erosion, reduction of CO2 and N2O emissions and carbon sequestration in soils.
+
+Increased food security through enhanced soil fertility, increased crop stability and reduced soil erosion. Cleaner water provision, through reduced nutrient and soil runoff.
+
+Improved livestock species and population:
+
+Replacement of 10% domestic cows with improved cow species; expansion of fish farming, poultry and other small livestock to increase protein food supply without increasing cows; and change in livestock mix. Reduction in CH4 emissions from enteric fermentation.
+
+Increased food security through introduction of more drought resistant livestock species and enhanced yields.
+
+Extraction and utilization of landfill gas (LFG) for power generation in connection to semi- or fully- controlled landfills for urban areas. Reduced CH4 emissions from landfill sites and avoided CO2 emissions from displacement of fossil-based electricity use.
+
+Investment in LFG plants and improved landfills est. 28 million USD.
+
+Creation of revenue generation opportunities of stakeholders in the waste management process chain. Improved quality of water, soil and local atmosphere. Increased access to electricity and reduced dependency on traditional biomass energy.
+
+Development of WtE plants in Kigali and other urban areas through energy recovery options other than LFG. Avoided CO2 emissions from displacement of fossil-based electricity use.
+
+Total costs est. 8 million USD per year.
+
+Creation of revenue generation opportunities of stakeholders in the waste management process chain. Increased access to electricity and reduced dependency on traditional biomass energy.
+
+Development of commercial scale aerobic composting systems for agricultural and forestry residue, manure, food processing, household kitchen and garden waste, and biosolids (organic solids from treated sewage). Reduction in CH4 emissions, since methane-producing microbes are not active in the presence of oxygen.
+
+Capacity building and program implementation costs 5 million USD. Annual costs est. 6 million USD. Improved retention of soil fertiliser and enhancing soil buffering capacity. Increased food production and nutrition security. Creation of revenue generation opportunities for local communities.
+
+Investment in wastewater treatment and reuse technology, reducing methane emissions from wastewater and providing a nutrient-rich digestate that can be used as a fertilizer. Reduction of CH4, and CO2 emissions.
+
+Capital costs million USD per WWTP. Annual costs est. 1.5 million USD.
+
+Reduced water contamination. Increased agriculture production and groundwater recharge. Increased food production and nutrition security.
+
+5.5 Funding requirements Figure 5.7 below shows the funding requirements associated with all identified mitigation options, estimated at 5.7 billion USD through 2030. These represent the capital investment costs required for new plant, installations and equipment. The investment levels for each sector broadly correspond to the estimated mitigation shares across each emitting sector, with agriculture and energy projects accounting for the majority (each accounting for 47% of the total 2020-2030 respectively). Investments in waste facilities account for the bulk of the remaining requirement. In order to achieve the projected mitigation outcomes, around half of the total 5.7 USD billion will be required in the period 2020-2025 and half in the period 2025-2030.
+
+Figure 5.8 shows the estimated funding requirements according to the unconditional (domestically supported) and conditional contributions for the periods 2020-2025 and 2025-2030, and through to 2030 as a total.
+
+6.1 Introduction Rwanda is heavily dependent upon its natural resources including land, water, and forests. Over two-thirds of the population engage in agriculture, forestry, and tourism for income and food security. Agriculture accounts for approximately one-third of Rwandas GDP, and around one-half of power generation comes from small-scale hydropower. Economic growth was solid, averaging 6.1% over (2013-2016) against the target of 11.5% over the period 2013-2020. Growth in all sectors while positive and resilient in the face of a slowing global economy, did not meet targets. Agriculture averaged 4.1% compared to 8.5% (targeted). These sectors provide jobs and income for a majority of Rwandas population. However, the impacts of climate change have increasingly undermined the economic gains in recent years. NST1 asserts that agricultural growth was mainly affected by crop diseases and climate change effects.
+
+In response to the growing climate change challenges to the economy, Rwanda has put in place a legal, policy and strategic framework to deal with climate change and climate variability induced risks and economic losses through (among other approaches) reducing vulnerability and building resilience to the impacts of climate change.
+
+At the international and regional levels, it has ratified the United Nations Framework Convention on Climate Change (UNFCCC) as a Non-Annex 1 Party in 1995 and later the Kyoto Protocol. Rwanda has also ratified the Paris Agreement, which deals primarily with greenhouse emissions mitigation, adaptation and financing. As part of the PA implementation, Rwanda is submitting a revision of the NDC with clear results framework and resource mobilization targets that will realistically guide its successful implementation.
+
+The adaptation component in Rwandas updated NDC involves quantified targets for adaptation and resilience, criteria-based evaluation of priority interventions, and development of a monitoring and evaluation framework for adaptation actions to strengthen national capacity for resource mobilization that will be instrumental to supporting climate action phased over 2025 and 2030 time horizons.
+
+6.2 Rwandas impacts and vulnerability to climate change Rwandas economy depends primarily on agriculture, which is predominantly rain fed. This makes the country highly vulnerable to climate change. The country is still water scarce with 670 m of water per capita per year and 25% of the population are still unable to access safe drinking water (MoE, 2017).
+
+Land is also vulnerable to heavy rainfall associated with soil erosion and landslides resulting in the loss of fertility in North, Western, and Southern province, while Eastern Province is often vulnerable to drought (GoR, 2015a). The high population density (415 inhabitants per square kilometre in 2012), puts pressure on natural resources (land for housing, agriculture, wood for domestic use in construction, cooking, infrastructure, etc.). Without proper land use planning and implementation, and with a growing population, these pressures are likely to increase.
+
+In 2016, it was reported that 62.60% of the urban population live in informal settlements, while less than 20% of the urban population live in areas covered by master plans had storm water considerations in 2016 (MININFRA, 2017). In the health sector, major issues are related to the capacity gaps particularly at the district level (district health units) that limits effective coordination of health services. In the fiscal year 2016/2017, 308 malaria incidents per 1,000 population were reported and the malaria proportion mortality rate was at 5.7 per 1,000 in the same year.
+
+Climate change adaptation is being mainstreamed in the transport sector by increasing the number of all-weather roads through improving road infrastructure from unpaved to paved roads with a focus on national roads. In 2018, from a total length of national roads of 2749km, 1385.5km were paved (50%). Financial limitation is one of the major challenges among others, which results in gaps for technical and technological capacity, as well as pressure on natural resources linked to high population density.
+
+In addition to the above-mentioned impacts and vulnerability to climate change, other challenges to the implementation of adaptation and resilience options are mainly classified at policy/strategic; global/national (sub-national); program and project levels. Both the 2017 and 2018 Rwanda NDC implementation and partnership plans identified the following areas to have broadly captured the demonstrated gaps that need to be addressed and strengthened (GoR, 2018c):
+
+Institutional and technical capacity among sectors involved in adaptations strategies (government, private sector, and Civil Society Organizations), particularly for developing bankable projects for domestic and external funds mobilization  Challenges on the operational level focus on metrics, data management, monitoring, reporting and verification.
+
+The current updated NDC seeks to accelerate Rwandas socio-economic growth by holistically addressing sector specific vulnerabilities and unlocking and directing domestic and external investments to adaptation for effective climate action.
+
+6.3 Priorities for adaptation and resilience Rwandas adaptation and resilience priorities draw upon the Green Growth and Climate Resilience Strategy adopted in 2011 with a time horizon of 2050. The strategy has 14 Programmes of Action (PoA) of which the following programmes that include adaptation to climate change in the following programmes:
+
+A recent review of the strategy indicated that it is still valid and relevant to Rwandas Vision 2050 as well as strategic plans - such as the National Strategy for Transformation (NST) for the period between 2018 and 2024 (MoE, 2018). Furthermore, in 2019, a new Environment and Climate Change Policy was adopted with the following relevant objectives (MoE, 2019):
+
+Greening economic transformation (resource efficiency, low carbon, climate resiliency, circular economy, green technology and procurement, green urbanization and settlements, and green mobility);
+
+Strengthening meteorological and early warning services (climate and weather services production and mainstreaming into all sectors of Rwandas socio-economic development, production and access of meteorological, climate and weather services for better planning in all sectors of economy;
+
+Promoting climate change adaptation, mitigation and response (strengthen mitigation and adaptation in both planning and implementation);
+
+Strengthening environment and climate change governance (mainstreaming of environment and climate change into all sector policies, national coordination for the management of critical ecosystems, inclusive decision-making and interventions for environment and climate change management, education & awareness of Rwandan society on environment, weather and climate change, and strengthen the institutional framework and coordination mechanisms); and  Promoting green foreign and domestic direct investment and other capital inflows (strengthening environment & climate financial mechanisms for more efficiency, effectiveness and impact and strengthening climate proofing capital inflow in national economic planning).
+
+This is a demonstration of the progressive policy relevance of climate change to Rwandas economic growth and development that lends the momentum to address climate change in general and adaptation/resilience in particular as an integral component to national development priorities. These strategic and policy relevant areas have outlined priorities for the NDC adaptation analytical framework and will continually inform planning, resources mobilization and implementation of NDC in the medium (2025) to long term in 2030 as well as influence the achievement of climate action relevant to SDGs.
+
+6.3.1 Methodological approach Figure 6.1 summarises the key steps for the adaptation component that were followed in the updated Rwandas NDC. The focus in this process was:
+
+To develop stakeholder consensus on priority interventions, baselines and targets on adaptation;
+
+To develop the indicators of prioritised adaptation interventions;
+
+To develop the Monitoring and Evaluation Framework for adaptation actions partly drawing from and strengthening the Environment and Natural Resources Results Based Monitoring and Evaluation (ENR RBME).
+
+The methodology was based on an extensive review of relevant documents on climate adaptation that have developed over time starting with the Green Growth and Climate Resilience Strategy and the associated sector working papers. It is important to note that this strategy was the basis of the INDC and consequently the first NDC. Other documents and reports that were reviewed to significantly inform and influence the revision process were the SPCR along with the Gaps and Needs Analysis, Forest Investment Plans (FIP) and the NDC implementation plans (2017 & 2018) as well as the national reports on the vulnerability index (2015 and 2019) and the Third National Communication. The Sector Strategic Plans (SSPs) served as the critical reference documents for sector consultations and included identifying and refining the analytical framework that captures climate adaptation/ resilience. As shown in Figure 6.1, the methodology considered the development of a long list of adaptation actions, their prioritization, and indicators development which informed the framework for the updated NDC activities and the NDC implementation plan.
+
+Conceptual Approach:
+
+/ MEL:
+
+Consultation with experts from multiple sectors was conducted based on the developed analytical framework. The specific objectives for the consultation were:
+
+1. To check if the information included in the adaptation analytical framework is relevant to the sector;
+
+2. Share other internal reports that can be useful for the measurement, reporting and verification (MRV) for sector guidance and validation;
+
+3. Advise on the projected 2025 and 2030 sectoral targets, since the existing ones are primarily drawn from NST1 that has projections up to 2024 only;
+
+4. Inform and develop consensus on the costing of climate adaptation specific priority actions, including an outline of sources of finance categorized as conditional (where the Party would be willing to increase its ambition level given certain conditions were met, otherwise referred to as supported measures) and unconditional (unilaterally funded);
+
+5. Agree on the MRV to report which in the case of adaptation focuses on monitoring and reporting on financial flows to address adaptation/resilience action.
+
+In order to influence effective mainstreaming of climate adaptation in sector priorities, and consequently in a strategic way for national uptake including at the NST and therefore policy levels, clear adaptation metrics including indicators and targets were generated and agreed upon as measures to guide the collection of gender disaggregated data.
+
+6.3.2 Prioritised measures The table below presents a summary of prioritized sector adaptation interventions, corresponding indicators, indicator category, and timeline for the implementation, responsible government ministries, and implementing lead agencies, and the estimated adaptation funding requirement, mitigation benefits and the alignment with SDGs that are directly relevant to the sector intervention. Basing on the experiences in reporting at global level (including expectations of adaptation investment funds) and national level (including projects), the indicators outlined in the table below were divided into categories A and B for global and national reporting, respectively.
+
+The indicators are also aligned with baselines and adaptation targets that have drawn from existing national initiatives on climate change adaptation and resilience. It should be noted that the indicated timeline shown in Table 6.1 from 2020 to 2030 corresponds to the implementation of the mentioned adaptation interventions, but that this does not exclude the fact that a number of these interventions were implemented upon the submission of the first NDC, i.e. the period from 2015 to 2020.
+
+Timeline Category of indicator Funding estimate Mitigation benefits Alignment with Develop a National Water Security through water conservation practices, wetlands restoration, water storage and efficient water use Improved quantity and quality of water resources which sustain new and existing hydropower plants Develop water resource models, water quality testing, and improved hydro-related information systems 24 million USD Reduced GHG emissions from improved land use and livestock species Develop climate resilient postharvest and value addition facilities and technologies Strengthen crop management practices (disease prevention, diagnostic, surveillance and control) Develop sustainable land management practices (soil erosion control; landscape management) A 2,261 million USD Efficient irrigation reduces nitrogen losses including emissions from nitrous oxide Reduced GHG emissions from improved management of crop failureNumber of cows under Development of Agroforestry and Sustainable Agriculture (control soil erosion and improved soil fertility) Hectares of forest restored/ afforested in program area and hectares of protected forest in project/ program area Number of Ha of private forest restored and whose owners are grouped into cooperatives MoE/ MINAGRI / Number of Ha of forest plantation whose management is transferred to the private operators National land use development master plan (NLUDMP) that includes comprehensive measures and procedures for sustainable land use practices MoE / MINAGRI / MININFRA / MINALOC (RLUMA, RAB, RHA, REMA, RFA, Districts, Private sector, Civil society) Reduced GHG emissions from efficient land use and transport plus increased surface area for carbon sinkDetailed spatial plans Develop a harmonized and integrated spatial data management system for sustainable land use management Accurate data on exposure to climate vulnerability on households (HHs) and infrastructures in high risk areas reported MoE / MINAGRI / MININFRA / MINALOC (RLUMA, RAB, RHA, REMA, RFA, Districts, Private sector, Civil society) 20 million USD Reduced GHG emissions from efficient land use and increased surface area for carbon sink Percentage of operational integrated geospatial information framework integrated with environmental and socio-economic statistics Inclusive land administration that regulate and provide guidance for land tenure security Percentage of (1) urban population living in informal settlements, (2) rural population living in clustered settlements MININFRA/ MoE (RHA, RLUMA, RWRB, WASAC, Districts, Private Sector, RDB, Civil society) Reduced GHG emissions from efficient land use, electricity and transport plus increased surface area for carbon sink Average share of the built-up area of cities that is open and green space for public use for all (SDG) Percentage of urban population in areas covered by master plans with storm water considerations Strengthen preventive measures and create capacity to adapt to disease outbreaks A 185 million USD Challenging to evaluate the several factors for health related GHG emissions Environmental and engineering guidelines developed (for climate resilient road infrastructure) 600 million USD Reduced GHG emissions from improved transport services which reduces motorized private transport 20 million USD Reduced GHG emissions from community-based DRR programs such as improved farming techniques Percentage of extreme weather events for which advance warning was provided at least 30 minutes in advance Institutional capacity building and development for cross-sector NDC implementation Number of staff who acquired technical skills to effectively coordinate and report on NDC implementation B 6 million USD Reduced GHG emissions from improved access to technology and knowledge Cumulative volume of finance [USD millions] mobilized for climate and environmental purposes 6.4 Funding requirements The cost estimates for adaptation interventions was made for the two phases, i.e. 2020-2025 and 2025-2030. Estimates were made by referring to different planning documents, among others, the National Strategy for Transformation (NST1: 2017-2024), Sector Strategic Plans (SSPs) and the cost of other similar projects. Some interventions will be contingent on the availability of external financial support (conditional) while others may be implemented through internal funding (unconditional) or co-financing (internal and external sources of budget). The total amount of NDC adaptation interventions is estimated at above 5.3 billion USD through 2030 as detailed in Table 6.2. Figure 6.2 below summarizes the funding requirements per sector associated with all identified adaptation interventions, estimated at 5.3 billion USD through 2030.
+
+Figure 6.2 Adaptation investment levels from the total 5.3 billion USD through 2030 Develop a National Water Security through water conservation practices, wetlands restoration, water storage and efficient water use Develop water resource models, water quality testing, and improved hydro-related information systems Develop climate resilient postharvest and value addition facilities and technologies Strengthen crop management practices (disease prevention, diagnostic, surveillance and control) Develop sustainable land management practices (soil erosion control; landscape management) Development of Agroforestry and Sustainable Agriculture (control soil erosion and improved soil fertility) Develop a harmonized and integrated spatial data management system for sustainable land use management Inclusive land administration that regulate and provide guidance for land tenure security Strengthen preventive measures and create capacity to adapt to disease outbreaks Institutional capacity building and development for cross-sector NDC implementation 7.1 Institutional arrangements for tracking NDC implementation The successful implementation of Rwandas NDC requires an effective Measurement, Reporting and Verification (MRV) system, enabling the country to monitor the effectiveness of its mitigation and adaptation measures and facilitating its access to climate finance. Internationally, the implementation of an MRV system is the basis for understanding the current GHG emission levels, the ambition of the existing efforts, and the progress made in contributing towards the goals of the Paris Agreement.
+
+All Parties to the UNFCCC are required to implement a domestic MRV system that can annually quantify national GHG emissions by sources and removals by sinks, and report the specific actions made to identify and implement mitigation measures. This information is at present compiled by Rwanda and is submitted to the UNFCCC through two channels:
+
+National Communications (NCs) to be submitted every four years, covering measurements of GHG emissions by sources and removals by sinks compiled in accordance with IPCC reporting guidelines (i.e. a National GHG inventory). These should also include a description of steps made to implement mitigation actions in support of the UNFCCC goal, among other aspects (as required under Decision 17/ CP.8 and other decisions on implementation details); and  Biennial Update Reports (BURs) to be submitted every two years. These should include an up-dated GHG inventory report from that of the NC, a measurement of mitigation actions and their impacts, reporting on the domestic MRV system and a description of needs and international support received.
+
+Rwanda submitted its Third National Communication (TNC) in September 2018, reporting on its national GHG inventory up to the year 2015. The country is currently preparing its first BUR and an updated GHG inventory. The Paris Agreement contains several additional MRV requirements which, when taken together with the existing UNFCCC arrangements, provide an enhanced basis for Rwandas international reporting requirements relating to the mitigation component of the NDC.
+
+New requirements are mainly covered by Article 13, which establishes a new Enhanced Transparency Framework (ETF) through which Parties must regularly account for their NDCs alongside other reporting requirements similar to those contained in NCs, BURs and the International Consultation and Analysis (ICA).
+
+The ETF requires the NDC MRV system to transparently report progress made towards the targets defined in Rwandas NDC and to track the progress made in the implementation of mitigation and adaptation actions - as well as the use and results of means of implementation and support including capacity building, technology transfer, and finance. The MRV system also captures non-GHG impacts on environmental, social and economic impacts of the NDC actions that would lead to transformational change towards achieving national sustainable development goals. In the case of Rwanda, this must take into account gender mainstreaming that is central to Rwandas sustainable development process.
+
+These national and international requirements for the three MRV dimensions overlap and there is value in demonstrating their linkages within the MRV system. For example, finance, capacity building and technical support have a direct impact on implementation of mitigation and adaptation actions. Therefore, Rwandas NDC MRV system will be instrumental in monitoring and reporting progress and use of support as well as facilitate identification of challenges to inform policy changes essential to improve implementation.
+
+Rwanda has a robust national planning process coordinated by the Ministry of Finance Economic Planning and Research (MINECOFIN) through sector working groups (SWGs) that track implementation of sector priorities. The SWGs hold semi-annual meetings and workshops for progress reporting through Joint Sector Review consultative sessions.
+
+The Ministry of Environment (MoE) chairs the Environment and Natural Resources SWG that has the responsibility to monitor and evaluate the implementation of the NDCs through regular stakeholder consultative engagement. Under the MoE are agencies that regularly organize Thematic Working Group (TWG) sessions in the context of the national planning process that supports implementation including monitoring, evaluation and progress reporting on sub-sector priorities. Rwanda Environment Management Authority (REMA) has the overall responsibility for, and chairs, the Environment and Climate Change Thematic Working Group (E&CC TWG) that has technical oversight over implementation of climate change priorities.
+
+The E&CC TWG forum is the ideal platform for guiding the analytical framework, reporting updating and implementing both national mitigation and adaptation priorities. The Environment and Climate Change Thematic Working Group (E&CC TWG) will therefore serve as a forum for hosting the technical working committee for Rwandas NDC, and REMA as the Chair of the E&CC TWG will appoint a core team to the technical working committee that endorses the national NDC MRV. Therefore, the E&CC TWG forum through the technical working committee will serve as the national coordinator for all national institutions that implement sector specific mitigation, adaptation, finance as well as capacity building and technology transfer and support to operationalize the NDC MRV at the national level.
+
+Figure 7.1 below summarises these institutional arrangements for tracking of NDC implementation including the national NDC MRV process.
+
+Figure 7.1 Institutional arrangements for tracking Rwandas NDC MRV implementation  Ministries, other public institutions, local government institutions (districts, etc.)  Higher Learning and Research Institutions  Private institutions, NGOs, CBOs, etc.
+
+7.1.1 Role of NDC MRV technical working committee The chair for the technical working Committee for Rwandas NDC MRV, REMA, will guide the selection of members that will form the technical working committee to provide technical oversight and ultimately present the MRV to the E&CC TWG for official endorsement. Following the endorsement, REMA will communicate NDC MRV through the normal national reporting channels including the ENR SWG and the economic cluster chaired by the Ministry of Finance and Economic Planning (MINECOFIN) to inform policy and strategic decisions that ensure NDC MRV effectively supports national sustainable development. The following are key areas that form part of the mandate of the Committee:
+
+Review and establish objectives for the committee(s),Terms of Reference, membership and overall working modalities of the committee, principal of which is the endorsement and subsequent reporting of the NDC MRV at both national and global levels;
+
+Provide advice and feedback on scope, schedule, cost and quality concerns, or guidance on program priorities, that arise during the planning, design and implementation of the projects related to NDCs;
+
+Facilitate access to resources necessary to review and report on NDC MRV and approve projects at key milestones;
+
+Review and examine studies, research activities in line with NDCs to facilitate quality assurance and alignment with strategic priorities  Develop and operationalize an effective NDC MRV communications plan.
+
+7.1.2 NDC MRV data and information management The Results Based Monitoring and Evaluation (RBME) system is the principal repository and therefore appropriate platform for information and data monitoring and management for Environment and Natural Resources sector chaired by MoE. Thus, all climate change relevant data including NDC MRV managed and reported by the E&CC TWG will be processed and accessed through the RBME. Assessing and defining most suitable data sources is important for any MRV system to be effective.
+
+The technical working committee for NDC MRV will play a critical role of the national level data and information generation and reporting and will be significantly involved in data gathering, transparency, and verification. The committee will ensure that Rwandas NDC MRV system links mitigation, adaptation and finance as well as support for capacity building and technology transfer as critical aspects of NDC implementation.
+
+The National Institute of Statistics Rwanda (NISR) is central to national data processes and has the ultimate role of validating national statistics through data and information authentication and therefore approval for national statistics shared externally. NISR will facilitate development and application of data protocols and annually review national level standards and guidelines for data inputs and aggregation to guide sector and/or agency generated data and information on mitigation/adaptation.
+
+MINECOFIN is the ideal national institution for tracking NDC MRV related finance. FONERWA as the national fund for environment and climate change will liaise with MINECOFIN to manage data on finance and provide a platform to access finance data and information for national reporting. This information will be increasingly critical to guide resources mobilization that FONERWA must influence in filling finance gaps for the successful implementation of Rwandas NDC.
+
+Gender mainstreaming is a priority at all levels of policy and implementation and the NDC MRV will ensure gender disaggregated data is captured and reported as well as engage private sector in the support for national NDC MRV processes.
+
+The NDC MRV information will be packaged using appropriate reporting protocols and formats for national level as well as international reporting. At the national level, NDC MRV will be monitored, analyzed and reported semi-annually at the E&CC TWG and the ENR SWG (uploaded on the RBME system) using national planning driven process coordinated by MINECOFIN to inform policy and strategic planning and action oriented decisions.
+
+REMA has longstanding experience in reporting to UNFCCC through National communications (NC) and Biennial Update Reports (BURs). The technical working committee chaired by REMA will build on the past experiences to effectively coordinate national agencies responsible for data generation and management of NDC MRV reporting to UNFCCC.
+
+The table below summarises Rwandas framework for tracking and reporting on progress of implementing the mitigation and adaptation goals outlined in this NDC. It summarises the institutions, fora, roles and responsibilities proposed to guide and support implementation of NDC MRV at the national level including policy and strategic decision levels. Supporting information on the mitigation and adaptation components are provided further below.
+
+Monitors the implementation of NST1 and proposes measures to fast track its implementation. NDC MRV will be regularly presented to the forum by implementing institutions to ensure cross sector oversight over NDC to provide policy and strategic advisory and influence timely delivery of results.
+
+The forum discusses achievements, challenges, policy actions, and propose measures to fast track implementation of NST1.
+
+It also facilitates alignment of programming and financing with priority areas outlined in NST1 and will provide support for finance as part of the NDC implementation including NDC MRV to track finance.
+
+Monitors implementation of NST1 in different clusters and will serve as a platform for integrating NDC MRV into high level decision making at the national level. Provide strategic guidance and orientation on policies and investments and will guide on the crucial role of NDC to deliver NST1 results.
+
+A forum for dialogue, ownership and accountability of the development agenda and making a case for NDC MRV to all stakeholders at sector level.  Conduct joint sector reviews (Forward and Backward reviews) that will facilitate NDC MRV reporting and advocate for NDC MRV based decisions to wider sector stakeholders including NGOs/private sector and development partners  Monitor progress of the Sector Strategic Plan (SSP) including the NDC measuring and reporting, managing the data management system including aggregating data, conducting verification (REMA on NDC MRV) through the ENR RBME, a sector specific central data management system that will serve as the platform and repository for the NDC MRV.
+
+Although the central government institutions are engaged in reporting through the JSRs, primary data and information is generated at levels coordinated by Districts through MINALOC. Therefore relevant data will be collected and shared with sectors/ institutions for processing and analysis to facilitate and inform overall national NDC MRV. Thus, the JADF that involves multiple stakeholders including NGOs, the private sector and Development Partners intervening in development programs including climate change serve a critical role in:
+
+Elaboration and implementation of imihigo (monitoring and evaluation based performance contracts)  Monitoring the implementation of NDC MRV relevant actions within District Development Strategies (DDSs)  Promoting cooperation between the public sector, private sector and civil society to deliver on NST1 (including NDC MRV) at district level In addition to the critical responsibility of reporting on finance, MINECOFIN is responsible for:
+
+Overall coordination of M&E activities (including NDC MRV) from planning, data collection, and reporting at all levels  Preparing the NST consolidated annual report using the reports from different sectors including the ENR sector and ensure that NDC MRV is part of the annual reporting  Monitoring the macro KPIs through the Government Command Centre (GCC), the highest monitoring platform at the national level and ensure integration of Rwandas NDC MRV Coordinates the implementation of Districts Development Strategies (DDSs) and upstream reporting on NDC MRV performance at local levels Ensure the alignment between DDSs and Districts Imihigo and their contribution to NST1 targets that include NDC MRV Provides oversight over environmental statistics that include climate change (NDC MRV) at national level. NISR supports surveys including vulnerability to climate change analysis and autheticates data and information for internal and external use and consumption Directly populates data portals providing interactive access, to data and metadata to these portals and as such a critical NDC MRV reporting channel REMA serves as the Chair of the Environment and Climate Change Thematic Working Group (E&CC TWG) E&CC TWG, a national planning forum chaired by REMA will host a core team that forms the NDC MRV technical working committee with the following responsibilities:
+
+Creating guidelines and common standards, formats and templates to be used for reporting MRV results as part of NC and BURs to UNFCC,  Defining and using common data sources. and methods & procedures: to compile NDC MRV results.
+
+Ultimate level for endorsement of NDC MRV and communicates the results for upstream NDC MRV based policy and strategic decision making  Institutional Strengthening and capacity building and training and facilitating linkages through a comprehensive stakeholder engagement process and jointly define the political, strategic, and tactical elements of the NDC MRV system REMA, RHA, RDB, MINECOFIN, Rwanda Green Fund, MINALOC, RSB, MINISANTE, private sector, civil society RURA, MINALOC, CoK, MINECOFIN, Rwanda Green Fund, operators, REMA, MoE, Private sector transport operators, financial institutions, civil society RURA, RHA, MoE, REMA, Private sector, NGOs, Civil Society, WASAC, REG, MINEACOM, MINAGRI, RDB, civil society MINECOFIN, MINAGRI,, MoE, REMA, FONERWA, WASAC, NIRDA,RDB, REG, MINALOC, Private sector, civil society REMA, RFA, RURA, Private Sector, civil society, WASAC, higher learning and research institutions Number and Percentage of districts at high risk of suffering major climate change effect Average level of satisfaction of major Weather and Climate information institutional users with METEO RWANDA Weather and Climate information MoE, MINAGRI, UR/ CAVM, MININFRA, Meteo Rwanda, REMA, RAB, civil society, WASAC, PSF, RLUMA, City of Kigali and MINALOC Number (%) of (a) Households, and (b) Institutions with a Rain Water Harvesting (RWH) system installed.
+
+MoE Proportion of land surface covered by forest [Forest cover]. This excludes agro-forestry area.
+
+REMA, Rwanda Green Fund, RAB, RLUMA, civil society, districts, Private Sector, MINALOC Percentage of extreme weather events for which advance warning was provided at least 30 min in advance Finance and support (Capacity building and technical support including technology transfer) Total amount of finance mobilized for Green Investments (by major category  Climate Change mitigation; Green Energy production etc.) High level National/Global indicators planned to harmonize reporting on climate adaptation/ resilience Proportion of the rural population who live within 2 km of an all-season road (SDG indicator 9.1.1);
+
+Percentage of health centres with at least one food and nutrition outreach programme;
+
+Annual loss due to damage caused by weather-related hazards / number of deaths, missing persons and directly affected persons attributed to disasters per 100,000 population (SDG 13.1.1);
+
+MoE RAB, REMA, MINALOC, MININFRA, NISR, UR, MINEDUC, RDF, RNP, civil societyNumber of people with access to improved climate-related early warning information or systems for extreme weather events Change in climate sensitive agricultural production / Proportion of agriculture land protected against erosion (NDC);
+
+Freshwater withdrawal rate / National Water Security Plan to employ water storage and rain water harvesting, water conservation practices, efficient irrigation established and operational (NDC).
+
+MoE, MINAGRI, UR/ CAVM, MININFRA, Meteo Rwanda, REMA, RAB, civil society, WASAC, PSF, RLUMA, City of Kigali and MINALOC MINISANTE Change of malaria hazards; RBC MINAGRI, MINALOC, MINEMA, Meteo Rwanda, civil society Specialized support, and amount of support, including finance, technology and capacity-building, for mechanisms for raising capacities for effective climate change-related planning and management (SDG 13.B.1).
+
+7.2 Mitigation Monitoring and reporting requirements for Parties to the Paris Agreement are encapsulated within the UNFCCC process by way of new requirements set out in the Paris Rulebook governing implementation of the agreement. Drawing on the Paris Rulebook, Table 7.2 below lists some of the key aspects of an MRV system needed to track progress consistent with the mitigation component of NDC implementation.
+
+Assess current GHG emissions for all Intergovermental Panel on Climate Change (IPCC) reporting sectors and sub-sectors;
+
+Assess Busines-as Usual (BAU) GHGs, where dynamic baselines are considered for NDC modeling;  Assess current progress in reducing GHG emissions towards the overall target (by reviewing the greenhouse gas inventory), and expected future emissions (by reviewing greenhouse gas projections), at national and sectoral levels, to understand the aggregate impact of mitigation actions now and in the future.
+
+Monitor the implementation of the mitigation measures (e.g. implementation of renewable energy generation measures, low carbon transport measures, waste projects);
+
+Assess whether the mitigation measures deliver the targeted impact on GHG emissions;  Assess whether the mitigation measures deliver the expected low emission development impact (e.g. implementation of solar water heating systems in households).
+
+Track climate finance flows for NDC implementation, including international public finance, national domestic budgets and private climate finance, to improve the overall transparency of climate finance flows, and  Assess whether the scale/type of financing requirements for NDC implementation are being addressed.
+
+An MRV framework consistent with these requirements is presented in the Annex to this document. This will allow Rwanda to effectively track progress of the mitigation activities identified in this NDC consistent with UNFCCC reporting standards, and carry out ongoing evaluation of whether the country is on course to meet its targets through 2030.
+
+This takes the form of a framework of indicators for each of the key emitting sectors, which can be used for international reporting as well as for domestic tracking of NDC implementation. Monitoring tables are provided for the four main IPCC reporting categories: Energy; IPPU; AFOLU; and Waste (noting that AFOLU includes only agriculture in this NDC). In addition, an aggregated economy-wide overall NDC progress monitoring template is presented.
+
+7.3 Adaptation The Monitoring, Evaluation and Reporting framework that includes MRV on financing in the case of adaptation aligns with the options and the relevant analytics agreed to by various stakeholder consultations. Additionally, an approach has been proposed to organize M&E framework in a way that facilitates reporting at selected levels. The levels have identified indicators that are relevant at global and national levels (see above).
+
+The national level reporting will respond to data and information demands at strategic levels including NST and sector strategic plans that inform joint sector reviews and other reporting requirements at the prime minister and MINECOFIN levels at the central government and Imihigo reporting for sub-national entities in particular.
+
+Importantly, these should ideally be guided by the ENR RBME framework which has oversight over cross cutting areas of environment and climate change in the national planning and budgeting framework.
+
+Finally, the selection of indicator driven data will be required for program and projects design, implementation and reporting to funders. This reporting framework demands periodic and timely data collection, analysis and overall management to ensure efficient reporting. Moreover, the global versus national clustering will serve as a useful guide to identify targeted resources mobilization from both domestic and external sources. To the extent possible, national and global indicators design features must make a strong case for mobilizing resources and therefore must be smart and results oriented and formulated as outcome and/or impact level indicators.
+
+The general guide to the selection of adaptation indicators has considered the following factors as critical:
+
+Differentiate between climate change related issues and business-as-usual development. Climate change has been taken seriously in Rwanda as evidenced by the policy prescriptions including Vision 2050, NST and the GGCRS and the regional and global programs to which Rwanda subscribes including NDC, Africa Agenda 2063 and the SDGs. However, significant gaps have been equally evident in how climate change actions in these programs are prioritised for financing that is essential for implementation.
+
+The global climate financing agencies often create artificial divisions between climate change and development. This is especially the case for climate adaptation where climate rationale in the case of GCF seriously hampers the ability to direct resources to address the impacts of climate change. It is crucial that climate financing decisions acknowledge the seamlessness of climate adaptation and development even as climate rationale is reasonably pursued in validating finance flows to address the impacts of climate change.
+
+Local/sector context is crucial to climate vulnerability/resilience assessment. Rwanda has been vigilant in addressing the impacts of climate change starting with the NAPA in 2006 to GGCRS that was approved by Cabinet in 2011. The current efforts are aimed at implementing the PA through the NDCs. Additionally, assessments have been carried out to understand the extent of climate change impacts. Such analyses have included the economics of climate change that measured the economic costs of climate change and made a compelling case for increased financing, the Vulnerability index studies at various scales; national and sub-national outlining the vulnerability of districts and the design of investment plans including the SPCR and the FIP. The NDC partnership document highlighted the extreme need for inter-ministerial coordination mechanisms. The mechanisms can be used to support coordinated implementation, monitoring and reporting, which can reduce transaction costs and overlapping work, and promote cross-sectoral synergies.
+
+Consider data availability to measure the impact (to know that change has happened). Rwanda is increasingly making the case for global efforts to support effective climate action through the climate vulnerable countries forum. The stronger case will require continuous improvement of climate analytics that inform national and global reporting for adaptation in particular where harmonized reporting is insufficient. Integration of clear and simplified climate analytics into the ENR RBME will play a significant role in establishing a framework that Rwanda can use to build a reliable and informative database on climate adaptation metrics that systematically guides ambitious climate action.
+
+The technical support provided to the GoR on climate change analysis has proposed to harmonize the various national reporting initiatives and streamline a reporting structure on climate adaptation analytics. The analytical framework takes into account the need and therefore formats for clustering national and global reporting obligations.
+
+A framework of high level indicators, along with relevant data sources is presented in the Annex to this document. In combination with Table 7.1 above, these outline the high-level indicators for the proposed reporting arrangements highlighting the source documents (References) that provide information on metadata for the selected indicators.
+
+In order to fully implement the mitigation and adaptation measures contained in this NDC, Rwanda will require finance, capacity building, and technology transfer and country driven policy process and institutional arrangements. This section provides an overview of these means of implementation.
+
+8.1 Finance needs As part of the NDC revision process, extensive analysis and consultations with sector experts were undertaken to produce conditional and unconditional cost estimates for the mitigation and adaptation measures through 2025 and 2030. The total estimated cost for Rwandas identified NDC mitigation measures through 2030 is estimated at around 5.7 billion USD, and over 5.3 billion USD for adaptation priorities, representing a combined funding requirement of around 11 billion USD. The table below summarises the estimated funding needs over the two periods. For both mitigation and adaptation combined, it can be seen that unconditional measures account for around 40% of the total estimated funding requirements, and conditional measures around 60%.
+
+Rwandas Third National Communication to the UNFCCC highlighted three main challenges in climate finance in Rwanda as: (i) insufficient funds, (ii) limited budget for the implementation of climate action, and (iii) limited involvement of private sector investment in environment and climate change activities.
+
+Furthermore, the TNC indicated a need for more bilateral and multilateral financial support (GoR, 2018a). Rwanda has undertaken various initiatives to identify climate finance. These have included a series of Public Environmental Expenditure Review (including climate change), costing exercise for the GGCRS in addition to what information can be gleaned from the costing of SSPs. The gaps and needs analysis to the SPCR made efforts at tracking climate finance.
+
+The Government of Rwanda will continue to commit significant resources to climate change relevant strategies. Rwandan communities, private sector and NGOs can also contribute significantly to these climate change-related activities through public-private partnerships. The Rwanda Green Fund, FONERWA, will continue to play a vital role in financing low carbon projects and programmes and leveraging investment. However, the full implementation of the strategic mitigation actions is conditional on the support of international stakeholders. The implementation of the prioritised policies and actions assume the continued use of existing and planned national and international financial sources.
+
+An initial assessment of the funding requirements for the identified measures has been described in this document, and implementation costs will be refined as more evidence- based information is obtained. Rwanda intends to meet its conditional contribution through the use of climate finance and international market mechanisms where appropriate, building upon the experience of the Clean Development Mechanism (CDM) and other existing market mechanisms. These include the potential involvement in international cooperative approaches under Article 6 of the Paris Agreement.
+
+Rwanda is participating in the NDC partnership, a process that has so far attracted financing for readiness support on developing a pipeline of projects targeting public and private climate finance. The support packages have come through the Deep Dive and Climate Action Enhancement Package CAEP which are currently being implemented. Through these initiatives, the various sectors have developed concept notes on both mitigation and adaptation that will be used to develop national priority projects pipeline to accelerate Rwandas climate action.
+
+8.2 Capacity Building and technology transfer Under the Paris Agreement, developed countries have also committed to provide technology transfer and capacity building to developing countries. Many developing countries will require enhanced capacities to effectively track inflows of bilateral and multilateral resources and support and identify pending gaps and needs.
+
+It is critical that the Paris Agreements capacity building provisions are implemented successfully. Technology transfer and capacity building will be required to fully implement Rwandas mitigation and adaptation contributions. Specific national needs relating to mitigation include:
+
+Access to and overcoming barriers to the diffusion of appropriate clean technologies;
+
+Building climate information systems;
+
+Promotion of renewable energies and energy efficiency, including the involvement of the private sector;
+
+Setting up of public-private partnerships.
+
+In this context, the Government of Rwanda plans to:  Promote and encourage the development, transfer and diffusion of climate technology;
+
+Promote and encourage the mainstreaming of gender considerations in climate change issues;
+
+Promote and enhance climate change education, public awareness and capacity development through communication, training, information and knowledge management;
+
+Provide adequate support for policies and programmes that take into account the interactions between population dynamics, climate change and development, including the link between the national and sub-national governments.
+
+In relation to adaptation, there is a particular need to design strategic ways to build and further develop capacity of sector experts in monitoring and evaluation. There is evidence of a protracted period within which implementation of programs has created demand for reliable metrics. Such demand has clearly been manifested in the series of poverty reduction strategies including the most recent EDPRS 2 and currently the NST.
+
+These key strategies have demonstrated lack of climate adaptation data despite the impacts of climate change such as floods on infrastructure and soil erosion on agricultural productivity. Thus, implementation success will depend on efforts to avail data and information that facilitates results based tracking of climate change impacts to Rwandas economy. Finance needed to support implementation will in significantly depend on climate change projects that draw from global financing and this also requires quality data to unequivocally rationalize project based climate impacts and benefits.
+
+Enhancing data quality and reliability will require growing application of information technology (IT) developments. Rwanda has demonstrated ample opportunities to bundle M&E systems with IT enabled processes and tools to improve data and information systems in a number of areas/sectors that can benefit climate information generation and use.
+
+The health sector use of drone technology for data collection and sue of smart phones to mine and process health statistics are key pointers on how domestication of capacities and technology transfer can fast-track development of reliable data management systems on climate adaptation. For this to be useful, a number of deliberate capacity building initiatives will be undertaken at various levels. Some specific needs for capacity building include:
+
+Institutional development and strengthening;
+
+Developing human resources through education, training, and research;
+
+Strong financial support for capacity building targeting Rwandas compliance in reporting;
+
+National ownership of capacity building efforts that is aimed to ensure sustainability;
+
+Networking, partnerships, and sharing of experiences across sectors and beyond;
+
+Application of Web-based tools to improve capacity building.
+
+There is significant scope to build capacity in cross sector M&E systems including upstream work that is vital to setting up functional M&E systems and frameworks. Investing in M&E systems is crucial to manage progress in implementing climate adaptation. M&E and lesson learning are critical to effective and efficient delivery of project results and sustainable impacts to secure investor confidence that is essential to meet resources mobilization ambitions and consequently the national goal of a climate resilient economy by 2050. Identifying capacity building (incl. technical/technology/ resources mobilization) will greatly benefit from:
+
+Improving the use of existing data and analytical tools bearing in mind that Local/ sector context is crucial to climate vulnerability/resilience assessment;
+
+Differentiating between climate change related issues and business-as-usual development;
+
+Putting in place measures to facilitate data availability to measure the impact (to know that change has happened).
+
+The consultations undertaken through the NDC revision process have created momentum for ongoing engagement. It is important to recognize that technical knowledge resides with sector specialists and any capacity building and effective application of technology for mainstreaming climate change must draw from that experience and facilitate cross learning among climate change experts and subject matter experts from sectors. It is imperative that this harmony/coherence is continually utilized to guide successful mainstreaming of climate change into sector priorities building on existing country driven policy mechanisms and institutional arrangements.
+
+8.3 Policy mechanisms and Institutional arrangements as a means of effective NDC implementation Rwandas NDC is based on and aligned with several existing national policies. The countrys NDC was developed from the Green Growth and Climate Resilient Strategy (GGCRS) (2011), which has also been integrated into District Development Plans and sector strategic plans. The GGCRS is also embedded in the recently developed National Strategy for Transformation (NST) (2017  2024), and Rwandas 7-year Government Program. The NST is a high-level planning policy that frames the countrys subsequent local government and sector plans and includes specific projects or actions surrounding three pillars for economic, social and governance transformation.
+
+Within the Economic Transformation pillar, there is direct alignment with Priority 7, the management of environment and natural resources which will lead to the achievement of the Sustainable Development Goals and the NDC, as well as Rwandas Vision 2050 objectives.
+
+The NDC will be implemented across Ministries in charge of core NDC actions with the coordination oversight of MoE facilitated by resources mobilization overseen by MINECOFIN and the Rwanda Green Fund (FONERWA). The overriding national implementation arrangement will guide the integration of NDC priority interventions in the broad sectoral planning and implementation framework as outlined below.
+
+The oversight function for implementing NST1 lies with the Parliament and Cabinet. Cabinet will also provide policy guidance and strategic orientation. The Office of the Prime Minister coordinates all government programmes of NST1 with technical coordination undertaken by the Permanent Secretarys Forum and supported by the Development Partners Coordination Group (DPCG).
+
+Sector Working groups (which bring together Government, Development partners, Private sector and civil society) follow up implementation of sectoral plans and investments through Joint Sector Reviews. At the district level, the Joint Actions Development Forum brings together all stakeholders contributing to the delivery of the NST1 implemented through District Development Strategies. MINECOFIN leads the national development planning, implementation coordination, and budgeting functions to ensure sectors and districts plans are aligned to NST1 priorities. MINALOC supports the coordination and follow up on implementation of District Development Strategies.
+
+Thus, the NDC MRV as outlined in Table 7.2 above is embedded in the national planning and implementation processes that guide and facilitate results based review of development policies and strategies with the aim of continually applying policy relevant reforms to achieve national sustainable development targets.
+

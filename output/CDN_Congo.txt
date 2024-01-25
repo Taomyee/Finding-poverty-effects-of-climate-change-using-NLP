@@ -1,0 +1,372 @@
+2.2.1- Projection des missions de GES suivant le scenario de base  scnario (BAU) 2.2.2- Projection des missions de GES suivant le scenario inconditionnel (sans appuis 2.2.3- Projection des missions de GES suivant le scenario conditionnel (avec appuis 2.4- Niveau dAttnuation des GES en Rpublique du Congo en 2025 et 2030 Projection 2.5- Informations ncessaires  la clart,  la transparence et  la comprhension (ICTC)... 15 3.1.2- Secteur Agriculture, Foresterie et autres Affectations des Terres (AFAT)  24 IV. DISPOSITIF INSTITUTIONNEL DE MISE EN UVRE DE LA CDN EN REPUBLIQUE DU CONGO35 CNIAF Centre National dInventaire et dAmnagement des Ressources Forestires et Fauniques MRV/ MNV Mesurage, Rapportage et Vrification/ Mesure, Notification et Vrification Rduction des Emissions lies  la Dforestation et la Dgradation Forestire, avec inclusion de la Gestion durable des forts, de la conservation de la biodiversit et de l'accroissement des stocks de carbone UCTAF UCTAF : lUtilisation des Terres, Changement dAffectation des Terres et Foresterie Le niveau des rductions des missions sera de :
+
+Secteurs couverts nergie, Procds industriels et utilisation des produits (PIUP), mthodes suivantes :
+
+INTRODUCTION LAccord de Paris sur le climat, en son article 6, alina 1, encourage les pays dagir volontairement en concertation dans la mise en uvre de leurs contributions dtermines au niveau national (CDN),  : (i) relever le niveau dambition de leurs mesures dattnuation et dadaptation et (ii) promouvoir le dveloppement durable et lintgrit environnementale. La CDN rvise de la Rpublique du Congo sappuie sur ses cinq (05) piliers qui portent sur : la gouvernance, lattnuation, ladaptation, le MRV et le financement, a t labor suivant un processus inclusif et transparent. Les principaux axes stratgiques pris en compte pour actualiser la CDN initiale de 2015 et rehausser les ambitions du pays dans la lutte contre les changements climatiques portent sur :
+
+- le renforcement de la volont politique et de ladhsion des parties prenantes national et des partenaires au dveloppement ;
+
+- la rvision, lalignement et lactualisation des objectifs, des politiques et des mesures tablies dans les domaines du climat et du dveloppement durable ;
+
+- lintgration de nouveaux secteurs et/ou gaz  effet de serre dans la CDN rvise ; - lvaluation des cots et des possibilits dinvestissement des actions prioritaires retenues dans les domaines du climat et du dveloppement durable ; - le suivi des progrs et le renforcement de la transparence.
+
+I. CONTEXTE La Rpublique du Congo qui couvre une superficie de 342.000 km est situe en Afrique centrale,  cheval sur lquateur entre le Gabon, locan Atlantique, le Cameroun, la Rpublique centrafricaine, la Rpublique dmocratique du Congo et lenclave angolaise de Cabinda.
+
+Lconomie congolaise est principalement base sur les industries minires et extractives (ptrole et gaz) et le secteur primaire (agriculture, pche et foresterie). La population va passer de 3 697 490 habitants en 2007  6.560.384 habitants en 2030. Les femmes qui constituent 50,7% de la population (RGPH, 2007), seront toujours majoritaire, en terme deffectifs. La population de la Rpublique du Congo fait partie des plus vulnrables, dans la mesure o elle dispose de marge dadaptation restreinte, du fait notamment de la pauvret. Le maintien des services fournis par les cosystmes naturels (forts, savanes, bassin hydrologiques, etc.), est capital pour assurer les relais de dveloppement futur, limiter les impacts des changements climatiques et offrir des possibilits dadaptation aux couches les plus vulnrables dont font parties des femmes et les jeunes de toutes les catgories socio-culturelles des centres urbains et ruraux. Les secteurs conomiques qui servent de socle de dveloppement socio-conomique de la Rpublique du Congo sont : lnergie, le transport, lindustrie, les mines, lagriculture, la fort, leau, le tourisme, le commerce ; les tablissements humains et la sant, le paysage ctier, les dchets, etc.
+
+II. ATTENUATION Les gaz  effets de serre pris en compte sont :
+
+- Le Dioxyde de carbone (CO2), - Le Mthane (CH4), - Le Protoxyde dazote (N2O), - Les gaz F comme lHydrofluorocarbure (HFC), lHydrocarbures perfluors (PFC), lHexafluorure de soufre (SF6) Les secteurs metteurs des GES pris en compte dans la CDN rvise de la Rpublique du Congo sont :
+
+- lEnergie, pour les missions issues des industries de l'nergie, des industries manufacturires et de construction, du transport, des rsidences, du commerce, des combustibles solides, du ptrole et gaz naturel ;
+
+- l'Agriculture, Fort et autres Affectation des Terres (AFAT) avec les missions issues de la fermentation entrique, la gestion du fumier en levage, la culture du riz, les sols agricoles, les savanes brles et le rsidus agricoles brls, les missions et absorptions des forts, etc. ;
+
+- les Procds industriels et utilisation des produits (PIUP), pour les missions issues des industries minires (ciment, chaux, verre, etc.), des industries chimiques (ammoniac et autres acides), des industries mtallurgiques (fer, acier, plomb, aluminium, etc.) et des autres productions industrielles (quipements lectriques et lectriques, solvant, arosol, etc.) ;
+
+- les Dchets avec les missions des dchets solides et liquide.
+
+2.2- Projection des missions des GES sur la priode 2017  2030 2.2.1- Projection des missions de GES suivant le scenario de base  scnario (BAU) Business as Usual  Tableau n2 : Projection des missions suivant le scenario BAU de 2017  2030 (missions suivant les catgories du GIEC) - Emissions en ktCO2e/an  Ce tableau indique que les missions globales des gaz  effet de serre de la Rpublique du Congo seront de 13.181,2 ktCO2e en 2025 et de 15279,31 ktCO2e en 2030. La figure ci-dessous prsente la tendance de lvolution des missions des GES par secteur suivant le scenario BAU.
+
+Figure n2 : Projections des missions de GES suivant le scenario BAU pour les secteurs CCNUCC.
+
+Le secteur Energie sera celui qui contribuera le plus aux missions globales du scnario BAU en 2030, avec une contribution de 66,9% des missions BAU. Il serait suivi par le secteur de fort avec 28,3%, le secteur dchets avec 3,1%, et l'industrie (IPPU) avec 1,0%, et le secteur agriculture avec 0,7%.
+
+Les missions de GES passeront de 15279,3 ktCO2e dans le scenario BAU en 2017  10928,47 ktCO2e en 2025 et 12000,16 ktCO2e en 2030 dans le cadre dun scenario dattnuation inconditionnel. Les missions de GES passeront de 15279,3 ktCO2e dans le scenario BAU en 2017  5672,07 ktCO2e en 2025 et 7081,41 ktCO2e en 2030 dans le cadre dun scenario dattnuation conditionnel.
+
+Les missions du secteur Energie avec ses sous-secteurs de lEnergie, du transport, des mnages et des services, dans les scnarios  BAU ,  Conditionnel  et  Inconditionnel  vont voluer comme indiqu dans le tableau ci-dessous.
+
+Le secteur des dchets ne sera plus metteur des GES  partir de 2025 quel que soit le scnario conditionnel ou inconditionnel (cf. tableau ci-dessous). Le renforcement des mesures dattnuation dans ce secteur permettra de renforcer cette tendance en 2030. La tendance de ces missions est prsente dans le graphique ci-dessous Les missions du secteur Energie avec ses sous-secteurs de lEnergie, du transport, des mnages et des services, dans les scnarios  BAU ,  Conditionnel  et  Inconditionnel  vont voluer comme indiqu dans le tableau ci-dessous.
+
+En tout tat de cause, la Rpublique du Congo restera pendant longtemps un important puits de carbone comme lindique le graphique ci-dessous.
+
+La rpublique du Congo restera un pays puits de carbone au-del de 2030 en dpit de la mise en uvre du plan de dveloppement socioconomique. Les forts ont une capacit de squestration qui dpasse largement les missions. Elles subissent cependant des pertes denviron 17.000 hectares par an. Le niveau des absorptions pour la priode allant de 2017  2030 se prsente comme indiqu dans le tableau ci-dessous : Tableau n8 : Niveau des absorptions de GES de 2017  2030 en Rpublique du Congo.
+
+2.4. Niveau dAttnuation des GES en Rpublique du Congo en 2025 et 2030 Projection des missions des GES sur la priode 2017  2030 Les efforts dattnuation de la Rpublique du Congo en 2025 et 2030 sont rsums dans le tableau ci- dessous. Tableau n9 : Niveau de rduction des missions aprs mise en uvre des mesures dattnuation.
+
+Le niveau de rduction des missions est de :
+
+39,88% dans le scnario conditionnel, contre 17,09% dans le cas du scnario inconditionnel en 2025 ;
+
+32,19% dans le scnario conditionnel, contre 21,46 % dans le cade du scnario inconditionnel en 2030.
+
+Agriculture Rduction du CH4 des cultures de riz 1000 ha 1 1 Pris en compte 1 ; 2 ; 5 ; 12 et 13 Lave-vaisselle commercial efficace 1000 usages/jours 0 0 Pris en compte 5 ; 7 et 13 Machine  laver efficace pour htel 100 Clients Nuits (CN) 2 2 Pris en compte 5 ; 7 et 13 Distribution d'nergie Rseaux lectriques efficaces 1 GWh pertes vits 25 30 Pris en compte 5 ; 7 et 13 Chauffe-eau solaire, rsidentiel 1000 locations 0 100 Pris en compte 5 ; 8 ; 12 et 13 Mini-rseau solaire/diesel 40 kW du solaire 400 450 Pris en compte 5 ; 8 ; 12 et 13 2.5- Informations ncessaires  la clart,  la transparence et  la comprhension (ICTC) Ces informations sont prsentes dans le tableau ci-dessous.
+
+Tableau n11 : Informations ncessaires  la clart,  la transparence et  la comprhension (ICTC) N Directives de la dcision 4/CMA.1 Directives de l'ICTC applicables  la CDN rvise du Congo 1 Informations quantifiables sur le point de rfrence (y compris, le cas chant, une anne de rfrence) :
+
+Pour lanne de rfrence 2017, le total des missions hors secteur utilisation des terres est de 10960,3 (ktCO2e/an). Ces missions intgrent les secteurs Energie = 10224,9 ktCO2e/an, Dchets = 467,7 ktCO2e/an ; Procds industriel et utilisation des produits (PIUP) = 154,3 ktCO2e/an ; Agriculture = 113,5 ktCO2e/an.
+
+Les missions de GES passeront de 15279,3 ktCO2e dans le scenario BAU  11246 ktCO2e avec la mise en uvre des mesures et politiques nationales dattnuations (inconditionnel), et  5197ktCO2e dans le cadre dun scenario dattnuation conditionnel (conditionnel). La rduction des missions de 8197,90 ktCO2e est prvue d'ici 2030. Les diffrents secteurs des missions des GES (GIEC) ayant des contributions diffrentes lors de la mise en uvre entre 2020 et 2030. La part du conditionnel sera la plus importante pour atteindre les objectifs indiqus. En 2030, la part du conditionnel dans latteinte des objectifs dattnuation du pays est de 32,19 % contre 21,46 % pour le conditionnel. Le niveau de rduction total des missions est de 53,65 %.
+
+Lindicateur de rfrence est quantifi sur la base des missions nationales totales de GES en 2017 rapportes dans le rapport de la troisime communication nationale de la Rpublique du Congo.
+
+La rpublique du Congo a une exprience de mises  jour de ses inventaires de gaz  effet de serre. Avant le lancement de la TCN, dans le cadre de lexercice de lauto valuation nationale il y a eu une revue de sa deuxime communication nationale qui a permis de relever les faiblesses et les points forts de lexercice prcdent. Les missions nationales totales de GES en 2017 pourront tre mises  jour et recalcules en raison damliorations mthodologiques continues. Les informations sur les mises  jour effectues seront incluses dans les rapports pertinents de la CCNUCC (RBA/BUR 1) et,  partir de 2024, dans les rapports biennaux sur la transparence. On tend  parvenir  :
+
+lamlioration de la qualit des donnes ;
+
+la ralisation de nouveaux inventaires ;
+
+llaboration des communications nationales et des rapports BUR actualiss ;
+
+la mise  jour des CND actuelles.
+
+2 Dlais et / ou dlais de mise en uvre :
+
+Calendrier et / ou priode de mise en uvre, y compris les dates de dbut et de fin, conformment  toute autre dcision pertinente adopte par la Confrence des Parties agissant comme runion de la Parties  l'Accord de Paris (CMA) 3 Porte et couverture :
+
+Les informations fournies dans cette CDN sont : Secteurs nergie, procds industriels et utilisation des produits (PIUP), agriculture, foresterie et autres affectations des terres (AFORT), et dchets, Gaz Dioxyde de carbone (CO2), mthane (CH4), Hmioxyde dazote (N2O), hydrofluorocarbure (HFCs), Perfluorocarbure (PFC), Haxafluorure de soufre (SF6).
+
+Avantages connexes dattnuation rsultant des mesures dadaptation et/ou des plans de diversification conomique des Parties, y compris la description des projets, mesures et initiatives spcifiques des mesures dadaptation et/ou des plans de diversification conomique des Parties La rpublique du Congo a identifi plusieurs avantages en matire d'attnuation dcoulant des mesures d'adaptation, notamment dans les domaines de lagriculture, secteur trs vulnrable en rpublique du Congo, les techniques dadaptation devraient permettre de rduire les missions dans ce secteur, notamment lagriculture intelligente. La mise en uvre du projet agricole climato-rsilient va induire des co bnfices attnuation adaptation.  Ce projet, dvelopp sur une dure de 5 ans permettront daugmenter les rendements des cultures cibles, la rsilience des exploitations agricoles et lattnuation des effets du changement climatique, en particulier  travers les changements oprs sur lusage des sols et les pratiques agricoles et la dforestation vite qui y est associe . Il portera sur :
+
+Dveloppement de systme agroforestiers rsilients pour le manioc, le mas et la Banane ;
+
+Amlioration de la fertilit des sols et de la fertilisation des cultures ;
+
+Dveloppement de laccs aux produits, services et infrastructures pour des filires vivrires rsilientes ;
+
+4 Processus de planification :
+
+Informations sur les processus de planification que la Partie a entrepris pour prparer sa contribution dtermine au niveau national et, le cas chant, sur les plans de mise en uvre de la Partie, y compris, le cas chant :
+
+Arrangements institutionnels nationaux, participation du public et engagement avec les communauts locales et les peuples autochtones, d'une manire sensible au genre Comit de pilotage qui regroupe les dlgus des institutions (voir la liste des institutions) qui sont pilots. Un accent particulier a t mis sur lalignement de la CDN avec les travaux en cours de prparation des (ii) Questions contextuelles, y compris, entre autres, le cas chant :
+
+a.
+
+Circonstances nationales, telles que la gographie, le climat, l'conomie, le dveloppement durable et l'limination de la pauvret Toutes ces informations sont prsentes dans le chapitre 1 circonstance nationale de la troisime communication nationale  la CCNUCC en cours de finalisation.
+
+b.
+
+Bonnes pratiques et exprience lies  la prparation de la contribution dtermine au niveau national La CDN rvise du Congo a bnfici dune architecture trs solide sous la supervision du Ministre en charge de lEnvironnement et du Tourisme. Celle-ci a facilit :
+
+la ralisation de la collecte des donnes ;
+
+lorganisation des consultations avec les parties prenantes (secteur public, secteur priv, socit civil, CLPA), les PTF ;
+
+les missions de terrain ;
+
+c.
+
+Autres aspirations et priorits contextuelles reconnues lors de l'adhsion  l'Accord de Paris La rpublique du Congo aspire  tre un pays mergent dici 2025 et prne un dveloppement suivant les ODD, mais aussi lagenda 63 de lunion africaine. Les priorits sont : 1- Attnuation Stratgie de dveloppement  faible mission de carbone 2- Dans le domaine de Ladaptation ;
+
+Llaboration du plan national dadaptation ;
+
+Plan de riposte et de gestion des catastrophes.
+
+3- Les financements ; Mise en place des mcanismes financiers ; 4- Le renforcement des capacits et ducation ; Stratgie de renforcement des capacits 5- Le transfert de technologie ; Evaluation des besoins en technologie 6- La scurit alimentaire ; 7- Lgalit des sexes (genre) ; 8- Les actions en faveur de la jeunesse ; 9- Les objectifs de dveloppement durable (ODD).
+
+Comment la Partie prparant sa contribution dtermine au niveau national a t claire par les rsultats du bilan mondial, conformment au paragraphe 9 de larticle 4 de lAccord de Paris enjeux lis la rvision de la CDN pour rehausser lambition du Congo Toutefois, le pays peut prciser si son ambition a t revue  la hausse, en comparaison  la CDN passe et aux conclusions de la dernire COP qui rclame plus dambition de rduction de la part des pays Chaque Partie ayant une contribution dtermine au niveau national au titre de l'article 4 de l'Accord de Paris qui consiste en des mesures d'adaptation et / ou des plans de diversification conomique aboutissant  des avantages connexes d'attnuation conformment  l'article 4, paragraphe 7, de l'Accord de Paris  soumettre des informations sur :
+
+La Rpublique du Congo doit clairement exprimer, ses mesures prvues dans sa CDN en matire dadaptation et comment cela  des co- bnfices pour lattnuation.
+
+Comment les consquences conomiques et sociales des mesures de riposte ont-elles t prises en compte dans l'laboration de la contribution dtermine au niveau national Les principaux secteurs socio-conomiques identifis comme les plus vulnrables aux impacts du changement climatique sont : l'agriculture (la sylviculture, la pisciculture), les ressources en eau, les ressources forestires, l'nergie, les infrastructures, les tablissements humains et la sant. La plupart de ces actions sectorielles d'adaptation ont de fortes synergies et co- bnfices avec lattnuation. Ces co-bnfices sont :
+
+- Rduction des missions ; - Elimination des maladies ;
+
+Les informations sont contenues dans la CDN (liste des projets et co-bnefices au plan social et conomique des mesures dattnuation et dadaptation). La CDN rvise de 2021, prsente aussi comment elle contribue aux atteintes des ODD.
+
+Hypothses et approches mthodologiques, y compris celles permettant d'estimer et de comptabiliser les missions anthropiques de gaz  effet de serre et, le cas chant, les absorptions :
+
+Hypothses et approches mthodologiques utilises pour comptabiliser les missions et absorptions anthropiques de gaz  effet de serre correspondant  la contribution dtermine au niveau national de la Partie, conformment au paragraphe 31 de la dcision Les lignes directrices 2006 du GIEC avec son logiciel constituent le document de base qui a permis de simprgner de la mthodologie de comptabilisation des missions des GES lors de la collecte des donnes, le traitement des rsultats, et la rdaction de la troisime communication nationale.
+
+Les facteurs dmissions de la banque du GIEC de tous les secteurs sont ceux qui ont t utiliss. Les donnes dactivits proviennent des institutions en charge des statistiques nationales. Hypothses secteurs par secteur pour la comptabilisation des missions. Les propositions des mesures sont issues des options de rduction proposes dans le modle GACMO ajustes aux conditions nationales suite  une concertation avec les parties prenantes. Seul le sous- secteur de la Foresterie qui tait sujet dun traitement spcial avec loutil Exact de la FAO.
+
+Hypothses et approches mthodologiques utilises pour rendre compte de la mise en uvre des politiques et mesures ou stratgies dans la contribution dtermine au niveau national Mener des enqutes priodiques ou saligner avec linstitution national de la statistique pour la collecte des donnes dactivits dans les diffrents secteurs des missions des GES du GIEC ; Etablir des indicateurs de suivi et mettre en place un systme de reporting sur la mise en uvre des mesures et des stratgies ; Enqute socioconomique auprs de la population de lutilisation des quipements, appareils, technologies en lien direct avec la mise en uvre de la CDN.
+
+Le cas chant, des informations sur la manire dont la Partie tiendra compte des mthodes et des orientations existantes au titre de la Convention pour comptabiliser les missions et absorptions anthropiques, conformment au paragraphe 14 de l'article 4 de l'Accord de Paris, le cas chant Mthodologies et paramtres du GIEC utiliss pour estimer les missions et les absorptions anthropiques de gaz  effet de serre La mthodologie porte sur :
+
+la banque de donnes du GIEC. Ces outils ont t utilises pour estimer les missions et les absorptions de GES lors de la Troisime communication nationale (TCN) Congo. Les potentiels de rchauffement de la plante pour un horizon de 100 ans, tirs du deuxime rapport d'valuation du GIEC, ont t utiliss pour calculer les quivalents de CO2.
+
+Approche pour traiter les missions et les absorptions subsquentes des perturbations naturelles sur les terres gres FORT : Les perturbations naturelles dans le secteur de la fort ont t pris en compte et un taux de 0.07% avait t retenu.
+
+Approche utilise pour tenir compte des missions et des absorptions des produits ligneux rcolts Ces donnes ont t capitalises dans le calcul des missions de la foresterie dans la TCN Congo. Ceci  Approche utilise pour traiter les effets de la structure des classes d'ge dans les forts NA, Parce que le logiciel 2006 noffre pas des fentres pour comptabiliser les missions des GES de la foresterie en fonction de structure forestire.
+
+Autres hypothses et approches mthodologiques utilises pour comprendre la contribution dtermine au niveau national et, le cas chant, estimer les missions et absorptions correspondantes, notamment :
+
+Comment les indicateurs de rfrence, les niveaux de rfrence, y compris, le cas chant, les niveaux de rfrence spcifiques au secteur,  la catgorie ou  l'activit, sont construits, y compris, par exemple, les paramtres cls, les hypothses, les dfinitions, mthodologies, sources de donnes et modles utiliss La mthodologie applique pour les missions en suivant la mthode de tier1 a t utilise pour tous les secteurs des missions et absorption lors de la TCN. Le logiciel GACMO a t utilis pour faire des simulations dattnuation.
+
+Pour les Parties dont les contributions dtermines au niveau national contiennent des composants autres que les gaz  effet de serre, informations sur les hypothses et les approches mthodologiques utilises en relation avec ces composants, le cas chant Pour les facteurs de forage climatique inclus dans les contributions dtermines au niveau national non couvertes par les lignes directrices du GIEC, des informations sur la faon dont les forages climatiques sont estims g) L'intention de recourir  la coopration volontaire au titre de l'article 6 de l'Accord de Paris, le cas chant Bien que ntant pas PMA, la rpublique du Congo entend recourir  la coopration volontaire.
+
+6 Comment la Partie considre que sa contribution dtermine au niveau national est juste et ambitieuse  la lumire de sa situation nationale :
+
+Comment la Partie considre que sa contribution dtermine au niveau national est juste et ambitieuse  la lumire de sa situation nationale la transition nergtique et lutilisation des nergies vertes.
+
+Responsabilit dans les missions passes et futures ;
+
+Depuis plus de trois dcennies, la Rpublique du Congo fait de rels progrs dans le cadre de la gouvernance forestire et de la mise en uvre effective daction de terrain en matire de conservation et de gestion forestire durable de ses forts mais aussi depuis prs de cinq ans dans la gestion durable de ses tourbires ; Les efforts que le Congo dploie en matire de conservation et gestion durable des cosystmes forestiers sont normes. Les parties prenantes au niveau national considre que ces efforts sont normes et invitent la communaut internationale  reconnaitre son seulement ses efforts, mais aussi  rcompenser les efforts du pays.
+
+La contribution dtermine au niveau national mise  jour et renforce du Congo reprsente une progression par rapport  sa contribution dtermine au niveau national communique en 2015, car elle largit le champ des secteurs viss par l'attnuation en intgrant le secteur des forts.
+
+La contribution dtermine au niveau actuelle  bnficier dune grande participation des parties prenantes (ONG, Ministres cls, experts des diffrents secteurs).
+
+La CDN intgre aussi les questions de genre, de la participation des femmes dans la lutte contre les changements climatiques.
+
+La CDN a bnfici de lexpertise des consultants locaux dans sa prparation et sa rdaction.
+
+La CND a pris en compte les gaz F.
+
+Cest notamment par la stratgie REDD+ qui a propos pour le long terme des activits de dveloppement sobre en carbone. Outre le secteur forestier, le secteur des hydrocarbures a propos llimination des torchres dici 2030.
+
+Bien que ne faisant pas partie des PMA, la rpublique du Congo envisage llaboration et la communication des stratgies, plans et mesures de dveloppement  faible mission de gaz  effet de serre.
+
+7 Comment la contribution dtermine au niveau national contribue  la ralisation de l'objectif de la Convention tel qu'nonc  son article 2:
+
+Comment la contribution dtermine au niveau national contribue  la ralisation de l'objectif de la Convention tel qu'nonc  son article 2 Les mesures proposes sont bases sur les politiques mesures, stratgies, et plans en vigueur en rpublique du Congo. Les mesures proposes dans la CDN rvise ne devraient pas mettre en danger le dveloppement socioconomique du pays. Ce qui ne devrait pas mettre en danger les cosystmes naturels, la production alimentaire. Par ailleurs, pour ce qui est des options dattnuation dans le conditionnel, leurs mises en uvre sont dpendant de lapport des partenaires.
+
+Comment la contribution dtermine au niveau national contribue  la ralisation de l'article 2, paragraphe 1 a), et de l'article 4, paragraphe 1, de l'Accord de Paris Oui, les efforts du Congo dans sa CDN visent  contribuer  latteinte de lobjectif global de ne pas atteindre les 2 degrs Celsius Conformment aux articles 7.10 et 7.11 de l'Accord de Paris, la Rpublique du Congo a choisi dintgrer une composante sur l'adaptation, qui inclura ses priorits, ses besoins de mise en uvre et de soutien, ses plans et ses actions.
+
+La CDN actuelle vise  acclrer la croissance socio-conomique du Congo en s'attaquant de manire globale aux vulnrabilits spcifiques du secteur et en dbloquant et en orientant les investissements nationaux et externes vers l'adaptation pour une action climatique efficace.
+
+Les impacts des changements climatiques sur le sous-secteur de la biomasse-nergie relevs par les populations sont entre autres lamenuisement des ressources en bois-nergie, lloignement des zones de collecte du bois-nergie, laugmentation du prix du bois-nergie. Dans le futur, si rien nest fait et en considrant lincidence des changements climatiques selon le scnario RCP6.0, lindice de vulnrabilit global de ce sous-secteur va augmenter lgrement  cause de la demande de plus en plus leve, de lamenuisement des ressources et de son exposition.
+
+Le potentiel de lhydrolectricit est fortement li  la disponibilit des ressources en eau surtout de surface et de leurs dbits dentre au niveau des bassins o sont installs les barrages. Or, les ressources en eau constituent lun des secteurs les plus exposs aux changements climatiques du fait de leur dpendance vis--vis du climat, notamment de la variation de plusieurs paramtres climatiques au rang desquels se trouvent la pluviomtrie, lvaporation et la temprature. Les analyses indiquent que le sous-secteur de lhydrolectricit est moyennement expos aux alas climatiques. Les principaux alas sont la mauvaise rpartition des pluies et la scheresse.
+
+La diminution de loffre nergtique en biomasse et hydrolectricit devrait accentuer la consommation en hydrocarbures. La tendance de la hausse de la consommation en hydrocarbures pouvant tre une situation prvisible  grande chelle (sous-rgion, continent, etc.), un dsquilibre de plus en plus important de loffre et de la demande devrait entraner une hausse des prix des produits ptroliers sur le march mondial. La nette augmentation de la consommation en hydrocarbures (essence, gasoil) au Congo en rponse  la crise nergtique  partir de 98 (dbut des annes dextrmes scheresses), est une situation qui justifie la tendance du recours aux produits ptroliers en cas de dficit majeur dnergie hydrolectrique au Congo.
+
+Les changements climatiques impactent le sous-secteur agricole Congolais  divers degrs suivant la rgion considre. Toutefois, certains facteurs climatiques comme laugmentation de lampleur des squences sches, le drglement des saisons, lirrgularit des pluies, la baisse des prcipitations annuelles, les inondations, laugmentation des tempratures, etc, constituent une menace srieuse pour ce sous-secteur au Congo.
+
+3.1.3- Secteur Ressources en Eau Les ressources en eaux souterraines les plus vulnrables sont celles du bassin ctier, car elles sont utilises pour alimenter en eau potable lagglomration de Pointe-Noire, qui sans cesse est en plein dveloppement conomique avec une forte croissance de la population. Lalimentation de la nappe superficielle dpaisseur se fait par infiltration efficace moyenne et celle-ci est trs sollicite par des forages et de nombreux puits traditionnels non dclares. Les tiages de plus en plus svres de ces 25 dernires annes (car la valeur moyenne des hauteurs minimales a baiss de 157%), auxquels sajoute une aggravation du phnomne densablement, entranent de graves consquences sur la biodiversit, la pche et sur la navigation avec une nette rgression du trafic au port de Brazzaville.
+
+3.1.4- Etablissements humains et sant Aux horizons 2020, 2050, 2080 et 2100, avec la conjonction de la modification des sols par des dallages, des activits thermiques (centrales, transports) il faut sattendre  un rchauffement artificiel des villes de cette taille. La diminution des espaces verts (augmentation de leffet albdo et labsence des plans deau) participe galement  la modification de lquilibre thermique et pluviomtrique.
+
+Les indicateurs dmographiques et de sant du Congo mettent en vidence ltat proccupant de la sant de la population. Cet tat se caractrise par une importante mortalit maternelle nonatale, infanto-juvnile et par une morbidit leve. Les projections climatiques telles que prvues vont accrotre ces situations endmiques avec la faible capacit dassainissement et la malnutrition chronique.
+
+3.1.5- Zone ctire Les alas pertinents identifis dans la zone ctire du Congo sont : rosion ctire, les inondations et les crues, submersion marine, les pluies tardives, poches de scheresse, lvation du niveau marin, vents forts, salinisation et dgradation des humides du systme lagunaire. Llment majeur deffet et dampleur connu sur la cte congolaise est lrosion marine qui se dmarque par un recul du trait de cte. Llvation du niveau marin est encore peu perceptible.
+
+3.1.6- Tourisme Dans le secteur du tourisme, laugmentation de la temprature pourrait conduire  la migration et/ou destruction de la faune entrainant une baisse de lactivit touristique (frquentation). La variabilit de la pluie entrainerait des indisponibilits saisonnires et une diminution de lactivit touristique.
+
+Pour renforcer la rsilience face aux effets nfastes du changement climatique, il est envisag :
+
+La protection des populations ;
+
+La protection du patrimoine naturel, de la biodiversit, des forts et des ressources halieutiques ;
+
+Btiments ;
+
+La protection des systmes productifs sensibles au changement climatique, comme lagriculture ;  La protection des systmes des infrastructures  fort risque. Les objectifs pour accrotre la rsilience dans le secteur forestier, sont notamment :
+
+Arrter la dforestation et la dgradation des forts indignes ;
+
+Maintenir les parcs nationaux, les rserves et les aires protges ;
+
+Cration et gestion de rserves forestires ;
+
+Promouvoir le reboisement et la rhabilitation des forts dfriches et dgrades avec des espces d'arbres rsilientes au changement climatique et cologiquement et socialement appropries ;
+
+Promouvoir l'agroforesterie intgre dans les zones destines  l'agriculture ;
+
+Dcourager l'abattage d'arbres sur les allocations fiscales ;
+
+Encourager les dtenteurs d'allotissements fiscaux  planter et  grer des arbres sur leurs proprits.
+
+Tableau n12 : Rsum des actions d'adaptation prioritaires prises en charge et non prises en charge  Les progrs en matire de scurit alimentaire sont soutenus par la politique nationale de scurit alimentaire  Extension et rplication de l'infrastructure, de la technologie, de la formation et de la gestion des informations et des connaissances de l'agriculture intelligente face au climat des petits exploitants pour amliorer la scurit alimentaire, la scurit, la nutrition et renforcer la rsilience des agriculteurs vulnrables et avoir accs  des subventions.
+
+Les partenaires de dveloppement mettent maintenant activement en uvre la politique dans les provinces; le Dpartement de la planification et du suivi national (DNPM) supervise cette activit, qui a dbut dans certaines provinces  Lassainissement dans les zones rurales entranant une diminution du paludisme et d'autres maladies  transmission vectorielle  Dveloppement dinitiatives dnergie renouvelable pour lutter contre linscurit hydrique induite par le changement climatique  Les activits mises en uvre dans le cadre de la politique nationale doivent tre reproduites dans toutes les communauts Villes et changement climatique.
+
+Politique nergtique nationale 2018-2028, qui sous- tend l'action sur le secteur nergtique, affectant les villes face aux impacts du changement climatique  Un soutien au projet a t reu pour crer un secteur des transports plus rsilient au changement climatique  Connecter les agriculteurs aux marchs des zones rurales via des infrastructures  l'preuve du climat  Mesures pour accrotre les dfenses ctires des infrastructures, normes et codes de planification physique rsilients au climat  Les systmes d'eaux pluviales et de drainage et la gestion des dchets (gouts, municipaux, industriels) ncessitent des amliorations  Les valuations de la rinstallation, de la rinstallation et de l'inclusion sociale de genre doivent tre explores  Sensibilisation aux impacts des migrations lies au changement climatique sur les terres coutumires  Un ventail de stratgies et d'activits est galement ncessaire pour prparer la rinstallation, y compris des consultations approfondies avec les migrants induits par le climat et leurs communauts d'accueil; le NCCDMP stipule que le soutien  la rinstallation des personnes devrait tre envisag, y compris par le biais de la planification et de la construction de btiments et d'infrastructures par le gouvernement local.
+
+Le paludisme est reconnu comme l'une des cinq principales activits prioritaires du ministre de la Sant  Des mesures ont t prises pour dtruire et rduire la reproduction des vecteurs du paludisme  La politique d'impact du changement climatique sur la sant est en cours de rdaction  Amliorer les services de sant environnementale.
+
+Accs accru  leau potable et  lassainissement de base dans les zones rurales, ce qui entrane une diminution du paludisme et dautres maladies  transmission vectorielle  Identifier les risques de glissements de terrain  l'aide de la technologie (SIG, LiDAR et autres)  Assistance conseil  l'ingnierie de conception de projets routiers et d'infrastructures en utilisant les directives climatiques des partenaires de dveloppement Dchets  Promouvoir la gestion des dchets solides et chimiques au niveau national  Planification de la gestion des dchets spciaux (plastiques, dchets lectroniques, encombrants, mines, etc.)  La croissance urbaine a exerc une pression sur les villes,  son tour, mettant  rude preuve les services de gestion des dchets et les services d'assainissement urbain, la gestion des eaux uses en est  ses balbutiements et il n'existe aucun systme formel de gestion des dchets.
+
+Amlioration des capacits du secteur des dchets grce aux connaissances,  la formation,  la recherche et  lintervention  La biodiversit est galement affecte par des protocoles de gestion des dchets inefficaces o des investissements sont ncessaires dans la gestion industrielle et des eaux uses Tableau n13 : Mesures dadaptation en lien avec les ODD avec des co-bnfices attnuation Priorit d'adaptation 1 Renforcer la rsilience du secteur agricole pour amliorer la production agricole du Congo d'une manire intelligente face au climat Co-bnfice attnuation L'agriculture climato-intelligente comprend des mesures de rduction des GES telles que la gestion des quantits et des types d'engrais Activits cls  Restaurer les moyens de subsistance et la capacit de production des agriculteurs et des producteurs;
+
+Accrotre la production et la productivit agricoles;
+
+Amliorer l'efficacit et la comptitivit des chanes de valeur agroalimentaires, y compris la pche;
+
+Encourager les investissements privs le long de la chane de valeur agroalimentaire, y compris des solutions techniques innovantes et un meilleur accs au financement et  l'assurance climatiques ;
+
+Renforcer l'environnement institutionnel favorable ;
+
+Accrotre la rsilience des mnages en ce qui concerne la scurit alimentaire et nutritionnelle.
+
+Promouvoir lutilisation durable des ressources naturelles, restaurer les paysages dgrads et accrotre le couvert forestier du Congo tout en rpondant aux besoins cologiques, sociaux et conomiques dune gestion durable des forts Co-bnfice attnuation Les activits de reboisement, de boisement et de restauration des terres amliorent les puits de carbone Activits cls  Atteindre les objectifs numrs dans la Dclaration du CAFI sur le rle des forts mditerranennes dans la ralisation des CDN ;
+
+Adapter les systmes forestiers au changement climatique en arrtant la dgradation des terres, en contrlant l'rosion de la couche arable, en amliorant la qualit de l'eau et la productivit des sols ;
+
+Crer des sites avec une capacit de production amliore en lien avec le dveloppement de lindustrie de transformation des produits forestiers ligneux et non ligneux et avec les besoins de la population en termes de biens et services et damlioration des possibilits demploi ;
+
+Promouvoir la gestion durable des parcours ;
+
+Rduire le risque d'incendies de fort intenses et frquents grce au dveloppement de mesures de prvention des incendies et de systmes d'alerte prcoce ;  Grer les pidmies de ravageurs et de maladies pour protger les forts et les ressources forestires.
+
+Priorit d'adaptation 3 Structurer et dvelopper des services d'eau durables, y compris l'irrigation, afin d'amliorer les conditions de vie des populations Co-bnfice attnuation L'irrigation utilisant des sources d'nergie propres rduit les missions de GES Activits cls  Mettre en uvre la stratgie sur leau ;
+
+Amliorer l'utilisation efficace de l'eau d'irrigation et largir l'approvisionnement en eau de surface pour lirrigation ;
+
+Encourager et soutenir l'utilisation des nergies renouvelables dans l'irrigation agricole et l'approvisionnement en eau potable ;
+
+Construire un cadre juridique et institutionnel oprationnel et durable pour assurer une bonne gestion du secteur de l'eau permettant le dveloppement de services durables et efficaces ;
+
+Dvelopper des outils de financement du secteur pour mettre en place des mcanismes financiers permettant la prennit et l'quilibre financier des services ;
+
+Impliquer tous les acteurs de la chane de services et mettre en place des mcanismes durables de collaboration et de coordination pour amliorer le suivi et la transparence du secteur.
+
+Valoriser et grer durablement la biodiversit terrestre et marine du Congo pour la prservation et la conservation de ses cosystmes et habitats et des espces qu'ils abritent afin de rpondre de manire adquate aux pressions anthropiques et naturelles et de garantir aux citoyens Congolais un accs gal aux biens et services cosystmiques Co-bnfice attnuation La gestion de la biodiversit contribue aux puits de carbone et  l'conomie bleue ODD les plus pertinents 2, 4, 11, 12, 14 et 15 La dimension genre est prise en compte 2, 4, 11, 12, 14 et 15 Activits cls  Identifier le statut des espces de flore et de faune connues et mettre en uvre des actions de conservation sur 50% des espces menaces ;
+
+Protger au moins 20% des cosystmes naturels terrestres et marins et reprsenter tous les types d'cosystmes dans le rseau des aires protges ;
+
+Augmenter le pourcentage total de couverture des rserves naturelles pour atteindre au moins 25% de la superficie du Congo ;
+
+Grer durablement 50% de tous les cosystmes naturels et les prendre en compte correctement dans la mise en uvre de l'amnagement du territoire ;
+
+Rduire l'cart entre l'empreinte cologique et la biocapacit du Congo, c'est atteindre un tat dgalit ;  Mettre en place des mesures efficaces pour contrler l'introduction et la diffusion de la biodiversit non indigne dans lenvironnement ;
+
+Identifier les cosystmes vulnrables au changement climatique et laborer et mettre en uvre des plans d'adaptation appropris ;
+
+Mettre en uvre des plans de rhabilitation dans au moins 20% des sites dgrads afin qu'ils puissent garantir la fourniture durable de services cosystmiques.
+
+Priorit d'adaptation 5 Rduire la vulnrabilit des impacts du changement climatique sur les zones ctires, en particulier dans les villes Activits cls  valuer l'intrusion d'eau de mer dans les principaux aquifres ctiers ;
+
+Amliorer la recharge artificielle de certains aquifres slectionns ;
+
+Actualiser progressivement le bilan hydrique de tous les aquifres ;
+
+Effectuer la modlisation de l'aquifre salin et poreux ;
+
+Augmenter la capacit de protection des ctes contre les ondes de tempte et l'lvation du niveau de la mer ;
+
+Promouvoir l'utilisation durable des ressources naturelles, telles que la pche.
+
+Priorit d'adaptation 6 Assurer la sant et la scurit publiques en gnral grce  des systmes de sant rsilients au climat Co-bnfice attnuation Activits cls  valuer la vulnrabilit du secteur de la sant publique au changement climatique, identifier les effets actuels et futurs sur la sant et mettre en place des systmes d'alerte prcoce  Renforcer les capacits des professionnels du secteur de la sant dans l'identification des impacts sur la sant d'autres secteurs (par exemple, les transports, l'nergie, l'alimentation, l'eau, le logement et le dveloppement urbain) ;
+
+Autonomiser et assurer la durabilit des fonctions et services de sant environnementale existants pour faire face aux dfis de la scurit de l'eau pour la sant, la dgradation de la qualit de l'eau, les scheresses, les vagues de chaleur, la scurit et la sret alimentaires, la redistribution des vecteurs, la dgradation de la qualit de l'air, les inondations et autres catastrophes naturelles lies au climat ;
+
+Amliorer la surveillance pidmiologique pour intgrer les nouveaux rsultats de sant dans l'unit de surveillance pidmiologique ;
+
+Dvelopper un mcanisme pour intgrer les donnes climatiques dans le systme national d'information sanitaire ;  Dvelopper des stratgies, plans et projets de rponse du systme de sant et les intgrer dans les stratgies nationales de sant.
+
+Priorit d'adaptation 7 Rduire les risques de catastrophe et minimiser les dommages en attnuant et en s'adaptant aux risques naturels lis au climat et aux conditions mtorologiques extrmes Co-bnfice attnuation Activits cls  Effectuer une valuation des risques multirisques ;
+
+Mettre  jour / revoir les cartes des risques d'inondation, d'incendie et de scheresse ;
+
+Amliorer et dvelopper une plate-forme d'alerte rapide pour les risques multiples ;
+
+Coordonner la mise  jour de la stratgie nationale de gestion des feux de fort.
+
+Priorit dadaptation 8 Mise en place dun systme dobservation, de gestion des informations et dalerte sur les risques climatiques au Congo Activits cls  Mettre en place un systme optimal de collecte dinformation climatique et hydrologique oprationnel et efficace au niveau de chaque zone agro cologique  Vulgariser les connaissances climatiques, mtorologiques et hydrologiques au Congo  des fins dadaptation au changement climatique Priorit dadaptation 9 Sensibilisation de la population, des professionnels, des administrations et des dcideurs sur les effets des changements climatiques et sur les mesures  prendre Activits cls  Sensibiliser les acteurs (autorits locales et nationales) et les populations Congolaises en vue damliorer leur rsilience aux effets du changement climatique  Mettre  jour la stratgie de communication sur le changement climatique pour informer le grand public  Sensibiliser les lus aux changements climatiques et  la prise de dcision pour amliorer la rsilience de leurs territoires Priorit dadaptation 10 Adaptation des rfrentiels techniques de construction des infrastructures aux effets des changements climatiques Activits cls  Adapter les rfrentiels techniques de construction et dentretien des infrastructures aux effets possibles des changements climatiques  laborer une mthodologie harmonise pour raliser les diagnostics de vulnrabilit des infrastructures aux changements climatiques  Modifier les rfrentiels techniques et lingnierie de construction en les adaptant au contexte de changement climatique  Renforcer les capacits dans le contrle de la qualit des matriaux de construction, quils soient imports ou produits localement  Renforcer les dispositifs de contrle et de suivi de lexcution des travaux de construction Priorit dadaptation 11 Prise en compte des changements climatiques dans le dveloppement des activits touristiques et artisanales Activits cls  Amliorer la rsilience des activits touristiques et artisanales aux effets du changement climatique  Structurer le secteur de lartisanat  travers un inventaire des activits et mtiers qui la composent  Encourager la production artisanale (organisation des concours du meilleur artisan, des foires expositions, etc.)  Amliorer la conservation des produits artisanaux pour limiter leur dtrioration et les pertes.
+
+En Rpublique du Congo, les questions relatives aux changements climatiques, sont sous la tutelle du Ministre en charge de lEnvironnement. Ce Ministre accompagne laction gouvernementale dans la prparation des documents (fiches techniques, notes de position, etc.) et la participation aux diffrentes ngociations (COP sur climat, One planet summit, etc.).
+
+Les leons tires dans la mise en uvre de la CDN initiale de 2015, ont conduit  la mise en place dun dispositif institutionnel qui se prsente comme suit :
+
+Le Premier Ministre, Chef du Gouvernement est responsable de la mise en uvre de la CDN. Le Comit Interministriel est lorgane de haut niveau de gestion de la mise en uvre de la CDN en Rpublique du Congo. Il est sous l'autorit du Premier Ministre, Chef du Gouvernement. La vice-prsidence est assure par le Ministre en charge de lEnvironnement.
+
+Le ministre en charge de lEnvironnement qui coordonne la politique du gouvernement en matire de changements climatiques, assure la Coordination Technique du processus CDN avec les parties prenantes institutionnelles, la socit civile et les Partenaires Techniques et Financiers. Lintrt port sur la dimension genre justifie la place du Conseil consultatif des femmes, du Conseil consultatif des personnes vivant avec handicap et du Conseil consultatif de la jeunesse.
+
+Le Comit de Pilotage est lorgane charg de donner les orientations stratgiques pour la mise en uvre de la CDN. Il constitue un cadre de concertation nationale et de dialogue politique entre le Gouvernement et ses partenaires du secteur priv, de la socit civile et dappui au dveloppement. Il est prsid par le Ministre en charge de lEnvironnement. La Coordination de la CDN, est lorgane de mise en uvre de la CDN en Rpublique du Congo. Les Comits Dpartementaux de la mise en uvre de la CDN, sont des organes de facilitation de la mise en uvre de la CDN au niveau dpartemental. Ils sont co-prsids par les Prfet et les Prsidents des Conseils Dpartementaux. Les quipes techniques ont la mission dassister techniquement la Coordination de la CDN. Elles refltent les cinq piliers de la CDN  savoir la gouvernance, lattnuation, ladaptation, le financement et le MNV/MRV. Le comit technique appui la Coordination de la CDN sur toutes les questions techniques et scientifiques. Les Points Focaux Ils ont pour missions de reprsenter leurs entits de tutelle au processus de mise en uvre de la CDN. Ils sont dsigns par les parties prenantes  lAccord de Paris sur le climat dsigne leurs points focaux. Les arrangements institutionnels ainsi proposs, placent la mise en uvre de la CDN sous lautorit du Premier Ministre Chef du Gouvernement et sous la supervision technique du Ministre en charge de lEnvironnement.
+
+5.1- Besoins financiers en matire dattnuation et dadaptation : 5.1.1- Besoins financiers en matire dattnuation : Le total des investiments des options dattnuations sleve  4.395,15 millions US$ sur pour tenir lobjectif final de 2030. Le financement des options dattnuation conditionnelles slve  4.301,067millions US$ contre 94,07 millions US$ pour les options dattnuations non conditionnelles, soit 97,86 % de part pour loption conditionnelle contre 2,14 % pour la part de contribution inconditionnelle.
+
+Emissions fugitives Rduction du torchage au champ ptrolifre Million US$ 21,732 21,732 Sur la priode de 2020-2030 la part total de linvessement varie dun sous secteur  un autre. Le sous des transport est celui qui aura la plus grande dinvestissement au bout de la priode avec un cot total estim  2668,2 millions de dollars, soit 60,7 % de linvestissement. Le sous secteur de lnergie avec une part de contribution de 33 %, soit 1451,36 millions de dollars.
+
+5.1.2- Besoins financiers en matire dadaptation : En attendant que le Congo se dote dun Plan National dAdaptation (PNA) qui fixera ses priorits en matire dadaptation et prcise les moyens pour sa mise en uvre, les besoins en financement pour ladaptation au changement climatique slvent  3,795 milliards, de dollars US dont 1,016 milliards de dollars US en inconditionnel et 2,779 milliards de dollars US en conditionnel.
+
+Scurit alimentaire rsiliente au climat pour les femmes et les hommes petits exploitants au Congo grce  une gestion intgre des risques changement climatique, ainsi qu' la restauration et  l'amlioration des bassins versants, pour les femmes et les hommes en situation d'inscurit alimentaire.
+
+2. 2 Amliorer et maintenir la capacit d'adaptation des femmes et des hommes des petits exploitants grce  une combinaison d'outils de gestion des risques intgrs et spcifiques au contexte et d'opportunits bases sur le march.
+
+3. Informer la planification de l'adaptation et la prise de dcision entre les petits exploitants, les communauts et les autorits nationales / locales grce  la production et  l'utilisation d'informations climatiques.
+
+Ensemble, ces lments renforceront les capacits des individus, des communauts et des gouvernements  faire face aux risques et aux vulnrabilits climatiques conformment aux engagements nationaux.
+
+Le projet propos aide le gouvernement du Congo  renforcer la rsilience aux risques lis au changement climatique des petits exploitants agricoles vulnrables dans les rgions agro-cologiques du pays. Ces rgions sont confrontes  des risques croissants en raison du changement climatique, principalement la variabilit des prcipitations et l'augmentation de la frquence des scheresses, qui ont des impacts directs sur la production agricole dans la rgion. Ce sont galement les rgions du Congo qui ont la plus forte concentration d'incidence de la pauvret et o l'agriculture pluviale est prdominante. Par consquent, les petits exploitants agricoles les plus pauvres de ces rgions sont confronts  des effets dvastateurs sur leurs moyens de subsistance, ce qui rodera davantage les gains de dveloppement. Les femmes sont affectes de manire disproportionne par ces impacts, tant donn leur rle dans la garantie de la production alimentaire des mnages et de la scurit alimentaire / nutritionnelle, malgr leur accs ingal  la terre,  l'information et aux intrants (par exemple, semences amliores, engrais, outils).
+
+Amliorer les systmes d'information climatique pour un dveloppement rsilient au Congo vulnrables 2. Rsilience accrue de la sant et du bien-tre et de la scurit alimentaire et hydrique 3. Rsilience accrue des infrastructures et de l'environnement bti face aux menaces du changement indirects sur les habitants du pays, principalement sur la population vulnrable du pays expose aux effets nfastes du changement et de la variabilit climatique. En tant que changement de paradigme, le projet amliorera l'infrastructure d'hydromtrie existante fournie dans les projets prcdents et renforcera la coordination pour une meilleure prestation de services dans diffrents secteurs prioritaires de l'conomie congolaise afin de faciliter l'intgration transparente des informations climatiques dans la planification nationale. Les avantages socioconomiques et environnementaux du projet sont galement importants pour la cration d'emplois, l'augmentation des revenus et l'amlioration de la sant et du niveau de vie, en particulier chez les femmes.
+
+Renforcer la rsilience des communauts vivant dans des paysages menacs par le changement climatique grce  une approche d'adaptation base sur les cosystmes Malgr sa petite population, plus de 70% de la population congolaise dpend des ressources naturelles pour assurer sa subsistance. La productivit de ces ressources naturelles est menace  la fois par des facteurs climatiques et non climatiques, ce qui accrot la vulnrabilit des communauts rurales. Il est prouv que la dtrioration de la biodiversit et des services cosystmiques entranera une vulnrabilit accrue des communauts et une rduction du potentiel de moyens de subsistance et d'activits conomiques fonds sur la nature. Un risque accru de scheresse, combin  une variabilit interannuelle et intra-annuelle accrue, entranera probablement une augmentation des risques d'incendies de fort, ce qui contribuera  l'intensification des pressions d'rosion lies au changement climatique. Le projet propos part du principe que la biodiversit et les cosystmes fournissent des services prcieux, en particulier en ce qui concerne les services d'approvisionnement. Les moyens d'existence de la communaut sont bass sur les services fournis par des cosystmes sains, y compris la valeur conomique grce  l'utilisation agro-productive (pturage pour le btail et sols sains pour l'agriculture). Ce projet propos utilisera l'adaptation base sur les cosystmes (EbA)  grande chelle comme approche rentable et  faible risque pour renforcer la rsilience climatique dans les huit grands paysages cibls pour la mise en uvre. Cela entranera un changement de paradigme. Le projet comprend trois volets, dont le premier vise  renforcer les capacits des communauts rurales dpendant des biens et services cosystmiques en dveloppant des stratgies paysagres et des mcanismes de coordination pilots par les communauts dans huit paysages. Des systmes de gouvernance du paysage grce  des processus de prise de dcision participatifs entre les groupes communautaires eux-mmes ou les communauts voisines seront mis en uvre, tandis que la promotion du partage des connaissances entre les communauts et les autres parties prenantes en dehors du paysage cible sera au centre de la mise  l'chelle et de la reproduction des activits. Le premier lment est essentiel pour le succs et la durabilit de l'action communautaire d'adaptation au climat envisage.
+
+Adaptation physique intgre et rsilience des communauts grce  un projet pilote d'accs direct amlior dans les secteurs public, priv et de la socit civile (Niari, Lekoumou et Buenza) Ce projet rpond  l'appel  propositions (RfP) mis par le FVC en juillet 2016, et est conu pour rpondre aux objectifs dclars de l'appel d'offres,  savoir : renforcer l'appropriation par les pays des projets et programmes en dcentralisant la prise de dcision au niveau des pays, permettant ainsi une plus grande implication et contribution des parties prenantes concernes. Contrairement  la modalit traditionnelle d'accs direct, il n'y aura pas de soumission de projets ou de programmes individuels au Fonds car la prise de dcision pour le financement d'activits pilotes spcifiques sera dvolue au niveau national. L'objectif de ce projet est de renforcer les capacits institutionnelles et d'augmenter la rsilience d'au moins 5% de la population dans le pays  la variabilit et au changement climatiques, dont 50% sont des femmes, grce  l'adaptation des infrastructures, des btiments renforcs et services cosystmiques amliors. Le projet propos est conu pour renforcer l'appropriation par le pays de l'adaptation en dlguant la prise de dcision au niveau national et communautaire, une plus grande participation des communauts vulnrables au changement climatique. Le problme que ce projet cherche  rsoudre est que le pays pilotes souffre de pertes de biens, de vies et de bien-tre en raison de la variabilit du climat et des extrmes induits par le climat. Le changement climatique entrane dj une frquence et une intensit accrues des vnements mtorologiques extrmes.
+
+Renforcer la rsilience de la petite agriculture  l'inscurit hydrique induite par le changement climatique dans les rgions des hauts plateaux, les hautes collines et de la cte sud du Congo L'objectif de ce projet est d'autonomiser les petits exploitants vulnrables dans les rgions des hauts plateaux, des hautes collines et de la cte sud du Congo - en particulier les femmes et les agriculteurs appartenant  des minorits ethniques - afin de grer les risques climatiques croissants pour la production agricole. Pour atteindre son objectif, le projet permettra aux petits agriculteurs de s'adapter  la variabilit des prcipitations et  la scheresse induites par le climat grce  la mise en uvre de deux produits lis intgrant le FVC et le cofinancement  rechercher : 1) eau pour les petits agriculteurs vulnrables pour une production agricole rsiliente au climat face  la variabilit des prcipitations et aux scheresses induites par le climat, et 2) renforcement des capacits des petits exploitants agricoles  appliquer les informations, les technologies et les pratiques sur le climat et le march pour une gestion de l'eau et de l'agriculture rsiliente au climat. Alors que ce projet utilisera le financement du FVC pour cibler spcifiquement les minorits ethniques, les femmes et les autres agriculteurs pauvres / quasi pauvres, il utilisera les ressources du FVC et de cofinancement pour renforcer les capacits de tous les agriculteurs dans les zones vulnrables au climat.
+
+La rgion de Likouala est un exemple de premier plan du besoin urgent de faire face aux dfis multisectoriels du changement climatique au Congo. Les impacts comprennent des changements profonds dans la disponibilit de l'eau, des pressions de temprature pour les personnes, le btail et les cultures, des changements dans la sant publique, les pratiques agricoles, les revenus, la scurit alimentaire et l'cologie. Les modles climatiques prvoient une nouvelle intensification des saisons sches, mais aussi des pluies intenses imprvisibles et des inondations, qui constituent une menace importante pour les moyens de subsistance, en particulier parmi les pauvres. Pour la population, et les femmes sont particulirement affectes ngativement, ces dveloppements prsentent des dfis croissants pour la vie quotidienne, avec un approvisionnement local en eau insuffisant, une dtrioration des conditions de sant et une dtrioration des possibilits d'agriculture (de subsistance) posant des menaces particulires. L'objectif du projet est d'accrotre la rsilience climatique des mnages ruraux et urbains, en particulier les petits agriculteurs et les femmes, vivant dans la rgion de Likouala et d'amliorer les politiques et la rglementation pour une action intersectorielle en faveur de l'adaptation au climat. Il contribuera  la mise en uvre des contributions dtermines au niveau national (CDN) du Congo. Plus de 50 000 bnficiaires directs (dont 57 000 femmes) et environ 1 million de bnficiaires indirects devraient accrotre leurs capacits d'adaptation au changement climatique grce au projet. Les domaines d'action comprennent :
+
+amliorer le cadre institutionnel et rglementaire du gouvernement pour la planification de l'adaptation intersectorielle et communautaire  amliorer la rsilience climatique des infrastructures d'approvisionnement en eau, des services d'assainissement et des pratiques agricoles dans la rgion de Oyo  poursuivre une approche communautaire pour assurer le ciblage des plus vulnrables  renforcer les capacits d'adaptation des populations urbaines et rurales vulnrables, ainsi que les capacits de mise en uvre des structures gouvernementales locales et centrales Renforcement de la rsilience climatique des communauts rurales du centre et du nord du Congo grce  la mise en uvre de l'adaptation cosystmique (EbA) dans les paysages forestiers et agricoles renforcement des capacits techniques au sein du gouvernement Congolais pour intgrer les interventions agricoles et cologiques dans leurs investissements dadaptation. Le changement et la variabilit climatiques sont de plus en plus prjudiciables aux moyens de subsistance des communauts agricoles rurales du Congo. Les communauts du centre et du nord du Congo sont particulirement menaces par des saisons de croissance plus courtes, des journes accrues de chaleur extrme, des tempratures en hausse, des scheresses plus frquentes et plus svres, ainsi que des pluies plus intenses. Ces objectifs d'adaptation seront atteints grce  trois rsultats interdpendants,  savoir : (i) l'amlioration de la fourniture de biens et services cosystmiques pour l'adaptation au changement climatique grce  la restauration des forts, (ii) une productivit agricole accrue pour garantir les moyens de subsistance face au changement climatique et (iii) renforcement des capacits et de la sensibilisation pour mettre en uvre l'AbE et une agriculture rsiliente au changement climatique. Les modles climatiques montrent que ces effets vont probablement s'intensifier considrablement dans les dcennies  venir. Les communauts Congolaises vulnrables utilisent de plus en plus les ressources naturelles (par exemple la production de charbon de bois) pour compenser la baisse de la productivit agricole et faire face  leur pauvret croissante. Il en rsulte une utilisation non durable des ressources forestires et un cercle vicieux ngatif dans lequel la dgradation rapide des cosystmes conduit  une plus grande vulnrabilit des communauts au changement climatique. L'objectif du projet GCF propos est d'interrompre ce cycle dans le centre et le nord du Congo et de renforcer la rsilience climatique des communauts locales en intgrant des techniques agricoles rsilientes au climat avec une restauration sur mesure des cosystmes forestiers dgrads. Cette approche de l'adaptation base sur les cosystmes (AbE) se traduira - dans les conditions actuelles et futures de changement climatique - par une productivit agricole accrue (grce  une gestion judicieuse des sols et la plantation de cultures rsilientes au climat) et une offre accrue de biens et services cosystmiques (y compris la disponibilit de l'eau, conservation et refroidissement des sols, fibres, mdicaments, fruits, bois de feu et bois). La restauration des forts se concentrera intensment sur l'utilisation d'arbres indignes bien adapts aux conditions climatiques actuelles et futures.
+
+Renforcer la rsilience face au changement climatique dans les systmes agricoles et pastoraux traditionnels pluviaux au Congo Le projet soutient les efforts d'adaptation au changement climatique parmi les communauts d'agropasteurs de subsistance et de pasteurs nomades dans les zones arides du Congo. Son objectif gnral est de promouvoir un changement de paradigme dans les systmes pastoraux et agricoles des zones arides grce  une approche intgre en augmentant la rsilience des systmes de production alimentaire ; amliorer la disponibilit / l'accs aux sources d'eau rsilientes au climat ; et le renforcement des capacits des institutions / communauts en matire de rsilience climatique. Le projet capitalise sur les synergies dans les pratiques de gestion des risques climatiques  travers l'agriculture, l'eau et les pturages pour amliorer la scurit hydrique / alimentaire dans des conditions climatiques changeantes. Les principaux rsultats sont une rsilience accrue aux risques climatiques parmi les communauts d'agriculteurs de subsistance et de pasteurs nomades et la promotion d'un environnement propice aux activits d'adaptation  long terme (post-projet) au Congo. En outre, le renforcement des capacits de l'administration au niveau de l'tat dans les domaines de la gouvernance environnementale, de la gestion des ressources naturelles partages, des relations inter et intra-tatiques et de la manire d'tablir un rseau de systmes d'alerte prcoce aidera  prvenir les conflits et  attnuer les effets dans les zones cibles du pays.
+
+Le projet ralisera un changement de paradigme national dans le renforcement de la rsilience climatique de l'approvisionnement en eau en intgrant approches systmatiques de rduction des risques climatiques dans la gouvernance et la fourniture des ressources en eau, des bassins versants, de l'eau infrastructure d'approvisionnement et gestion des utilisateurs d'eau, y compris dans la planification, l'investissement, la conception, l'exploitation et la maintenance. Plus prcisment, le projet investira dans :
+
+Renforcer la gestion de l'approvisionnement en eau rsilient au climat en renforant le secteur de l'eau permettant des environnements pour la planification de l'adaptation au climat  moyen et long terme. Cet objectif sera atteint par l'intgration des informations du climat dans les rformes de la lgislation nationale sur l'eau, de la formation sur la gestion de l'eau fonde sur les risques pratiques, et la mise  niveau des rformes tarifaires pour inclure les cots supplmentaires de la rduction des risques climatiques ;
+
+Protger la qualit de l'eau et modrer les dbits extrmement levs et faibles des ressources en eau en utilisant un bassin versant intgr amlioration de la gestion dans les bassins versants (claire par la surveillance des ressources en eau) ; et en utilisant la surveillance des ressources en eau pour fournir des alertes prcoces et des prvisions des risques climatiques afin d'amliorer la rsilience de l'approvisionnement en eau ; et  Accrotre la rsilience climatique des infrastructures d'approvisionnement en eau en diversifiant les sources d'approvisionnement en eau pour plus de 50 000 personnes (eaux pluviales, eaux de surface et eaux souterraines) ; et la conception et la construction d'infrastructures tenant compte des risques lis au changement climatique pour se protger des risques d'inondation et dimensionnes pour rsister aux priodes de scheresse.
+
+Le projet est conforme aux priorits identifies dans le PANA.
+
+Le projet FVC propos permettra au gouvernement Congolais de mettre en uvre les mesures qui sont ncessaires de toute urgence pour rduire l'impact de l'action des vagues de plus en plus intensive sur les infrastructures cls en raison de l'lvation du niveau de la mer induite par le changement climatique et de l'intensification des vnements extrmes. Les contraintes financires et de capacit  tous les niveaux - de la sensibilisation technique  la prise de conscience de la communaut - qui ont empch une solution durable de protection ctire seront abordes. Le projet renforcera galement les capacits institutionnelles et communautaires pour soutenir et reproduire les rsultats du projet. Le renforcement de la rsilience ctire est une priorit nationale urgente et la formulation de ce projet sera mene au plus haut niveau politique et la porte du projet sera pleinement discute et conue par un groupe de travail technique comprenant des dpartements gouvernementaux cls et des associations d'ONG, reprsentant des communauts et la socit civile.
+
+Services climatologiques et diversification des moyens de subsistance sensibles au climat pour autonomiser les communauts vulnrables et exposes  l'inscurit alimentaire sur lle-Mbamou climatiques et l'augmentation de la variabilit mtorologique ; 2. Renforcement et diversification des moyens d'existence pour accrotre la capacit d'adaptation des groupes vulnrables et renforcer la rsilience des communauts ; et 3. Renforcement des capacits et aide  la dcision pour renforcer l'action climatique en utilisant une approche multisectorielle ; 4. Mise en valeur et promotion des activits touristiques sur lle. Les quatre composantes sont conues pour crer des synergies et optimiser les investissements raliss dans chaque composante afin de contribuer conjointement  l'objectif global du projet, contribuant ainsi  une plus grande efficacit, un impact et une durabilit  plus long terme.
+
+CONCLUSION La prsente CDN de la Rpublique du Congo qui a connu participation effective des parties prenantes nationales et des partenaires techniques et financiers, a t ralise dans un contexte caractris par la crise conomique (avec la baisse drastique des prix des matires premires) et la crise sanitaire (avec la pandmie de la COVID 19).
+
+En dpit de ces crises sans prcdentes, qui rduise drastiquement les capacits financires du pays, le Gouvernement et les autres parties prenantes sengagent  rehausser lambition nationale en matire de rduction des missions. Cet engagement ne devrait en aucun cas compromettre le dveloppement socio-conomique du pays.
+
+Les parties prenantes nationales qui sengagent  mettre en uvre la CDN de 2021 en  cur le prambule de la Convention Cadre des Nations-Unies sur les Changements Climatiques (CCNUCC), qui souligne que  les mesures prises pour parer aux changements climatiques doivent tre troitement coordonnes avec le dveloppement social et conomique afin d'viter toute incidence nfaste, compte tenu des besoins prioritaires lgitimes des pays en dveloppement,  savoir une croissance conomique durable et l'radication de la pauvret. Elles ont aussi conscience que larticle 2 de la convention sus-cite, prcise ce qui suit :  L'objectif ultime de la prsente Convention et de tous instruments juridiques connexes que la Confrence des Parties pourrait adopter est de stabiliser, conformment aux dispositions pertinentes de la Convention, les concentrations de gaz  effet de serre dans l'atmosphre  un niveau qui empche toute perturbation anthropique dangereuse du systme climatique. Il conviendra d'atteindre ce niveau dans un dlai suffisant pour que les cosystmes puissent s'adapter naturellement aux changements climatiques, que la production alimentaire ne soit pas menace et que le dveloppement conomique puisse se poursuivre d'une manire durable.
+
+Le prambule de laccord de Paris souligne que les changements climatiques sont un sujet de proccupation pour lhumanit tout entire. Les pays devraient dans leurs mesures face aux changements climatiques, prendre en considration leurs obligations respectives concernant les droits de lhomme, le droit  la sant, les droits des peuples autochtones, des communauts locales, des migrants, des enfants, des personnes handicapes et des personnes en situation vulnrable, et le droit au dveloppement, ainsi que lgalit des sexes, lautonomisation des femmes et lquit entre les gnrations.
+
+Cest sur ces principes que les parties prenantes nationales semploieront  mettre en uvre la CDN, tant dans son scnario conditionnel que dans le scnario inconditionnel.
+
+Document labor avec lappui du PNUD dans le cadre de linitiative Promesse Climat.
+

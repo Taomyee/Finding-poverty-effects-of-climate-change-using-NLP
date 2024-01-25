@@ -1,0 +1,286 @@
+9.1.1.-Sector Energa 54 9.1.2-Sector Procesos Industriales y Uso de Productos 55 9.1.3.- Sector Gestin de Bosques y Cambio de Uso de Suelo 55 9.2 -Sntesis de la propuesta de incremento de ambicin de NDC en Nicaragua 56 9.3 - Acciones a mediano plazo a considerar en futuras NDC (2025  2030) 57 Proyecciones de Mitigacin con base en los compromisos adquiridos 59 Contribucin Componente Adaptacin 63 Anexos 70 Cuadro - 1 Sntesis de la propuesta de incremento de ambicin de NDC en Nicaragua. 56 Cuadro - 2 Medidas de adaptacin de la NDC y su relacin con los ODS 65 Nicaragua fue responsable del 0.02% de las emisiones globales de gases de efecto invernadero en 2018 segn la base de Datos de Emisiones para la Investigacin Atmosfrica Global, sin embargo, se clasifica como el sexto pas ms vulnerable ante el cambio climtico segn el reporte del ndice Global de Riesgo Climtico 2017 (GERMANWATCH,2017) para el perodo histrico de 1998 al 2017.
+
+Segn la Tercera Comunicacin Nacional Sobre el Cambio Climtico, Nicaragua es un pas altamente amenazado por la variabilidad climtica y eventos extremos. Los escenarios futuros presentados en el Quinto informe del IPCC, ajustados a las condiciones de pas, indican que de los 156 municipios; 21 son amenazados por huracanes; 48 por sequa; 33 por inundaciones y 9 por el aumento del nivel del mar.
+
+Una de las evidencias claras de la alta vulnerabilidad del pas ante el Cambio Climtico, es que, durante el ao 2020, ocurrieron eventos extremos con el paso de dos huracanes en categora 4 y 5 afectando todo el pas. El huracn ETA de categora 4 que impact la Regin Autnoma de la Costa Caribe Norte (RACCN) el 3 de noviembre y 10 das despus, el huracn Iota impact esta misma regin en categora 5. Se afectaron a ms de 3 millones de personas en todo el pas y se estima que estos fenmenos ocasionen prdidas y daos por un monto de ms de 738 millones de dlares, cifra que equivale al 6.2% del PIB del pas.
+
+Bajo el principio de Responsabilidades Comunes pero diferenciadas y capacidades respectivas, Nicaragua se adhiri al Acuerdo de Pars en el ao 2017, asumiendo el compromiso de fortalecer sus polticas, estrategias e instrumentos de gobierno con el fin de contribuir con la meta de no incrementar la temperatura en el mundo a ms de 1.5 grados centgrados.
+
+En trminos de accin climtica, Nicaragua ha contribuido en reducir emisiones de gases de efecto invernadero en todos sus sectores econmicos, principalmente en el sector energa, en donde ha logrado incrementar en un 59% la matriz energtica en recursos renovables.
+
+Con respecto a los bosques, nuestro pas es el primero en firmar la Carta de Derechos de la Madre Tierra, por tal razn, desde el ao 2007 se implementan programas de restauracin de paisajes forestales que generan anualmente la recuperacin de ms de 47 mil hectreas de bosques, lo que representa ms de 2.6 millones de toneladas de dixido de carbono removidos de la atmsfera .
+
+Durante el ao 2018, Nicaragua cumpli sus compromisos ante la Convencin Marco de las Naciones Unidad para el Cambio Climtico presentando su Tercera Comunicacin Nacional de Cambio Climtico; sus niveles de Referencia de Emisiones Forestales y sus Contribuciones Nacionalmente Determinada (NDC). Para el ao 2019, public su Poltica Nacional de Mitigacin y Adaptacin al Cambio Climtico; cre el Sistema Nacional de Respuesta al Cambio Climtico y actualmente se encuentra preparando su Cuarta Comunicacin Nacional.
+
+Nicaragua cuenta con una estrategia financiera implementada a travs de la Autoridad Nacional designada con el apoyo de las instituciones que tambin contribuyen en la bsqueda de fondos de las finanzas climticas. Actualmente, existe una cartera en gestin de 15 programas y proyectos que suman ms de U$190 Millones y desarrollarn actividades que contribuirn en la conservacin y restauracin de los Bosques, as como la lucha contra el Cambio Climtico. (Anexo 1)-[ 1 ] Con respecto a la contribucin en mitigacin, para el ao 2021, Nicaragua implementar con el Fondo Cooperativo del Carbono Forestal un Programa de Reduccin de Emisiones en la Costa Caribe que contribuir en reducir aproximadamente 11 millones de toneladas de dixido de carbono proveniente de la deforestacin y degradacin forestal; as como otros programas y proyectos que garantizarn el manejo sostenible de los bosques y proteccin de los ecosistemas.
+
+Nota : 1- Anlisis histrico de los cambios de uso de suelo del perodo 2005  2015 utilizando informacin oficial de INETER Nicaragua realiza esfuerzos por implementar acciones enfocadas a la adaptacin del cambio climtico. En los ltimos 10 aos, se han protegido 363 nacientes de fuentes de agua; realizado obras de conservacin de suelos y agua en aproximadamente 25 mil hectreas en los municipios ms vulnerables del pas; implementado medidas para reducir la vulnerabilidad de la red de carreteras ante el cambio climtico y se han mejorado los sistemas productivos en Caf y Cacao con un enfoque resiliente.
+
+Con estas acciones, el pas contina demostrando su alto compromiso a nivel nacional e internacional para combatir los efectos del cambio climtico y, sobre todo, proteger a nuestros pueblos ms vulnerables.
+
+Segn el Cuarto Inventario de Gases de Efecto Invernadero, el balance de emisiones y/o absorciones de Nicaragua para el perodo comprendido entre el ao 2000 (ao base) y al ao 2015 (ao de referencia) indica una disminucin de las emisiones en 1% (Figura 1). Se identifican puntos de inflexin asociados al contexto nacional y mundial, tales como: los cambios de gobierno y polticas de desarrollo implementadas durante el perodo evaluado, as como la crisis econmica mundial provocada por la burbuja inmobiliaria en Estados Unidos (2008).
+
+Las emisiones de GEI para el ao 2000 se estimaron en 29,251 GgCO2eq; para el ao 2005, se observa un amento en las emisiones totales de un 10%. Durante el perodo 2006 al 2010, las emisiones disminuyen en un 8%. Este comportamiento de reduccin de emisiones continua para el siguiente quinquenio, debido a que en el perodo del 2011 al 2015, las emisiones descienden en un 3%, estimando emisiones totales de 28,967GgCO2eq (Figura 1) El sector Agricultura, Silvicultura y Otros usos de la Tierra (AFOLU), es el principal sector emisor en toda la serie temporal representando el 79% (22,790 GgCO2eq); seguido de sector energa con el 18% (5,325 GgCO2eq); el sector desechos con el 2% (686.42 GgCO2eq) y, por ltimo, el sector Procesos Industriales y Uso de Productos (IPPU) con el 1% (164.22 GgCO2eq).
+
+El gas que representa el mayor peso porcentual es el dixido de carbono (CO2). Para el ao 2000, se estima que represent el 78% de las emisiones, seguido del metano (CH4) con 15% y el xido de nitrgeno (N2O) con 7%. Con respecto al ao 2015, el peso en emisiones por gas vara, en donde el dixido de carbono (CO2) represento el 60%; el metano (CH4) un 27% y el xido nitroso (N2O) un 13%. Esto ocurre debido al aumento del hato ganadero del pas que actualmente son un motor de desarrollo econmico.
+
+Energa: El Gobierno de Unidad y Reconciliacin Nacional ha incrementado la produccin de energa renovable del 25% en el ao 2007, hasta un 51% en el ao 2013, an en condiciones de severos racionamientos de la energa que existan en el momento de toma del poder, que provenan desde el ao 2004.
+
+Contaminacin Ambiental: Para contribuir a la proteccin de la capa de ozono, se ha eliminado en un 100% el consumo de los gases llamados CFCs a partir del 01 de enero del 2010 y se est implementando un Plan de Gestin para la eliminacin de los tipos de gases HCFCs del 2012 al 2020.
+
+Agropecuario: En el ao 2010, Nicaragua se integr a la Iniciativa Global de Metano, la cual tiene como objetivo, en el corto plazo, reducir las emisiones globales de metano, capturndolo a un costo razonable y usndolo como fuente de energa limpia. Hasta el ao 2010 se han construido 1,512 biodigestores, de los cuales entre 300 y 400 aproximadamente, se encuentran en funcionamiento.
+
+Transporte: Se est implementando el proyecto Promocin de Transporte Ambientalmente Sostenible en la Managua Metropolitana, dentro de las prioridades para reformar el sistema de transporte pblico en el rea Metropolitana de Managua, tal como se refleja en el Plan Integral de Transporte. Obteniendo una reduccin directa de 892,000 toneladas de emisiones de CO2 a lo largo de los prximos 20 aos.
+
+Desechos: El proyecto de desarrollo integral de La Chureca ha incluido no solo el sellado del vertedero del mismo nombre, considerado el mayor de Amrica Latina, sino tambin la construccin de una planta de reciclaje en la que trabajan los recolectores de basura, as mismo la construccin de casas, una escuela para las ms de 250 familias que habitan el lugar y la reduccin de los gases producidos por la propia basura en descomposicin que antes de la intervencin producan combustiones espontneas en toda la superficie del vertedero, ahora son conducidos al exterior por un circuito de tuberas y por chimeneas de gasificacin por las que sale el gas metano. Estos gases estn previstos aprovecharse en la generacin elctrica por la Alcalda de Managua.
+
+Principales avances en mit igacin al Cambio Cl imtico.
+
+Desde el ao 2007 los Sistemas de Tratamiento de Aguas Residuales han aumentado significativamente, para el ao 2010, 13 cabeceras departamentales brindan tratamiento a las aguas residuales Desde el inicio de operaciones de la Planta de Tratamiento de Aguas Residuales de Managua el porcentaje de tratamiento de las aguas residuales recolectadas en la ciudad mejor significativamente de 35.22% en el ao 2007 a 98.19% para el ao 2011 y el ndice de tratamiento pas de 19.66% a 57.63% a nivel nacional.
+
+Gestin Forestal: Nicaragua recibi la aprobacin del Fondo Cooperativo del Carbono Forestal, mediante el cual las comunidades rurales y pueblos indgenas que viven en los bosques de la Costa Caribe, Bosaws e Indio Maz reducirn la deforestacin y degradacin forestal, reduciendo las emisiones de aproximadamente 11 millones de Toneladas de Dixido de Carbono y se recibir a cambio incentivos positivos por 55 millones de dlares en cinco aos. Esta meta solamente representa el 50% del potencial que tiene la regin del caribe en la reduccin de emisiones. Esto, a travs del programa ENDE-REDD+ de MARENA, con la asistencia del Banco Mundial.
+
+Medio Ambiente y Recursos Naturales:
+
+En los ltimos 10 aos se protegieron 363 nacientes de fuentes de agua en las cuencas hidrogrficas del Ro San Juan, Ro Coco, Ro Grande de Matagalpa y Cuenca Hidrogrfica del Pacfico, para facilitar el funcionamiento de sistemas de agua potable e incrementar el acceso al agua que mejora las condiciones de vida de 2,365 familias de 20 municipios en 88 comunidades rurales de los departamentos de Chinandega, Len, Matagalpa, Jinotega, Estel, Madriz, Chontales y Nueva Segovia.
+
+Se destaca la realizacin de obras de conservacin de suelos y agua en 25,000 hectreas en 22 municipios de la zona seca, para los departamentos de Chinandega, Len, Matagalpa, Jinotega y Estel, con el fin de reducir la erosin y la sedimentacin del Ro Viejo, Lago de Apans, Ro Estel, Ro Estero Real y Ro Negro.
+
+Durante el perodo 2007-2017, se han ejecutado 5,323 pequeas obras de cosecha de agua tipo reservorios, lagunetas, micro presas y sistemas de captacin del agua pluvial en techos de casas, apoyando la implementacin Planes de Adaptacin ante el Cambio Climtico y de reduccin de la vulnerabilidad y el riesgo ante la sequa e inundaciones, priorizando las comunidades asentadas en la zona seca, lo que ha beneficiado a 7,848 familias protagonistas de 350 comunidades en 16 municipios.
+
+Agropecuario y pesca: Se ejecuta el Programa de Desarrollo de los Sistemas Productivos, Agrcolas, Pesqueros y Forestal en Territorios Indgenas de la RACCN y RACCS (NICARIBE), 2011-2018. Para mejorar los niveles de ingreso de 10,580 familias que viven en territorios indgenas y afro descendientes de la Costa Caribe, apoyando el incremento de la produccin y el manejo y el aprovechamiento sostenible de los recursos naturales y fortaleciendo sus organizaciones. Fuente de Financiamiento: BCIE, FIDA (Prstamo y Donacin). Monto del Financiamiento: U$12, 000,000.00. Instituciones involucradas: MEFCCA, MAG, INTA, INAFOR, MARENA, INPESCA, Secretara de la Costa Caribe, Gobiernos Regionales, CONADETI. Protagonistas: Se estima que, en los cinco aos de duracin, el Programa atender de forma directa e indirecta a 10,580 familias indgenas y afro descendientes.
+
+Se ejecuta el Programa de Apoyo a la Adaptacin al Cambio Climtico mediante la Produccin de Caf y Cacao de Pequeos Productores en Zonas Agroclimticas Aptas (NICADAPTA), 2014-2020, que busca mejorar de forma sostenible las condiciones de vida de familias rurales productoras de los rubros de caf y cacao, en cuatro zonas geogrficas de intervencin del Programa, incorporndolas a mercados y reduciendo su vulnerabilidad ante el cambio climtico. Fuente de Financiamiento: BCIE, FIDA (Prstamo y Donacin). Monto del Financiamiento: U$37, 051,532.00. Vigencia: 04 de enero del 2014 a 31 de marzo 2020. Instituciones involucradas: MEFCCA, INTA, IPSA, MAG, MIFIC, INETER y Secretara de la Costa Caribe. Protagonistas: Acompaar a 40 mil familias con menos de 20 manzanas que siembran caf y cacao. El proyecto iniciar en 56 municipios cafetaleros y cacaoteros de Nueva Segovia, Madriz, Estel, Jinotega, Matagalpa, Boaco, y 7 territorios indgenas en la RACCN y RACCS.
+
+Se ejecuta el Proyecto Apoyo a la Cadena de Valor Ganadera en Nicaragua (BOVINOS). 2017-2021, cuyo propsito es contribuir al desarrollo de una ganadera bovina ms productiva, con mejor aprovechamiento de los recursos y ms amigable con el medio ambiente, de forma competitiva, sostenible e inclusiva, que permita el incremento de los ingresos, la seguridad alimentaria y nutricional y el bienestar de pequeos y medianos ganaderos en Nicaragua. Zonas beneficiarias de esta accin: 11 municipios de los Departamentos de Chontales (Santo Domingo, La Libertad, Santo Tomas, El Coral, Acoyapa y Villa Sandino), Ro San Juan (El Almendro) y la Regin Autnoma del Caribe Sur (El Ayote, Muelle de los Bueyes, Nueva Guinea y El Rama). Costo total estimado: 21, 223,000.00 EUR. Importe total de la contribucin presupuesto de la UE: 20, 000,000 EUR. Esta accin est cofinanciada en rgimen de cofinanciacin por: Gobierno de la Repblica de Nicaragua por un importe de 1, 223,000 EUR. AECID monto por definir en el acuerdo de delegacin con la UE.
+
+Un estudio realizado por la Tercera Comunicacin de Cambio Climtico ha identificado que actualmente se estn implementado en el pas 197 tecnologas de Adaptacin al Cambio Climtico en los sectores de Recursos Hdricos, Bosques, Biodiversidad y Agropecuario, entre las que se destacan: Sistemas de captacin de agua, nuevas tecnologas de riego, Obras de conservacin de suelos en laderas, Sistemas de bombeo de agua, abonos orgnicos, rotacin de cultivos, as como el uso significativo de nuevas variedades de semillas resistentes al dficit de agua en arroz, maz, sorgo, frijol, tubrculos y hortalizas.
+
+Transporte: El Ministerio de Transportes e Infraestructuras con el apoyo de diversas instituciones financieras (BID, el Banco Mundial y el Fondo Nrdico para el Desarrollo) est implementado un conjunto de medidas para reducir la vulnerabilidad de la red de carreteras ante el cambio climtico. Este es otro hito en el intento del MTI de integrar la adaptacin al cambio climtico desde la planificacin.
+
+Prevencin de riesgos a desastres: El modelo nico y exitoso para la gestin de riesgos a desastres que ha desarrollado el Gobierno de Reconciliacin y Unidad Nacional es un aporte muy importante para la adaptacin al cambio climtico porque contribuye a reducir las vulnerabilidades actuales, las que no se acumularan en el futuro, mediante la prevencin y enfocado directamente en el trabajo con las familias y las comunidades, creando capacidades en nuestro pueblo desde cada vivienda para enfrentar y responder ante eventos potencialmente peligrosos.
+
+Se han ejecutado 37 obras de infraestructuras de prevencin y mitigacin de desastres, dando respuesta a 88 sitios crticos en los municipios de La Concordia, San Rafael del Norte, Jinotega, La Trinidad, San Isidro, Sbaco, Ciudad Daro, Macuelizo, Mozonte, Ocotal, Santa Mara, Totogalpa, Telpaneca, Condega, Estel y Somoto. Con estas obras se ha dado respuesta a sitios crticos priorizados en el marco del Decreto Ejecutivo 53-2011 del 17 de octubre del 2011, sobre el estado de calamidad y desastre en todo el territorio nacional, ocasionado por el fenmeno meteorolgico Centro de Baja Presin E 12. Con estas obras se protegen 45,723 hombres y mujeres en 16 municipios que son: La Concordia, San Rafael del Norte, Jinotega, La Trinidad, Sbaco, San Isidro, Ciudad Daro, Totogalpa, San Lucas, Telpaneca, Somoto, Mozonte, Macuelizo, Santa Mara, Ocotal y Estel, protegiendo sus viviendas, el desplazamiento de protagonistas hacia las reas de cultivo, facilitar el paso de vehculos y peatones y proteger infraestructura vial.
+
+Reubicacin de 1,887 familias (8,435 personas) que residan en sitios de riesgo, afectados por constantes lluvias y 390 familias (1,950 personas) que habitaban en la zona costera del Lago Xolotln que resultaron afectadas por las intensas lluvias del ao 2008.
+
+Se construyeron 55 viviendas dignas para las familias reubicadas en el Municipio de San Francisco Libre. Se rehabilitaron los techos de las viviendas de 3,984 familias en 74 comunidades de los municipios de Bilwi, Prinzapolka, Waspam y Rosita, que resultaron daadas a consecuencia del impacto del huracn Flix en la RACCN, lo que represent el 104.8 por ciento de la meta propuesta que era de 3,800 techos de viviendas rehabilitadas. Adicionalmente, se realiz la rehabilitacin de la estructura de 240 viviendas en 4 comunidades del Llano Norte del municipio de Puerto Cabezas y el municipio de Waspam en la RACCN.
+
+Se rehabilitaron 77 iglesias en la RACCN y la RACCS, que resultaron afectadas por los huracanes Flix e Ida, con el propsito de que sirvan tambin de refugio a la poblacin al momento de presentarse un evento.
+
+Nicaragua.
+
+La Contribucin Nacionalmente Determinada (NDC) de Nicaragua fue presentada ante la CMNUCC en el ao 2018 y tiene como propsito contribuir al cumplimiento del Acuerdo de Pars en mitigacin y adaptacin al Cambio Climtico.
+
+En relacin a la mitigacin, se enfoca en los sectores de energa y gestin forestal, uso de la tierra y cambios de usos de la tierra. La NDC, define medidas para el incremento de fuentes productoras de energas renovables, as como acciones para la conservacin y restauracin de los bosques.
+
+En funcin con el derecho al desarrollo sostenible del pueblo de Nicaragua, la NDC considera implementar estrategias nacionales productivas apegadas a los instrumentos normativos y de polticas del pas; lo cual contribuye en generar inversin extranjera y de cooperacin internacional que contribuyan en cumplir las metas propuestas en los sectores priorizados de la NDC.
+
+El crecimiento de la generacin elctrica a travs de fuentes de energas renovables se ha visto limitado por el alto precio de las tecnologas para la generacin de energa limpia, lo que ha obligado a Nicaragua en establecer un equilibrio entre la produccin de energa con fuentes diversas.
+
+Debido a lo anterior, se plantea en la NDC, incrementar el porcentaje de generacin de elctrica por medio de otras fuentes de energa renovable como solar, elica y biomasa a un 60% en el ao 2030, que representa con respecto al ao 2007, un incremento del 35% en la participacin de las energas renovables dentro de la matriz elctrica nacional, considerando el aumento de la cobertura.
+
+Nicaragua cuenta con una extensa cobertura en bosques naturales que representan el 30% del rea total de la superficie continental (3.9 millones de ha; INETER 2015) que lo convierte en el cuarto pas de Centro Amrica con mayor rea de bosques, y por ello, con potenciales condiciones para incentivar su desarrollo a partir del patrimonio forestal. Segn la composicin biolgica, se han identificado 4 tipos de bosque: latifoliado, confera, palma y mangle.
+
+Los bosques estn distribuidos en 3 principales regiones fisiogrficas del pas. Segn el mapa de uso del suelo 2015, se encuentran en mayor proporcin en la regin de la Costa Caribe con un 88% y un 12% en las regiones del Pacfico y Centro - Norte. Figura 5 Figura 5 Conservacin de bosques dentro de Terr itorios Indgenas y reas Protegidas La prdida de bosques naturales sigue siendo un reto para Nicaragua. El ms reciente reporte de cambio de uso de suelo a nivel nacional presentado por MARENA (2018), evidencia que durante el perodo comprendido entre el ao 2000 al 2015 el pas perdi 100,815 ha de bosque anuales, es decir, la deforestacin se redujo en un 52% con respecto a la cifra reportada entre el perodo 1983  2000 (208.303 ha).
+
+Segn los estudios de cambio de uso de suelo histrico realizado para el periodo 2005  2015, Nicaragua tiene una tasa anual promedio de regeneracin natural de 50 mil ha/ao y cuenta con un potencial de rea para implementar acciones de manejo y restauracin de cobertura forestal de 1.048 Millones de Ha. Figura 6 Debido a lo anterior y cartera de proyectos en gestin descrita en el Anexo 1, Nicaragua propone en su NDC para el sector Bosques, uso de la tierra y cambios de usos reducir las emisiones para el ao 2030 en un 20% con respecto a su lnea base, mediante acciones de restauracin, manejo y conservacin de los bosques.
+
+Por su posicin y caractersticas geogrficas, Nicaragua est expuesta a diversos eventos vinculados a la variabilidad climtica natural, tales como el fenmeno ENSO (El Nio-La Nia), los sistemas Monznicos del Pacfico, las ondas y huracanes tropicales, entre otros, que generan significativas amenazas de sequa, inundaciones, deslizamientos de tierra, dficit de agua, destruccin de cultivos, bosques y viviendas.
+
+Debido a factores econmicos, sociales, culturales y ambientales, Nicaragua es altamente vulnerable a las amenazas generadas por la variabilidad climtica y el cambio climtico, lo que implica importantes prdidas y daos de vidas humanas y econmicas anuales, que segn cifras del Banco Mundial ascienden a 301.75 millones de dlares del poder de compra, equivalente a una prdida promedio anual por unidad de PIB de 1.72%.
+
+Para hacer frente a la adaptacin al cambio climtico, el pas requiere apoyo financiero para desarrollar medidas de adaptacin prioritarias, tales como:
+
+La implementacin de las NDC requiere considerar al cambio climtico como un problema que influye en las decisiones pblicas y privadas relevantes y sus impactos repercuten en el crecimiento econmico del pas, por lo que, para su integracin al desarrollo econmico y social, es necesario considerar los siguientes principios generales:
+
+Enfoque en desarrollo sostenible: El cambio climtico debe influir en las decisiones y en el conjunto de acciones que generan desarrollo, seleccionando medidas que combinen la mitigacin y adaptacin adecuadas, que garanticen el crecimiento econmico sostenible ante los impactos del cambio climtico y con mayor potencial en la reduccin de gases efecto invernadero y del cumplimiento de los ODS.
+
+Complementariedad con la gestin del riesgo de desastres: El cambio climtico se complementa con la gestin del riesgo a desastres, considerando que la reduccin del riesgo a los eventos actuales es una contribucin importante para reducir el riesgo futuro. Las opciones econmicas que sean vulnerables hoy, no se adaptaran al cambio climtico futuro, por tanto, las medidas para reducir la exposicin y vulnerabilidad ante las amenazas del clima actual (variabilidad climtica histrica), tambin deben contribuir a la adaptacin del clima futuro.
+
+Innovacin y uso eficiente de los recursos: Los retos ante el cambio climtico deben incorporar la innovacin en las decisiones asociadas al desarrollo tecnolgico, a los procesos productivos y a las estrategias de negocios del sector privado, as como en las inversiones pblicas para lograr un desarrollo econmico seguro, reduciendo los riesgos climticos futuros y aumentar la capacidad de mitigacin de los gases efecto invernadero.
+
+Enfoque ecosistmico: Las medidas de adaptacin ante el cambio climtico reconocern que la degradacin ambiental de los ecosistemas del pas, contribuye a elevar la vulnerabilidad ante el cambio climtico y disminuye la capacidad de mitigacin, por lo que, las medidas de adaptacin se articularn en un contexto dinmico y evolutivo de los ecosistemas.
+
+Equidad de gnero: Considerando que las mujeres son protagonistas en todos los sectores econmicos del pas incluyendo la produccin y la comercializacin de productos agrcolas y pesqueros, actividades que son receptoras de los impactos del cambio climtico y la variabilidad del clima, las medidas de adaptacin y mitigacin ante el cambio climtico incorporarn todos los derechos consignados en los diferentes instrumentos legales nacionales sobre equidad de gnero.
+
+Nicaragua cuenta con Ley de igualdad de derechos y oportunidades (LEY N. 648, aprobada el 14 de febrero de 2008)-[ 2 ] , la cual establece 6 lineamientos en materia de medio ambiente orientando la incorporacin en las polticas ambientes del pas el enfoque de gnero como un eje transversal.
+
+Participacin ciudadana: Las medidas de adaptacin y mitigacin ante el cambio climtico incorporarn la participacin de la poblacin en general, en especial aquellas ms vulnerables, bajo el modelo de familia y comunidad.
+
+Viabilidad de las medidas: Las medidas deben ser cuidadosamente evaluadas para determinar su viabilidad econmica, social, ambiental y climtica, para ello se alcanzarn las metas propuestas en la poltica a los menores costos y generar los mayores beneficios posibles.
+
+Finanzas climticas: Las instituciones de gobierno y sector privado trabajarn de forma conjunta para gestionar recursos financieros que contribuyan a la mitigacin y adaptacin ante el cambio climtico.
+
+Reconocimiento a los pueblos originarios y comunidades indgenas: el cambio climtico afecta los hbitos, costumbres y tradiciones de los pueblos indgenas, por ello se har nfasis en prestarle apoyo en sus actividades para la preservacin del ambiente y uso sostenible de los recursos naturales.
+
+Los derechos de la propiedad de los territorios indgenas en primer lugar estn garantizados en la ley 445, ley del rgimen de propiedad comunal de los pueblos indgenas y comunidades tnicas de las Regiones Autnomas de la Costa Caribe de Nicaragua y de los ros Bocay, Coco, Indio y Maz. Nicaragua ha establecido en la Estrategia Nacional de Reduccin de Emisiones provenientes de la Deforestacin y Degradacin Forestal, as como en sus programas de impactos, el cumplimiento de las salvaguardas ambientales y sociales que garanticen la participacin plena de los territorios y pueblos indgenas a nivel nacional.
+
+El cumplimiento de los compromisos nacionales es fundamental frente al reto global de mitigacin y adaptacin ante el Cambio Climtico. Ante ello, Nicaragua ha realizado esfuerzos significativos para implementar acciones que garanticen el cumplimiento de las metas establecidas en sus NDC. A continuacin, se describen los avances alcanzados hasta el ao 2020 en mitigacin.
+
+Meta establecida: incrementar el porcentaje de generacin elctrica mediante fuentes de energas renovables, al 60% en el ao 2030.
+
+Segn el Plan de Expansin de la Generacin elctrica (2019-2033)-[ 3 ] elaborado por el Ministerio de Energa y Minas, para el ao 2006, la generacin elctrica proveniente de recursos renovables era del 42% mediante plantas hidroelctricas el 33%, geotrmica 28% y biomasa 39%.
+
+Con el propsito de cubrir la demanda de energa elctrica y garantizar la cobertura en la red de distribucin a nivel nacional, se ampli del 54% en el 2006 al 98.42% en el ao 2020. Este aumento de la capacidad instalada se ha realizado con un enfoque de desarrollo sostenible y de cuido de la madre tierra. La principal inversin que se ha realizado en la ampliacin de las plantas hidroelctricas, de energa elica (2009) y solar (2013). Cabe sealar que la inversin para la construccin y puesta en marcha de las plantas es de capital privado.
+
+En la Figura 7, se observa la distribucin por tipos de plantas utilizadas para la generacin de energa en el ao 2016. Las plantas de energa elica que iniciaron operaciones en el ao 2009, para el ao 2016 ya representaban el 17.3% de la generacin elctrica; seguido de la geotrmica con un 10.1%; Hidroelctrica con 10.1%; biomasa un 7.6% y la solar que inicia operaciones en el 2013 para el ao 2016 apenas representaba el 0.05%.
+
+Debido a los esfuerzos realizados por el pas, para el ao 2019 se logr un incremento considerable en la generacin de energa con fuentes renovables. En la Figura 8, se presentan los incrementos por tipo de fuente, en el caso de la planta de energa geotrmica representaron el 17%, seguido de la elica con un 16%; la biomasa e hidroelctrica un 12% y la energa solar con 1% (representando un aumento significativo con respecto al 2016).
+
+Figura 7 Distr ibucin porcentual de la capacidad instalada nominal por t ipo fuente 2016 Por tanto, el aumento en la matriz energtica utilizando fuentes renovables del 2016 al 2019 es de 15% alcanzando un 58% de fuentes renovables para la generacin de energa en el pas.
+
+Figura 8 Distr ibucin porcentual de la capacidad instalada nominal por t ipo fuente 2019 Durante el perodo 2006 - 2017 se observa la evolucin de la capacidad instalada por tipo de fuente de generacin de energa. Se identifica la ampliacin de la planta de energa trmica para garantizar cumplir con la demanda nacional de energa, sin embargo, tambin se observa el aumento en capacidad y diversificacin de fuentes de energa renovable instaladas en el pas a lo largo de este periodo.
+
+Figura 9 Capacidad Instalada Nominal (MW)Por t ipo de fuente.
+
+Meta establecida: propiciar la produccin agroecolgica, plantaciones de cultivos permanentes bajo sombra resistentes a los impactos del cambio climtico, as como la reduccin de las prcticas ganaderas extensivas e incorporacin de bosques en tierras ociosas que permitan conservar las capacidades nacionales de los sumideros de carbono.
+
+Nicaragua cuenta con estrategias productivas que fomentan la reconversin de reas productivas hacia sistemas amigables con el medio ambiente, entre ellos: sistemas silvopastoriles, sistemas agroforestales plantaciones forestales con fines industriales, restauracin ambiental y manejo de la regeneracin natural, campaas de reforestacin.
+
+A partir del ao 2007, el INAFOR promueve la Cruzada Nacional de Reforestacin como un programa emblemtico del Gobierno de Reconciliacin y Unidad Nacional (GRUN), contando con la participacin de diferentes instituciones de gobierno (MARENA, MINED, Ejrcito Nacional, Polica Nacional, MEFCCA), Gobiernos Municipales y organizaciones civiles (Movimiento Ambientalista Guardabarranco, entre otras). Gran parte de las plantaciones han sido establecidas bajo un enfoque de conservacin de reas pblicas y privadas y de sensibilizar a la poblacin en general.
+
+Existe alto potencial para el establecimiento de plantaciones forestales comerciales por empresas privadas. Hasta el ao 2020 se tiene registro de mltiples empresas, destacndose: Maderas Segovianas S.A. con plantaciones de Pino; Agroforestal S.A. (plantaciones de caoba africana); La Asociacin Nacional de Reforestadores (CONFOR), entre el ao 2003 y el 2016 ha establecido 22,521 ha, con una inversin estimada a la fecha de US$ 128 millones y se espera que contine en los prximos aos el mismo ritmo de crecimiento.
+
+En la Figura 9, se muestran los reportes de la oficina nacional de registro de actividades forestales a cargo del INAFOR, donde hace referencia a las reas bajo plantaciones forestales inscritas durante el quinquenio 2014 al 2019, estas reas corresponden a plantaciones forestales con objetivos industriales, energticos o sistemas agroforestales.
+
+De acuerdo a los registros del INAFOR durante el perodo de enero 2014 a septiembre 2019 se han establecido 8,282.22 hectreas de plantaciones en 14 Departamentos y 2 Regiones Autnomas del pas. Los dos departamentos que lideran este esfuerzo son Chinandega (2,578.83 ha) y Jinotega (1,031.4 ha).
+
+Adems, La Empresa Nicaragense de Acueductos y Alcantarillados (ENACAL), en el marco de la Cruzada Nacional de Reforestacin, ha logrado establecer 115 hectreas de plantacin, incluyendo jornadas educativas en ms de 13 ciudades del pas.
+
+En el ao 2007, INAFOR estableci 12,000 ha y en aos posteriores logr alcanzar metas de 20,000 ha. Para el ao 2017, la meta de reforestacin establecida por el INAFOR fue de 26,000 ha distribuidas en el territorio nacional.
+
+Las estadsticas del Instituto Nacional Forestal (INAFOR) destacan que desde el ao 2007 a ao 2019, se han reforestado ms de 120,000 hectreas, dando prioridad a las zonas del centro y Costa Caribe del pas.
+
+De acuerdo a los mapas nacionales de cobertura de suelo de Nicaragua, durante el perodo 2005 - 2015, se evidencia una significativa recuperacin de la cubierta vegetal, mejorando los reservorios de carbono mediante los cambios de cobertura en sabanas naturales, tacotales, zonas arbustivas y herbceas. Se estima que anualmente se restauran 50 mil ha mediante el manejo de la regeneracin natural, los cuales ocurren en el corredor Pacfico y Centro Norte del pas.
+
+Para adaptarse y mitigar el cambio climtico, as como preservar las reas naturales y los servicios de la nacin, Nicaragua se uni a la Iniciativa 20x20 en el ao 2015 con el objetivo de restaurar cerca de 2.8 millones de hectreas para: Manejar cuencas hidrogrficas, Mejorar la resiliencia de los medios de vida rurales a los efectos del Cambio Climtico y conservar la biodiversidad.
+
+Los 2,8 millones de hectreas se distribuyen en acciones relacionadas a la conservacin, restauracin, manejo y proteccin de los bosques:
+
+3 1,110,721 ha de recuperacin de tierras degradadas por erosin, compactacin del suelo, contaminacin por agroqumicos o sobrepastoreo A travs de estas medidas, el pas implementa acciones para recuperar las reas degradadas por los cambios de uso de la tierra. Segn el estudio de las Causas de la Deforestacin y Degradacin Forestal-[ 4 ] elaborado por MARENA en 2019, las causas directas de prdida de bosques estn vinculadas a la ampliacin de la frontera agrcola y a la ganadera extensiva. se estima que aproximadamente el 84% del uso del suelo de los bosques ha sido cambiado a otros usos especialmente atribuidos a la ganadera.
+
+Por tal razn, las medidas de restauracin establecidas en los programas y proyectos estn encaminados al establecimiento de sistemas productivos sostenibles que articulen corredores biolgicos, restauren paisajes y ecosistemas incrementando la biodiversidad y dems servicios ecosistmicos.
+
+Para lograr este objetivo, Nicaragua a travs del sistema nacional de produccin consumo y comercio ha establecido estrategias productivas con enfoque de mitigacin y adaptacin al cambio climtico, fomentando mejores prcticas para el establecimiento, manejo de los cultivos e incorporando iniciativas de produccin baja en emisiones y que adems contribuyan a la restauracin ambiental.
+
+Con el fin de garantizar el cumplimiento de las metas propuestas en la NDC para este sector, Nicaragua ha gestionado una cartera de proyectos enfocada en la restauracin, proteccin y conservacin de Bosques (Figura 12).
+
+Programa de Reduccin de Emisiones (PRE) el cual iniciar en el ao 2021. Se espera que genere un impacto ambiental y econmico positivo en las comunidades rurales y pueblos indgenas que viven en los bosques de la Costa Caribe, Reservas BOSAWAS e Indio Maz. Adems, se contribuir en reducir la deforestacin y degradacin forestal, mitigando aproximadamente 11 millones de Toneladas de Dixido de Carbono.
+
+Fortalecimiento de la Resiliencia de reas Protegidas de Usos Mltiples para la Generacin de Beneficios Ambientales Globales Mltiples (GEF5). Dio inicio en el ao 2020 y tendr incidencia en 13 reas protegidas, cubriendo los corredores biolgicos de bosques del trpico seco, hmedo, semi hmedo y nuboso. Contribuir en mitigar -137,127 tCO2eq.
+
+Gestin de paisajes resilientes (GEF6). Tiene incidencia en el corredor biolgico de 9 reas protegidas. De las cuales, 7 se encuentran dentro del Corredor de Tierras Secas del pas, en el ecosistema de la ecorregin de pinos y robles-encinos y 2 en el ecosistema del bosque de pino caribea del bosque tropical hmedo en la Regin Autnoma de la Costa Caribe Norte (RACCN). El rea total de incidencia de este proyecto es de 141,355 ha. Contribuir en mitigare 860,000 tCO2eq.
+
+Programa de manejo sostenible de la biodiversidad en la Reserva Biolgica Indio Maz, Reserva Biolgica Indio-Maz (rea Central de la Reserva de Biosfera Ro San Juan) y su Zona de Amortiguamiento (GEF7). El rea de influencia geogrfica del proyecto es de 808,631 ha. Contribuir en mitigar 3,300,000 tCO2eq durante 5 aos).
+
+Transformados sistemas alimentarios y reduciendo deforestacin en el paisaje relacionado a las reas protegidas y corredores biolgicos de la Regin Autnoma de la Costa Caribe Sur y Ro San Juan (FOLUR). Contribuir en mitigar 4.89 MtCO2eq durante 5 aos).
+
+3 Accin climtica integrada para reducir la deforestacin y fortalecer la resiliencia en las Reservas de Biosfera BOSAWS y Ro San Juan (BIO-Clima). Con financiamiento del Fondo Verde del Clima, Nicaragua ejecutar un importante componente de desarrollo de capacidades para la restauracin productiva del paisaje y la conservacin de bosques. Contribuir en mitigar 18 MtCO2eq durante 7 aos) Figura 12 Mapa de Programas y Proyectos en gest in por Nicaragua.
+
+Como parte de los compromisos adquiridos por Nicaragua ante la convencin, se han desarrollado acciones encaminadas a fortalecer la mtrica para el monitoreo, reporte y verificacin de las emisiones, en ese sentido, se ha propuesto una hoja de ruta de mejora continua que prepara el pas ante la llega del marco de transparencia reforzada, basado en los 5 pilares fundamentales establecidos por la convencin: (1) Transparencia, (2) Precisin, (3) Exhaustividad, (4)Consistencia y (5)Comparabilidad.
+
+Nicaragua a partir del 2021, establecer un Sistema Nacional de Inventarios de GEI, el cual servir como plataforma interoperable donde los generadores de la informacin estadstica sectorial estimen los datos de actividad y calculen sus emisiones. Se cuenta con una propuesta de arreglos institucionales que agrupan cada institucin segn su rol en los sectores del INGEI.
+
+Como parte de la implementacin del Decreto para Establecer la Poltica Nacional de Mitigacin y Adaptacin al Cambio Climtico y de Creacin del Sistema Nacional de Respuesta al Cambio Climtico (SNRCC), se han desarrollado los primeros pasos para la formalizacin de la participacin de las instituciones nacionales en la elaboracin de los INGEI de forma peridica y validada.
+
+En funcin de presentar datos de actividad oficiales y eliminar la duplicidad de esfuerzos en la definicin de aspectos conceptuales, desarrollo de formatos de toma de datos, mtodos, metodologas y unidades de medida que cubran las necesidades de todas las instituciones en los diferentes mbitos en los que se desarrolla cada uno.
+
+Debido a que el sistema cuenta con una gran variedad de instituciones, se han creado grupos de trabajo integrados por representantes de dichas instituciones, para cada uno de los sectores del INGEI para revisar y validar los datos de actividad, variables, factores de emisin y resultado de las estimaciones para cada uno de los sectores. (Figura 13) Adems, Nicaragua ha establecido acuerdos de colaboracin con la Organizacin Latinoamericana de Energa (OLADE) para revisar y brindar aportes de mejora sobre la mtrica de las emisiones en el sector energa provenientes del consumo de combustibles fsiles y geotermia. As mismo, cuenta con una mesa de Monitoreo, Reporte y Verificacin para el sub sector Bosques, Uso y Cambio de Uso de Suelo, en donde se preparan documentos metodolgicos, estudios sobre dinmica histrica y actual de cambios de uso a nivel nacional, regional y territorial.
+
+Para el ao 2021, el pas implementar proyectos que contribuirn en fortalecer las capacidades nacionales para la presentacin de informes y reportes internacionales. Entre ellos: a) Habilitacin de la preparacin de la Cuarta Comunicacin Nacional de Nicaragua y el Primer Informe Bienal de Actualizacin a la CMNUCC y b) Fortalecer capacidades institucionales y tcnicas en los sectores agropecuario y forestal de Nicaragua para responder a los requerimientos del marco de transparencia reforzado bajo el Acuerdo de Pars  CBIT.
+
+Los proyectos mencionados contribuirn en mejorar los siguientes aspectos tcnicos requeridos por la CMNUCC para garantizar la garanta y control de calidad de los reportes:
+
+En cuanto a la transparencia, se documentar el origen de cada uno de los datos usados en una hoja de clculo donde se muestre un enlace a la informacin digital de base usada y sobre cada uno de los supuestos usados en los clculos, contribuyendo a realizar de manera sencilla tanto el control de calidad a nivel interno como el aseguramiento de la calidad por revisores externos, ya sean nacionales o internacionales.
+
+Sobre la precisin, Nicaragua desarrollar un sistema de cuentas anualizadas que permita reflejar las evoluciones anuales, determinando las tendencias como las perturbaciones ocurridas y su vinculacin con el sector econmico especifico. Esto ser analizado de manera sectorial, buscando mejorar en lo posible la mtrica a travs del desarrollo con mtodos de nivel superior incluyendo factores de emisin nacionales.
+
+En relacin a la exhaustividad, se realizarn anlisis a nivel de sectores y subsectores. A la fecha, Nicaragua se ha acogido a la flexibilidad de reportar solo los principales gases, flexibilidad que persiste en el Acuerdo de Pars, sin embargo, por lo avanzado en la implementacin de la Enmienda de Kigali, Nicaragua estara en condiciones de reportar en el futuro al menos los principales gases fluorados (HFCs y PFCs).
+
+Sobre la comparabilidad, se trabajar en el desarrollo de una serie temporal, que correr a partir del ao de referencia del NDC y el ao sobre sobre el que se informa no exceder los 3 aos de diferencia al ao de presentacin.
+
+En cuanto a consistencia, se asegurar que no se produzcan cambios en las tendencias de las emisiones a consecuencia de mtodos o supuestos diferentes.
+
+El Gobierno de Nicaragua implementa una Poltica de Comunicacin basada en tres principios fundamentales: el derecho social a la informacin y libre expresin, el irrestricto apego a la Constitucin Poltica de Nicaragua y el derecho ciudadano a participar en las decisiones pblicas.
+
+Como parte de las acciones desarrolladas en el proceso de actualizacin de las NDC, se fortaleci la comunicacin con los sectores vulnerables, ampliando el dilogo con pueblos indgenas, grupos de mujeres y jvenes a nivel nacional. Figura 14 El proceso de comunicacin se desarroll con un enfoque multisectorial y multicultural, que involucr a todas las partes interesadas: pueblos originarios y afrodescendientes, productores agropecuarios, universidades, instituciones de gobiernos regionales y nacionales, medios de comunicacin, organizaciones sociales y poblacin en general.
+
+El Plan de Comunicacin se continuar trabajando con el modelo de alianza, dilogo y consenso con las comunidades a nivel nacional, mediante el desarrollo de mesas tcnicas de comunicacin, las que participan comunicadores de los gobiernos regionales, representantes de los GTI y la Secretara de Desarrollo de la Costa Caribe.
+
+Como parte de la estrategia de comunicacin de las NDC, durante su implementacin, se tomar como gua fundamental la Poltica de Comunicacin del Gobierno de Reconciliacin y Unidad Nacional, diseando e implementando campaas nacionales de formacin de valores, ubicando a las familias como las principales protagonistas en el proceso de cumplimiento de los compromisos climticos.
+
+De igual manera, se articularn objetivos de comunicacin interinstitucional, creando sinergias que permitan alcanzar una mayor cantidad de protagonistas, a travs de medios convencionales bien sean radio, prensa escrita, portales digitales y televisin.
+
+Los nuevos desafos planteados por la situacin de pandemia global establecen nuevos paradigmas en la comunicacin efectiva, por tal razn, la estrategia plantea la divulgacin a travs de medios de comunicacin masiva, contemplando una estrategia especifica en redes sociales para la comunicacin de los avances y principales desafos en el cumplimiento de las NDC.
+
+A nivel interinstitucional, se continuar el trabajo bajo la plataforma del Sistema Nacional de Respuesta ante Cambio Climtico, con el objetivo del alineamiento efectivo de estrategias, programas y proyectos en beneficios del cumplimiento de las contribuciones.
+
+Figura 14 Presentacin de avances en la Contribucin Nacional Determinada con mujeres , jvenes, academia e inst i tuciones Segn el informe IPCC 1.5 y el sentido de urgencia en que fue presentado, en donde se destaca la necesidad de una accin acelerada e inmediata para limitar el aumento de la temperatura global a 1.5C, Nicaragua ha desarrollado una propuesta para aumentar la ambicin de sus NDC enfocadas en la mitigacin y adaptacin al Cambio Climtico.
+
+Segn la NDC enviada por Nicaragua ante la CMNUCC en el ao 2018, los esfuerzos principales se enfocan en incrementar la matriz energtica hasta un 60% con fuentes de energas renovables y reducir en un 20% las emisiones provenientes de la deforestacin y degradacin forestal para el ao 2030.
+
+El Gobierno de Nicaragua, en sus planes estratgicos de desarrollo y polticas nacionales, ha orientado acciones que contribuyen la proteccin, el cuido, uso racional y sostenible de los recursos naturales que brinda la madre tierra. Por ello, se ha logrado avanzar hasta el ao 2020, en un incremento de la matriz energtica con fuentes de recursos renovables a 59%; se han fortalecido las capacidades nacionales para el monitoreo, reporte y verificacin de los recursos forestales; incrementado las metas para la reforestacin; vigilancia y proteccin de reas en procesos de regeneracin natural; visto fortalecidos los sistemas de vigilancia dentro de reas protegidas; fortalecidas las alianzas estratgicas con las comunidades indgenas y afrodescendientes; entre otros.
+
+Considerando lo anterior, a continuacin, se describe una propuesta para incrementar la ambicin de la NDC con respecto a la mitigacin de GEI de los sectores productivos del pas.
+
+Actividades requeridas:
+
+Desarrollo de estrategia para el uso de refrigerantes naturales o de bajo potencial de calentamiento global, la cual tendra un impacto en el sector procesos industriales, subsector emisiones de los sustitutos fluorados que agotan la capa de ozono.
+
+Durante el ao 2020, Nicaragua dise proyectos alineados y orientados a la restauracin y proteccin de los bosques; al establecimiento de sistemas productivos sostenibles y amigables con el medio ambiente y al fortalecimiento de capacidades locales e institucionales que garantizan la proteccin del bosque.
+
+Se considera implementar intervenciones que contribuyan en apoyar a comunidades indgenas y productores con capacidades, asistencia tcnica, insumos e incentivos financieros y de mercado slidos para la intensificacin sostenible de sus medios de vida orientados a la restauracin y conservacin de los recursos naturales y los bosques en sus fincas y territorios. Dichas intervenciones son: 1) establecimiento de sistemas agroforestales; 2) establecimiento de sistemas silvopastoriles; 3) Manejo de la regeneracin natural; 4) Manejo forestal comunitario; 5) Reforestacin comercial y 6) Mejora de la Gobernanza forestal.
+
+Considerando el potencial de mitigacin de las intervenciones mencionadas, Nicaragua incrementar su ambicin en el sector forestal bajo la condicin de recibir fuentes de financiamiento internacional para la implementacin de programas y proyectos que contribuyan con el cumplimiento de la meta de pas.
+
+Plan de fortalecimiento de capacidades para las instituciones responsables del monitoreo de los bosques y el cambio de uso del suelo.
+
+Reduccin de prcticas ganaderas extensivas e incremento de cobertura boscosa en sector pecuario.
+
+Formulacin de una estrategia de Accin de Mitigacin Nacionalmente Apropiada (NAMA) de ganadera bovina sostenible, bajo en carbono y resiliente al clima.
+
+Plan Nacional de Gestin de las Emisiones de GEI provenientes de la fermentacin entrica y gestin de estircol del ganado a travs de biodigestores  Diseo de una estrategia de electro movilidad para el transporte pblico en la ciudad de Managua.
+
+En el Cuadro 1 se presenta una sntesis comparativa de la NDC presentada en el 2018 y los cambios incorporados en la actualizacin al 2020.
+
+Al 2030, el 60% de la capacidad instalada de la matriz elctrica de- ber provenir de fuen- tes de energas reno- Al 2030, el 65% de la capacidad instalada de la matriz elctrica de- ber provenir de fuentes de energas renovables Incremento en la capa- cidad de absorcin de Carbono en un 20% con respecto al Escenario de Referencia al 2030.
+
+Cuadro 1 Sntesis de la propuesta de incremento de ambicin de NDC en Nicaragua.
+
+Energa Al 2030, el 60% de la capacidad instalada de la matriz elctrica deber provenir de fuentes de energas renovables Energa Al 2030, el 65% de la capacidad instalada de la matriz elctrica deber provenir de fuentes de energas renovables Incremento en la capacidad de absorcin de Carbono en un 20% con respecto al Escenario de Referencia al 2030.
+
+Incremento en la capacidad de absorcin de Carbono en un 25% con respecto al Escenario de Referencia al 2030.
+
+Procesos Industriales Reduccin del consumo de gases fluorados considerados en la enmienda de Kigali.
+
+El proceso de actualizacin de las NDC en Nicaragua se ha asumido como una tarea continua, en donde el monitoreo, seguimiento y evaluacin de las metas propuestas se realiza de forma sistemtica. A continuacin, se enlista una serie de acciones que deben ser consideradas en la elaboracin de las futuras actualizaciones de la NDC.
+
+3 Ingreso de la planta de gas natural a la matriz energtica reemplazando a plantas de mayores emisiones (Bunker y Diesel).
+
+3 Acuerdo de prcticas de mitigacin en la industria cementera (energa y Clinker) 3 Inclusin de todos los reservorios en la contabilidad de FOLU, acompaado de prcticas anti erosivas para los suelos agrcolas y pastizales, 3 Biodigestores en plantas de tratamiento de aguas residuales municipales e industriales 3 Desarrollo de una economa circular basada en la cultura de reparacin y reciclado.
+
+3 Desarrollo de instrumentos de planificacin para el ordenamiento ambiental territorial con enfoque climtico.
+
+3 Diseo detallado de una propuesta NAMA en la transicin del sector energtico hacia transporte ms limpio en Nicaragua.
+
+Nicaragua ha preparado los escenarios de mitigacin al cambio climtico considerando la ambicin propuesta en sus Contribuciones Nacionalmente Determinadas (NDC).
+
+Figura 15 Escenarios de Mit igacin considerando NDC actual y propuesta de incremento de ambicin en NDC.
+
+En el proceso de actualizacin de las NDC, se contempla la insercin de alcances y objetivos especficos relacionados a la adaptacin al cambio climtico. En ese sentido, para el caso de Nicaragua se utiliz la metodologa de anlisis multicriterio tomando relacin con las siguientes variables:
+
+Aumento de las capacidades de resiliencia en sectores productivos de importancia para la seguridad alimentaria Como parte de la actualizacin de las NDC a las medidas identificadas, se les agrupo por sector de intervencin en funcin de la prioridad nacional y se definieron alcances y objetivos, as como su contribucin en el cumplimiento de los objetivos de desarrollo sostenible. Cuadro 2 biosfera mediante un programa de ordenamiento de tierras e im- pulso a la reforestacin, impulso a la reforestacin, por un monto de inversin de aproximadamen- te 400 millones de dlares.
+
+Desarrollo de infraestruc- tura de agua potable y sa- neamiento y programas de resiliencia de los sistemas de agua potable urbano.
+
+Desarrollo de conoci- miento y capacidades de respuesta sobre los impactos de cambio climtico en la salud del pueblo nicaragense.
+
+Reduccin de la vulnerabilidad en asentamientos humanos.
+
+Reduccin de la vulnerabilidad en asentamientos humanos.
+
+Programa de REDD+ para combatir el Cambio Climtico y la Pobreza en Nicaragua 55.000.000 2 COSUDE Proyecto de Gestin Comunitaria en la Cuenca del Ro Dipilto. II FASE 2.100.000 3 GEF 6 Proyecto de Gestin de Paisajes Resilientes de Nicaragua (GEF ID 9579) 4.389.261 4 GEF 7 Programa: Manejo Sostenible de la Biodiversidad en la Reserva Biolgica Indio Maz 3.370.000 Transformando los sistemas alimentarios y reduciendo la defo- restacin en las reas protegidas y los paisajes de los corredores biolgicos de la Regin Autnoma de la Costa Caribe Sur y el departamento del Ro San Juan (FOLUR Nicaragua).
+
+6 FVC - BIOCLIMA Accin climtica integral para reducir la deforestacin y au- mentar la resiliencia en las Reservas de Bisfera BOSAWAS y Ro San Juan Fortalecimiento de las capacidades institucionales y tcnicas en los sectores agrcola y forestal de Nicaragua para responder a los requisitos del Marco de Transparencia Reforzada (MTR) en virtud del Acuerdo de Pars. (GEF ID 10118) 8 ONUDI Evaluacin Inicial de Minamata (MIA) y la elaboracin del Plan de Accin Nacional (PAN-Mercurio) 700.000 9 FDV SICA-CCAD Restauracin de Paisajes y Ecosistemas Resilientes ante el Cambio Climtico en el Municipio de El Castillo, Reserva de Biosfera Rio San Juan.
+

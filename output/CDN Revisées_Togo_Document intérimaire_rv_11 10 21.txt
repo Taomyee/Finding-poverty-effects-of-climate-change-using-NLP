@@ -1,0 +1,870 @@
+2.2. Analyse des forces, faiblesses, opportunits et menaces du dispositif 3.2. Information pour ameliorer la clart, la transparence et la comprhension 4.2. Analyse des impacts, risques et de la vulnerabilits des secteurs prioritaires . 4.5. Savoir traditionnel et mesures tenant compte du genre en matire 5.3. Besoins dinvestissement en renforcement de capacits et en transfert de ADAPT Adaptation de la production agricole au changement climatique ANASAP Agence national dassainissement et de salubrit publique ANGE Agence nationale de gestion de lenvironnement ANPC Agence nationale de la protection civile BCEAO Banque centrale des tats de lAfrique de louest CCD Convention des Nations Unies sur la lutte contre la dsertification CEDEAO Communaut conomique des Etats de lAfrique de lOuest CEREEC Centre pour les nergies renouvelables et lefficacit nergtique de la CDN Contributions dtermines au niveau national CGES Cadre de gestion environnementale et sociale CSIGERN Cadre stratgique dinvestissement pour la gestion de lenvironnement CITES Convention sur le commerce international des espces de faune et de CNDD Commission nationale du dveloppement durable CCNUCC Convention-Cadre des Nations Unies sur les changements climatiques COA/GIRE Confrence Ouest-Africaine sur la gestion intgre des ressources en COP/CdP Confrence of Parties /Confrence des parties CPDD Commission prfectorale de dveloppement durable CPDN Contribution prvue dtermine au niveau national DCNCC Deuxime communication nationale sur les changements climatiques DGSCN Direction gnrale de la statistique et de la comptabilit nationale DRERF Direction rgionale de lenvironnement et des ressources forestires DSRP-C Document complet de stratgie de rduction de la pauvret EESS Evaluation environnementale et sociale stratgique EEDD Education  lenvironnement et au dveloppement durable FAO Organisation des Nations Unies pour lalimentation et lagriculture/Food FCPF Fonds de partenariat pour le carbone forestier FDR Feuille de route gouvernementale Togo 2025 FFOM Forces, faiblesses, opportunits et menaces ;
+
+FNDF Fonds national de dveloppement forestier GAFSP Global Agriculture and Food Security Program GERN Gestion pour l'environnement et les ressources naturelles GIEC Groupe d'experts intergouvernemental sur l'volution du climat GIFERC Gestion intgre de la fertilit de l'eau et des ravageurs par les GIZ Gesellschaft fr Internationale Zusammenarbeit Gestion de lenvironnement et des ressources naturelles/Gestion des GTVD Gestion Traitement Valorisation des Dchets INSEED Institut national de la statistique et des tudes conomiques et IRENA International renewable energy agency / Agence internationale des ITIE Initiative pour la transparence des industries extractives ITRA Institut togolais de recherche agronomique MAEH Ministre de lagriculture, de llevage et de lhydraulique MAEP Ministre de lagriculture, de llevage et de la pche MEAHV Ministre de leau, de lassainissement et de lhydraulique villageoise MER Ministre de lquipement rural (actuellement fusionn au MAEH) MERF Ministre de lenvironnement et des ressources forestires MPDC Ministre de la planification du dveloppement et de la coopration MRV / MNV Mesure, reporting and verification / Mesure notification et vrification NDT Neutralit en matire de dgradation des terres NEPAD New Partnership for Africas Development /Nouveau partenariat pour le ODEF Office de dveloppement et dexploitation des forts OIBT Organisation internationale des bois tropicaux OMD Objectifs du millnaire pour le dveloppement ONAEM Organisme national charg de l'action de l'Etat en mer PADAT Projet dappui au dveloppement agricole du Togo PALCC Programme dappui  la lutte contre le changement climatique PANA Plan daction national dadaptation aux changements climatiques PAN-LCD Plan daction national de la lutte contre la dsertification PANSEA Plan daction national pour le secteur de leau et de lassainissement PAZOL Projet d'amnagement de la zone lagunaire PDDAA Programme dtaill pour le dveloppement de lagriculture en Afrique PGES Plan de gestion environnementale et sociale PGICT Projet de gestion Intgre des catastrophes et des terres PNACC Plan national dadaptation aux changements climatiques PNADE Programme national d'actions dcentralises de gestion de PNASAP Plan stratgique national dassainissement et de salubrit publique du PNAE Plan national d'action pour l'environnement PNE TOGO Partenariat national de leau du Togo PNGE Programme national de gestion de l'environnement PNHAT Politique nationale dhygine et dassainissement du Togo PNIASA Programme national d'investissements agricole et de scurit PNIASAN Programme national d'investissements agricole et de scurit PNIERN Programme national dinvestissement pour lenvironnement et les PNPC Politique nationale de la protection civile PNUD Programme des Nations Unies pour le dveloppement PNUE Programme des Nations Unies pour l'environnement PONAT Politique nationale damnagement du territoire PPAAO Programme de productivit agricole en Afrique de louest- PRAPT Projet de renforcement du rle de conservation du systme national PRCGE Projet de renforcement de capacits pour la gestion de lenvironnement PRCNDGE Projet de renforcement de capacits nationales dcentralis de gestion ProDRA Programme de dveloppement rural y compris lagriculture ProREDD Programme dappui  la prparation  la REDD+ et  la rhabilitation PSSET Plan stratgique du sous-secteur de lnergie au Togo PUDC Programme durgence pour le dveloppement communautaire PURISE Projet durgence de rhabilitation des services et infrastructures QUIBB Questionnaire unifi des indicateurs de base du bien-tre RAPD Rapport sur laide publique au dveloppement REDD+, Rduction des missions dues  la dforestation et de la dgradation RGPH Recensement gnral de la population et de lhabitat SCAPE Stratgie de croissance acclre et de promotion de lemploi SISL Systme d'information et de suivi du littoral SNGF Stratgie nationale de gestion des feux de vgtation SNRRC Stratgie nationale de rduction des risques de catastrophes naturelles SPANB Stratgie et plan daction nationale de la biodiversit SRRC Stratgie nationale de rduction des risques de catastrophes au Togo UEMOA Union conomique et montaire Ouest Africaine UNESCO United Nations education, scientific and cultural organization / Organisation des Nations Unies pour lducation, la science et la WACA West Africa coastal areas management program WACAF Zones ctires de la rgion de lAfrique de lOuest et du Centre WASCAL West African science service center on climate change and adapted Figure 1: Scenarios dattnuation prvue et dattnuation relle en 2020 par rapport  Figure 2: Tendances des projections des missions de GES des diffrents secteurs Figure 3: Tendances des rductions globales des missions de GES par rapport au Figure 4: Tendances des rductions des missions de GES par rapport au scnario Figure 6 : proportions des actions du Scnario dadaptation par secteurs en cots Figure 7 : rpartition des cots des besoins en transfert de technologie par secteur 79 Tableau 1: Forces, faiblesses, opportunits et menaces du cadre institutionnel Tableau 3: Informations ncessaires  la clart,  la transparence et  la Tableau 6: Impacts du Covid 19 et rponses prioritaires en matire dadaptation au Tableau 7: Cots dinvestissements des actions CDN rvise du sous - secteur de Tableau 9: Besoins en investissement des actions CDN sous-secteur rsidentiel 61 Tableau 10: Besoins en investissement des actions CDN sous-secteur agriculture 62 Tableau 11: Besoins en investissement des actions CDN du sous-secteur foresterie Tableau 14: Cots d'investissements associs suivants les scenarii d'attnuation . 69 Tableau 15: Cots d'investissement pour toutes les mesures d'attnuation (millions Tableau 18: Besoins prioritaires en ressources techniques et renforcement de Tableau 19: Financements d'attnuation et d'adaptation ncessaires pour la CDN Tableau 22 : Matrice FFOM de lanalyse de la communication sur la mise en uvre Tableau 23 : Dveloppement des orientations stratgiques et formulation des Lors de la 21e Confrence des Parties (COP21)  Paris, le 12 dcembre 2015, les Parties  la Convention Cadre des Nations Unies sur les changements climatiques (CCNUCC) sont parvenues  un accord historique pour lutter contre les changements climatiques. Ceci pour acclrer et intensifier les actions et les investissements ncessaires pour un developpement durable  faible mission de carbone. L'Accord de Paris (AP) est entr en vigueur en novembre 2016,  la suite les parties prenantes ont pris des engagements volontaires pour la transition vers un avenir rsilient aux changements climatiques et  faibles missions des Gaz  effet de serre (GES).
+
+Les Parties sont tenues d'entreprendre et de communiquer leurs efforts pour contribuer  la ralisation de ces objectifs sous la forme de contributions dtermines au niveau national (CDN) communiques  la CCNUCC (article 3). Les CDN sont donc la pice matresse de lAccord de Paris qui invite les pays signataires  rviser leurs engagements chaque 5 ans dans loptique de rehausser les ambitions en matire dattnuation comme dadaptation afin de maintenir le rchauffement climatique en dessous de 2 C voire 1,5 C.
+
+En prlude  lAccord de Paris, le Togo a prpar et soumis ses contributions prvues dtermines au niveau national (CPDN) en 2015 qui ont t confirmes comme ses CDN aprs ladoption de cet accord. Le Togo avec lappui du Programme des Nations Unies pour le Dveloppement (PNUD) au travers de linitiative de la  Promesse climatique  et du Programme dappui aux CDN (NDC Support Programme) sest engag dans la rvision de ses CDN en 2020. Le Togo vise, par la rvision de ses CDN,  se conformer aux engagements pris vis- -vis de lAccord de Paris et d'assurer leur alignement  ses priorits de dveloppement (Plan National de dveloppement-PND et feuille de route gouvernementale 2025) et aux Objectifs de Dveloppement Durables (ODD).
+
+La rvision des CDN du Togo couvre entre autres, l'actualisation des donnes et des informations au regard des nouveaux dveloppements programmatiques et politiques, la prise en compte du secteur des infrastructures, une meilleure intgration du secteur des ressources en eau et l'intgration des hydrofluorocarbures (HFC) et les polluants atmosphriques et climatiques de courte dure de vie dans les gaz dont les missions sont  rduire. Ce qui a permis d'actualiser les objectifs du pays en matire d'engagement en y intgrant les nouveaux projets sur la base des nouvelles mesures incitatives dans le domaine des transports et des nergies renouvelables pour relever le niveau de l'ambition.
+
+Les CDN rvises du Togo dcrivent les actions renforces et l'environnement favorable ncessaire au cours de la priode 2015-2020 qui ont jet les bases d'objectifs plus ambitieux au-del de 2020, contribuant  l'effort concert pour empcher une augmentation de 2 C de la temprature moyenne mondiale et poursuivre les efforts pour limiter la temprature  1,5 C au-dessus des niveaux prindustriels.
+
+D'ici 2030, le Togo envisage d'augmenter la rsilience climatique grce  des stratgies globales d'attnuation et d'adaptation et de rduction des risques de catastrophe. Le Togo s'est fix des objectifs ambitieux de durabilit lis  la production et  la consommation de nourriture, d'eau et d'nergie. Ces objectifs seront atteints en soutenant l'autonomisation et le renforcement des capacits, l'amlioration de la fourniture des services sociaux de base, l'innovation technologique et la gestion durable des ressources naturelles, dans le respect des principes de bonne gouvernance.
+
+Au-del de l'objectif CDN 2030, le Togo s'est engag  progresser vers une stratgie de dveloppement  long terme  faible mission de carbone et de rsilience climatique  travers son plan national de dveloppement (PND 2018-2022) et la feuille de route gouvernementale 2025.
+
+Dans cette optique, le pays sest dot dun plan de prparation et de mis en uvre de ses CDN couvrant la priode 2020-2024. Ce plan regroupant neuf programmes vise  acclrer les changements transformationnels vers un dveloppement  faible mission de carbone et rsilient aux changements climatiques.
+
+Le prsent document de CDN rvises comporte sept chapitres portant respectivement sur le contexte national, la gouvernance, lattnuation, ladaptation, les besoins financiers, technologiques et laide requise, le systme national de mesure, notification et vrification (MNV), et la stratgie de communication sur la mise en uvre des CDN.
+
+Le Togo est situ dans la zone intertropicale. Il jouit dun climat tropical guinen  4 saisons dans la partie mridionale et dun climat tropical soudanien  deux saisons dans la partie septentrionale. Les rgions Maritime et des Savanes sont celles qui reoivent moins de 1000 millimtres deau par an. Une irrgularit des saisons est observe ces dernires dcennies. Les massifs de lAtakora et les monts du Togo prennent en charpe le territoire togolais du nord-est au sud-ouest. Le mont Agou est le plus haut sommet du pays qui culmine  plus de 900 m au sud-ouest. De part et dautre de cette chaine stend la pnplaine. Au Togo, quatre grandes classes de sols sont rencontres. Il sagit des sols minraux bruts et peu volus ; des sols ferrugineux tropicaux ; des sols ferralitiques et des vertisols et les sols hydromorphes.
+
+Avec une couverture forestire de 24,24%, les ressources biologiques du Togo sont nombreuses et diversifies. Les formations vgtales sont constitues de forts denses semi-dcidues, de savanes guinennes, des savanes soudaniennes entrecoupes de forts sches ou des forts claires selon les localits, de forts galeries et ripicoles, etc.
+
+Au Togo, la flore compte 3491 espces terrestres et 261 espces aquatiques identifies. La faune, value  3469 espces, est compose des espces terrestres, de lavifaune et de la faune aquatique. Cinq principaux domaines phytogographiques se partagent le Togo. Elles sont dnommes zones cologiques.
+
+Les ressources en eau dont dispose le Togo sont assez abondantes. Elles sont 47,3%, Mono, 37,5%, Lac Togo, 16 %) et des eaux souterraines renouvelables contenues dans les deux aquifres du socle et du sdimentaire ctier. Le volume total des ressources en eau renouvelables est estim  environ 19 milliards de mtres cube par an, soit environ 27 % des pluies (de lordre de 70 milliards de mtres cube par an). Le Togo dispose dune zone ctire longue de 50 km qui stend de Lom  Anho avec une importance conomique capitale pour le pays. En effet, une diversit dactivits comme la pche, lindustrie, lartisanat, le tourisme, etc. sexerce dans cette de ce milieu fragile, du poids de l'accroissement dmographique, des amnagements existants qui sagrandissent chaque anne. Elle est expose aux risques ctiers :
+
+Le recensement gnral de la population et de lhabitat de novembre 2010 tablit la population rsidente du Togo  6 191 155 habitants avec un taux de croissance annuel moyen de 2,3 %. Au 1er janvier 2019 les projections situaient cet effectif  7 538 000 hbts. Il sera de 7 723 000 hbts au 1er janvier 2020. La densit moyenne est de 109 habts/km en 2010. Elle varie selon les rgions et est plus dense dans la rgion Maritime et faible dans la rgion des Savanes. Au Togo 53,5% (2017) de la population vit sous le seuil de pauvret. Le taux de pauvret a diminu de 1,6 point entre 2015 et 2017. En 2018-2019, une nouvelle estimation de la ligne de pauvret a t faite, afin dvaluer de manire plus prcise la proportion des mnages qui vit sous le seuil de pauvret. Lincidence de pauvret calcule sur cette nouvelle base est de 45,5% au niveau national. LIndice de dveloppement humain (IDH) du Togo est pass de 0,426 en 2000  0,484 en 2014 puis 0,484 en 2015, ce qui place aujourd'hui le pays au 162me rang, sur les 188 pays disposant de donnes comparables.
+
+Plaant l'mergence au cur de son ambition, le Togo a ralis des avances remarquables lors des 10 dernires annes et s'est fix des objectifs de croissance conomique et de dveloppement social et humain levs pour les annes  venir. La panddmie mondiale due  la Covid-19 est un choc sans prcdent qui aura des rpercussions importantes pour lAfrique et particulirement pour le Togo. Toutefois, le Togo souhaite donner une impulsion nouvelle  son conomie et  sa socit sous la forme dun plan stratgique concret. Aussi, le gouvernement sest-il dfini une feuille de dajuster la vision nationale intgre en ayant une comprhension densemble du contexte du Togo, notamment en considrant le contexte Covid-19, de mettre  jour le portefeuille de projets et de rformes du Togo dfinis dans son Plan national de dveloppement (PND) en tenant compte de la nouvelle vision et de leur tat davancement et dorienter la mise en uvre de cette nouvelle vision au niveau de chaque ministre sectoriel.
+
+La feuille de route gouvernementale vise  un Togo en paix, une Nation moderne avec une croissance conomique inclusive et durable . Cette vision est structure autour de trois axes stratgiques interdpendants : (i) renforcer linclusion et lharmonie sociales et consolider la paix ; (ii) dynamiser la cration demplois en sappuyant sur les forces de lconomie ; et (iii) moderniser le pays et renforcer ses structures. Les trois axes sont dclins en dix ambitions rpondant aux principaux dfis du pays. Le Togo met un accent particulier sur les questions lies aux changements climatiques au niveau de lambition 10 qui met le dveloppement durable et lanticipation des crises futures au cur des priorits du pays.
+
+1.2. SYNTHESE DE LEVALUATION DE LA MISE EN UVRE DES CDN INITIALES DU TOGO dadapatation avec co-bnfices en attnuation a permis au Togo de raliser 7 990 Gg CO2-eq de rduction de ses missions en 2020 au lieu de 5 075 Gg CO2-eq de rduction initialement prvue, soit une rduction de 27,57%  lhorizon 2020 au lieu de 17,51% par rapport  la rfrence comme le montre la figure 1. La rduction supplmentaire est donc de 10,06%.
+
+Dans lensemble le Togo est proactif politiquement dans le domaine des changements climatiques depuis plus de 20 ans et sest engag  lutter contre ses effets adverses qui affectent la population et de nombreux secteurs dactivits conomiques  travers une srie dactions aussi bien dans le cadre dactions multilatrales que dinitiatives nationales.
+
+2.1. DISPOSITIF INSTITUTIONNEL EXISTANT DES CDN En 2015,  travers larrt interministriel N002/MERF/MMEFPD, un comit de coordination du processus dlaboration des contributions prvues dtermines au niveau national (CPDN) a t mis en place. Ce comit CPDN a t remplac en 2018 par lAutorit Nationale de coordination du processus dlaboration des communications nationales (CN), des rapports biennaux actualiss (RBA) sur les changements climatiques et des CDN, mise en place par larrt n0095 / MERF/SG/DE du 13 Juillet 2018. Cette autorit,  travers le sous-comit CDN, est charge de suivre la mise en uvre des CDN. Ce sous-comit CDN, est compos des reprsentants des institutions publiques, du secteur priv, des organisations de la socit civile concerns par la problmatique des changements climatiques. Il sagit de la prsidence de la rpublique, la primature, le ministre charg des affaires trangres, le ministre charg des finances, le ministre charg de la planification, le ministre charg de lagriculture, le ministre charg de lnergie, le ministre charg de la promotion des femmes et des jeunes et autres ministres, des organisations de la socit civile, et le patronat.
+
+Le cadre institutionnel existant des CDN souffre de certaines insuffisances (Tableau 1).
+
+Tableau 1: Forces, faiblesses, opportunits et menaces du cadre institutionnel existant  Non-oprationnalit de certains comits (Comit national  Fonctionnement des arrangements institutionnels non  Faible capacit technique des membres de lAutorit Nationale de coordination du processus dlaboration des CN, des RBA sur les changements climatiques et des CDN  Expertise technique limite dans toutes les thmatique cls en rapport avec les secteurs prioritaires concerns par les  Faible niveau de collaboration des institutions en charge de la mise en uvre des politiques gouvernementales et les  Non-affectation de ressources financires pour le fonctionnement du comit de mise en uvre des CDN  Faible connaissance du cahier de charge des diffrentes  Non-implication des collectivits locales dans le comit  Manque de coordination et de cohrence entre les divers organes thmatiques, entits oprationnelles, agences d'excution et autres organisations en dehors de la Convention  Faible implication des acteurs du secteur priv, des groupements de femmes, des parlementaires et de la socit 2.3. RENFORCEMENT DES CAPACITES POUR LA GOUVERNANCE En rponse aux contraintes et lacunes identifies pour le cadre institutionnel existant, des actions suivantes sont proposes pour assurer une gouvernance et une coordination efficaces du processus de mise en uvre des CDN. Il sagira de :
+
+mettre en place un cadre de dialogue et de communication entre les divers organes thmatiques, entits oprationnelles, agences d'excution, organisations de la socit civile et du secteur priv et autres organisations en dehors de la Convention ;
+
+renforcer les capacits techniques des parties prenantes dans toutes les thmatiques cls en rapport avec les secteurs prioritaires concerns par les tudes dattnuation ;
+
+mobiliser les ressources financires ncessaires pour rendre oprationnel le comit de mise en uvre des CDN ;
+
+rendre oprationnel les diffrents comits existants qui sont en lien avec les changements climatiques ;
+
+laborer un programme de renforcement des capacits institutionnelles pour la bonne mise en uvre des CDN ;
+
+renforcer les capacits techniques et oprationnelles des diffrentes parties prenantes du comit CDN ;
+
+renforcer la collaboration entre les institutions en charge de la mise en uvre des politiques gouvernementales et les institutions en charge des tudes ;
+
+dfinir le cahier de charges des diffrentes parties prenantes du comit CDN.
+
+Pour contribuer  la lutte efficace contre les effets nfastes des changements missions de gaz  effet de serre.
+
+3.1. CONTRIBUTIONS A LATTENUATION : SCENARIOS DE REFERENCE ET DATTENUATION Les donnes utilises sont celles issues des tudes thmatiques et sectorielles de la 4e CN et du 2e RBA. Les secteurs, gaz, catgories et pools couverts par les contributions dtermines au niveau national rvises sont :
+
+(CB), matires particulaires PM 2.5 et PM 10, les oxydes nitreux, les composs organiques volatils et le monoxyde de carbone.
+
+Pour chaque secteur, les projections des missions de GES sont faites sur la priode 2010-2030 et se prsentent comme suit (Figure 2) :
+
+secteur de lnergie : les missions varient de 3725,16 Gg CO2-eq  13169,18 Gg CO2-eq entre 2010 et 2030, soit une augmentation de 254% ;
+
+secteur PIUP : la projection des missions passe de 551,19 Gg CO2-eq en 2010  3 203,54 Gg CO2-eq en 2030, soit une progression denviron 481% dans le secteur ;
+
+secteur AFAT : les missions passent de 12 190,89 Gg CO2-eq  13 464,37 Gg CO2-eq entre 2010 et 2030, soit une augmentation de 10,45% ;
+
+secteur dchets : les emissions du secteur dans lensemble varient de 335,7 Gg CO2-eq en 2010  573,3 Gg CO2-eq en 2030, soit une augmentation de 70,8%.
+
+Dans lensemble, les missions de GES passent de 16 802,92 Gg CO2-eq en 2010  30 410,42 Gg CO2-eq en 2030, soit une progression de 80,98%.
+
+Les potentiels de rduction des missions de GES sont estims par secteur et sont ensuite agrgs au niveau national. De faon gnrale, les informations fournies sappuient sur les nouveaux dveloppements programmatiques du Togo notamment le Plan National de Dveloppement (PND 2018-2022) et la feuille de route gouvernementale 2025. Ces informations se fondent aussi sur les mesures et priorits sectorielles telles que prsentes dans lannexe 1.
+
+Les mesures dattnuation sont guides par une aspiration de dveloppement sobre en carbone  long terme qui favorise la mise en uvre de sa feuille de route gouvernementale 2025, de son PND (2018-2022), de sa politique dautosuffisance alimentaire et de lutte contre la pauvret pour devenir un tat mergent  lhorizon 2050.
+
+La mise en uvre des plans, stratgies, programmes et autres documents de planification exploits dans cette tude repose sur les diffrentes ressources (fonds propres, prts nationaux et internationaux) que le gouvernement mobilise pour le dveloppement du pays.
+
+Par ailleurs, afin dassurer un dveloppement durable sobre en carbone, le Togo sest engag dans un ambitieux programme de lutte contre les changements climatiques dont les activits ncessitent un appui soutenu de ses partenaires techniques et financiers (renforcement de capacit, transfert et diffusion de technologie, et ressources financires).
+
+Les rsultats de lanalyse des rductions sectorielles indiquent que le Togo peut sengager dans une contribution inconditionnelle de rduction de ses missions de gaz  effet de serre (GES) de 20,51%  lhorizon 2030, soit 6 236,02 Gg CO2-eq (Figure 13 ; Tableau 11).
+
+Dans lapproche propose pour le scnario dattnuation, lEtat togolais sengage, sil bnficie du soutien requis, de raliser une diminution supplmentaire de 30,06% des missions de GES par rapport au scnario de rfrence  lhorizon 2030, soit 9 305,59 Gg CO2-eq (Figure 3), sans compromettre sa politique dautosuffisance alimentaire en procdant de faon  ne pas compromettre son dveloppement durable.
+
+De faon globale, la contribution du Togo slve  50,57%, soit 15 378,55 Gg CO2-eq  lhorizon 2030 rpartie comme suit :
+
+Cible inconditionnelle : 20,51% ;
+
+Cible conditionnelle : 30,06%.
+
+Ces nouveaux engagements reprsentent une progression par rapport aux CDN initiales et correspondent  un niveau d'ambition le plus lev possible, compte tenu des circonstances nationales conformment au paragraphe 3 de larticle 4 de lAccord de Paris.
+
+La figure 2 prsente le niveau de lattnuation dans chaque secteur :
+
+secteur de lnergie : lanalyse du scnario dattnuation montre une rduction de 16,89% (2 224,87 Gg CO2-eq)  lhorizon 2030 par apport au scnario de rfrence. Les tendances de rduction dans ce secteur sont reprsentes dans la figure 4a ;
+
+secteur PIUP : compte tenu du fait que le sous-secteur production de ciment ne gnre aucune rduction potentielle, la rduction des missions dans le secteur PIUP se rsume  celle du sous-secteur hydrofluorocarbures (HFC) et correspond  0,8%  lhorizon 2030 par rapport au scnario de rfrence (Figure 4b) ;
+
+secteur AFAT : la valeur estime du scnario dattnuation  lhorizon 2030, est de 9 640,17 Gg CO2-eq contre 13 464,37 Gg CO2-eq pour le scnario de rfrence (Figure 4c), soit une rduction de 28,40% (3 824,20 Gg CO2-eq) ;
+
+secteur dchets : la valeur estime du scnario dattnuation  lhorizon 2030, est de 412,20 Gg CO2-eq contre 573,325 Gg CO2-eq pour le scnario de rfrence, soit une rduction de 28,10% (Figure 4d).
+
+La rvision des CDN du Togo a t ralise en consultation avec les parties prenantes et est aligne sur les objectifs de dveloppement contenus dans le PND et la feuille de route gouvernementale 2025, dune part, et les objectifs de lAccord de Paris, dautre part. En tant que Partie  l'Accord de Paris, le Togo s'est engag  fixer des objectifs ambitieux ncessaires pour oprer des changements et reste pleinement favorable  l'Accord de Paris et  toutes les responsabilits et actions qui y sont nonces.
+
+En soumettant cette CDN, le Togo, faible metteur de GES, soutient l'appel lanc  toutes les Parties  faire leurs soumissions, pour s'assurer que leurs CDN sont conformes  leurs contributions aux missions mondiales et  leurs responsabilits respectives au titre de la Convention et  prendre des mesures qui limiteront l'augmentation de la temprature mondiale  1,5  C ; bien en dessous des niveaux prindustriels.
+
+Les nouvelles contributions du Togo sont justes et ambitieuses, compte tenu des circonstances nationales, telles que les ODD et l'radication de la pauvret, la dmographie, la gographie, le climat, la dpendance  des stimulateurs externes. Elles vont bien au-del des engagements prsents dans la soumission initiale de la CDN du Togo, c'est--dire en termes de porte, d'ambition sectorielle, de cohrence entre adaptation et attnuation, de thmes horizontaux, y compris le genre, et notamment la transparence. Les dtails du rehaussement de lambition sont consigns dans le tableau 2.
+
+La pandmie COVID 19 reprsente un moment de bouleversements profonds, provoquant un ralentissement conomique en raison de la baisse des activits socioconomiques, et aggravant les vulnrabilits conomiques du pays aux changements climatiques. Cependant, Togo maintent toujours dans ses priorits la prise des mesures appropries pour sadapter et lutter contre les effets nfastes des changements climatiques.
+
+Tableau 2: Ambition dattnuation par rapport aux CDN actuelles d'missions de 2010) :
+
+Secteur de lnergie : 16,9 %.  Procds Industriels et Utilisations de Produits (PIUP) : 0,8 %.  Agriculture, Foresterie et autres Affectation des Terres (AFAT) : 28,40 %.
+
+2030 :
+
+Secteur des dchets : 28,10%.  Cible inconditionnelle totale : 20,51% conformment  lamendement de Kigali au Protocole de Montral.
+
+(PAM) dans les secteurs suivants :
+
+Agriculture, Foresterie et autres Affectation des terres (AFAT) suivants :
+
+Sources d'nergie renouvelables (SER)  10% de la consommation finale  Economies de consommation d'nergie primaire par rapport au scnario de rfrence  Polluants atmosphriques  courte dure de vie (SLCPs) :
+
+PM2.5 et PM10, les oxydes nitreux, les composs organiques volatils et le monoxide de carbone.
+
+L'attnuation des GES a intgr celle des polluants climatiques de courte dure de vie conformment au Plan national de rduction des polluants atmosphriques et des polluants climatiques  courte dure de vie. En consquence, la mise en uvre des CDN rvises du Togo devrait permettre d'obtenir des avantages substantiels en matire de rduction des polluants climatiques  courte dure de vie et des polluants atmosphriques, d'amlioration de la qualit de l'air et de sant publique. La mise en uvre complte de la CDN actualise devrait permettre en 2030 de rduire par rapport au scnario de rfrence :
+
+les missions d'oxyde d'azote de 51 %.
+
+En outre, les missions de HFC seraient rduites de 9 % en 2030 par rapport  un scnario de rfrence avec une forte rduction  partir de 2029 conformment au calendrier d'limination progressive des HFC prvu par l'amendement de Kigali. Les principales actions pour atteindre l'objectif d'attnuation des SLCPs tout en amliorant la qualit de l'air et en bnficiant  la sant humaine sont :
+
+augmenter le nombre de mnages qui cuisinent en utilisant des fourneaux  biomasse  efficacit amliore et des combustibles plus propres comme le GPL ou l'lectricit.
+
+augmenter l'efficacit des fours de production de charbon de bois ;  renouveler le parc automobile pour accrotre l'efficacit et la conformit aux normes d'mission plus strictes des vhicules ;
+
+promouvoir lutilisation de vhicules lectriques ;
+
+augmenter l'efficacit de la production animale pour minimiser les missions dues  la fermentation entrique et au fumier ;
+
+adopter des pratiques alternatives de mouillage et de schage pour la production de riz afin de rduire les missions de mthane ;
+
+promouvoir les meilleures pratiques de gestion des dcharges pour les dchets solides municipaux, y compris le captage du mthane ;  augmenter la collecte des dchets solides municipaux et rduction du brlage  l'air libre des dchets solides municipaux.
+
+Le tableau 3 ci-dessous prsente les informations ncessaires  la clart,  la transparence et  la comprhension telles que recommandes par lannexe I de la dcision 4/CMA1. Il permet de mesurer ltendue des informations fournies.
+
+Informations ncessaires  la clart,  la transparence et  la comprhension (ICTC) Directives de l'ICTC applicables  la CDN rvise du 1 Informations quantifiables sur le point de rfrence (y compris, le cas chant, une anne de rfrence):
+
+Anne de rfrence : 2018 (qui est lanne de rfrence de la 4e Communication Nationale et du 2e Rapport Biennal Indicateur de rfrence : inventaire national de gaz  effet de serre (IGES) de lanne de rfrence 2018 contenu dans le NIR et actualis.
+
+Les missions dsagrges en 2030 se prsentent comme suit :
+
+Secteur de lnergie : 13 169,18Gg CO2-eq.  Procds Industriel et Utilisations de Produits (PIUP) : 3 203,54 Gg CO2-eq.
+
+Agriculture, Foresterie et autres Affectation des Terres (AFAT) : 13 464,37Gg CO2-eq.
+
+Secteur des dchets : 573,33 Gg CO2-eq.
+
+Une valuation dtaille des options d'attnuation des GES identifies pour le Togo estime un potentiel total de rduction des missions d'environ 15 378,55 Gg CO2-eq en 2030 par rapport aux missions de rfrence de la mme anne estimes  30 410,42 Gg CO2-eq. Cette rduction est rpartie en contribution inconditionnelle et contribution conditionnelle.
+
+Contribution inconditionnelle : Une rduction de 20,51% par rapport  la rfrence en 2030 ; quivalent  un niveau d'attnuation estim  6 236,02 Gg CO2-eq. Il s'agit d'un objectif inconditionnel, bas sur des mesures et des politiques d'attnuation soutenues et mises en uvre au niveau national. En 2030, la rduction des missions de la cible inconditionnelle ventile par secteur par rapport au scnario de rfrence se prsente comme suit :
+
+Secteur de lnergie : 16,9 %.
+
+Procds Industriel et Utilisations de Produits (PIUP) : 0,8 %.
+
+Agriculture, Foresterie et autres Affectation des Terres (AFAT) : 28,40 %.
+
+Secteur des dchets : 28,10%.
+
+2030 ; quivalent  un niveau d'attnuation estim  9 305,59 Gg CO2-eq. Cela reprsente une contribution cible supplmentaire, base sur la fourniture d'un Les sources de donnes utilises pour quantifier les points de rfrence sont lanalyse des sries chronologiques de la Quatrime Communication Nationale (4CN) et Deuxime Rapport Biennal Actualis (2RBA), ainsi que des informations issues de consultations avec les diffrents ministres concerns et des consultations avec les parties prenantes. De plus, les informations contenues dans les stratgies ministrielles ainsi que les estimations des organisations internationales ont t utilises pour quantifier les points de rfrence. Le scnario de rfrence et les scnarios d'attnuation ont t labors pour tous les secteurs  l'aide du logiciel LEAP. Pour la foresterie et autres affectations des terres, les feuilles de calcul du GIEC 2006 ont t utilises et les rsultats imports dans LEAP.
+
+Dans les circonstances suivantes, le Togo peut mettre  jour ou modifier les valeurs des indicateurs de rfrence :  Dans le prochain inventaire des gaz  effet de serre, le Togo pourra mettre  jour les indicateurs de rfrence des secteurs existants et / ou fournir de nouvelles valeurs pour des secteurs qui n'taient pas couverts auparavant.
+
+Le niveau d'missions de GES pour le scnario de rfrence, les objectifs inconditionnels et conditionnels en 2030 peuvent tre mis  jour et recalculs en l'inventaire des GES, comme le recalcul de l'inventaire des GES avec les Lignes directrices 2006 du GIEC ou plantaire (PRG) en Rapports d'valuation du GIEC, ou informations sur les mises  jour effectues seront incluses dans les rapports biennaux sur la transparence (BTR).
+
+Le Togo fait partie de la catgorie des pays les moins avancs (PMA) ; par consquent, tout changement majeur de l'environnement conomique et social peut conduire  actualiser ou modifier les valeurs des indicateurs de rfrence.
+
+Certaines des actions font partie de la Feuille de route Dveloppement (PND) et font l'objet d'un soutien international (technique et financier); dont le retard ou l'absence de soutien pourrait avoir des consquences imprvues sur les circonstances nationales.  Le Togo est trs sujet aux catastrophes naturelles (inondation, scheresse, etc.), en cas de catastrophe naturelle majeure ou de situation pandmique similaire  COVID-19, le Togo peut mettre  jour / modifier le point de rfrence.
+
+2 Dlais et / ou dlais de mise en uvre:
+
+Objectif annuel 2030, y compris les mises  jour des objectifs 2025.
+
+Les interventions de la CDN seront mises en uvre par tapes conformment au plan de travail annuel ; cependant, l'anne cible choisie est 2030.
+
+3 Porte et couverture:
+
+Objectifs sectoriels fonds sur les activits et les politiques, y compris la rduction des missions dans certains secteurs.
+
+Le gouvernement du Togo atteindra les objectifs conditionnels si le soutien international en matire de financement, de transfert de technologie et / ou de renforcement des capacits lui est fourni de faon soutenue et  temps.
+
+Secteurs :
+
+Gaz :
+
+F-gaz: HFC-32, HFC-134a, HFC-125, HFC-143a.
+
+Protocole de Montral.
+
+Polluants atmosphriques  courtes dures de vie (SLCPs) :
+
+Matires particulaires PM2.5 et PM10.
+
+Conformment au paragraphe 31 c) de la dcision 1 / CP.21 le Togo sest engag  inclure dans ses CDN rvises toutes les catgories dmissions anthropiques. L'valuation dtaille effectue au cours du processus de formulation des CDN rvises a montr que les donnes ncessaires pour dfinir les objectifs et valuer rigoureusement l'impact des politiques et des actions sur les missions pour tous les secteurs n'taient pas disponibles. Le Togo tendra progressivement la porte de la couverture de ses CDN  toutes les catgories d'missions et d'absorptions anthropiques,  mesure que des donnes plus solides deviendront disponibles.
+
+(PNA). La mise en uvre des actions articules dans oprationnelles de la politique.
+
+Le Plan National dAdaptation (PNA) du Togo (2017- 2021), ainsi que les projets actuellement en cours de mise en uvre, incluent des co-bnfices d'attnuation. Les rductions qui en dcouleront contribueront  la ralisation de lobjectif dcrit au point 1 d) et ne doivent pas tre considres comme additionnelles.
+
+Les mesures d'attnuation au sein des projets d'adaptation seront notifies  travers le cadre de collecte de donnes et l'inventaire des GES et rapportes dans les secteurs respectifs.
+
+4 Processus de planification:
+
+Informations sur les processus de planification que la Partie a entrepris pour prparer a) sa contribution dtermine au niveau national et, le cas chant, sur les plans de mise en uvre de la Partie, y compris, le cas chant:
+
+Les dispositions relatives  la gouvernance et  la coordination au niveau sectoriel figurent dans chacun des plans d'action sectoriels des CDN.
+
+Un Comit National CDN a t mis en place temporairement pour la dure des projets de mise en uvre du programme des CDN. Ce comit na pas t fonctionnel du tout et mrite dtre rarrang et renforc.
+
+De nouveaux arrangements institutionnels nationaux bass sur un engagement pralable des parties prenantes publiques, prives, communauts locales et genre est en cours dlaboration.
+
+(ii) Questions contextuelles, y compris, entre autres, le cas chant:
+
+a.
+
+Dveloppement politique rcent du Togo. Il a t marqu par les lections prsidentielles de 2015 et 2020, des grandes marches de 2017, des lgislatives de dcembre 2018 suivi des rformes constitutionnelles et des lections municipales de juin 2019.
+
+Profil go-climatique. Le Togo est situ dans la zone intertropicale. Il jouit dun climat tropical guinen  4 saisons dans la partie mridionale et dun climat tropical soudanien  deux saisons dans la partie septentrionale. Les rgions Maritime et des Savanes sont celles qui reoivent moins de 1000 millimtres deau par an. Une irrgularit des saisons est observe ces dernires dcennies.
+
+Recensement Gnral de la Population et de lHabitat- rsultat dfinitif de novembre 2010 tablit la population rsidente du Togo  6 191 155 habitants avec un taux de croissance annuel moyen de 2,3 %. Au 1er janvier 2019 les projections situaient cet effectif  7 538 000 hbts. Il sera de 7 723 000 hbts au 1er janvier 2020. La densit moyenne est de 109 hbts/km en 2010. Elle varie selon les rgions et est plus dense dans la rgion Maritime et faible dans la rgion des Savanes. Au Togo 53,5% (2017) de la population vit sous le seuil de pauvret. Le taux de pauvret a diminu de 1,6 point entre 2015 et 2017.
+
+Contexte conomique et sectoriel. La ralisation des objectifs de la feuille de route gouvernementale Togo 2025 issue de la rvision du Plan national de dveloppement (PND 2018-2022) va toucher tous les secteurs aussi bien publics que privs de la vie conomique du Togo. Dans lensemble le contexte conomique national a t marqu par la poursuite des efforts pour maintenir la stabilit du cadre macroconomique et amliorer lenvironnement des affaires.
+
+LEtat contrle entirement le secteur de lnergie avec la participation de plusieurs ministres et autres institutions tatiques ou prives. Toute source confondue, la consommation finale dnergie slve   2145,29 ktep en 2018 contre 1973 ktep en 2016, soit une augmentation de 172,29 ktep (8,7%) en 3 ans. La consommation finale totale dnergie au Togo par an et par habitant est stable depuis 2000  0,27 tep/hbt. Lautoconsommation du bois-nergie (charbon de bois et bois de feu) est prpondrante et reprsente 76% de la production nationale contre 24% pour la commercialisation.
+
+Dans le domaine de lagriculture, la superficie cultive est value  1,4 million dhectares, soit 41% de la superficie cultivable et 25% de la superficie totale du pays. Lanalyse compare du PIB et du budget rvle quen 2012, la valeur gnre par lagriculture en prix constant reprsente 42,2% du PIB. Ce secteur fait vivre les 2/3 de la population active du Togo. La contribution de lagriculture au taux de croissance du PIB qui tait de 0,7% en 2018 passerait  1% en 2019.
+
+La couverture forestire au Togo est de 24,24 %. Le rle du secteur forestier dans le dveloppement conomique du pays est trs important. En effet, il contribue  la cration demplois,  la rduction du chmage,  la cration de richesses, etc. Mais malgr cette importance la valeur ajoute gnre est faible selon les statistiques. Sa contribution au PIB tait de  33 millions de $US ou 16,5 milliards de FCFA, soit 1,68 % du PIB en 2006. Il faut tout cosystmiques du secteur forestier ne sont pas pris en compte dans ces statistiques. En 2015, la valeur ajoute du secteur forestier atteignait 17,80 milliards FCFA pour le bois de feu et 71,19 milliards FCFA pour le charbon de bois, soit prs de 89 milliards FCFA pour le bois-nergie.
+
+Description des priorits de dveloppement du Togo et de leurs relations avec les changements climatiques. La vision du dveloppement du Togo aujourdhui est oriente par la feuille de route gouvernementale Togo 2025. Ce document prsente clairement la vision et les priorits de dveloppement du pays dclines en trois grands axes stratgiques  savoir : (i) renforcer linclusion et lharmonie sociale et garantir la paix ; (ii) dynamiser la cration demplois en sappuyant sur les forces de lconomie et (iii) moderniser le pays et renforcer ses structures. Au-del de la vision et des priorits nationales, chaque secteur de lconomie a ses propres priorits de dveloppement qui se greffent au cadre national. Ces priorits sont dfinies comme tant les politiques oprationnelles sectorielles. La question des changements climatiques, dans lensemble, est aujourdhui incluse dans les politiques de dveloppement national. Malgr les efforts consentis, force est de constater que le degr de prise en compte de la problmatique dans les politiques inities par le Gouvernement, est trs variable dune politique sectorielle  lautre, avec des niveaux dexcution de faon gnrale, faible.
+
+b.
+
+Les CDN rvises ont capitalis sur les capacits analytiques, pratique participative, exprience, outils et base de connaissances qui ont t crs avant mme les CDN initiales, maintenus et amliors dans le cadre de la 4CN et du 2BUR. La fixation des objectifs tait bien claire par un inventaire des GES solide et complet existant.
+
+En outre, les CDN rvises ont intgr le dveloppement durable dans ses P&M, quantifiant le lien entre le dveloppement durable et l'attnuation du changement climatique. Plus prcisment, en ce qui concerne les dimensions conomiques et environnementales. Enfin, les CDN rvises comprennent galement une dimension rgionale.
+
+c.
+
+Un engagement  rduire les niveaux d'missions de GES  l'chelle nationale exigera des technologies, une expertise et un financement plus propres.
+
+Technologie: Le besoin de nouvelles innovations est ancr dans le besoin d'tre plus efficace et de produire  partir de technologies plus propres. La disponibilit et le transfert de technologies qui sont respectueuses de l'environnement et qui soutiennent un dveloppement sobre en carbone et rsilient au climat sont primordiaux. En tant que PMA, ces opportunits ne sont souvent pas facilement accessibles et l'esprit de l'Accord de Paris contribuerait donc  favoriser la coopration Nord-Sud et Sud-Sud.
+
+Expertise: L'intgration et la transformation de nouvelles ides et technologies dans l'conomie, la socit et l'environnement ncessiteront un certain renforcement des capacits pour leur applicabilit et diffusion appropries. Financement: Le transfert de technologie et le renforcement des capacits ne peuvent avoir lieu sans ressources financires suffisantes mises  disposition pour entreprendre la transition. En tant que pays pauvre trs endett (PPTE) et trs vulnrable  limpact du changement climatique, il est important de trouver le juste quilibre pour renforcer la rsilience du pays et mettre en uvre les mesures dadaptation et dattnuation ncessaires, tout en rpondant aux besoins quotidiens du pays. Les mesures ncessaires pour effectuer la transition sont coteuses.
+
+Le Togo a particip au dialogue Talanoa en 2018, qui a gnr une dynamique politique pour une action climatique renforce, notamment en appelant les Parties  mettre  jour leurs CDN. En outre, le pays a rejoint la Coalition Haute Ambition de pays dtermins  concrtiser leur ambition climatique d'ici 2020. La prparation des CDN rvises tait conforme aux recommandations de l'Appel  l'Action de Talanoa et de la Coalition Haute Ambition, en tenant compte des circonstances nationales.
+
+Chaque Partie ayant une contribution dtermine au niveau national au titre de l'article 4 de l'Accord de Paris qui consiste en des mesures d'adaptation et / ou des plans de diversification conomique aboutissant  des avantages connexes d'attnuation conformment  l'article 4, paragraphe 7, de l'Accord de Paris  soumettre des informations sur:
+
+Les consultations nationales et rgionales des parties prenantes ont permis de prendre en compte les impacts sociaux, conomiques et environnementaux des mesures d'attnuation nationales en intgrant les donnes collectes dans les outils dvaluation lors de l'laboration des CDN rvises.
+
+Secteur ENERGIE : - Promotion de la production de llectricit  base des Extension du rseau et dploiement de systmes dcentraliss pour atteindre 100% dlectrification, soutenue par la mise en place du Fond Electricit pour Tous ;
+
+- Augmentation de la capacit de production, de transport et de distribution dlectricit Dveloppement de capacits de production durables et fiables, notamment dans le solaire et lhydrolectrique, et renforcement correspondant du rseau de transport et de distribution (en synergie avec lextension du rseau internet) ;
+
+- Extension du rseau routier rural  Construction de 4000 km de voies rurales ciblant les zones agricoles  fort potentiel d'exportation afin de connecter les agriculteurs au march ;
+
+- Valorisation de la filire de traitement et de recyclage des gaz fluors Secteur AFAT - Dveloppement intgr du secteur agricole  travers la mise en place dune stratgie efficace de gestion durable des terres cultives ;
+
+- Organisation des chanes de valeurs : Organiser les filires pour toutes les cultures principales jusqu la chaine de transformation et de commercialisation des produits et sous-produits agricoles;
+
+- la modernisation du sous-secteur de llevage  travers laugmentation de la productivit des levages au-del de la croissance et du dveloppement naturel transformation des produits dlevage, lamlioration bovins, lintroduction des gniteurs amliorateurs dans le systme traditionnel, lintensification de lembouche commercialisation des produits dlevage, etc ; - Appui au reboisement  vocation de fourrage avec lintroduction darbres fourragers dans les exploitations agricoles dans une optique de production soutenue de fourrages de qualit ;
+
+- Restauration des paysages forestiers existants  travers la promotion de la restauration des forts naturelles, des cosystmes fragiles et la conservation de la biodiversit, en privilgiant lappui aux projets en protges, forts communautaires ou villageoises, sites sacrs), en limitant la fragmentation des massifs forestiers et en maintenant la connexion des habitats naturels ;
+
+- Amlioration de la gestion durable des terres pour le renforcement des puits de carbone et le pigeage du carbone au travers des plans de dveloppement de territoire ou des ples dexcellence rurale ; - Dveloppement de la foresterie urbaine  travers la mise en place des plantations urbaines, la promotion et la cration des espaces verts ;
+
+- Promotion de la transformation des produits forestiers et des sous-produits non-ligneux et promotion de produits forestiers transforms ;
+
+Secteur des dchets : - Projet eau et assainissement du Togo (PEAT1&2) :
+
+Hypothses et approches mthodologiques, y compris celles permettant d'estimer et de comptabiliser les missions anthropiques de gaz  effet de serre et, le cas chant, les absorptions:
+
+Le Togo a comptabilis ses missions et absorptions anthropiques de GES en utilisant les Lignes directrices 2006 du Groupe d'experts intergouvernemental sur l'volution du climat (GIEC) pour les inventaires nationaux de gaz  effet de serre, le logiciel 2006 du GIEC et le Supplment de 2013 aux Lignes directrices 2006 du GIEC pour les inventaires nationaux de gaz  effet de serre pour les zones humides.
+
+Le Togo sest aussi appuy sur les :
+
+La quantification du niveau d'missions de GES dans le scnario dattnuation  lhorizon 2030, est base sur les hypothses suivantes :
+
+Dans la catgorie des transports, lamlioration et lextension des infrastructures routires (en cours et prvue dans la Feuille de Route Gouvernementale 2025) et la promotion des transports en commun  faible mission permettra de rduire lintensit nergtique finale de 10% pour les motos et de 20% pour les voitures et les camions ;
+
+Dans la phase 1 du projet Plan de Gestion de lElimination des HCFC (PGEH), 26% des techniciens du froid taient forms ; ainsi selon les axes dorientation de la deuxime phase de ce projet qui sont similaires aux axes de la phase 1 ; 79% des techniciens du froid seront forms dici 2030 ;
+
+Dans la phase 1 du projet Plan de Gestion de lElimination des HCFC (PGEH) ;3 structures possdant de grandes installations de froid ont bnfici de 70 climatiseurs split fonctionnant  base du R-290 qui est un gaz-F alternatifs ayant un potentiel de rchauffement global faible ;sur cette base la phase 2 qui aura les mmes orientations que celles de la phase 1 permettra de diminuer limportation des HFCs de 5% /an  travers la composante : Distribution des Gaz-F alternatifs aux structures possdant de grandes installations de froid ;
+
+Au Togo ; des quipements de froids fixes hors usages et en fin de cycle de vie contiennent 55% des gaz-F et sont cds  des socits de ferrailles sans traitement ; la mise en place dune filire de recyclage dune capacit de traitement de 5 tonnes de gaz-F par an permettra den rcuprer 50%/an ;
+
+La construction dau moins 100 btiments cologiques utilisant moins de climatiseurs  lhorizon 2030 rduira dau moins de 2% le taux dimportation des gaz-F.
+
+La poursuite des efforts du gouvernement togolais en matire de reboisement permettrait de porter le taux de couverture forestire de 24,24%  30% soit un une augmentation denviron 5 % de la superficie forestire et des terres reboises  lhorizon 2030 ;
+
+La mise en uvre des actions de lutte contre les feux cosystmes forestiers contribuera  la rduction de 5% des superficies des formations vgtales brles ;  Les efforts de protection des formations forestires et le respect des affectations des terres contribueront  la rduction de la dforestation et  la limitation de la conversion des terres forestires en terres agricoles ou en dautres formes dutilisations des terres ;
+
+La promotion des sources alternatives dnergie domestiques et la vulgarisation des foyers amliors permettra la rduction de lutilisation du bois nergie et les missions de CO2 et autres GES lies  cette forme dnergie ;
+
+Dans le sous-secteur de lagriculture, de nombreuses initiatives sont entreprises ces dernires annes et visent la promotion de la transformation de 5 % de fumier et des rsidus agricoles en composte (engrais organique) et/ou en biogaz occasionnant ainsi la rduction de 3 % de lutilisation des engrais chimiques et lintensification de lutilisation de lengrais organique ; stratgiques dans le secteur de la production des produits craliers contribuera  la rduction de 3% de la superficie des rizires irrigues pour la promotion de la riziculture pluviale ;
+
+Valoriser dici 2030, 12% des dchets solides urbains principales villes par an ;
+
+Valoriser dici 2030, 80% de biogaz produit par le centre denfouissement de Lom, par an en nergie lectrique pour les besoins du site ;
+
+Rduire de 80% la quantit des dchets destins au brlage grce  lamlioration de la collecte des dchets et la cration de nouveaux CET dans les villes secondaires ;
+
+Lapproche mthodologique utilise est celle du LEAP-IBC.
+
+Conformment aux paragraphes 13 et 14 de larticle 4 de lAccord de Paris, le Togo a procd  un QA/QC des donnes dentre pour sassurer quil ny ait ni omission, ni double comptage.
+
+Les lignes directrices 2006 du GIEC, les guides de bonnes pratiques et la banque de donnes du GIEC ont t utilises pour lestimation des missions et des absorptions e) Hypothses, mthodologies et approches propres au secteur,  la catgorie ou  l'activit, conformment aux orientations du GIEC, le cas chant :
+
+GIEC prescrites.
+
+Les missions et absorptions de GES des produits ligneux conformment aux lignes directrices 2006 du GIEC prescrites.
+
+Autres hypothses et approches mthodologiques utilises pour comprendre la contribution dtermine au niveau national et, le cas chant, estimer les missions et absorptions correspondantes, notamment :
+
+Pour quantifier le niveau d'missions de GES dans le scnario de rfrence projet en 2030, les hypothses suivantes ont t faites pour les moteurs de croissance des missions :
+
+Le gouvernement ne prendra pas dautres mesures de lutte contre les missions de GES dans les secteurs socioconomiques de dveloppement autres que celles dj en cours ;
+
+Les facteurs comportementaux sont considrs comme tant constants durant toute la priode de projection ;
+
+Lapproche mthodologique utilise pour les polluants climatiques  courte dure de vie (carbone noir, PM2,5 et PM10) est celle du LEAP-IBC.
+
+Le Togo reconnat le rle important de la coopration internationale base sur le march pour contribuer  l'attnuation des missions de GES et  la promotion du dveloppement durable. Le Togo continuera d'explorer le potentiel de la coopration bilatrale, multilatrale et rgionale axe sur le march, y compris dans le contexte de l'article 6 de l'AP, qui peut faciliter, acclrer et amliorer le dveloppement et le transfert de technologies, le renforcement des capacits et l'accs aux ressources financires qui soutiennent la transition durable du Togo vers une croissance  faibles missions et rsiliente au changement climatique.
+
+6 Comment la Partie considre que sa contribution dtermine au niveau national est juste et ambitieuse  la lumire de sa situation nationale:
+
+Suite  l'appel  l'action de Talanoa, lanc par les prsidents de la COP 23 et de la COP 24, le Togo a rendu sa CDN rvise (2021) plus ambitieux que la CDN (2015) (i) en articulant les objectifs de rduction des missions de GES de 2030 par rapport au niveau de 2010.
+
+Les engagements nationaux sont bien en ligne avec les trajectoires d'missions  l'horizon 2050 qui correspondent  l'objectif  long terme de l'Accord de Paris. Il est en outre important de noter que la nature volutive de la situation dun pays doit se reflter dans lexamen de lquit au moyen des indicateurs suivants :
+
+Responsabilit reflte dans les missions de GES passes et actuelles.
+
+Capacit  investir dans des mesures d'attnuation Il convient de noter que les considrations dquit dans la perspective nationale englobent diverses questions et quaucun indicateur distinct ne peut  lui seul reflter avec prcision lquit ou une rpartition quitable des efforts des pays  lchelle mondiale.
+
+2015.
+
+La contribution globale (inconditionnelle et conditionnelle combine) des CDN rvises (2021) est une rduction de 50,57% des missions de GES par rapport au scnario de rfrence en 2030 contre 31,14 pour les CDN actuelles (2015).
+
+Une autre question qui prouve le renforcement des ambitions du pays concerne l'application d'un objectif absolu de rduction des missions  l'chelle de l'conomie (conformment  l'article 4, paragraphe 4 de l'Accord de Paris), qui garantit la ralisation des objectifs de manire pertinente, complte, cohrente, transparente et prcise.
+
+7 Comment la contribution dtermine au niveau national contribue  la ralisation de l'objectif de la Convention tel qu'nonc  son article 2:
+
+Les engagements nationaux sont bien en ligne avec les trajectoires d'missions  l'horizon 2050 qui correspondent  l'objectif  long terme de l'Accord de Paris, contribuant ainsi  la stabilisation des concentrations de GES dans l'atmosphre  un niveau qui empcherait les interfrences anthropiques dangereuses avec le systme climatique, et l'article 2 de la Convention.
+
+La contribution du Togo par ses CDN est conforme aux ambitions mondiales de limiter la temprature  2C et compatible aux avec les objectifs de dveloppement durable 4.1. CONTEXTE NATIONAL DE LADAPTATION AUX CHANGEMENTS CLIMATIQUES Lconomie du Togo est domine par les activits agricoles (prs de 40 % du PIB) fortement dpendantes des conditions climatiques. Les autres secteurs de dveloppement tels que lnergie, les ressources en eau, la zone ctire, les tablissements humains et sant, la foresterie et autres affectations des terres restent galement trs vulnrables.
+
+Cest dans ce sens que le Togo sest engag dans les CDN initiales  contribuer  la lutte contre les changements climatiques, renforcer la rsilience des systmes et moyens de production conformment  son Plan daction national dadaptation aux changements climatiques (PANA) labor en 2008. En 2016, le pays sest dot dun Plan national dadaptation aux changements climatiques (PNACC) qui confirme son engagement au renforcement de la capacit dadaptation des populations face aux effets nfastes des changements climatiques.
+
+4.1.2. Dispositifs institutionnel, juridique et politique En matire dengagements internationaux relatifs  lenvironnement et  ladaptation aux changements climatiques, le Togo a ratifi les trois conventions de la gnration de Rio : (i) la Convention cadre des Nations Unies sur les changements climatiques (CCNUCC) (08 mars 1995); (ii) la Convention sur la diversit biologique (CDB) (04 octobre 1995) ; et (iii) la Convention sur la lutte contre la dsertification (CCD) (15 septembre 1995). Au niveau national, ladaptation sinscrit dans la politique nationale de lenvironnement, la dclaration de politique forestire, la stratgie nationale de dveloppement durable, la loi-cadre sur lenvironnement et des lois portant sur les codes forestiers, de leau, de la sant, des hydrocarbures, de la marine marchande.
+
+Au plan institutionnel, plusieurs acteurs interviennent pour renforcer ladaptation aux changements climatiques au Togo. Les principaux acteurs de ce dispositif sont : (i) le Ministre de lenvironnement et des ressources forestires avec tous ses dmembrements, (ii) la Commission nationale du dveloppement durable compose des reprsentants des institutions publiques et prives, des collectivits territoriales, des ONG et autres personnes morales, (iii) le Comit national sur les changements climatiques qui est un cadre dinformation, de concertation et de suivi de la mise en uvre de la politique nationale sur les changements climatiques, (iv) le Comit interministriel de suivi de la mise en uvre des CDN et (v) lquipe pluridisciplinaire sur les changements climatiques. Ces acteurs travaillent de concert avec dautres parties prenantes telles que les universits publiques et prives du Togo et les grandes institutions de la rpublique (Prsidence de la rpublique, la primature, lAssemble nationale etc.).
+
+4.2. ANALYSE DES IMPACTS, RISQUES ET DE LA VULNERABILITES DES SECTEURS PRIORITAIRES Depuis 2014, les scnarios dvelopps montrent que les changements climatiques sont une relle proccupation pour le Togo et que les tendances actuelles et futures vont entrainer des consquences dommageables en labsence de mesures idoines. Avec une conomie essentiellement tourne vers lagriculture, les alas climatiques rendent vulnrables la population togolaise dans son ensemble.
+
+La variabilit climatique au Togo entraine, linscurit alimentaire et nutritionnelle, la dgradation des ressources forestires, laccs difficile  lnergie, aux ressources en eau et aux soins de sant de qualit. En effet Le Togo est confront  une variabilit climatique spatio-temporelle trs accentue. Les tempratures connaissent en 2020, une augmentation maximale de 1,2C soit une hausse de 20% par rapport  2012. Les prcipitations quant  elles sont en diminution avec des amplitudes allant de 15 mm  98 mm de pluie. Ceci, entraine des risques climatiques qui influencent tous les secteurs de dveloppement et se manifestent par les inondations, la scheresse, les fortes chaleurs, le dcalage des saisons, les vents violents, la mauvaise rpartition des pluies, lrosion des terres et lrosion ctire.
+
+Les projections futures de la variabilit climatique sur la base des mthodes rigoureuses du GIEC se prsenteront comme suit pour le Togo. Si le pays reste dans la stabilisation des missions (RCP6.0) par rapport  2020, les tempratures vont augmenter avec une amplitude de 0,6C  0,7C en 2025 et de 2,15C  2,75C en 2100. Les prcipitations auront des carts de -0,08 %  + 0,35 % (2025) et de -0,3 %  +1,26 % (2100).
+
+Par contre, si le pays se lance dans le processus de baisse des missions des gaz  effet de serre (RCP4.5), les tempratures vont augmenter de 0,66  0,84C (2025) et de 1,53  1,96C (2100). Les prcipitations varieront de -0,09 %  +0,39 % (2025) et de -0,21 %  +0,89 % (2100).
+
+Le bois nergie reprsente 80 % de lnergie utilise par les mnages et 90% de la population locale ont recours  cette source dnergie au Togo. Le potentiel du bois- nergie actuel permettra de satisfaire uniquement 28% et 12% de la demande nationale respectivement  lhorizon 2025 et 2050. Sur la base des analyses multicritres, le secteur bois nergie prsente un indice de vulnrabilit moyen et estim  0,58  lchelle nationale. Au niveau rgional, les deux rgions septentrionales du pays (Savanes et Kara) sont confrontes  un niveau de vulnrabilit lev avec un indice compris entre 0,6 et 0,8.
+
+Les impacts lis  cette vulnrabilit sur ce secteur sont essentiellement la faible croissance et production de la biomasse  vocation bois-nergie, la rarfaction des essences  vocation bois-nergie et la destruction des cosystmes protgs et loigns des habitations constituant des refuges pour la plupart des espces menaces.
+
+La vulnrabilit du secteur bois nergie va saggraver dans le futur. En effet, dans le cas dune stabilisation (RCP6.0), lindice de vulnrabilit de ce sous-secteur tombera dans la classe leve  partir de 2075 pour tout le pays. Si des dispositions idoines ne sont pas prises, on assistera  des rpercussions socioconomiques telles que la hausse du prix du bois de chauffe et du charbon de bois, laugmentation de lindice de pauvret en milieu rural etc.
+
+Au Togo, la production dnergie hydrolectrique est exclusivement assure par les barrages de Kpim et de Nangbeto qui sont aliments par de grands cours deau. La vulnrabilit actuelle de ce secteur est moyenne avec un indice de 0,51. Dans le futur, sa vulnrabilit passera dans la classe leve  partir de 2075 si rien nest fait. Ceci va accentuer les impacts actuels des changements climatiques qui se traduisent par la diminution de la lame deau des barrages hydrolectriques, la destruction douvrages dhydrolectricit, la faible capacit de fourniture de lnergie aux entreprises et industries.
+
+Si les mesures de gestion intgre des ressources en eau (GIRE) prvues dans les documents de planification du secteur, de mme que la politique de dveloppement des nergies renouvelables sont mises en uvre, lindice de vulnrabilit sera considrablement rduit dici 2025 (0,48) et 2050 (0,35).
+
+Le Togo ntant pas producteur des hydrocarbures, la vulnrabilit de ce secteur face au changement climatique nest pas directe. Elle est lie  celle du secteur de bois-nergie et de lhydrolectricit. Ainsi, la diminution de loffre nergtique en biomasse et hydrolectricit va accentuer la consommation en hydrocarbures. Le Togo important les produits ptroliers dont il a besoin, le secteur des hydrocarbures reste trs sensible aux fluctuations des prix du ptrole. En termes dimpacts, on assiste  la hausse des dpenses due  une augmentation de la consommation en hydrocarbures avec des rpercussions ngatives sur le secteur du transport.
+
+4.2.2. Secteur de lAgriculture, foresterie et autres affectations des terres (AFAT) Au Togo, le secteur AFAT est le plus expos aux effets des changements climatiques. A lchelle nationale, il est prvu une tendance  la baisse des prcipitations couple  une hausse des tempratures. On sattend ainsi  des effets probables sur la biodiversit, lhabitat des espces, les services cosystmiques et la production agricole au Togo. Ces effets sont pour la plupart lis  la scheresse, aux inondations et  lapparition des parasites.
+
+4.2.2.1. Sous secteur de la foresterie et autres affectations des terres (FAT) La vulnrabilit rsultante du sous-secteur foresterie et autres affectations des terres vaut 0,59 pour le pays en gnral, ce qui quivaut  un niveau de vulnrabilit  moyen . Cependant, elle est  leve  pour les rgions Centrale, Kara et Savanes, et  moyenne  pour les rgions des Plateaux et Maritime. Cette vulnrabilit sur le secteur de la FAT se traduit dans toutes les rgions du pays par :
+
+Laugmentation de la mortalit naturelle des ligneux dans les cosystmes naturels du Togo. Les fortes tempratures et la scheresse augmentent lintensit des incendies qui sont responsables de la plupart des mortalits des ligneux dans les espaces forestiers. Le taux de mortalit naturelle est de 8,60%, 5,41% et 5,42% respectivement pour les rgions des Savanes, Kara et centrale.
+
+La dgradation de ltat sanitaire des peuplements ligneux. Dans les cosystmes naturels du Togo en moyenne 20 pieds  lhectare sont attaqus par les parasites. Daprs les investigations de terrain, les fortes chaleurs enregistres ces dernires annes expliqueraient la rcurrence des attaques des ligneux par les ravageurs et les plantes parasites.
+
+Les chablis. Lestimation des dgts ports par les vents violents aux massifs forestiers est estime  9 pied/ha dans les cosystmes naturels.
+
+Faible capacit de rgnration. Avec les changements climatiques, les feux de vgtations sont plus violents la rgnration est supprime ou retarde. Dans les paysages forestiers des aires protges moins de 30% de la rgnration potentielle installe arrive  survivre aux incendies qui deviennent de plus en plus violents avec les CC.
+
+Affectation des terres. Lasschement du climat, laugmentation des tempratures et de lvapotranspiration intensifie le lessivage et la lattrisation des sols tandis que de fortes pluies accroissent lrosion des sols surtout dans les milieux accidents. Ceci entrane une aggravation de la dgradation des terres. Par ailleurs, lagriculture extensive sur brlis entrane la rduction de la couverture forestire.
+
+Trs expos, aux changements climatiques, le secteur de la FAT subit des impacts tels que la perte du couvert forestier, la perte de la biodiversit et des cosystmes protgs, la disparition de certaines essences forestires et la faible productivit des mangroves.
+
+Dans le futur, on notera laggravation de la vulnrabilit de ce sous-secteur au niveau national  lhorizon 2050 avec un indice de 0,63 correspondant  une vulnrabilit leve. Cette situation sera observe dans toutes les rgions sauf dans celle des plateaux qui restera dans la classe moyenne. Dans ce contexte, en dehors de la chaine de lAtakora, tous les cosystmes forestiers du Togo seront trs exposs  la baisse des prcipitations et  une augmentation des tempratures avec une aggravation des impacts lis aux alas climatiques.
+
+4.2.2.2. Sous-secteur de lagriculture, levage et pche Les majeures perturbations de lagriculture, llevage et la pche dans toutes les rgions conomiques du Togo, sont les alas climatiques. Il sagit de la modification de la saison, la pluviomtrie irrgulire avec les poches de scheresse, laugmentation de la temprature, les inondations et les attaques des ravageurs. Ces alas rendent trs vulnrable ce sous-secteur avec la rpercussion sur la scurit alimentaire (les pertes de rcoltes).
+
+Vulnrabilit et impacts du sous-secteur de lagriculture La vulnrabilit rsultante du secteur de la production vgtale est globalement leve pour lensemble du payset particulirement dans la rgion des savanes. Les impacts de cette vulnrabilit se traduisent par des baisses de rendements values ces dix dernires annes entre 30% et 51% pour les principales cultures vivrires. En effet, les poches de scheresse constates ont caus des pertes de rendements de 1,3t/ha, 1,0t/ha et 0,7t/ha respectivement pour le mas, le riz et ligname. Les ravageurs, notamment la chenille lgionnaire dautomne ont entrain des pertes allant de 0,5  0,95 t/ha pour le mas. En 2020, la superficie totale des cultures vivrires inondes est de 6902 ha avec des pertes en production estimes  prs de 9000 t.
+
+Actuellement valu  0,70, lindice de vulnrabilit national du sous-secteur agriculture restera lev avec une lgre augmentation pour atteindre la valeur de 0,75  lhorizon 2050. Ceci va accentuer les impacts sur le secteur de lagriculture avec la perturbation du calendrier agricole, la dvastation des cultures par les ravageurs (chenilles lgionnaires, mouches blanches des criquets plerins), lapparition de nouvelles espces envahissantes, la disparition de certains cultivars, la baisse des rendements agricoles, lrosion des surfaces cultivables etc.
+
+Vulnrabilit et impacts du sous-secteur de llevage Dans toutes les rgions du Togo, llevage de volailles est une activit largement rpandue en milieu rural. Ce type dlevage familial qui occupe les femmes est moins exigeant en eau. Cependant, llevage des petits ruminants et du gros btail, largement pratiqu dans les rgions des savanes et des plateaux par les leveurs sdentaires et les transhumants est exigeant vis--vis de la disponibilit en ressources naturelles notamment leau. Avec la tendance  la scheresse prolonge ces dernires dcennies, on constate la rcurrence des conflits entre leveurs et agriculteurs ce qui accentue la vulnrabilit dans le sous-secteur de llevage.
+
+Dans la rgion des savanes, on assiste  une dcimation du btail lie aux manques deau et du fourrage. Par ailleurs, la prolifration des pizooties telles que le charbon bactridien, la peste porcine africaine, la grippe aviaire dans les rgions serait lie aux fortes tempratures qui se font de plus en plus sentir. Cette situation affecte la production animale nationale qui couvre moins de 50 % des besoins de la population.
+
+Vulnrabilit et impacts du sous-secteur de la pche La pche se concentre sur le littoral, le complexe lagunaire du sud Togo, le bassin de Nangbto, et le long des cours deau Mono et Oti. Avec la scheresse, et la forte temprature le secteur de la pche devient plus vulnrable. Ainsi, le taux de couverture en produits halieutiques est pass de 35% en 2015  29% en 2017. Les fortes tempratures, les inondations et ltiage prcoce des cours deau rendent sensibles les zones de frayres diminuant ainsi la disponibilit des poissons. Tout comme pour llevage, la vulnrabilit future du sous-secteur de pche peut connaitre une augmentation avec une accentuation des impacts notamment, la diminution des captures, lenvasement des cours deau et la disparition de certaines espces piscicoles. Ces impacts affecteront galement les efforts du gouvernment en matire de dveloppement de laquaculture avec la rarfaction des alevins.
+
+Les fortes tempratures, lirrgularit et la modification de la distribution des prcipitations se refltent par une diminution des stocks deau au niveau des nappes souterraines et des eaux de surfaces. Cette situation rend trs vulnrable le secteur de leau au niveau national surtout dans la rgion des savanes. Sur la base de lindice standardis de prcipitation (SPI), les annes comprises entre 1961 et 2018 sont domines par la scheresse modre voire svre dans les rgions de la Kara et Maritime. Actuellement, les impacts associs aux changements climatiques dans le secteur de leau sont le tarissement prcoce des puits et des cours deau, lensablement des cours deau, lintrusion saline dans le continental terminal et la pollution de leau.
+
+Les simulations indiquent quen cas de stabilisation (RCP6), les deux grands bassins fluviaux (Oti et Mono) et le complexe lagunaire du Togo seront diversement affects  lhorizon 2030. En effet, les stocks deau (surface et souterrains) augmenteront de 7  28 millions de mtre cube dans le bassin du Mono. Cependant, ils diminueront de 60  500 millions et de 120  750 millions de mtre cube respectivement dans le bassin de lOti et du Lac Togo.
+
+Si les mesures ne sont pas prises, les problmes de disponibilit et daccessibilit deau potable pour la population saccentueront et le gouvernement aura des difficults  assurer laccs facile, universel et quitable  leau potable (Cible 1 de lODD6) et  amliorer sa qualit en rduisant la pollution (Cible 3 de lODD6). Les impacts saggraveront avec linsuffisance deau potable dans les mnages et le risque de conflits autours des sources dapprovisionnement en eau. 4.2.4. Secteur des tablissements humains et sant Les tablissements humains deviennent de plus en plus vulnrables au Togo. En 2020 et 2021, le dbordement des cours deau dans le bassin de lOti et du Mono ont caus dnormes dgts matriels avec des pertes en vies humaines. On assiste  la fragilisation et leffondrement des installations et infrastructures humaines (routes, marchs, centres de sant, habitations, coles, lectricit et tlcommunications etc) qui saccentueront dans le futur.
+
+Au niveau de la sant, les fortes chaleurs et linondation entrainent lclosion et la prolifration des germes de certaines maladies telles que le paludisme, la mningite, la fivre typhode, le cholra et les affections respiratoires qui jadis taient localiss et contrls. Jusquici, les rgions septentrionales (Savanes et Kara) sont les plus vulnrables. Cependant, la simulation montre que dans le futur, le risque de ses maladies pourrait stendre vers le sud avec une aggravation dans les rgions septentrionales. Le taux de mortalit serait en augmentation et la vulnrabilit des personnes ges, des femmes enceintes, des personnes handicapes, des personnes vivant avec le VIHSIDA et des enfants deviendra de plus en plus forte.
+
+Le phnomne drosion de la cte togolaise qui a fait lobjet dobservations scientifiques depuis 1964 se traduit au fil des ans par une modification du trait de cte. Les temptes et cycles naturels dondulations lis aux modifications climatiques aggravent lavance de la mer vers les installations humaines sur la terre ferme matrialise par le recul de la plage de 10 m en moyenne par an. Cette rosion menace 42 % de la population nationale, des units industrielles, des activits conomiques et portuaires, des vestiges touristiques, des villages de pche. Dans le futur, tous les scnarios climatiques indiquent une amplification de ce phnomne car lamplitude dlvation du niveau de la mer va passer de 11,35 cm en 2025  62 cm en 2100. Cette situation aggravera les impacts actuels que sont la disparition complte de certains des villages littoraux, la perte considrable des terres et dcosystmes du littoral, la destruction des infrastructures balnaires (routes, maisons, htels etc.), la perturbation des activits conomiques et les destructions des zones de frayres.
+
+4.3. PRIORITES, OBJECTIFS ET MESURES DADAPTATION Le schma suivant reprsente la carte stratgique qui va permettre de renforcer les capacits dadaptation des populations dans tous les secteurs prioritaires dclines ici en axes. Les objectifs dfinis dcoulent des priorits nationales traduites dans le PNACC et des autres outils de planifications nationales et sectorielles (Figure 5). La mise en uvre des activits pour atteindre ces objectifs repose sur la valorisation des principes dquit, genre, coopration, recherche et transparence.
+
+Figure 5: Carte strategique de ladaptation au Togo 4.3.2. Mesures dadaptation/Co bnfices pour lattnuation Pour renforcer les capacits de rsilience des populations, des mesures dadaptation y compris celles qui se traduisent par des retombes bnfiques dans le domaine de lattnuation sont identifies dans les secteurs prioritaires (Tableau 4). Les diffrentes mesures identifies au Togo intgrent les solutions bases sur la nature qui peuvent contribuer  lattnuation tout en renforant ladaptation au changement climatique. Ces co-bnfices se traduisent par laugmentation du potentiel de squestration du carbone, les capacits des cultures  faire face aux stress hydriques et aux attaques des ravageurs, la rduction des risques lie aux inondations et la prolifration des agents pathognes.
+
+Ces mesures identifies rpondent  un certain nombre de besoins qui persistent en matire de renforcement de la capacit de rsilience des communauts face aux effets des changements climatiques malgr les efforts entrepris par lEtat (Tableau 4).
+
+Par ailleurs des mesures identifies contribueront  la mise en uvre des cadres visant  renforcer ladaptation au niveau national et international.
+
+Au niveau national, les diffrentes mesures dadaptation, contribueront essentiellement  loprationnalisation du Plan national de dveloppement. Elles sinscrivent galement dans la dynamique de la feuille de route 2025 du Gouvernement et contribueront prioritairement au projet 35 (rponse aux principaux risques climatiques) et au projet 36 (programme de mobilit verte). Elles ciblent galement dans cette feuille de route les projets 2 et 3 (mise en place du registre de la politique dlectrification pour tous), le projet 6 (augmentation de laccs  leau potable et  lassainissement), les projets 12, 13, 14 et 15 (amlioration des rendements agricoles, extension du rseau routier rural, acclration du MIFA, agrandissement de lagropole de Kara en partenariat avec le priv).
+
+Au plan international, les mesures dadaptation identifies veulent contribuer  latteinte des Objectifs de dveloppement durable (ODD) notamment lODD2 qui vise  assurer la scurit alimentaire et nutritionnelle ; lODD3 relatif  la bonne sant et au bien-tre ; lODD5 qui veut assurer lautonomisation de toutes les femmes ; lODD8 qui veut garantir la croissance conomique  travers un travail dcent et lODD15 qui vise  prserver et restaurer les cosystmes terrestres.
+
+Tableau 4:Mesures dadaptation prioritaires par secteur Axe 1 :
+
+Axe 2 :
+
+Axe 4 :
+
+4.4. ETAT DE MISE EN UVRE DES MESURES DADAPTATION Depuis les CDN initiales, le Togo a fait des efforts dans la mise en uvre des actions dadaptation  travers des projets et programmes de dveloppement tenant compte du genre et linclusion.
+
+Dans les CDN initiales du Togo les questions lies aux cadres juridique et institutionnel ainsi quau genre ntaient pas abordes explicitement. Cependant, les progrs accomplis dans la mise en uvre de ladaptation ont pris en compte ces aspects. Le tableau suivant prsente une synthse des principaux efforts en matire dadaptation au Togo (Tableau 5).
+
+Secteurs Mesures dans les CDN initiales Progrs accomplis  Mise en place de quatre mini-centrales solaires photovoltaques dune puissance totale de 600 KW oprationnelles ;
+
+Electrification solaire de 314 centres de sant et quipement de 122 centres de sant en chauffe-eaux solaires ;
+
+Formation de 1 500 charbonniers sur la meule casamanaise et dotation des coopratives en matriels de la meule casamanaise  Mise en place de plus 200 ha de reboisement  vocation bois-nergies  100 coopratives formes sur lentrepreneuriat forestier bois-nergie et sur la gestion  Promotion et Diffusion denviron 20 000 fours et foyers amliors  bois au profit des  15 000 foyers amliors et 25 000 kits de biogaz diffuss,  Electrification de plus de 53 000 mnages par des kits solaires individuels ou par des nanorseaux solaires photovoltaques en dcembre 2020  Installation de 2 000 systmes dirrigation solaires ; 500 kits solaires dans les coles ;
+
+500 systmes de pompage solaire pour lAdduction en Eau Potable (AEP) et 12 000 lampadaires solaires.
+
+Allgement des taxes sur les vhicules neufs et hybrides Agriculture Promotion des varits performantes  Installation des cordons pierreux pour la gestion intgre de la fertilit  Appui  la restauration communautaire des terres dgrades du terroir de Nangbani pour lamlioration de la rsilience de lagriculture locale face aux changements  Promotion des bonnes pratiques agricoles pour la rsistance au changement climatique et la gestion durable des terres dans la prfecture de lAv  Formation de 2 863 membres d'OP en valuation des impacts et vulnrabilit aux CC  Organisation de 6 ateliers de sensibilisation des dcideurs politiques organiss  Initiation des groupements / coopratives et jeunes entrepreneurs agricoles des prfectures dAgou et de Kloto aux bonnes pratiques de gestion durable des terres  Amnagement sommaire des bas-fonds, amendement des sols par fumure organique,  Appui  la gestion durable des terres rizicoles dAssr  Zonage et cartographie participatifs  lchelle villageoise ou cantonale permettant de  Restauration de plus 1000 ha de forts tatiques terres  Amnagement de plus de 6000 ha de forts communautaires  Equipement de 9 stations mto de matriel automatique  Rhabilitation des brigades et pistes forestires des aires protges.
+
+Mise en place de prs de 1000 ha de reboisement par lODEF  Formation, quipements de 175 ppiniristes et production de 145 000 plants  Restauration de 240 ha avec reboisement de 150 000 plants dans les zones dgrades  Construction et quipement de deux laboratoires de recherche sur les CC  Mise en place de 13 champs coles agro cologiques dans 13 prfectures  Ralisation du deuxime inventaire forestier national du Togo  Installation de prs de 300 ha de vergers danacardiers  Accompagnement  la cration et  la gestion de prs de 50 forts communautaires  Appui aux collectivits locales dans le cadre de lassainissement et de la gestion des  Renforcement de capacits oprationnelles de lANASAP  Cration et restauration des barrages et bassins de rtention deau (13 bassins restaurs et entretenus dans le grand Lom et 1 barrage en construction  Binaparba  Construction de 2300 latrines familiales de type ECOSAN  Amnagement des grands axes routiers et de prs de 90 000 km de piste rurales Promotion de la foresterie urbaine  Cration et entretien de 49 556 m2 espaces verts.
+
+Reboisement urbain de la ville de Lom avec 10 000 plants mis en terre  Organisation des missions de contrle en matire de gestion des dchets dans les hpitaux, les industries, dans les mnages et des latrines publiques  travers la ville  Construction des incinrateurs de type Monfort des dchets biomdicaux dans les 5 rgions.
+
+limination de 369 dpotoirs sauvages avec 39 160 m3 de dchets et vacuation des  vacuation des dchets urbains issus des poubelles installes aux abords des voies  travers la ville (28 400 m3 de dchets urbains et priurbains vacus)  laboration, rvision et implmentation des schmas directeurs damnagement et  Elaboration dune stratgie climatique pour le sous-secteur de la sant  Renforcement de la rsilience de toute la population togolaise face au paludisme et autres maladies ;
+
+Augmentation doffre de services intgrs PF VIH /Sida avec un pourcentage des FS offrant ces services qui atteint 91 % ;
+
+Appui  lamlioration de la sant et la situation nutritionnelle dans 1000 localits  Renforcement des activits de sant communautaire dans la rgion Maritime  Projet durgence de rhabilitation des infrastructures et services lectriques (PURISE)  Identification des points nouveaux  construire  Base de donnes cartographique des zones inondables du grand Lom, des rgions  tablissement des cartes de gestion des catastrophes  Rhabilitation intgre des populations victimes des inondations de 60 localits  Rhabilitation de 60 forages et construction de 30 nouveaux forages ;  Extension du rseau dadduction deau dans les grandes villes ;
+
+Installation du systme de pompage solaire sur 400 points deau  motricit humaine  Ralisation dune tude sur lvaluation des pertes aprs capture dans les pcheries  Production et/ou ladaptation des outils de planification  long terme des territoires mettre en uvre des orientations et assurer un dveloppement durable des espaces  Cration dun ministre en charge de lconomie bleue  Mise en uvre de onze (11) sous projets communautaires pour un cot total de 1 730 825 544 FCFA dans les prfectures du littoral. Tous ces projets visent  rduire la vulnrabilit et au renforcement de la rsilience socioconomique face aux effets des  Appui de prs de 270 000 euros pour le dveloppement dactivits alternatives gnratrices de revenus au profit des acteurs de prlvements de sable ctier.
+
+Renforcement des capacits de 250 femmes marachres  Amnagement et exploitation de Vingt (20) hectares pour le marachage sur le littoral  Appui  la restauration des cosystmes de mangroves 4.5. SAVOIR TRADITIONNEL ET MESURES TENANT COMPTE DU GENRE EN MATIERE DADAPTATION Daprs les tudes rcentes et des investigations de terrains, diverses mesures adaptatives ont t mise en uvre par les populations locales pour faire face aux effets des changements climatiques surtout dans le bassin de lOti. Dans le secteur domaine de lagriculture les populations font recour  l'augmentation des superficies emblaves (96,6%),  lagroforesterie (75,9%), au traitement du cheptel par les services vtrinaires  la place des mthodes traditionnelles (62,1%), aux cultures de contre saison et  la diversification des cultures (50,6%),  ladoption des varits prcoces et la conservation du fourrage pour les priodes de scheresses (35%).
+
+Dans le secteur des tablissements humains, les populations de la plaine de lOti ralisent des constructions annuelles de maison en paille suivant les priodes dinondations (25%) et la construction des apptmes avec un plafond qui sert de support pour les produits de rcolte sur la base des estimations de la hauteur des eaux dinondations (6,5%).
+
+Dans le secteur forestier, du fait de la dgradation continuelle de leur terre et de la disparition de certaines espces forestires, certaines communauts comme celles de Tchavad (rgion centrale) ont entrepris lextension de leur fort sacre en mettant en dfens 100 ha tout autour et en lenrichissant de plantes  usage multiple qui sont utilises dans la tradi-thrapie ou lalimentation. Ces forts constituent des lieux historique et culturel pour la population tout en apportant un microclimat particulier.
+
+Dans le secteur de leau, les populations rurales rduisent les quantits deau affectes pour lhygine corporelle (57%) et ralisent de petits trous dans les lits des rivires pour piger quelques litres deau (10,5%). Ce sont surtout les femmes qui sont responsables des corves deau sont celles qui sont plus impliques dans lapplication de ces stratgies endognes.
+
+Dans le domaine dnergie, toutes les populations des zones rurales font recours  lutilisation des tourteaux, des sciures, des coques de noix de palme et  la paille de mas, sorgho pour cuire les aliments. Aussi, la population privilgie-telle la torche lectrique au dtriment des lampes  ptrole qui jadis taient la principale source dclairage en milieu rurale (98%).
+
+Les mesures identifies dans les CDN rvises du Togo intgrent les besoins et intrts des femmes et des hommes dans tous les plans et secteurs. En effet, les diffrentes mesures reconnaissent les diffrences entre les hommes et les femmes et ciblent les besoins propres aux hommes et aux femmes.
+
+4.6. INFORMATIONS UTILES : SITUATION DE LADAPTATION EN LIEN AVEC LE COVID 19 Au Togo, la pandmie au COVID-19 engendre non seulement des effets sur le systme de sant mais fragilise aussi les systmes de productions et de commercialisation  tous les niveaux. En matire dadaptation face  la pandmie, plus de 52,7% des mnages ont fait recours  la stratgie de stress (vente des actifs durgence (vente des parcelles et maison) ont-elles-t adoptes par la population. Avec les mesures prises dans le cadre de ltat durgence sanitaire, les seules alternatives socioconomiques pour la population en milieu rural, ont t lexploitation abusive des ressources halieutiques et forestires. La crise de la COVID19 a perturb la mise en uvre du plan national de dveloppement 2018- 2022 qui prvoyait plusieurs actions en faveur de ladaptation. Globalement, au Togo, la COVID n'a fait quaggraver les impacts lis aux conditions climatiques entrainant certaines rponses durgence pour renforcer la rsilience des populations (Tableau 6).
+
+Tableau 6: Impacts du Covid 19 et rponses prioritaires en matire dadaptation au Togo industriels et nergie etc.
+
+Le financement de la mise en uvre de la CDN devra provenir avant tout des fonds publics du Togo et des investissements des acteurs privs togolais et trangers (mnages, PME et grandes entreprises, diaspora). Un engagement consquent et sans prcdent des acteurs de la socit togolaise simpose, notamment ceux du secteur financier ayant les moyens dinfluencer les flux dinvestissement et des partenaires financiers internationaux.
+
+Latteinte de lobjectif global de 50, 57 % ncessite un investissement estim  environ 5,4 milliards de dollars US entre 2020 et 2030. Latteinte de la portion conditionnelle de cet objectif, soit 74 %, dont linvestissement est estim  3,97 milliards de USD est conditionne par laccs  de nouvelles sources de financement et un appui additionnel, par rapport  celui reu au cours des dernires annes. Lappui extrieur (bilatral ou multilatral) dans la mise en uvre de la CDN est crucial, tant en matire de renforcement des capacits, de transfert de technologies que de financement de projets dinfrastructures climatiques. Cet appui peut impulser lensemble des actions de la CDN revise tant en matire dattnuation que dadaptation. Les parts qui reviennent aux mesures dattnuation et dadaptation sont respectivement 2,7 milliards USD et 2,6 milliards de USD.
+
+5.1. BESOINS DINVESTISSEMENT POUR LATTENUATION La planification porte sur les secteurs  fort potentiel de rduction comme lEnergie, AFAT, PIUP et dchets retenus dans la CDN rvise. Toutefois les secteurs relevant de ladaptation comme les ressources en eau, les tablissements humains et sant et la zone ctire ont t abords dans la CDN et feront lobjet ici aussi de planification.
+
+5.1.1. Besoin dinvestissement du secteur de lnergie 5.1.1.1. Sous-secteur de production dlectricit Un cadre institutionnel a t mis en place pour le dveloppement des nergies renouvelables et lencadrement des projets, notamment linstitutionnalisation de la gestion des nergies renouvelables et de lefficacit nergtique au niveau national par la cration delAT2R.
+
+Cre par dcret prsidentiel N2016  064/PR du 11 Mai 2016, lAgence Togolaise dElectrification Rurale et des Energies Renouvelables (AT2ER) est un tablissement public, dot dune autonomie financire. Lagence est charge de la mise en uvre de la politique dlectrification rurale du pays, de la promotion et de la valorisation des nergies renouvelables.
+
+Acteur central ddi  la valorisation des ressources renouvelables, lAT2ER a lambition de transformer le potentiel nergtique naturel du pays en nergie lectrique pour le dveloppement des localits rurales. Ainsi, lAT2ER a la double responsabilit dacclrer llectrification rurale et daugmenter la part des nergies renouvelables dans le mix nergtique du Togo. Dsormais, toute intervention dans le but de garantir lapprovisionnement en lectricit des populations rurales est assure par lagence1.
+
+Source : Projet dappui aux CDN, septembre 2021 Le Cots dinvestissements des actions CDN rvis du sous - secteur de la production dlectricit est valu  957 599 146 de USD dont 815 115 343 de USD pour le financement conditionnel soit 85% du cot total. Cela se traduit par la mise en uvre de plusieurs plans dactions  court, moyen et long terme afin de dvelopper les domaines de la production dlectricit solaire et de centrales hydrolectrique favorisant ainsi latteinte en 2030 de la cible estime de 41,1% en termes deffort dattnuation de 455,66 Gg CO2-eq de ce sous ce secteur.
+
+Le secteur des transports, lment moteur dans la croissance et le dveloppement du pays, demeure nanmoins un sujet de proccupation majeur en raison notamment de ses missions de gaz  effet de serre (GES) et des gaz polluants et par ricochet son impact direct sur les changements climatiques.
+
+Au Togo, ce secteur contribue pour 7%  la formation du PIB dont 70% du transport routier, soit un apport de 5% ; les 30% restants, soit 2% du PIB, constituent la part des autres modes de transport dont essentiellement les transports maritimes concentrs aux activits du Port Autonome de Lom2. Le transport reprsente 81,11 % de la consommation finale de produits ptroliers (dont une part importante pour le transport routier, notamment pour les engins  deux roues)3.
+
+Toutefois, la loi des finances 2021 tout comme celle de 2020 prvoit des exonrations ou lallgement de la charge fiscale (droits de douane et TVA) sur limportation des vhicules lectriques, hybrides et neufs et dune dure de vie de 5 ans. Cela vise  extirper du parc automobile appel  se renouveler, les voitures trop polluantes.
+
+Dans la mme veine, le PND entend dvelopper tous les modes de transport et positionner le Togo comme une plateforme de rfrence dans la sous-rgion et sur le plan continental. La feuille de route gouvernementale Togo 2025 issue du PND fixe les objectifs suivants :
+
+2 Bref aperu du secteur des transports au Togo 2016 o construire lautoroute de lUnit par lacclration du projet de dveloppement de la RN1 reliant l'hinterland productif  l'agglomration de Lom et au port autonome.
+
+La mise en uvre programme national defficacit nergtique dans le transport, le contrle technique obligatoire et les formations en co-conduite sont des mesures qui participent  atteindre des objectifs de la CDN.
+
+Tableau 8: Cots dinvestissements total du sous-secteur transport Source : Projet dappui aux CDN, septembre 2021 Le montant total des besoins financiers dans le sous-secteur de transport est valu  82 129 800 de USD avec 1 115 375 dinvestissement inconditionnel. Il pourrait engendrer une rduction dmissions cumules de 9 960,04 Gg CO2-eq sur la priode 2020-2030 par rapport  un scnario  business as usual   travers les projets dclins en annexe.
+
+Les lieux de rsidence et de commerce contribuent aux missions des GES  cause du niveau de consommation dnergie. Gnralement ce niveau de consommation dpend du type dnergie utilis pour la cuisson des repas, pour la ventilation, le chauffage, lclairage, llectromnager, etc. Sur le territoire national, ce niveau est en hausse avec une urbanisation rapide surtout dans la ville de Lom dont les tendances vers le mode de vie occidental sobservent, avec des besoins nergtiques de plus en plus importants. Les politiques de dveloppement de lhabitat ne feront quaccentuer le problme si elles ngligent le ct environnemental.
+
+Pour ce sous-secteur, le scnario fait lhypothse de porter (i) la part de la population utilisant le biogaz pour la cuisson  4% en 2025 et  12% en 2030 en milieu urbain ;  6% en 2025 et 15% en 2030 en milieu rural, (ii) la part de la population utilisation de la population utilisant le GPL  35% en milieu urbain et  8% en milieu rural dici  2030.
+
+Cela se traduit par la mise en uvre de deux plans dactions  court, moyen et long terme dont les besoins et les retombes sont estims comme suit dans la CDN. Tableau 9: Besoins en investissement des actions CDN sous-secteur rsidentiel Total 10976000 54 464 000 8 169 600 73 609 600 Source : Projet dappui aux CDN, septembre 2021 Le besoin en investissement du sous-secteur rsidentiel slev  73 609 600 USD dont 10 976 000 USD pour linconditionnel et 62 633 600 USD pour le conditionnel. 5.1.2.1. Besoins en investissement des actions CDN sous-secteur agriculture linscurit alimentaire et de rduire de moiti le taux de pauvret en milieu rural en le ramenant  27%.
+
+Ce secteur est trs sensible aux changements climatiques. Ce dernier exacerbe des tendances actuelles non durables, comme la dgradation des ressources en eau, lrosion des sols, la dsertification ou encore les pertes dagro biodiversit. Ces ressources sont pourtant vitales pour lagriculture.
+
+Total 23 60645000 77 160305000 24045750 239 927 250 Source : Projet dappui aux CDN, septembre 2021 Les besoins en financement pour le sous-secteur agriculture sont valus  239 927 250 de USD dont 60 645 000 USD pour les actions inconditionnelles. Le pays se doit de mobiliser 77% de ce montant au titre du scenario conditionnel pour atteindre la cible de rduction dmissions cumules de 3799,23 Gg CO2-eq sur la priode 2020- 2030.
+
+5.1.2.2. Sous-secteur foresterie et autres affectations des terres Les cosystmes forestiers du Togo se regroupent en trois grandes catgories  savoir les formations forestires naturelles, les plantations forestires et agro- forestires et les cosystmes particuliers (les aires protges et les forts communautaires). On rencontre aussi des cosystmes des eaux continentales ou zones humides (lacs, cours deau et lagunes). Le taux de couverture forestire est valu  24,24% (IFN, 2015), avec un taux de perte annuelle de surface forestire estim actuellement  1,7% (MERF, 2017).
+
+La perte des superficies des forts est la rsultante des effets du dboisement et de la dforestation dus  une forte expansion agricole avec des pratiques peu conservatrices, lexploitation incontrle des ressources forestires, la non-matrise des calendriers des feux de vgtation souvent sauvages et lapprovisionnement abusif en bois-nergie.
+
+Bien que mal apprci, on estime que le secteur forestier du Togo contribue  lconomie nationale pour prs de 1,7% au PIB national4. Il permet lapprovisionnement en bois  hauteur de 90% des besoins de biomasse nergie et contribue de manire significative au besoin du bois duvre. La valeur ajoute (VA), en 2015, du bois de chauffe dans le PIB atteignait 17,80 milliards FCFA, de 71,19 milliards FCFA pour le charbon de bois, soit de 88,99 milliards FCFA pour le bois- nergie. Les organes de plusieurs plantes (corces, feuilles, racines etc.) sont utiliss en pharmacope traditionnelle, en cosmtique, comme fourrage, comme aliments et autres.
+
+En plus des projets de reboisement, et de gestion des risques climatiques forestiers, la CDN rvise inclut les projets defficacit nergtique dans lutilisation du bois ainsi que des projets dadaptation avec des Co bnfices en attnuation. 4 Comptes nationaux (2014) et les estimations MERF, 2017 pour lanne 2014 dexcellence rurale ;
+
+8 2 116 800 92 24 343 200 3 651 480 30 111 480 Source : Projet dappui aux CDN, septembre 2021 Le besoin en financement du sous-secteur est valu  1 281 386 120 USD. Les mesures dans le domaine de lattnuation comportent tous une composante conditionnelle valu  792 304 920 USD entre 2020-2030 et qui vise  accentuer leffort national dj entrepris dans le domaine.
+
+5.1.3. Besoin dinvestissement du Secteur PIUP Au Togo, le tissu industriel varie trs peu et reste concentr sur les industries extractives (production de phosphate et cimenteries) et les industries manufacturires (alimentation, boissons et tabacs ; textile, habillement ; bois et ouvrages en bois ; imprimerie, papier, dition ; industries chimiques ; et ouvrages en mtaux). Les industries de fabrication de clinker constituent la catgorie cl dmission au Togo.
+
+Le secteur industriel au Togo est relativement rcent et se caractrise par la modestie de sa contribution au PIB qui dailleurs passe de 23% en 2005  15,6% en 2018. En plus des industries modernes, il existe des activits artisanales (Extractives Mtallurgiques, textiles, agroalimentaires).
+
+Les objectifs de la CDN dans le secteur de lindustrie sinscrivent directement dans le cadre du Plan de Gestion de lElimination des HCFC qui vise  rduire la consommation des substances appauvrissant la couche dozone (SAO) et viter leur relchement important dans latmosphre  la fin du cycle de vie des quipements les contenant, par consquent diminuer les missions des GES. Ce plan compte sur la construction dau moins 100 btiments cologiques utilisant moins de climatiseurs  lhorizon 2030 et de rduire dau moins de 2% le taux dimportation des gaz-F. Le bureau national ozone relevant du ministre charg de lenvironnement est un acteur technique qui accompagne les entreprises dans la mise en uvre de ce plan de gestion de llimination des HCFC. Huit mesures ont t dclines dans le plan  lhorizon 2030 qui visent notamment  assurer la rduction des missions dans le secteur.
+
+Tableau 12: Besoins en investissement des actions CDN du secteur PIUP Total PIUP 14 300000 96 81680000 4084000 89 034 000 Source : Projet dappui aux CDN, septembre 2021 Les besoins de financements pour le secteur PIUP essentiellement dans le sous- secteur hydrofluorocarbures (HFC) slvent  89 034 000 USD essentiellement mobilisable  plus 96 % au titre du scenario conditionnel.
+
+Le secteur des dchets manque cruellement de donnes. La collecte des ordures mnagres et llimination des eaux uses constituent lune des plus grandes difficults que rencontrent les autorits municipales. La production individuelle de dchets varie de 0,4  2kg par habitant et par jour.
+
+Les missions du secteur dans lensemble varient de 335,7 Gg CO2-eq en 2010  573,3 Gg CO2-eq en 2030, soit une augmentation de 70,8%. Outre limportance de la question dun point de vue environnemental et des ressources naturelles, la collecte, la valorisation et le traitement des dchets deviennent, dans ce contexte, un secteur porteur conomiquement, source de valeur ajoute, de comptitivit, de cration demploi et de limitation de la hausse des missions de gaz  effet de serre. Le plan est est ainsi declim comme suit dans le tableau 13.
+
+Tableau 13: Besoins en investissement des actions CDN du secteur dechet Lom.
+
+10 3 027 456 90 27 247 100,32 4 087 065 34 361 621 destins au brlage.
+
+10 5 256 220 90 47 305 976,13 7 095 896 59 658 092 Total Dchets 54 037 901 181 312 936 27 196 940 262 547 777 Source : Projet dappui aux CDN, septembre 2021 Le cot des trois options dattnuation dans le secteur des dchets svalue  262 547 777 USD dont 54 037 901 USD pour les actions inconditionnelles. La mobilisation des montants du scnario conditionnel estim 208509876 USD permettra datteindre la cible de rduction de 412,20 Gg CO2-eq dmissions cumules sur la priode 2020-2030 dans le secteur.
+
+La prsente section prsente lagrgation des options et cot values par secteurs cls en matire de contribution aux GES. Les secteurs cls identifies sont :
+
+Lagriculture, les dchets et lnergie qui inclut la production dlectricit, le transport et le rsidentiel et le tertiaire ainsi que les industries. Le tableau 14 montre les besoins de financement estims en fonction des contributions inconditionnelles (finances au niveau national) et conditionnelles pour la priode 2020- 2030 Tableau 14: Cots d'investissements associs suivants les scenarii d'attnuation Les besoins de financement associs  toutes les options d'attnuation identifies sont estims  2 699, 363 millions de dollars US  lhorizon 2030 dont 697, 719 millions de dollars US pour les options inconditionnelles et 2 001, 643 millions de dollars US pour les actions du conditionnel. Ceux-ci reprsentent les cots d'investissement en capital requis et les cots de mise en uvre.
+
+Pour que le Togo atteigne sa cible en 2030, il se doit de mettre en place des stratgies visant  mobiliser les ressources conditionnelles qui occupent une proportion de plus de 74% des besoins de financement au titre de lattnuation. Les niveaux d'investissement pour chaque secteur correspondent globalement aux parts d'attnuation estimes dans chaque secteur metteur, Le graphique montre que les projets nergtiques et FAT reprsentent plus de 80 % (respectivement 40% et 38 %) du total dinvestissement sur la priode 2020-2030. Les investissements dans les efforts de rductions dans lagriculture reprsentent l'essentiel des besoins restants.
+
+Le tableau 15 montre les besoins en proportion des financements estims en fonction des contributions inconditionnelles (finances au niveau national) et conditionnelles pour les secteurs et sous-secteurs.
+
+Tableau 15: Cots d'investissement pour toutes les mesures d'attnuation (millions USD) Source : Projet dappui aux CDN, septembre 2021 Lanalyse du tableau montre que pour le scenario conditionnel, les investissements dans le sous secteur de la production occupent une part importante 38, 56 %, suivi des projets dans le sous secteur FAT avec 30, 36%. Cela est soutenu par un important investissement annonc dans le domaine de llectrification solaire et la volont des pouvoirs publics de porter la part des nergies renouvelables dans le mix nergtique de 3  50%  lhorizon 20235. Dans le sous-secteur de FAT, cette volont sobserve avec lambition de planter un milliard darbre  lhorizon 2030. Pour sa part, le sous-secteur agriculture bien qutant source importante de GES noccupe que 9,21% car ladaptation est la priorit dans ce secteur dj branl par les effets adverses des changements climatiques.
+
+5.2. BESOINS DINVESTISSEMENT POUR LE VOLET ADAPTATION Lconomie du Togo a t depuis le dpart base sur le secteur primaire, secteur le plus expos depuis des dcennies maintenant aux effets de la variabilit du climat et considr aujourdhui comme le plus vulnrable aux changements du climat.
+
+Le plan dinvestissement des mesures d'adaptation prvus sappuie sur Les actions proposes pour la composante adaptation de la CDN rvise (Tableau 16).
+
+Tableau 16: Mesures dadaptations sectorielles avec estimation des cots vocation bois-nergie (17 400 ha) 0 0 100 27,3 4,095 Dveloppement de la bionergie moderne :
+
+SOUS TOTAL Secteur Energie 80 460,3 69,045 609,35 Appui  la diffusion des bonnes pratiques agro rsilientes aux changements climatiques 10 123 18,45 SOUS TOTAL AGRICULTURE 28,9 675,4 101,31 805,61 Sous-secteur foresterie et autres affectations des terres commercialisation) pour renforcer la rsilience Secteur Etablissements humains et sant Secteur Etablissements humains et sant urbaine dans les principaux centres urbains 150 20 3 Elaboration et mise en place dun plan de veille sanitaire (niveau national et local) 0,1 25 3,75 SOUS TOTAL Etablissement humains et sant 220,7 413,4 62,01 696,11 des villages, installation de nouveaux forages / Collecte des eaux de pluies et rutilisation des rhabilitation des retenues deau de surface, le SOUS TOTAL ressources en eau 89 85 12,75 186,75 Appui aux populations vulnrables des villages indicateurs de progrs et d'impact pour tous les Source : Projet dappui aux CDN, septembre 2021 Le montant total des interventions d'adaptation NDC revis est estim  plus de 2 779,44 millions USD jusqu'en 2030 dont 2278,84 millions de dollars pour les actions conditionnelles et 500,6 millions de dollars pour les actions inconditionnelles. La figure 2 ci-dessous dcline les besoins de financement par secteur associs  toutes les interventions d'adaptation identifies, estims  2 779,44 millions USD jusqu'en 2030.
+
+La figure 6 ci-dessus rsume les besoins financiers par secteur dans l'adaptation tels que rapports par chaque ministre. Le financement total ncessaire aux actions d'adaptation s'lve  un peu plus de 2 ,8 milliard USD. Le financement le plus important est requis pour l'agriculture (29%, 805,61 millions USD), des tablissements humains (26%, 696,11 millions USD) et lnergie (22%, 609,35 millions USD). La plupart des financements demands dpendent du soutien international soit une proportion de 81,99% du montant total  investir. Dans le cadre de l'Accord de Paris, les pays dvelopps se sont galement engags  fournir un transfert de technologie et un renforcement des capacits aux pays en dveloppement, transfert de technologies et de renforcement des capacits aux pays en dveloppement. De nombreux pays en dveloppement de nombreux pays en dveloppement auront besoin de capacits renforces pour suivre efficacement les flux de ressources et de soutien bilatraux et multilatraux et pour identifier les lacunes et les besoins en suspens et de soutien et identifier les lacunes et les Les besoins prioritaires en transfert de technologies ont t identifis pour les secteurs de lnergie, de lagriculture et de la foresterie. Le potentiel dmission en GES des secteurs, limportance de ces secteurs dans le dveloppement socioconomique du pays ; et leur vulnrabilit faces aux changements climatiques, sont les critres qui ont guids leur choix. Depuis juin 2015, le Togo sest engag dans la seconde phase du projet valuation des Besoins en Technologie (EBT) dans lidentification et lanalyse des besoins technologiques en vue de dgager un portefeuille de projets et programmes aptes  faire face aux effets nfastes des changements climatiques grce au transfert et  laccs aux technologies propres Seuls quatre secteurs avaient bnfici des tudes dvaluation des besoins en technologie (EBT) dont deux en attnuation et deux pour ladaptation. Il sagit du transport et de la production de llectricit pour lattnuation.
+
+Pour ladaptation, les technologies prioritaires ont couvert deux secteurs et sont classes ci-dessous par ordre dimportance :
+
+Pour le secteur Agriculture : 1) amnagement des terres agricoles, 2) systmes intgrs de production agricole et 3) agriculture de contre saison.  Pour le secteur Ressources en eau : 1) mini-adduction deau potable, 2) rhabilitation des retenues deau de surface et 3) drainage gravitaire des eaux de pluies.
+
+Le tableau 17 rsume les cots des besoins issus de cette valuation.
+
+ENERGIE Mise en uvre du Plan dactions pour la technologie Centrale Hydrolectrique Plan dactions pour la technologie solaire photovoltaque (PV) raccord au Plan dactions pour la technologie Petite ou Mini centrale hydrolectrique TRANSPORT Plan dactions pour la technologie amlioration des infrastructures routires Plan dactions pour la technologie dveloppement de transport en commun par Plan dactions pour la technologie mise en place de normes pour les moyens Plan dactions pour la technologie des Mini-adduction deau potable 1,348 0,2022 1,5502 Plan dactions technologiques pour la technologie rhabilitation des retenues Source : Projet dappui aux CDN, septembre 2021 Le cot total estim dans le plan daction EBT est de 57 ,812 millions de dollars. Il faut souligner que pour des raisons dinflation et de cot de mise en uvre, ce montant sera major de 15% du capital. A ce titre, les besoins dinvestissement en transfert de technologie se chiffrent  66,4838 millions dUSD finanables au titre du conditionnel et sur repartie comme suit dans la figure 7.
+
+Figure 7 : rpartition des cots des besoins en transfert de technologie par secteur 5.3.2. Renforcement de capacits et gestion de connaissance.
+
+Depuis la CNI jusqu la QCN, des besoins en renforcement de capacits et en ressources techniques ont toujours t identifis et formuls. Limportance de ces besoins avait ncessit un programme portant sur lAuto-valuation Nationale des Capacits  Renforcer en matire denvironnement (ANCR) mise en uvre entre 2006 et 2008.
+
+LANCR, le PRCGE et le PRCNDGE ont t dterminants dans le renforcement de capacit sur les questions de lenvironnement global et spcifiquement sur les changements climatiques. Ces documents demeurent une rfrence nationale sur cette question.
+
+Bien que des efforts soient faits, les consultations des acteurs rvlent que la plupart des besoins identifis sur le plan national pour la gestion de lenvironnement (ANCR, 2008) et dans le cadre des processus des communications nationales (CNI, DCN, TCN) y compris le PRBA, restent encore dactualit et des actions mritent dtre menes pour les satisfaire. Il sagit des besoins de renforcement de capacit dordre institutionnel, individuel (humain) et systmique rsums et prioriss dans le tableau 18.
+
+Secteurs Actions  mener (projets identifis) Cot Source : Projet dappui aux CDN, septembre 2021 Les Besoins prioritaires en ressources techniques et renforcement de capacits institutionnel, individuel et systmique sont valus  234,6 millions de dollars US entirement mobilisable auprs des sources de financements extrieures 5.4. FINANCEMENT TOTAL REQUIS POUR LA CDN REVISEE DU TOGO Les besoins financiers restent levs malgr les efforts en cours. La plupart des actions qui ncessitent un financement et la mobilisation de ressources futures seront un juste mlange de fonds nationaux et trangers. Le cot net estim des mesures d'attnuation NDC tablies devrait tre d'environ 2,70 milliards USD et de plus de 2, 88 milliard USD pour les objectifs d'adaptation, refltant un besoin combin d'environ 5,58 milliards USD de financement.
+
+Le tableau 19 rsume la valeur du financement ncessaire au cours des dix prochaines annes. Les mesures inconditionnelles reprsentent 22 pour cent de l'aide globale projete et 78 % pour les mesures conditionnelles.
+
+Tableau 19: Financements d'attnuation et d'adaptation ncessaires pour la CDN rvise Le cot global attendu de l'attnuation de la CDN dfinie dans ce plan dinvestissement  horizon 2030 est estim  environ 2,70 milliards USD et 2,78 milliard USD pour les objectifs d'adaptation, refltant un besoin total de financement d'environ 5,48 milliards USD. Les mesures inconditionnelles reprsentent 22 pour cent de l'aide globale projete et 78 % pour les mesures conditionnelles. Il faut faire remarquer que cette prsente valuation ne couvre pas les aspects lis au renforcement de capacits et de transfert de technologie. Ces derniers sont valus respectivement  66,4838 millions de dollars US et  234,6 millions de dollars US durant la priode 2020-2030.
+
+Chapitre 6 : Mesure, Notification et Vrification 6.1.1. Diffrents types de MNV existants au Togo Depuis 2017, le systme MNV du Togo sappuie sur le dispositif institutionnel des communications nationales et des rapports biennaux actualiss sur les CC. Ce dispositif institutionnel a t mis en place  la TCN et rpliqu lors du PRBA. Il tait matrialis par un mmorandum entre le MERF et les structures de recherche de lUniversit de Lom. Mais en 2019, ce dispositif a t renforc dans le cadre de la 4CN & 2RBA par un accord formel entre le MERF et lUL. Les structures de recherche de lUL impliques dans les tudes des missions par cet accord sont :
+
+Centre dExcellence Rgional pour la Maitrise de lEnergie de lEcole Nationale Suprieure des Ingnieurs (ENSI) pour les missions dans le secteur de lEnergie ;
+
+Laboratoire de Chimie Atmosphrique (LCA) pour les missions dans le secteur des Procds Industriels et Utilisation des Produits (PUIP) ;  Laboratoire de Recherche sur les Agro-ressources et Sant Environnementale pour le secteur Agriculture ;
+
+Laboratoire de Biologie et cologie Vgtale (LBEV) pour les missions dans le secteur de Foresteries et autres Affectations des Terres ;
+
+Laboratoire de Gestion, Traitement et Valorisation des Dchets (LGTVD) pour les missions dans le secteur de dchets.
+
+Ce systme est renforc par le recrutement dune quipe de coordination des IGES qui a pour rle de former et dappuyer techniquement les structures de recherche impliques dans ltude des missions.
+
+Tout comme le systme des missions, les tudes sur les mesures dattnuation des secteurs retenus dans le cadre de la 4CN & 2RBA ont t confies  lUniversit de Lom (UL)  travers les structures de recherche suivantes :
+
+Centre dExcellence Rgional pour la Maitrise de lEnergie de lEcole Nationale Suprieure des Ingnieurs (ENSI) pour le secteur de lEnergie ;
+
+Laboratoire de Recherche sur les Agro-ressources et Sant Environnementale pour le secteur Agriculture ;
+
+Laboratoire de Biologie et cologie Vgtale (LBEV) pour le secteur de Foresteries et autres Affectations des Terres.
+
+Ce systme est renforc par la mise en place de :
+
+Systme national de surveillance des forts (SNSF) : Ce systme est mis en place dans le cadre du processus REDD+. Lobjectif est de quantifier rgulirement les missions/absorptions de GES associes au dboisement et  la dgradation des forts, au renforcement des stocks de carbone forestier,  la conservation et  la gestion durable des forts et aux aspects lis  la gouvernance, aux bnfices et  leur distribution. Ce systme a labor le niveau de rfrence pour les forts au Togo (NRF) qui a t soumis en janvier 2020 au secrtariat de la CCNUCC.
+
+Cellule de gestion de la base de donnes de linventaire forestier national (CGBD/IFN) et Unit de gestion de la base de donnes cartographique (UGBDC) du ministre en charge de lenvironnement : la CGBD/IFN soccupe de lorganisation, de la collecte et de la gestion de donnes forestires. LUGBDC soccupe du suivi de la dynamique des forts par les donnes satellitaires. Depuis mars 2021, ces structures mettent en uvre, dans le cadre du processus REDD+, le deuxime inventaire forestier national du Togo.
+
+initiative EBT : le Togo a mis en uvre le projet  Evaluation des Besoins Technologiques  qui a abouti  llaboration dun plan daction technologique (PTA). Ce plan comporte la hirarchisation des technologies, fonde sur une analyse dcisionnelle multicritre prenant entre autres en compte, les priorits de dveloppement, la viabilit conomique, lemploi local. Il a t labor pour une meilleure programmation des actions en vue dapporter des rponses spcifiques au problme des changements climatiques ;
+
+plateforme de gestion de laide (PGA) : cest une initiative du ministre de lconomie et des finances mise en place en 2012 et qui permet de capitaliser tous les soutiens au dveloppement reu par le Togo. Cette plateforme est conue de sorte  dsagrger le soutien dans le domaine du climat. Cela prend en compte le soutien reu aussi bien par lEtat que par le secteur priv et les organisations de la socit civile. Depuis 2014, cette plateforme nest pas oprationnelle. Dans le souci de dynamiser la PGA, une sance de travail entre le Ministre de la Planification du Dveloppement et les partenaires techniques et financiers (PTF) sest tenue le 13 fvrier 2018. Cette rencontre a permis dchanger sur les mesures  prendre pour relancer la Plateforme de gestion de laide (PGA). Il a t retenu de continuer avec Gateway et aller vers lautonomisation pour la relance de PGA ;
+
+MNV networking du Centre rgional de collaboration (CRC) : le CRC dispose dun systme qui couvre les trois formes de soutien dans le domaine climatique  savoir la finance, le renforcement de capacit et le transfert de technologie. 6.1.2. Analyse des forces, faiblesses, opportunits et menaces du systme MNV du Togo Le diagnostic ralis sur ce systme MNV existant montre quil souffre de certaines insuffisances (Tableau 20).
+
+Tableau 20: Forces et faibles du systme MNV existant MNV) ;
+
+Existence dun serveur de grande capacit au sein pouvant hberger le go portail du SN-MNV ;
+
+Bonne exprience dans la mesure, notification et dattnuation ;
+
+MNV ;
+
+Insuffisance de connaissance et de comprhension responsabilit et dintrts entre les acteurs ;
+
+Base de donnes sur les ONG et les structures techniques dtentrices de donnes relatives aux CC non exhaustive ;
+
+Existence dun comit national MNV ;
+
+Plusieurs actions de renforcement de capacits MNV ;
+
+Mthodologies bases sur les directives, guides et recommandations du GIEC et de la CCNUCC ;  Meilleure maitrise des mthodologies IPCC par la mise  niveau des experts nationaux ;
+
+Disponibilit de lexpertise nationale pour les missions dans tous les secteurs concerns ;  Plusieurs niveaux de vrification de la fiabilit des donnes dmissions collectes ;
+
+Difficults de dsagrger les actions climatiques approfondir la collecte des donnes ;
+
+Format inappropri pour le stockage et larchivage des donnes auprs des structures dtentrices de donnes ;
+
+Faible matrise par les experts valuateurs des mthodologies des tudes sur les missions et de rapports dtudes des missions ;
+
+Insuffisance du personnel qualifi pour lapplication missions ;
+
+Existence dune plateforme pilote sur la gestion de (public, priv et OSC).
+
+Absence dun cadre de concertation des PTF sur la gestion des aides publiques au dveloppement ;  Non effectivit de la mise en uvre du mcanisme ministres ;
+
+Absence dun cadre de concertation et dinter- connectivit entre les ministres ;
+
+6.2. BESOINS DE RENFORCEMENT DES CAPACITES EN MATIERE DE MNV Un mcanisme clair et robuste pour assurer la transparence et la responsabilisation est essentiel au succs du systme MNV pour la mise en uvre des CDN. Ainsi sur la base de lanalyse des forces, faiblesses, opportunit, et menaces des diffrents systmes MNV existants, plusieurs actions sont proposes. Ces actions concernent toutes les parties prenantes prenant part  la mise en uvre du systme de MNV. Il sagit de :  mettre en place un format harmonis de collecte des donnes entre lINSEED, les producteurs de donnes et les ralisateurs des tudes sur les missions ;
+
+renforcer les capacits des parties prenantes sur les questions relatives  la gestion des donnes, y compris lassurance qualit et larchivage robustes des donnes ;
+
+renforcer les capacits en matire de suivi, de notification et de vrification (MNV), y compris le dveloppement des capacits pour le systme de gnration  dvelopper un systme d'archivage lectronique des donnes pour les donnes relatives  l'attnuation et/ou  ladaptation ;
+
+renforcer les capacits des parties prenantes sur la maitrise des outils et mthodes dvaluation et dlaboration des scnarios dattnuation ;
+
+renforcer les capacits nationales pour tablir un cadre de collaboration facilitant une meilleure coordination entre les institutions publiques et prives et les organisations de la socit civile afin de permettre la collecte et la documentation d'informations sur les actions dattnuation, adaptation et de soutien ;
+
+renforcer la capacit des acteurs sur la comprhension et limportance du systme MNV ;
+
+renforcer les capacits des cadres du ministre de lconomie et des finances pour la relance effective de la plateforme de gestion de laide (PGA) avec les comptences nationales existantes ;
+
+formation des producteurs et dtenteurs de donnes (comme DTRF, DGE, INSEED, DST, etc.) sur la prise en compte des formats de donnes dmission et mesures dattnuation ;
+
+renforcer les capacits des producteurs et des utilisateurs des donnes sur la gestion des donnes confidentielles ou sensibles ;
+
+renforcer les capacits des experts nationaux sur la notion de bonnes pratiques en matire de calcul des incertitudes lors de la collecte des donnes dactivits et de la compilation des donnes statistiques.
+
+En plus de ces besoins en renforcement de capacits, il y a dautres besoins  prendre en compte pour une mise en uvre efficace du MNV notamment :
+
+formalisation dun accord de collaboration entre la coordination nationale des CC et les institutions publiques ou prives productrices ou dtentrices de donnes ;  signature des accords de confidentialit entre les producteurs et les utilisateurs de donnes sensibles ou confidentielles ;
+
+renforcement de la communication sur le systme MNV ;
+
+Organisation des structures de collecte de donnes nationales et sectorielles et mise  leur disposition des moyens ncessaires  la conduite d'un inventaire de GES, au stockage des donnes ainsi qu leur archivage.
+
+6.3. AMELIORATION DU SYSTEME DE MNV AU FIL DU TEMPS Pour lamlioration au fil du temps du systme MNV, plusieurs recommandations sont faites  lendroit du comit national MNV. Il sagit de :
+
+tablir un mcanisme pour veiller  ce que les extrants des systmes de MNV puissent clairer des mises  jour rgulires sur les processus de planification de lattnuation, de ladaptation et du financement climat, et  ce que les enseignements puissent tre intgrs dans les actions ultrieures entreprises au titre de la mise en uvre de la CDN ;
+
+valuer lefficacit du systme de MNV pour ce qui est de rassembler et de notifier les donnes pertinentes, et ajuster le plan de mise en uvre et les systmes en fonction des enseignements ;
+
+communiquer rgulirement avec les parties prenantes pour obtenir un feedback sur le fonctionnement et lefficacit du systme de MNV ;
+
+travailler avec des pays dots de cibles dans leur CDN et de besoins de MNV similaires pour changer les enseignements et les meilleures pratiques ;  poursuivre le processus doprationnalisation du systme national MNV en vue de passer de la transition des rapports biennaux actualiss aux rapports de transparence biennale en 2024.
+
+Garantir une action climat transparente dans le processus des CDN est une priorit montrer quil respecte ses engagements de manire transparente.  cette fin, la mesure, la notification et la vrification (MNV) ont t reconnues comme le processus cl permettant de suivre, valuer et communiquer les progrs accomplis dans la mise en uvre des engagements, y compris des CDN. Depuis 2017, le Togo a conu un systme national de mesure, de notification et de vrification sur les changements climatiques qui fdre les trois types de MNV dcrits ci-dessus. Ce systme comprend les lments suivants (Figure 8) :
+
+Collecte de donnes et de mtadonnes qui concerne toutes les parties prenantes cls au niveau national dans les diffrents secteurs concerns par les missions, lattnuation, ladaptation, de mme que le soutien.
+
+Traitement et gestion des donnes qui consiste en stockage et archivage des donnes, traitement, analyse et interprtation des donnes et suivi des indicateurs.
+
+Notification qui concerne la publication des donnes traites et interprtes et leur mise  disposition aux dcideurs nationaux et/ou aux partenaires internationaux sur la problmatique du climat.
+
+6.4.1. Cadre institutionnel du systme MNV des CDN Depuis 2017, le pays a amorc loprationnalisation de ce systme MNV. Dans ce cadre une plateforme dchange (communaut des pratiques MNV) a t cre par le MERF. Cette plateforme est anime deux (2) fois par mois et aborde les questions relatives  loprationnalisation du MNV, la mthode de collecte des donnes dactivits, la gestion des donnes, y compris lassurance qualit et larchivage robustes des donnes. Dans le cadre de loprationnalisation du systme, plusieurs actions de renforcement des capacits ont t ralises entre 2017 et 2020. Il sagit de (i) renforcement des capacits des acteurs nationaux sur le MNV, (ii) renforcement des capacits des acteurs du MERF sur leur rle et responsabilit en matire doprationnalisation su systme MNV, (iii) renforcement des capacits des partie prenantes sur le MNV  travers la communaut des pratiques sur le MNV, (iv) lactualisation du rapport Pays MNV combin au renforcement de capacit des membres du comit restreint MNV du Togo. Ces actions sont essentiellement soutenues par le secrtariat de CCNUCC, lUE, le PNUD, le FEM, le Global support program et le gouvernement canadien (Tableau 21).
+
+Il faut par ailleurs signaler que le projet CBIT dont la mise en uvre vient de dmarrer a prvu des activits de renforcement de capacit pour la transparence conformment  larticle 13 de lAccord de Paris. Il vise essentiellement  : - Renforcer les dispositifs institutionnels, juridique et rglementaire ; - Dvelopper les capacits des acteurs des secteurs prioritaires des Changements climatiques ;
+
+- Examiner le cadre institutionnel et de formuler des mesures en vue de loprationnalisation du systme national MNV.
+
+Tableau 21: Aide reu par le Togo en matire de MNV Renforcement des capacits Finalis Non estim Gouvernemen Pour garantir lassurance de la qualit et le contrle de la qualit (AQ/CQ), une meilleure prise en compte du reportage, mesure, notification et vrification (MNV/MRV) et permettre la mise en place dun systme cohrent darchivage, deux institutions ont t cre, lune en 2018 (Autorit Nationale de coordination du processus dlaboration des CN, des RBA sur les changements climatiques et des CDN) et la deuxime en 2020 (Comit national MNV). Ainsi le cadre institutionnel du systme MNV CDN se prsente comme suit :
+
+Comit National MNV : Ce comit a t mise en place par la note de service N0230/SG/DE le 15 Juillet 2020 dans le cadre de loprationnalisation du systme national MNV. Il est charg dexaminer le cadre institutionnel et de formuler les mesures en vue de loprationnalisation du systme MNV. Ce comit est renforc par la nomination des points focaux sectoriels MNV aux ministres en charge de lenvironnement et des finances.
+
+La division lutte contre les changements climatiques (DLCC) : Elle assure la coordination de tous les groupes de travail et intervient grce  trois structures  savoir le point focal CCNUCC, le Comit National changements climatiques et le comit de pilotage du projet 4CN & 2RBA.
+
+Autorit Nationale de coordination du processus dlaboration des CN, des RBA sur les changements climatiques et des CDN : cette autorit mise en place par larrt n145 / MERF/SG/DE du 06 novembre 2018 dispose dun sous-comit qui se charge de la MNV sur le climat.
+
+Il faut par ailleurs signaler lexistence de deux (2) points focaux MNV (un au ministre en charge de lenvironnement et le deuxime au ministre des finances) et des points focaux dans toutes les structures dtentrice de donnes. Ces points focaux ont pour mission de veiller  loprationnalisation et  la mise en uvre du systme MNV aux niveaux national et sectoriel.
+
+Chapitre 7 : Stratgie de communication pour la mise en uvre des CDN 7.1. ANALYSE DIAGNOSTIQUE DE LA COMMUNICATION SUR LES CDN AU TOGO Lanalyse diagnostique des diffrentes exprience communicationnelles sur les changements climatiques au Togo a permis de dgager les forces et faiblesses ainsi que les opportunits et menaces qui psent sur la communication sur la mise en uvre des CDN au Togo (Tableau 22).
+
+Tableau 22 : Matrice FFOM de lanalyse de la communication sur la mise en uvre des CDN technique et juridique pour les CDN.
+
+Bonne connaissance de lobjet de lAccord de Paris.
+
+Bonne connaissance des risques climatiques.
+
+Adhsion aux initiatives dadaptation.
+
+Intgration des actions de rsilience.
+
+Participation aux actions dattnuation.
+
+Dveloppement dinitiatives endognes individuelles et communautaires dadaptation/attnuation.  Forte attente des mesures dadaptation et attnuation.
+
+Fort potentiel de mobilisation au niveau local.
+
+Pro activit des universits et centres de recherche sur le climat.
+
+Dficit de communication interne et externe sur les CDN.
+
+Faible appropriation des CDN au niveau sectoriel et local.
+
+Insuffisance dactions CCSC visant les groupes cibles  Insuffisance dactions inclusives visant le genre.
+
+Activation de la dcentralisation dans la mise en uvre du cadre structurel dactions pour lutter contre les effets nfastes des CC.
+
+Pluralisme mdiatique.
+
+Perturbations dans la mobilisation des financements.  Absence des CC dans les priorits des Togolais.
+
+Disponibilit des partenaires au dveloppement  appuyer le Togo  mettre en uvre des actions sur les CC.
+
+Bilinguisme des populations.
+
+La Vision est dcline des objectifs de la feuille de route gouvernementale en lien avec lambition 10 de laxe stratgique 3 :  Mettre le dveloppement durable et lanticipation des crises futures au cur des priorits du pays .
+
+Ainsi la Vision de la communication des CDN se prsente comme suit :
+
+A travers la vision retenue :  en 2030, le Togo est une Nation moderne, o les citoyens informs et protgs des risques climatiques sont respectueux de la Nature et de ses ressources , lobjectif de dveloppement de la communication sur les CDN est libell comme suit :
+
+CONTRIBUER A LEMERGENCE DE CITOYENS AVERTIS DES RISQUES CLIMATIQUES ET RESPECTUEUX DE LA NATURE ET DE SES RESSOURCES.  Axes strategiques et objectifs de communication La vision de la communication sur les CDN formule et se basant sur une matrice des orientations stratgiques, trois (3) options stratgiques sont dcrites et trois (3) orientations stratgiques sont dclines. Les tableaux 23 et 24 prsentent respectivement les grandes orientations stratgiques et le cadre de performance.
+
+Tableau 23 : Dveloppement des orientations stratgiques et formulation des objectifs Options stratgiques Dveloppement des orientations stratgiques Stratgies formules Orientation Stratgique 1 :
+
+Saisir la dcentralisation et sappuyer sur lexistence dun cadre politique, juridique et technique pour liminer la faible appropriation des CDN au niveau sectoriel et local Orientation stratgique 2 :
+
+2.
+
+Saisir la disponibilit des PTF et utiliser ladhsion des groupes cibles aux initiatives dadaptation, leur participation aux actions dattnuation, leur dveloppement dinitiatives endognes individuelles et communautaires dadaptation/attnuation et la pro activit des universits et centres de recherche sur le climat pour liminer linsuffisance dactions CCSC visant les groupes cibles, linsuffisance dactions inclusives visant le genre et les perturbations dans la mobilisation des financements Orientation stratgique 3 :
+
+Saisir le pluralisme mdiatique et utiliser la bonne connaissance de lobjet de lAccord de Paris et de la bonne connaissance des risques climatiques pour liminer le dficit de communication interne et externe et labsence des CC dans les priorits des Togolais.
+
+Tableau 24 : Cadre de performance des interventions Rsultats Indicateurs de performances Sources de vrification Risques et Indicateurs deffets de lOS2 de la FRS Rapport denqute Risques 1. Au terme de lanne 2030, 100% des plans dactions sectoriels en lien avec les CDN et des Plans de Dveloppement Communaux ont intgr ladaptation et lattnuation.
+
+1.1 A la fin de 2026, au moins 80% des dcideurs politiques sectoriels, locaux et conomiques ont une parfaite connaissance de la vision et des objectifs des CDN 1.2 A la fin de 2026, au moins 100% des communes et ministres sectoriels sont outills sur la planification des CDN.
+
+2. Au terme de lanne 2030, au moins 60 % des groupements ou entreprises oprant dans les zones de vulnrabilits climatiques ont intgr ladaptation et lattnuation dans leurs pratiques productives.
+
+2.1 A la fin de 2026, 117 facilitateurs ont assur des formations dans les communes des zones vulnrables.
+
+2.2 A la fin de 2026, au moins 6000 personnes dont au moins 1240 femmes actives dans les zones de vulnrabilits sont outilles  llaboration et la mise en uvre de projets Rsultats Indicateurs de performances Sources de vrification Risques et 3. Au terme de lanne 2030, les CC figurent parmi les dix priorits des populations togolaises.
+
+3.1 Au terme de 2026, au moins 80% des demandes dinformations sur les CDN ont t satisfaites. 3.2 A la fin de 2026, au moins 70% de la population a pris conscience de limportance des CDN.
+
+3.3 Au terme de 2026, au moins un outil de capitalisation des pratiques innovantes est publi.
+
+Un Plan dactions pluriannuel (PAP) est propos pour la communication. Ce plan peut tre rvis en fonction des ressources runies pour lexcution desdites actions. Les estimations financires des actions retenues et planifies de 2022  2026 slvent  1 072 114 Dollars US. Le tableau 25 rsume le budget en fonction de chaque composante.
+
+RSULTATS ANNEES DE REALISATION (Cots en millions de dollars US) TOTAL TOTAL 168 483 417 454 210 258 121 715 154 204 1 072 114 Agence de coopration belge (ENABEL), Communication pour le Dveloppement :
+
+Dialogue et Participation pour des rsultats durables e_et_participation_pour_des_resultats_durables_guide_c4d_ctb_fr_final.pdf Brabant P., Darracq S., Egue K. et Simonneaux V., (1996). Etat de dgradation des terres rsultant des activits humaines. Note explicative de la carte des indices de dgradation. Collection Note Explicative n112, ORSTOM Eds, Paris, 66 p.
+
+Contribution prvue dtermine au niveau national (CPDN) dans le cadre de la Convention cadre des Nations Unies sur les changements climatiques (CNUCC), Craig M., Snow R., Le Sueur D., 1999. A Climate-based Distribution Model of Malaria Transmission in Sub-Saharan Africa. In Parasitology Today 15 (3) : 105  111.
+
+Diop, A., (2017),  tude sur les autorits locales face aux changements climatiques au Sngal, en vue dappuyer le processus de plaidoyer des autorits locales , Association Internationale des Maires Francophones, Commission Europenne. Direction Gnrale de la Statistique et de la Comptabilit Nationale (DGSCN), 2011. Quatrime recensement de la population et de lhabitat. Rapport dfinitif, Rpublique Togolaise, 57 p.
+
+Ern H., 1979. Die vegetation Togo. Gliederrung, Gefhrdung, Erhaltung. Willdenowia Etude sur la composante adaptation aux changements climatiques dans les CDN rvises du Togo projet dappui aux contributions dtermines au niveau national (CDN) FAO/CEDEAO, 2018. Profil national genre des secteurs de lagriculture et du dveloppement rural. Srie des Evaluations Genre des Pays, Rapport, 118 p. Feuille de Route Sectorielle Togo 2025, Janvier 2021 GIZ, 2020. Etude des risques et vulnrabilits lis au changement climatique dans le secteur de la sant au Togo. Rapport final, 100 p.
+
+Institut National de la Statistique et des Etudes Economiques et Dmographiques (INSEED), 2015. Perspectives dmographiques du Togo 2011- 2031.
+
+Ministre de lagriculture, de llevage et de lhydraulique (MAEH), 2015a. Document de politique agricole pour la priode 2016-2030, 56 p. Ministre de lagriculture, de llevage et de lhydraulique (MAEH), 2015b. Document de stratgie nationale pour la formation agricole et rurale au Togo (SNFAR-TOGO) 2016-2020, 75 p.
+
+Ministre de lagriculture, de llevage et de lhydraulique (MAEH), 2017. Programme national dinvestissement agricole, de scurit alimentaire et nutritionnelle (PNIASAN)- Plan dinvestissement 2017-2025.
+
+Ministre de lagriculture, de llevage et de la pche / Programme alimentaire mondial (MAEP/PAM), 2018. Revue stratgique faim zro au Togo. Rapport final, 201 p.
+
+Ministre de lenvironnement et des ressources forestires (MERF), 2001. Communication Nationale Initiale du Togo. Convention Cadre des Nations Unies sur les Changements Climatiques, 210 p.
+
+Ministre de lenvironnement et des ressources forestires (MERF), 2009. Plan dAction National dAdaptation aux Changements Climatiques.
+
+Ministre de lenvironnement et des ressources forestires (MERF), 2010. Evaluation des dommages, pertes et besoins de reconstruction post catastrophes des inondations de 2010 au Togo. Rapport final, 39 p.
+
+Ministre de lenvironnement et des ressources forestires (MERF), 2015a. Troisime communication Nationale sur les Changements climatiques. Rapport final, 160 p.
+
+Ministre de lenvironnement et des ressources forestires (MERF), 2015b. Contribution prvue dtermine au niveau national (CPDN) dans le cadre de la convention cadre des nations unies sur les changements climatiques (CCNUCC).
+
+Rapport final, 21 p.
+
+Ministre de lenvironnement et des ressources forestires (MERF), 2017a. Premier rapport biennal actualis du Togo sur les changements climatiques.
+
+Rapport final, Rp. Togolaise, 176 p.
+
+Ministre de lenvironnement et des ressources forestires (MERF), 2017b. Etude approfondie sur la dynamique de lutilisation du bois-nergie au Togo.
+
+Rapport final, Rp. Togolaise, 114 p.
+
+Ministre de lenvironnement et des ressources forestires (MERF), 2018a. Stratgie nationale de Rduction des missions dues  la Dforestation et  la Dgradation des forts (REDD+) 2020-2029. Version 1 finale, 179 p. Ministre de lenvironnement et des ressources forestires (MERF), 2018b. Plan dAction Technologique et ides de projet, 145 p.
+
+Ministre de lenvironnement et des ressources forestires (MERF), 2018c. Cadre stratgique dinvestissement pour la gestion de lenvironnement et des ressources naturelles au Togo (CSIGERN 20182022). Lom, Togo.
+
+Ministre de lenvironnement et des ressources forestires (MERF), 2020a. Evaluation de la vulnrabilit du secteur de lnergie face aux effets et impacts nfastes des changements climatiques au Togo. Projet de la 4e Communication Nationale et 2e Rapport Biennal Actualis du Togo, Rapport final, 96 p. Ministre de lenvironnement et des ressources forestires (MERF), 2020b. Evaluation de la vulnrabilit du secteur de lagriculture, de la foresterie et autres affectations des terres face aux effets et impacts nfastes des changements climatiques au Togo. Projet de la 4e Communication Nationale et 2e Rapport Biennal Actualis du Togo, Rapport final, 117 p.
+
+Ministre de lenvironnement et des ressources forestires (MERF), 2020c. Analyse conomique et sensibilit climatique de certaines cultures principales notamment le mas, le mil, le sorgho, le riz, ligname et le manioc au Togo. Projet de la 4e Communication Nationale et 2e Rapport Biennal Actualis du Togo, Rapport final, 98 p.
+
+Ministre de lenvironnement et des ressources forestires (MERF), 2020d. Lanalyse de la demande actuelle et la simulation en 2030 en termes des prlvements deau de surface et deau souterraine dans les bassins du Togo face aux changements climatiques. Projet de la 4e Communication Nationale et 2e Rapport Biennal Actualis du Togo, Rapport final, 65 p.
+
+Ministre de lenvironnement et des ressources forestires (MERF), 2020 e. Etudes conjointes de faisabilit technique de la protection ctire du segment frontalier Togo-Bnin. Projet dinvestissement, de rsilience des zones ctires en Afrique de lOuest (WACA RESIP  BENIN), Phase 3- Etude davant-projet dtaill de loption dadaptation prfrentielle, Rapport, 97 p.
+
+Ministre de la Promotion de la Femme (MPF), 2011. Politique nationale pour lquit et lgalit de genre du Togo, 65 p.
+
+Ministre de la Sant et de la Protection Sociale (MSPS), 2017. Plan national de dveloppement sanitaire (PNDS) 2017-2022. Rapport final, 99 p.
+
+Ministre des Mines et de lEnergie (MME), 2015a. Plan d'Actions National des Energies Renouvelables (PANER), 121 p.
+
+Ministre des Mines et de lEnergie (MME), 2015b. Plan dAction National dEfficacit Energtique (PANEE 2015-2030), 64 p.
+
+Orientations pour la prise en compte du genre dans le processus de Plan National Plan daction national dadaptation aux changements climatiques  PANA, septembre Plan dactions de mise en oeuvre de la Stratgie nationale de Rduction des missions dues  la Dforestation et  la Dgradation des forts (REDD+) 2020- Plan de Prparation de la Mise en Oeuvre des CDN (PPMO-CDN) 2020-2024 Dcembre Plan National dAdaptation aux Changements Climatiques du Togo (PNACC), 2016 Premier rapport biennal actualis du Togo, Rapport national d'inventaire de GES, Premier rapport biennal actualis TOGO PRBA, Septembre 2017 Programme des Nations Unies pour le Dveloppement (PNUD), 2019. Rapport annuel, 70 p.
+
+Quatrime Communication Nationale sur les Changements climatiques, Deuxime Rapport Biennal Actualis, Rapport sur les circonstances nationales, Dcembre 2019 Rpublique Togolaise, 2017. Plan national dadaptation aux changements climatique du Togo. Rapport final, 96 p.
+
+Rpublique Togolaise, 2019a. Etablissement des scnarios climatiques au Togo. Projet de la 4e Communication Nationale et 2e Rapport Biennal Actualis du Togo, Rapport final, 77 p.
+
+Rpublique Togolaise, 2019b. Rapport sur les circonstances nationales. Projet de Quatrime Communication Nationale sur les Changements climatiques & Deuxime Rapport Biennal Actualis du Togo, 117 p.
+
+Stratgie de communication du projet de soutien  la prparation  la REDD+, juillet Stratgie de communication du projet de soutien  la prparation a la REDD+, juillet Stratgie de communication sur les changements climatiques et la transition vers Stratgie nationale dinformation, dducation et de communication (IEC) sur lenvironnement au Togo (2011  2015). Programme de Renforcement des Capacits pour la Gestion de lEnvironnement, Octobre 2010 Stratgie nationale de Rduction des missions dues  la Dforestation et  la Dgradation des forts (REDD+) 2020-2029, Version finale, Octobre 2019 (AT2ER).
+
+GES.
+
+2021 ;
+
+renforcer la lutte contre linscurit alimentaire et de rduire de moiti le taux de pauvret en milieu rural  27% ;
+

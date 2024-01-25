@@ -1,0 +1,146 @@
+1. Quantifiable information on the reference periods (including, as appropriate, the base year) During the revision of the first NDC, the calculation of the greenhouse gas inventory and quality assurance and quality control (QA/QC) processes identified the 2010 as the base year. In order to make comparisons with the first and the second NDC and changes in the greenhouse gases (hereinafter: GHG), the GHG emission is expressed compared to 1990.
+
+Further quantifiable information on the reference indicators are other relevant information;
+
+(A) economy-wide target - reduction of GHG emissions by 2030:
+
+National GHG inventories for the 1990  2015 period Prepared by the Serbian Environmental Protection Agency (SEPA) and presented in the Second Biennial update report under the United Nations Framework Convention on Climate Change indicators.
+
+The National GHG emissions in the base year and the reference year may be updated and recalculated due to the methodological changes and more precise calculations.
+
+In addition, changes in GDP and other macro-economic parameters, such as those recognized in COVID-19 Socio-Economic Response 1. Quantifiable information on the reference periods (including, as appropriate, the base year) Plan for Serbia2 may lead to an update of the values of the reference indicators.
+
+Information on recalculations will be provided in the relevant chapters of the Biennial Update Report (BUR) and the Biennial Transparency Report (BTR) under the United Nations Framework Convention on Climate Change.
+
+The time-frame for implementation is from 1 January 2021 to 31 December 2030.
+
+(a) General description of the target; The contribution determined for 2030 is an economy-wide GHG reduction target, expressed as relative reduction by 2030 compared to 2010.
+
+Climate Change (IPCC) guidelines;
+
+Energy, Industrial processes and product use (IPPU), Gases covered: all greenhouse gases (GHG) not controlled by the Montreal Protocol  carbon dioxide (CO2), methane (CH4), nitrous oxide (N2O), perfluorocarbons (PFCs), hydrofluorocarbons (HFCs), sulphur hexafluorides (SF6) and nitrogen trifluorides (NF3).
+
+(d) of Decision 1/CP.21;
+
+Applied IPCC Guidelines: The national GHG inventory (GHG emissions by sources and removals by sinks) is prepared in accordance with the 2006 IPCC Guidelines for the National Greenhouse Gas Inventories and the 2013 Supplement to the 2006 IPCC Guidelines for the National Greenhouse Gas Inventories - Wetlands (IPCC 2013 Wetlands Supplement).
+
+The Republic of Serbia takes note of future application of the 2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories3.
+
+There are several activities which cannot be estimated due to lack of data:
+
+Use of fluorinated gases as foam blowing agents, in fire protection equipment and electrical equipment;
+
+Liming activities;
+
+Open burning.
+
+The implementation of the adaptation measures proposed in the Draft Third National Communication to the UNFCCC and Adaptation Planning Framework will contribute to the achievement of the full mitigation potential in the sectors of agriculture, forestry and water as analysed in the new report on nature-based solutions4:
+
+New irrigation systems construction and efficient use of existing ones  Multipurpose small accumulation lakes, ponds and reservoirs for water supply, irrigation, erosion control, ecosystem services Adaptation of the technologies of agricultural plant and animal production (selection of species and agro-technical measures, increasing the quality of soil and rational use of fertilizers, adaptation of crop rotation, adaptation of zootechnical conditions in animal husbandry facilities). Appropriate selection of species might reduce water and nutrient supply, therefore, reducing GHG emissions. Increased agricultural biomass production can partly be used (crop residues, waste) for renewable energy production, replacing the use of fossil fuels5. Nutrient managements mitigation potential was assessed to 1.09 Mt CO2 equ./yr. Optimal grazing management and grazing legumes in pastures have the potential to reduce GHG emissions by 0.27 Mt CO2 equ./yr.
+
+Afforestation of new land using site mapping and climate change 4 UNDP (2020): Nature-based solutions for climate change mitigation and adaptation.
+
+5 Strategy of Agriculture and Rural Development for the period 2014-2024  Implementation of an improved forest management close-to-nature forest management, introduction of a "climate smart forestry" result in mitigation co-benefits by supporting the replacement of fossil fuels and construction materials by biomass. The mitigation potential of afforestation has been assessed at 25.9 Mt CO2 equ/yr. The effect of Sustainable Forest Management and Close to Nature Management is estimated at 1.008 Mt CO2 eq by the year 2030, from all three aspects (close to nature forest management, conversion of coppice forest and regeneration of over mature stands  mainly beech).
+
+Hydrology and Water Resources hydro-electric production  Construction of flooding/torrential barriers and additional measures  Improvement of the system for observation, data collection and early warning systems for extreme climate and hydrological events and development of mathematical models for optimal management of Water availability is an important factor for the production of renewable energy (hydro power) and the production of biomass for the production of energy and construction materials.
+
+Mitigation co-benefits resulting from adaptation actions will be further elaborated in the National Adaptation Programme (NAP) that is under development and might increase the co-benefits mentioned above.
+
+The GHG emission reduction target presented in this NDC is determined based on the Draft Low Carbon Development Strategy (LCDS), while its achievement is defined by an accompanying Action Plan. The planning and information relevant to the NDC are presented in Second BUR (BUR2). During the process of preparation of relevant documents, working groups were formed and numerous consultations, round tables with active participation of representative of government institutions, public and private companies, NGOs and scientific and research institutions were held.
+
+The NDC planning and revision took into account obligations resulting from the EU accession process as well as national circumstances and capacities.
+
+Following the international and certain provisions of the EU legislation, involvement of the broad range of stakeholders was ensured through public consultation process, working groups responsible for preparation of the NDC, as well as on-line surveys and questionnaires.
+
+The Ministry of Environmental Protection (MEP) has responsibility for matters related to climate change on national and international level.
+
+The Law on Climate Change (LCC) adopted in March 2021, defines roles and responsibilities of other ministries, agencies and organizations.
+
+Gender equality strategy for the 2021 to 2030 period, which in point 5.1.1.5. envisages the mainstreaming of the gender perspective in the field of environmental protection, circular and green economy and information technologies/digital economy.
+
+Information provided in BUR2.
+
+Establishment of the WG for development of NDC that included representatives of different stakeholders and responsible institutions ensured easier collection of data and information. In addition, the Law on Climate Change re-established the National Committee on Climate Change as a government advisory body, with the first session with newly appointed members held in September 2021.
+
+Since 2018, the Coordination Body for Gender Equality has representatives in working groups of the inter-ministerial projects supporting improvement of reporting to the UNFCCC in a context of gender equality.
+
+The economic, environmental and social impacts of the Mitigation Actions were considered in the NDC preparation process. The NDC preparation process was not possible without international financial and technical support that contributed to improvement of the national capacities.
+
+However, there is still a need for financial and capacity building and raising awareness to ensure the NDC implementation and revision.
+
+Serbia suffered damages caused by climate change and extreme weather events (in the period 2000-2015 minimum EUR 1.8 billion, additional to EUR 5 billion in the 2015-2020 period).
+
+With significant contribution of the agricultural production to total gross domestic product, the overall national economy of the Republic of Serbia is sensitive to all factors that affect agriculture. Impacts of climate change on crop production and livestock production have impact on food storage and food processing sectors in Serbia. The effects and impacts of climate change on the water sector will be reflected in shortage of water, more periods of intense drought and areas affected by droughts and an increased duration of low-flow conditions in rivers and resulting low-level water quality.
+
+Agreement;
+
+Support for the preparation for the global stocktake was delivered under the Introduction of Transparency Framework under the Paris Agreement project which lays groundwork for compliance with Article 13 of the Paris Agreement.
+
+The economic, environmental and social impacts of the Mitigation Actions were considered during preparation of the NDC, and particularly during preparation of the Low Carbon Development Strategy. The identification of the most appropriate pathway for reduction of GHG emissions was subject to costs, as well as social, economic and environmental impacts. In order to define equitable and economically efficient GHG emission reduction pathway, impacts of Mitigation Actions on gross domestic product (GDP) growth, employment and share of energy costs in households for different mitigation scenarios were considered.
+
+The emission reduction target for 2030 was defined according to the GHG emission reduction potential, as well as its impact on social, economic and environmental parameters.
+
+Public policy documents prescribed by the Law on Climate Change will more closely define measures and activities that will contribute to co- benefits in the context of climate change mitigation in the key sectors.
+
+5. Assumptions and methodological approaches, including those for estimating and accounting for anthropogenic greenhouse gas emissions and, as appropriate, removals guidance adopted by the CMA;
+
+The information is available in the 2BUR and in case of changes, updated information will be presented within the Biennial Transparency Report.
+
+Nationally Determined Contribution;
+
+In accordance with the Law on Climate Change, authorities and organisations responsible for implementation of climate change measures and policies are due to conduct assessment of the impacts of its policies and measures on the GHG emission level and submit reports to the Ministry for Environmental Protection.
+
+Implementation of the measure will be monitored according to the National GHG Inventory and a range of performance indicators. At the same time, the national system for monitoring, reporting and verification in accordance with requirements of Article 13 of the Paris Agreement will contribute to better monitoring of the NDC.
+
+Agreement, as appropriate;
+
+See answer under 5 (d).
+
+The current GHG inventories are compliant with Decision 24/CP.19, including the 2013 Amendment to the 2006 IPCC Guidelines of the Kyoto Protocol for the National Greenhouse Gas Inventories, and the IPCC 2013 Wetlands Supplement.
+
+5. Assumptions and methodological approaches, including those for estimating and accounting for anthropogenic greenhouse gas emissions and, as appropriate, removals The metrics used is the Global Warming Potentials (GWP) of a 100- year time horizon published in the IPCC Fourth Assessment Report (AR4).
+
+These methodologies are subject to change depending on the progress of future international negotiations on estimating and accounting rules.
+
+The approach to addressing emissions and subsequent GHG removals due to natural disturbances on managed lands presented in the 2006 IPCC Guidelines, Volume 4, Chapter 2: Generic Methodologies Applicable to Multiple Land-Use Categories.
+
+The approach used to account for GHG emissions and removals from harvested wood products presented in the 2006 IPCC Guidelines, Volume 4, Chapter 12, Harvested Wood Products.
+
+The reference indicators, baseline(s) and reference level are used based on the National GHG Inventory and baseline scenarios taking into account policies and measures adopted by the end of 2015.
+
+The information are available in the 2BUR.
+
+5. Assumptions and methodological approaches, including those for estimating and accounting for anthropogenic greenhouse gas emissions and, as appropriate, removals and models used;
+
+Paris Agreement, if applicable.
+
+Under the UNFCCC, Serbia is a developing country Party, the energy production of which relies on domestic lignite, with an increase in the ambition of more than three times compared to the first NDC.
+
+The NDC of the Republic of Serbia is a part of the long-term GHG emission reduction vision by 2050 as required by the Paris Agreement long-term goals.
+
+With the baseline analyses for the Just Transition Roadmap for Serbia defined and in compliance with modalities of the global stocktake, the reduction commitments of the updated NDC of the Republic of Serbia will be considered.
+
+Serbia suffered damages of minimum EUR 1.8 billion in just five-years (2015-2020). Moreover, Serbias potential GDP decrease in case of the global mean temperature increase, relative to the projected GDP (b) Fairness considerations The economic, environmental and social impacts of the Mitigation Actions were considered during the preparation of the NDC, and particularly during preparation of the Low Carbon Development Strategy. The identification of the most appropriate pathway for reduction of GHG emissions was subject to costs, as well as social, economic and environmental impacts. In order to define a socially equitable and economically efficient GHG emission reduction pathway, impacts of Mitigation Actions on gross domestic product (GDP) on employment and share of energy costs in households for different mitigation scenarios were considered. Emission reduction target for 2030 was defined according to GHG emission reduction potential, as well as its impact on social, economic and environmental parameters.
+
+Agreement;
+
+The presented contribution represents a clear progression beyond the first NDC and reflects the highest possible ambition under consideration of the national circumstances.
+
+Agreement;
+
+Serbia is a developing Party and has hereby enhanced its NDC, which represents an economy-wide reduction target.
+
+Agreement.
+
+7. How the nationally determined contribution contributes towards achieving the objective of the Convention as set out in its Article 2:
+
+2;
+
+Although the Republic of Serbia is a non-Annex I Party to the UNFCCC vulnerable to climate change, significant increase of ambition in the updated NDC contributes to the achievement of the objective of the Convention, namely stabilization of GHG concentration in the atmosphere.
+
+Agreement.
+
+See answer under 7(a).
+
+In particular, it should be noted that Serbia is ready for additional/ conditional ambition with financial, technical and capacity building assistance.
+

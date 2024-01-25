@@ -1,0 +1,412 @@
+CONTRIBUTION DETERMINEE AU NIVEAU NATIONAL - ACTUALISEE C Degr Celsius APRUE Agence de Promotion et de Rationalisation de Professionnelle MINEPAT Ministre de lEconomie de la Planification et de lAmnagement du Territoire MINEPDED Ministre de lEnvironnement de la Protection de la Dveloppement Technologique MINPMEESA Ministre des Petites et Moyennes Entreprises, de Famille MINRESI Ministre de la Recherche Scientifique et de Climatique PV Photo Voltaque RBT Rapport Biennal de Transparence SDN30 Stratgie Nationale de Dveloppement  lhorizon 2030 SNIGES Systme National dInventaire des Gaz  Effet de Serre SPAND Stratgie et Plan dAction National pour la Biodiversit de 35% rparti ainsi quil suit :
+
+CH4 = 25 ;N2O = 298 ; HFCs = 1.5 - 14 800.
+
+Cot de mise en uvre  57 640 USD (28 713 milliards FCFA) Le Cameroun a soumis sa CPDN auprs du Secrtariat de la CCNUCC en octobre 2015 et ratifi lAccord de Paris en janvier 2016. De fait, ce document est considr comme la premire CDN du Cameroun, dcrivant les objectifs de rduction des missions de Gaz  Effet de Serre (GES) accompagns de propositions de mesures dadaptation.
+
+A travers le prsent document, le Gouvernement du Cameroun prsente une actualisation de sa premire Contribution Dtermine au niveau National (attnuation et adaptation), pour la priode 2020 - 2030 et conformment aux articles 4.2, 4.9 et 4.11 de lAccord de Paris et autres dispositions pertinentes de lAccord.
+
+Le contenu de cette soumission s'appuie sur lexamen des progrs raliss au titre de la premire CDN, les nouvelles politiques telles que la SND30, les plans nationaux et sectoriels, et refltent les travaux ultrieurs concernant l'laboration dobjectifs quantifiables d'attnuation et d'adaptation. Ce document reprsente une synthse robuste qualifie par des valuations dtailles et pertinentes des mesures d'attnuation et des mesures d'adaptation. Ces valuations sont compltes et soutenues par une analyse approfondie, des informations et donnes contextualises, un processus inclusif de consultation des parties prenantes, en ciblant une ambition climatique accrue.
+
+A travers la rvision de sa CDN, le Cameroun entend rduire lempreinte carbone de son dveloppement 35%  lhorizon 2030, avec 2010 comme anne de rfrence, sans pour autant ralentir sa croissance, tout en privilgiant des options dattnuation prsentant des cobnfices levs, en renforant la rsilience du pays aux changements climatiques, et en mettant en cohrence ses politiques sectorielles, y compris le renforcement de son dispositif et des outils de mise en uvre, afin de faciliter latteinte de ces objectifs.
+
+Le Cameroun au sein du Bassin du Congo comprend des cosystmes reprsentatifs du continent africain, qui le qualifie dAfrique en miniature. Le territoire couvre une superficie de 475 650 km2, et il stire sur 1 500 km du Sud au Nord (2-13N) et de 800 km dOuest en Est (9-16E). , et un taux de croissance dmographique annuel de 2,5%. Ce taux atteint 4,3% dans les villes.
+
+Lurbanisation anarchique est lun des phnomnes les plus remarquables de ces dernires annes. Ainsi le taux durbanisation est passe de 52% en 2010  57% en 2019. 50% de la population camerounaise vit dans des quartiers dhabitats prcaires, souvent illgaux.
+
+Au plan climatique, sa large extension en latitude lui vaut de passer dune pluviomtrie monomodale dficitaire en zone agrocologique (ZAE) sahlienne (500  800 mm)  une pluviomtrie monomodale (1800  2800 mm) en ZAE hautes savanes et hauts plateaux, une pluviomtrie bimodale relativement abondante (1500  2000 mm) en ZAE forestire et une importante pluviomtrie monomodale (3000  8000 mm) en ZAE littorale. La temprature elle-mme varie dun milieu  lautre et se situe entre 20C et 35 C avec une amplitude Au plan biologique, le Cameroun compte six (06) principaux types dcosystmes, avec une grande diversit des systmes de production agro- pastorale. La flore est domine par la steppe et les Yars  lExtrme-Nord, la savane dans le Nord, lAdamaoua et les hautes terres de lOuest, les forts semi- dcidues dans le Centre  Sud, puis les forts sempervirentes et les mangroves en zone ctire. Le Cameroun occupe le quatrime rang en matire de richesse de la flore et le cinquime en termes de diversit faunique en Afrique avec 8300 espces de plantes, 335 espces de mammifres (SPANB II, 2012).
+
+Par ailleurs, ce patrimoine floristique et faunique fait lobjet de menace multiples, parmi les plus importantes il faut relever, lexploitation forestire, faunique et minire illgale et anarchique, lutilisation des terres non contrle pour lagriculture itinrante sur brlis et le dveloppement non durable de lagro- industries). Le taux annuel net de dforestation estime  0,6% (FAO, 2020) coupl  un faible taux de reboisement (0,1%) suggre une diminution croissante de la diversit biologique.
+
+La contribution de la dforestation aux changements climatiques et  la vulnrabilit des populations locales et autochtones est indniable. Le Cameroun possde un massif forestier important qui est de plus en plus dgrad par les activits agropastorales ainsi que les projets miniers et structurants auxquels sajoute une croissance dmographique importante. En effet, la population camerounaise en 2021 est estime  environ 27 millions dhabitants avec une densit moyenne de 56 hts/km2, qui toutefois varie de 7  200 habitants/km2 suivant les rgions du pays.
+
+Cette densit disparate constitue un dterminant majeur de la dgradation des terres arables et des paysages forestiers, fortement marque dans la partie septentrionale et les hautes terres de lOuest. Or, la majorit de la population rurale du Cameroun est dpendante des moyens de subsistance des activits agricoles et pastorales dans un contexte o la productivit des paysages et des terres est de moins en moins bonne, avec un risque dintensification de lexode rural.
+
+La problmatique de la dgradation des paysages forestiers est relle dans tout le pays, mais trs varie dune zone agrocologique  lautre. Dans une optique de durabilit forte, le renouvellement des ressources forestires et la reconstitution des formations vgtales dgrades, compte probablement parmi les dfis majeurs actuels auxquels le Cameroun est appel  faire face dans les prochaines dcennies, avec lamplification des bouleversements environnementaux et des changements climatiques.
+
+Les dfis inhrents  ceux-ci concernent la dforestation, laccroissement du potentiel rosif des cours deau et laugmentation des inondations et des glissements de terrain qui induisent une nouvelle dynamique au paysage avec lacclration des processus gomorphologiques. Ds lors, il en rsulte des risques environnementaux importants.
+
+La scheresse demeure discrte et omniprsente dans la partie septentrionale du pays. Cest un facteur contraignant pour les populations et un dclencheur - amplificateur des maladies qui exposent plus de 3 000 000 dmes (Etude de la vulnrabilit du Cameroun, 2021).
+
+La frquence saisonnire et quasi ininterrompue depuis deux dcennies des vnements climatiques extrmes, linstabilit de la dure des saisons des pluies, les inondations rcentes, les scheresses rcurrentes auxquelles le Cameroun est de plus en plus expos, prouvent que les changements climatiques ont cess dtre une question purement scientifique et sont devenus un problme rel et prgnant pour notre socit, requrant des mesures urgentes pour la sauvegarde et la protection de la vie humaine.
+
+Au plan conomique, il est important de relever que lconomie du Cameroun est lune des plus diversifie dAfrique. Bien que les secteurs secondaire (22% du PIB) et tertiaire (45%) soient bien dvelopps, lconomie repose nanmoins principalement sur des secteurs de production: agriculture, levage, pche et aquaculture, foresterie et sylviculture. Lagriculture emploie prs de 60% de la population et demeure le secteur prdominant de lconomie nationale tant par sa contribution au PIB (23%) que pour les effets dentrainement sur dautres secteurs dactivits. Les principales cultures commerciales sont le cacao, le caf, le tabac, le coton, les bananes et le poivre.
+
+La contribution du secteur minier au PIB reste ngligeable malgr dimportantes potentialits identifies et mises en exploitation. Le Cameroun renferme au moins 52 types de ressources minrales et la stratgie sappuie sur la valorisation dau moins 30 % de ces ressources. Les activits minires concernent lexploration, lexploitation et la transformation.
+
+Le secteur industriel reprsente prs du tiers du PIB. Il produit essentiellement pour le march local.
+
+Coordonnes 2 - 13 latitude Nord, 9 - 16 longitude Est De prime  bord, il faut noter que la contrainte climatique exerce dj une pression accrue sur les principaux secteurs alimentant le budget national, elle accroit les vulnrabilits sociales et contribue  dgrader les infrastructures ncessaires  lactivit conomique. Par ailleurs, la lutte contre les effets du changement climatique rvle aussi bien pour ladaptation que pour lattnuation, des besoins de ressources financires additionnelles en plus de ceux ncessaires aux impratifs dj connus du dveloppement. Pour russir la mutation transformationnelle vers une conomie sobre en carbone, il faut des investissements consquents pour la mise en place des technologies appropries, en ciblant tous les secteurs  enjeux. Les financements ncessaires soutiendront la mise en uvre des programmes et projets en cohrence avec les engagements pris en respectant une distribution tenant compte des secteurs les plus metteurs et les zones agro cologiques les plus vulnrables.
+
+A cet effet, la Stratgie Nationale de Dveloppement 2020-2030 du Cameroun doit absolument tre mise en perspective dans le cadre de la rvision de cette CDN. La raison en est simple, le pays envisage une profonde transformation structurelle de son conomie dont la croissance doit tre proche de deux chiffres.
+
+Ceci passe par une stratgie dindustrialisation reposant sur une transformation accrue des ressources naturelles et une rduction graduelle des importations en faveur des exportations des produits manufacturs ou semi finis. Cette ambition porte prioritairement sur le march de la Communaut Economique des Etats de lAfrique Centrale (CEEAC) estim  environ 300 millions dhabitants. La consquence prvisible de cette orientation stratgique dans le cas dun business as usual est une pression sans prcdent sur les ressources daphiques, hydriques et la biomasse aussi bien en ce qui concerne les prlvements que les dgradations dues aux pollutions et plus particulirement aux missions des gaz  effet de serre.
+
+Pour concilier ses ambitions lgitimes de croissance conomique avec les impratifs de lutte contre le rchauffement et tenir ses engagements pris dans le cadre de sa CDN, le Gouvernement a consacr un des objectifs globaux de la SND30  la lutte contre le changement climatique :  Renforcer les mesures dadaptation et dattnuation des effets du changement climatique et la gestion environnementale pour garantir une croissance conomique et un dveloppement social durable et inclusif .
+
+Ainsi, sagissant du secteur de lnergie, le pays entend poursuivre sa politique de dveloppement dun mix nergtique bas sur lnergie hydrolectrique, le photovoltaque, le thermique  base de gaz et lnergie issue de la biomasse. Pour le secteur rural, le Gouvernement a opt pour une politique dintensification promouvant les technologies les plus innovantes, climato rsilientes notamment. Sagissant des dchets, il est prvu la mise en uvre dune stratgie nationale des dchets dans le sillage de la promotion de la responsabilit socitale des entreprises.
+
+Comme les autres pays dAfrique centrale situ autour du Golfe de Guine, le Cameroun a dimportants gisements de ptrole offshore et on shore dont la plupart ne seraient pas encore dcouverts. Il envisage daccentuer ses efforts de prospection pour accrotre ses rserves et augmenter sa production de ptrole et de gaz en mettant laccent sur les nouveaux bassins on shore de la partie septentrionale du pays notamment (P. 45). 1 Lexploitation de certains bassins a t diffre en raison de la chute du prix du baril du ptrole. Afin de tenir ses engagements pris dans le cadre de sa CDN, le Cameroun doit absolument attirer des investisseurs pour explorer et dvelopper des projets structurants portant sur lhydrolectricit, le gaz et dautres nergies propres  linstar de lhydrogne et de lammoniac.
+
+Pour ce qui est du sous-secteur forestier, les forts du bassin du Congo dont environ 12% de la superficie se trouve au Cameroun ont un rle vital de rgulation des GES et du dioxyde de carbone, ceci en plus de jouer un rle dterminant sur la rgulation du climat rgional et le cycle de leau. Pour que ce massif forestier continue de jouer ce rle primordial pour lhumanit, la communaut internationale doit sans dlai redployer avec plus de dtermination et de mthode, les diffrents instruments  mme de contribuer efficacement aux efforts dattnuation et dadaptation. Plus que certains pays de la Sous-rgion le 1 Les rserves prouves de gaz au Cameroun sont estimes  157 milliards m3 daprs la Socit Nationale des Hydrocarbures (SNH);
+
+Alors que le taux de croissance de la population urbaine du continent tait de 5,4% en 2015, lAfrique centrale prsentait quant  lui un taux de 6,2%. Ces chiffres impliquent au moins deux dfis : le premier est de la scurit alimentaire dune population urbaine dont les besoins en produits vivriers croissent rapidement. Dans son rle de grenier incontest de lAfrique Centrale, le Cameroun exerce plus que les autres pays de la Sous-rgion une forte pression sur ses ressources naturelles et sa biomasse pour continuer de satisfaire  la demande croissante en vivres de son march intrieur mais aussi de ceux des pays voisins.
+
+Sagissant du sous-secteur de la mine solide, avec la cration rcente de la SONAMINES, on pourrait lire la volont du Gouvernement de dvelopper enfin ce sous-secteur. 2 La du minerai de fer est constitu essentiellement par le gisement de Nkout estim  2 milliards de tonnes extensible  4 milliards dune part et du bassin de fer de Mbalam dont la capacit de production annuelle serait de 40 millions de tonnes sur 12 ans dans sa premire phase de dveloppement. Les rserves de rutile du pays seraient values  3 millions de tonnes, soit le second potentiel mondial aprs la Sierra Leone. Sagissant du minerai de lalumine, le cinquime des plateaux bauxitiques explors en 2020 par  Canyon Resources  affiche des rserves estimes  892 millions de tonnes dont 250 Millions  trs haute teneur daluminium.
+
+Si le pays mettait en uvre sans autre forme de procs ces grands projets miniers, les consquences sur lenvironnement, en dpit des mesures habituelles de mitigation des impacts, seraient considrables. Il est  noter que plus de 70% des rserves minires du pays se trouvent en domaine forestier. Les partenaires techniques et financiers du Cameroun devraient le soutenir afin de que des moyens consquents soient mobiliss pour mettre en place des techniques dexploitation les moins prjudiciables possibles  lquilibre des forts. Deux autres dfis exacerbent les vulnrabilits du Cameroun. Au plan des milieux physiques, il faut relever la situation critique des rgions septentrionales du pays face aux changements climatiques. Ceci se traduit par des scheresses rcurrentes et divers phnomnes climatiques extrmes. Ainsi, dans la seule rgion de lExtrme-nord, souffre dun dficit cralier de 30 000 tonnes, le taux dinscurit alimentaire y est de 33,6 %. La prsence des rfugis (57 000) et dplacs (223 642) exercent en outre une forte pression sur les ressources naturelles tels que les points deau et pturages (SNADDT, Diagnostic 2018). Les implications socioconomiques de ces vulnrabilits sont multiples. Pour rpondre aux crises conjoncturelles induites, lEtat consacre logiquement lessentiel de ses modestes ressources financires aux problmes sociaux en lien avec la sant, la scurit alimentaire et les situations durgence post-catastrophe.
+
+Tant que la rsilience des rgions soudano sahliennes du pays et dans une moindre mesure celle des rgions de lOuest et du Nord-Ouest ne sera pas significativement amliore, les ressources propres de lEtat ncessaires pour adresser les dfis lis au changement climatique ne pourront pas rpondre aux dfis en prsence.
+
+Au plan scuritaire, il est connu que le Cameroun fait face  linstabilit dans deux zones agrocologiques les plus exposes aux effets du changement climatique, la rgion de lExtrme-Nord en proie aux attaques de la secte Boko Haram et les rgions du Nord-Ouest et du Sud-Ouest secous par les exactions des sparatistes anglophones. Les ressources financires mobilises par lEtat pour restaurer la paix dans ces rgions o linstabilit tend  devenir endmique ont largement contribu  roder la rsilience de lconomie du pays. La crise sanitaire actuelle est venue accentuer la fragilisation dune conomie dj dstabilise par les effets conjugus du changement climatique et des crises scuritaires. Sans une trs forte volont politique et un soutien international  la mesure des dfis sus analyss, les engagements du pays pris dans le cadre de sa CDN pourraient ne pas tre tenus.
+
+Au vu du tableau ci-dessus prsent, le pays envisage donc de mobiliser  cet effet tous les moyens consquents pertinents : financements, transferts de technologies et renforcement de capacits pour tenir ses engagements internationaux et atteindre ses objectifs de dveloppement socioconomiques.
+
+La vision du Cameroun dans sa stratgie de rponse inclusive aux impacts du changement climatique se rsume dans le slogan :  transformer la contrainte climatique en opportunits de dveloppement .
+
+Dans le cadre de ladaptation, la vision du Cameroun selon son Plan National dadaptation aux Changements Climatiques (PNACC) stipule quen 2035,  les changements climatiques dans les cinq zones agro-cologiques du Cameroun sont compltement intgrs au dveloppement durable du pays, rduisant ainsi sa vulnrabilit, et transformant mme le problme des changements climatiques en une solution/opportunit de dveloppement. Ainsi les camerounais particulirement les femmes, les enfants et les personnes vulnrables et les secteurs conomiques du pays acquirent une plus grande rsilience et une plus grande capacit dadaptation aux impacts ngatifs des changements climatiques .
+
+Cette vision est fonde sur la thorie du dterminisme inverse consistant  admettre que des transformations socioconomiques structurelles positives peuvent avoir pour dclencheurs le souci concert de vaincre des contraintes du milieu physique. Les changements climatiques peuvent donc constituer une relle opportunit  capitaliser en faveur de la transition vers une conomie verte, de la lutte contre la pauvret, mais au-del renforcer le ciment social par le jeu de solidarits sociales ncessaires en vue de la rduction des vulnrabilits diffrentielles.
+
+Pour concilier ses ambitions lgitimes de croissance conomique en tant compte des impratifs pour inverser les effets ngatifs des changements climatiques et tenir les engagements pris dans le cadre de sa CDN, le Gouvernement a consacr un des objectifs globaux de la SND30  la lutte contre les changements climatiques :  Renforcer les mesures dadaptation et dattnuation des effets du changement climatique et la gestion environnementale pour garantir une croissance conomique et un dveloppement social durable et inclusif . En considrant  la fois les objectifs dattnuation et dadaptation, les politiques et les outils rglementaires de mise en uvre y affrents ncessitent  la fois des adaptations, des renforcements et des crations nouvelles. Ces politiques doivent autant que faire se peut prendre en compte la contrainte climatique dans la conception et llaboration des politiques de dveloppement en gnral.
+
+En 2010, le secteur de lagriculture demeure la plus importante source dmissions de GES avec 24074.61 Gg Eq CO2 soit 69 % des missions totales (Fig.1). Le secteur de lEnergie en seconde position, prsente 18 % des missions, suivi du secteur des dchets avec 12 %. Le secteur des procds industriels et utilisation des produits (PIUP) vient en dernier lieu avec 1 %. (Rapport national IGES TCN, 2020).
+
+Fig. 1 : Pourcentage des missions de GES par secteur en 2010 hors foresterie La figure 2 illustre les diffrents gaz  effet de serre (GES) par secteur source Fig. 2 : missions par type de GES (en Gg Eq CO2) pour lanne de rfrence 2010 Pour le Cameroun, dans un scnario Business As Usual (BAU), les missions de GES atteignent 119 085 Gg Eq CO2 en 2030, soit une hausse de 71% par rapport  2010 anne de base o les missions sont de lordre de 34 933 Gg Eq CO2 (Fig.3).
+
+Fig. 3 : Tendance des Emissions (en Gg Eq CO2) dans le scnario Business as Usual Dans le scnario CDN avec prise en compte des mesures, laugmentation des missions est contenue  104 187 Gg Eq CO2 en 2030 soit une hausse de 66 % par rapport  2010 (34 933 Gg Eq CO2) et une rduction de 12 % par rapport au scnario BAU.
+
+Dans ce mme scnario, mais cette fois avec mesures additionnelles, laugmentation des missions est contenue  76 826 Gg Eq CO2 en 2030 soit une augmentation de 55 % par rapport  2010 et une rduction de 35 % par rapport au scnario BAU ce qui reprsente en valeur absolue 42 259 Gg Eq CO2 de rduction (Fig.4).
+
+Fig.4 : volution des missions (Gg Eq. CO2) de GES du Cameroun suivant Les parts de rduction de chaque secteur en 2030 sont prsents dans le tableau ci-dessous :
+
+Rduction en quantit (Gg Eq CO2) 6808.48 19378.63 13369.85 2701.78 42258.73 Part de chaque secteur par rapport au pourcentage de rduction (%.) En termes de potentiel de rduction le secteur de la foresterie vient en tte, suivi Le Cameroun entend mettre en uvre les actions dattnuation ci-dessous, sur la base des orientations et options de rduction en cohrence avec les piliers de sa stratgie nationale de dveloppement 2020-2030 (SND30) et les ODD.
+
+Scnario BaU 2030 Scnario "with measures" 2030 Scnario "with additionnal measures" 2030 dveloppement de lagro-industrie et (ii) Amlioration de la productivit et de la comptitivit. foncier grce aux plans de zonage.
+
+MESSAGE CLE :  Lagriculture a t et demeure le pilier de lambition dmergence du pays mais il est possible et mme ncessaire de limiter son impact carbone. La gestion durable des forts permettra daugmenter le puits carbone. Cette croissance bas-carbone apportera dimportants Co-bnfices (dveloppement conomique et social, cration demplois, amlioration de lenvironnement et de la sant, etc.).
+
+- Reboisement ;
+
+- Utilisation des inhibiteurs de nitrification ;
+
+MESSAGE CLE :  Porter  25 % la part des nergies renouvelables hors grande hydro dans le bouquet - Promotion de lefficacit nergtique;
+
+- clairage efficace avec les ampoules fluo compactes;
+
+- clairage efficace avec LED;
+
+- Efficacit nergtique dans l'industrie;
+
+- clairage de bureau efficace avec LED;
+
+- clairage public efficace;
+
+- Efficacit nergtique de service ;
+
+- Rseaux lectrique efficaces ;
+
+- Mini hydrolectricit hors rseau ;
+
+- Gestion durable et efficace des dchets, - Renforcement des politiques de gestion des de mthane) ;
+
+- Biogaz dans les fermes rurales substituant le bois de feu non renouvelables ;
+
+- Le biogaz dans les grandes fermes ;
+
+- Biogaz manant des eaux uses industrielles ;
+
+- Recyclage des plastiques ;
+
+- Combustibles issus de dchets municipaux solides ;
+
+- Biogaz issu des dchets solides municipaux ;
+
+- Compostage des dchets solides municipaux.
+
+- PV solaire grand rseau ;
+
+- PV solaire petit rseau isol 100 % solaire ;
+
+- Lampadaires solaires.
+
+Le scnario des mesures inconditionnelles dattnuation comprend des options de rduction sur lesquelles le Cameroun sengage dans le cadre de sa Contribution Dtermine au niveau National (CDN) tenant compte de son contexte national et de ses capacits internes. Lobjectif inconditionnel se traduit, en termes absolus pour 2030, par des missions  hauteur de 104 187 Gg Eq. CO2. Lensemble des mesures inconditionnelles, dun cot denviron 25 784,66 millions USD, permettent de rduire les missions projetes pour lanne 2030 de 14 898 Gg Eq. CO2, soit 12 % des missions dans le scenario BAU 2030.
+
+La CDN rvise du Cameroun, prsente un objectif dattnuation global de 35 % avec 32 options de rduction dans les secteurs cibles (mesures inconditionnelles et conditionnelles)  lhorizon 2030 par rapport au scnario de rfrence (BAU 2030). Ce nouvel objectif de rduction indique la volont du pays  revoir  la hausse son ambition dattnuation par rapport  la premire version de la CDN (objectif de 32 % de rduction). Il se traduit, en termes absolus pour 2030, par des missions rduites de 14 898 Gg Eq CO2 (inconditionnelles) et un surplus de rduction de 27 361 Gg Eq C02 (conditionnes) si le Cameroun reoit lappui ncessaire pour la mise en uvre des mesures additionnelles proposes.
+
+1. Informations quantifies sur le point de rfrence, y compris, le cas chant, Type de contribution Un objectif de rduction des missions assorti dactions et reparti en 12% inconditionnel et 23% conditionn au financement, dactions de renforcements de capacit et de transfert de technologies.
+
+(porter le taux de croissance annuel de 4,5%  8,1% en moyenne sur la priode 202-2030 ; ramener le dficit de la (ramener le taux de pauvret de 37,5% en 2014  moins de 25% en 2030) ; prservation environnementale et maitrise des risques climatiques (renforcer les actions en matire de gestion durable des ressources naturelles, renforcer les changements climatiques et la gestion environnementale dveloppement durable et inclusif) ; renforcement de la dveloppement).
+
+Objectifs sectoriels principaux Scnario CDN : (i) verdissement (intensification, sdentarisation) de la politique agricole ; (ii) gestion durable des forts (iii) augmentation de loffre nergtique lhorizon 2035.
+
+Ambition de la Contribution Lobjectif de rduction des missions du Cameroun reprsente un effort significatif pour un pays dont les missions restent insignifiantes  lchelon international et dont le PIB par habitant se situe au 99me rang mondial et 16me rang en Afrique (2020, Banque Mondiale).
+
+La quantification des indicateurs de rfrence a t faite  partir des donnes de linventaire national des missions des GES labor en suivant les mthodologies et les lignes directrices du GIEC de 2006 dans le cadre de la troisime climatiques (TCN).
+
+Les informations sur les mises  jour effectues seront dans les rapports biennaux sur la transparence et ce  par la CMA.
+
+Engagement inconditionnel de rduction des missions de scenario BAU avec les niveaux de soutien international en un soutien international plus important.
+
+La CDN du Cameroun concerne lensemble de lconomie.
+
+Autres Affectations des Terres (AFAT), nergie, Procds Des Produits (PIUP) et Dchets.
+
+Les principaux gaz concerns sont les gaz  effet de serre inclus dans les lignes directrices 2006 du GIEC notamment CO2, CH4, N2O.
+
+CP.21.
+
+a. Informations sur les processus de planification que le pays partie a entrepris pour prparer sa CDN et, le cas chant, sur les plans de mise en uvre du pays partie, y compris, le cas chant :
+
+Le dispositif institutionnel de mise en uvre et de suivi de la CDN, prsente un organigramme incluant les rles et les qualits des membres depuis les services du Premier Ministre jusqu la socit civile et les groupes vulnrables en passant par les ministres sectoriels et les ONG.
+
+Il en est de mme de groupes de travail et le mcanisme de suivi et reporting sans oublier le systme national dinventaire des GES. Ce dispositif va assurer loprationnalisation de la CDN au Cameroun.
+
+Position gographique :
+
+Grce  sa large extension latitudinale (2-13N sur plus de superficie de 475 000 km2, le Cameroun est bord au nord- ouest par le Nigeria (sur 1 720 km), au nord par le Tchad (1 122 km),  lest par la Rpublique Centrafricaine (822 km), au sud par le Congo (520 km), le Gabon (298 km) et la ouverture de 364 km de cte sur locan Atlantique.
+
+Climat :
+
+Economie nationale :
+
+(concernes par les productions vgtales et animales, et, spcialises dans llevage).
+
+2030 ; Porter la croissance du secteur secondaire (hors ptrole)  plus de 8% en moyenne ; Ramener le dficit de la Dveloppement durable : le Cameroun envisage renforcer les actions en matire de gestion durable des ressources naturelles;
+
+Lutte contre la pauvret : le gouvernement camerounais dans sa dclaration de stratgie de lutte contre la pauvret proportion de la population qui vit en dessous du seuil de 2030 ; Ramener le sous-emploi de 77% en 2014  moins de 50% en 2030 ; Porter lIndice du Capital Humain de 0,39 0,52 en 2016  0,70 en 2030.
+
+4 de lAccord de Paris.
+
+d. Chaque Partie ayant une CDN au titre de larticle 4 de lAccord de Paris qui consiste en des mesures dadaptation et/ou des plans de diversification conomique aboutissant  des co- avantages dattnuation conformes au paragraphe 7 de larticle 4 de lAccord de Paris  soumettre des informations sur:
+
+i. Comment les consquences conomiques et sociales des mesures de rponse ont-elles t prises en compte dans le dveloppement de la CDN pche.
+
+5. Hypothses et approches mthodologiques, y compris les missions anthropiques de gaz  effet de serre et, le cas chant, les absorptions adoptes par la CMA.
+
+Paris, le cas chant.
+
+Linventaire national actuel des GES du Cameroun labor conformment  la dcision 24 / CP.19 et a utilis les Lignes directrices 2006 du GIEC.
+
+Mthodologies : Lignes directrices 2006 du GIEC pour les inventaires de gaz  effet de serre.
+
+e. Hypothses, mthodologies et approches propres au secteur,  la catgorie ou  lactivit, conformment aux orientations du GIEC, le cas chant, y compris, le cas chant :
+
+Toutes les estimations des missions et absorptions issues de linventaire national des GES du Cameroun inclus dans exclure les missions issues des perturbations naturelles.
+
+Les effets de la structure des classes dge dans les forts Considration.
+
+f. Autres hypothses et approches mthodologiques utilises pour comprendre la contribution dtermine au niveau national et, le cas chant, estimer les missions et absorptions correspondantes, notamment :
+
+Linventaire national des missions de GES de 2010, les lignes directrices du GIEC de 2006 ainsi que sur la base des informations et donnes reus des sectoriels en fonction de donnes et modles utiliss.
+
+2030.
+
+2021.
+
+Paris, le cas chant.
+
+6. Comment le pays partie considre que sa CDN est juste et ambitieuse  la situation nationale.
+
+32% des mission de GES  lhorizon 2035.
+
+Avec moins de 0,1% des missions totales de GES mondiales en 2010, les missions du Cameroun par habitant sont trs mondiale.
+
+De plus, le bilan des missions montre que le Cameroun demeure un puits carbone avec une capacit de squestration deux fois suprieur  ses missions.
+
+Historiquement parlant, le Cameroun a toujours eu un taux historiques extrmement basse compare  celles des pays industrialiss.
+
+Cela est bas sur la conception dune ide dquit globale ainsi que sur le constat de lurgence plantaire dans laquelle lhumanit dans son ensemble est engage.
+
+Le Cameroun prsente une actualisation de sa contribution dtermine au niveau national au titre de lAccord de Paris 4.2, 4.9 et 4.11 de lAccord de Paris, aux paragraphes 23 et pertinentes de lAccord.
+
+La CDN actualise reprsente une progression par rapport rduction des missions revu  la hausse par rapport  la prcdente CDN.
+
+Conformment  larticle 4.4 de lAccord de Paris, La CDN nationale.
+
+7. Comment la CDN contribue  la ralisation des objectifs de la Convention tels article 2.
+
+6a et 6b plus haut.
+
+Cameroun aux objectifs de larticle 2 de la Convention Cadre des Nations Unies sur les changements climatiques (CCNUCC) notamment : stabiliser les concentrations de linterfrence dangereuse et anthropique avec le systme climatique.
+
+Les sections 4 et 6 dtaillent lambition dattnuation du Cameroun qui contribuera  la ralisation de larticle 2 de la CCNUCC.
+
+Paris.
+
+Les sections 4 et 6 explicitent lambition de rduction des manire  la ralisation de larticle 2 de la CCNUCC.
+
+Le Cameroun du fait de son exposition, sa sensibilit et de sa faible capacit dadaptation demeure trs vulnrable aux changements climatiques. En effet, le rchauffement climatique est fortement ressenti et les scenarii de projections climatiques rcentes font tat dune augmentation des tempratures dans toutes les cinq zones agrocologiques du pays. La ZAE soudano sahlienne du septentrion, connaitra une augmentation de +0,7 C de temprature  lhorizon 2025 ; +1,2 C en 2035 ; +2,5 C en 2055 ; +3,6 C en 2075 et +4,8 C en 2100. Dans les quatre ZAE restantes, les augmentations de tempratures passeront de +0,6 C en 2025  +3,6 C en 2100.
+
+Concernant les prcipitations, les scnarii prvoient globalement un climat plus sec et moins pluvieux en ZAE soudano sahlienne avec nanmoins une augmentation de 0  +2% et une concentration des pluies dans lespace et le temps. Par contre, en dpit dun climat plus chaud et humide, il fait relever une rgression des pluies de lordre de -1  -5% en ZAE Hautes savanes (Adamaoua) et Hauts plateaux (hautes terres), puis, de -2  0% en ZAE forestire bimodale, et enfin une augmentation de 0  +2% en ZAE ctire ou littorale entre 2021 et 2040 (Etude vulnrabilit, 2021). Toutefois, Il faut sattendre  une forte variabilit des prcipitations futures sur lensemble du territoire camerounais avec des valeurs de -12  +20 mm de pluie par mois (de -8  +17 %) dans les annes 2100.
+
+De plus, dans certaines rgions, le rchauffement climatique va entraner la diminution des rendements des cultures, de la productivit du btail et des pnuries en eau. Les phnomnes mtorologiques et climatiques extrmes tels que les scheresses et les inondations devraient tre plus frquents, avec des impacts ngatifs sur la sant et la vie humaine. Toutefois la ZAE soudano Sahlienne (exposs  la scheresse,  la dsertification et aux inondations extrmes) et la zone ctire (durement prouve par les inondations et la monte du niveau de la mer) sont les plus vulnrables.
+
+Aussi, les projections climatiques au Cameroun montrent-elles laugmentation de la frquence et de lamplitude des vnements extrmes suivants :
+
+Les scheresses : en ZAE soudano sahlienne. Compte tenu de laridit du climat, les scheresses vont sintensifier. Il faudra prvoir en moyenne cinq scheresses par dcennie pour un bilan dau moins 500 morts par vnements dans la ZAE soudano sahlienne (Etude vulnrabilit, 2021).  Les inondations : elles vont augmenter en nombre et en intensit dans les ZAE soudano sahlienne, ctire et forestire  pluviomtrie bimodale. En effet, les projections montrent au moins cinq  dix inondations par an suivant lintensit de pluies (MINEPDED, 2015a, Tchindjang, 2013, Etude vulnrabilit, 2021) ;
+
+Laugmentation significative de la population (27 millions dhbts) suscite de nombreux dfis en termes de bien-tre conomique et social qui est grandement tributaire de la viabilit des principaux secteurs de dveloppement. De plus, la population expose annuellement aux alas climatiques est passe de 320 000 (MINEPDED 2015)  environ 3 000 000 dmes (Etude vulnrabilit, 2021). Les tendances observes ci-dessus augurent des dfis pluriels croissants, notamment dordres conomiques et financiers, scientifiques ou technologiques. En effet, les consquences des changements climatiques pourraient rduire les efforts du Cameroun destins tant au dveloppement dune conomie forte diversifie et comptitive, quau renforcement de lunit nationale, la consolidation du processus dmocratique ; et par consquent limiter la ralisation de lmergence de la  vision 2035 .
+
+Fort de ces constats, il ressort que ladaptation aux changements climatiques revt toute son importance. Elle est dfinie comme un processus permettant aux socits de s'ajuster en rponse aux modifications de leur environnement, afin de limiter les impacts ngatifs des changements climatiques, voire de bnficier de consquences positives. Les stratgies d'adaptation visent  augmenter la rsilience et rduire la vulnrabilit des milieux, des organisations, des collectivits et des individus face aux effets connus ou anticips de l'volution du climat. La mise en place de telles actions gagne  tre combine avec les mesures de lutte contre les changements climatiques, qui visent notamment  rduire les missions de gaz  effet de serre3.
+
+Lobjectif et la vision du Cameroun pour ladaptation cest quen 2035,  les changements climatiques dans les cinq zones agro-cologiques du Cameroun sont compltement intgrs au dveloppement durable du pays, rduisant ainsi sa vulnrabilit, et transformant mme le problme des changements climatiques en une solution/opportunit de dveloppement. Ainsi les Camerounais particulirement les femmes, les enfants et les personnes vulnrables et les secteurs conomiques du pays vont acqurir une plus grande rsilience et une plus grande capacit dadaptation aux impacts ngatifs des changements climatiques.
+
+6.1 Les priorits de ladaptation et la rsilience au Cameroun Tableau 2 : Priorits dadaptation suivant chaque secteur et ODD correspondant Agriculture - Promouvoir une agriculture intelligente face au climat pour renforcer la rsilience et amliorer les investissements dans l'adaptation et renforcer la rsilience des communauts aux effets nfastes du changement climatique grce  un accs et une connectivit amliore, Energie - Assurer lapprovisionnement nergtique durable et procder  la certification de la rsilience climatique des infrastructures nergtiques Infrastructures - Construire des infrastructures, y compris des systmes ferroviaires, des aroports et des ports maritimes, qui rsistent au climat grce  l'intgration de mesures d'adaptation et de rsilience pour amliorer la durabilit.
+
+- Soutenir les infrastructures rgionales et amliorer le commerce et Renforcer la rsilience des corridors de transport rgionaux - Assurer la rsilience des systmes de transport urbain et rural Rsilience des populations - Renforcer la rsilience des communauts aux effets nfastes du changement climatique grce  un accs et une connectivit amliore, - Dvelopper les comptences humaines sensibles aux enjeux du - Mettre en place un mcanisme de suivi de ladaptation au changement - Renforcer lenvironnement des affaires pour accroitre les investissements visant le passage vers un dveloppement rsilient - Renforcer la mobilisation des ressources ncessaires pour le - Appuyer la promotion des initiatives sur lconomie circulaire et soutenir la cration des emplois dans le secteur du recyclage des dchets Lensemble des projets prsents correspondent aux axes stratgiques dfinis par la Stratgie Nationale de Dveloppement 2020-2030, le PNACC ainsi quaux attentes de la CDN rvise.
+
+Projet 1 : Mise en place dun systme dobservation, de gestion des informations et dalerte sur les risques climatiques au Cameroun ;
+
+Projet 2 : Actualisation du plan national de contingence au Cameroun et oprationnalisation du fonds durgence ;
+
+Projet 3 : laboration de Plan dAffectation des Terres sensibles aux risques climatiques ;
+
+Projet 4 : Sensibilisation de la population, des professionnels, des administrations et des dcideurs sur les effets des changements climatiques et sur les mesures  prendre ;
+
+Projet 5 : Rsilience des infrastructures et des systmes de dveloppement littoraux contre les effets des changements climatiques.
+
+La prsente CDN prend en compte les priorits des CTD et les piliers de la SND30. Elle comprend 12 projets dadaptation labors pour un cot total de 15.928 milliards de FCFA.
+
+Dans le cadre de la CDN actualise, les 15 projets sectoriels ont t revus, 12 titres ont t reformuls et un classement de fiches de projets par secteur a t fait pour les besoins de cohrence, et de priorits des CTD par piliers de la SND30 (en annexe). Pour les besoins de consistance, trois (projets 11, 12 et 20) sur les quinze projets avaient un fort potentiel dattnuation, il a donc t dcid de ne pas les conserver dans ce portefeuille de projets dadaptation. Les projections budgtaires des 12 projets dadaptation retenus. Les projections budgtaires desdites fiches slvent  15.928 milliards de FCFA pour la mise en uvre de 27 mesures dadaptation qui refltent la priorisation de ladaptation Secteur Programmes/projets prioritaires du PNACC Nombre de projets 2 Projet 8 : Rduction de la vulnrabilit des populations urbaines aux effets des changements climatiques Social Projet 13 : Renforcement et scurisation de laccs aux ressources en eau et aux services dassainissement dans un contexte de changement climatique.
+
+6.4 Programmes dadaptation incluant les projections lies aux cots dadaptation.
+
+Projet 2 : Rduction de la vulnrabilit de llevage aux effets des changements climatiques Projet 5 : Gestion intgre et valorisation des dchets puis promotion des initiatives dconomie circulaire Projet 6 : Promotion des technologies  bas carbone dans les procds industriels et les activits touristiques et artisanales.
+
+Projet 7 : Construire des infrastructures rsilientes au climat et renforcer la rsilience des systmes et des corridors de transport nationaux et rgionaux.
+
+Projet 9 : Rduction des atteintes  la fort ZAEs forestire, ctire et hautes savanes Projet 10 : Promotion du reboisement et de la restauration des paysages forestiers dgrads AMENAGEMENT DU TERRITOIRE / GESTION DES RISQUES 774 1,548 Projet 12 : Elaboration des plans ORSEC dans toutes les rgions et oprationnalisation des fonds durgence en cas de catastrophe.
+
+Projet 16 : Renforcement des capacits dadaptation du systme national de sant aux CC Projet 18 : Protection et amnagement du littoral contre les effets des changements climatiques Projet 19 : Rduction de la vulnrabilit des populations urbaines aux effets des CC Projet 20 : Promotion de la production fourragre et rduction des conflits agro-pastoraux fauniques dans la zone septentrionale.
+
+Projet 21 : Promotion de lagro-cologie et lutte contre lrosion et la dgradation des terres dans les hautes terres.
+
+Le Cameroun prendra les mesures suivantes pour mettre en uvre cette CDN, en assurer le suivi et le cas chant lactualisation.
+
+Fig.6 : Dispositif institutionnel de mise en uvre de la CDN Le dispositif institutionnel de mise en uvre et de suivi de la CDN, prsente un organigramme incluant les rles et les qualits des membres depuis les services du Premier Ministre jusqu la socit civile et les groupes vulnrables en passant par les ministres sectoriels et les ONG. Il en est de mme de groupes de travail et le mcanisme de suivi et reporting sans oublier le systme national dinventaire des GES. Ce dispositif va assurer loprationnalisation de la CDN au Cameroun. Chaque groupe de travail devra bnficier dun volet renforcement des capacits qui permettra une meilleure circulation de linformation au sein des ministres, entre les diffrents ministres et les autres parties prenantes.
+
+Selon larticle 2 du dcret N079/CAB/PM du 05 septembre 2017, le comit interministriel a pour mission  de coordonner et suivre les diligences sectorielles relatives  la mise en uvre des recommandations de lAccord de Paris sur le rchauffement climatique . Le dcret N 2020/0998/ CAB/PM du 13 mars 2020 dans son article 3, dfinit le Comit Interministriel comme une  instance de rflexion multisectorielle institue pour adresser, une problmatique spcifique et complexe ayant un caractre transversal impliquant plusieurs administrations et/ou d'autres acteurs des secteurs concerns . Daprs le dcret N 2020/0998/ CAB/PM du 13 mars 2020, un groupe de travail interministriel est une  instance de rflexion multisectorielle institue afin d'adresser, une problmatique spcifique et complexe ayant un caractre transversal et impliquant plusieurs administrations et/ou d'autres acteurs des secteurs concerns.
+
+Le dcret du 3 octobre 2012 sur lorganisation du MINEPDED en son article 1 prcise que le MINEPDED est  responsable de llaboration et de la mise en uvre de la politique du Gouvernement en matire denvironnement et de protection de la nature, dans une perspective de dveloppement durable . A ce titre, il est tout  fait justifi que le MINEPDED assure la coordination CDN. Il joue un rle de premier plan dans le suivi de la CDN tout en assurant le bon fonctionnement des groupes de travail sans oublier le reporting  linternational avec le CCNUCC.
+
+Cette proposition intgre pour chaque groupe, son responsable, sa composition, les partenaires des agences parapubliques, prives, socit civile, la composition transversale (reprsentants de la dcentralisation et collectivits), des ministres reprsentants de genre, des groupes vulnrables et le renforcement des capacits. Le but est de donner aux diffrents groupes toute lenvergure ncessaire et aussi une vision globale des partenaires quils peuvent consulter pour une question ou pour une autre en complment de ses membres statutaires.
+
+Tableau 4 : Rles et responsabilits des diffrents acteurs dans la mise en uvre de la CDN Organe dorientation politique et darbitrage entre les diffrentes parties prenantes MINEPDED et coordination nationale de la CDN et du changement climatique - Promouvoir le renforcement des capacits nationales en matire de CC Dcliner les priorits stratgiques de la CDN dans leurs cadres de planification oprationnels - Promouvoir le renforcement des capacits dans leur domaine thmatique leur domaine et reporter au sous-groupe reporting, suivi et valuation - Mener des tudes, analyser et modliser, renforcer des capacits - Assurer loprationnalisation des rsultats des tudes.
+
+- Relayer aux niveaux des communes, des chefferies et des populations les actions contenues dans la CDN - Collaborer avec la CNCC pour le suivi de la mise en uvre de la CNUCC - Appropriation de la CDN et intgration du CC dans la planification des activits et les investissements - Ils jouent un rle complmentaire dans lanalyse et la production de donnes, notamment dans une perspective dinnovation technologique ?
+
+- Outil de calcul et reportage des missions annuelles globales et sectorielles de GES - Intensit carbone du PIB et des principaux secteurs en 2015, 2020, 2025, 2030 - Caractrisation des indicateurs dadaptation et de vulnrabilit - Suivi de laffectation des terres agricoles - Codage et suivi des dpenses et financements lis aux - Suivi des actions et des indicateurs de la mise en uvre de la CDN - Suivi des recettes et dpense climat dans le budget national - Suivi des ressources, recettes et dpenses nationales globales lies au climat - Communication horizontale, verticale et transversale - La priodicit de la CDN est de 5 ans, sauf indication contraire issue des COP Lvaluation des besoins en technologies pour la mise uvre de la CDN est dpendante des priorits nationales en termes de dveloppement conomique et social. Ces besoins sont troitement lis aux secteurs dactivit et aux technologies prioritaires en matire de lutte contre le changement climatique.
+
+Le tableau ci-dessous recensent les technologies propres considres comme pertinentes (maximisent les rductions des missions de GES tout en maximisant lefficacit de lactivit), en prenant en compte le stade de dveloppement technologique du pays, en vue de garantir que les technologies retenues est possible avec un renforcement des capacits  technologiques  nationales dintensit moyenne (et donc  un cot  raisonnable ).
+
+Agriculture Pratique dirrigation intermittente des rizires (Rduction du CH4 des cultures de riz) Supplmentation en matires grasses dans l'alimentation des ruminants Pyrolyse des rsidus agricoles (Biochar, biogaz, biofuel) Energie Biomasse Combustion directe pour production dlectricit Efficacit nergtique dans le btiment  Lampes  Basse Consommation (LBC)  Production dnergie lectrique ou thermique par combustion des dchets Collecte de mthane dans les sites denfouissage pour production dlectricit et de chaleur 7.2 Financement : besoin dappui financier pour la mise en atteindre lobjectif vis en 2030 sont valus  25 784,66 millions USD soit 12 785 milliards FCFA. Le tableau 4 donne plus de dtails sur les besoins Tableau 4 : cots des investissements dattnuation (en millions USD) Viabilisation et exploitation durable dau moins 15 % du potentiel des terres amnageables et irrigables.
+
+Supplmentation en matires grasses dans l'alimentation des ruminants (% de matires grasses DM ajoutes) Introduction 12 % de supplmentation en matires grasses dans l'alimentation des ruminants Mise en place des conditions daccs  lalimentation du cheptel bovin Dveloppement des 12500 ha plantations fourragres dans la zone soudano-sahlienne et hautes savanes Utilisation par 5 % des agriculteur dindicateurs de nitrification  lhorizon 2030 Intensification et sdentarisation des systme agricoles intgr et sobre en carbone Production des bio-engrais et utilisation des inhibiteurs de nitrification Mise en dfend de 3 299 000 ha de fort sur lensemble du territoire national Mise en place de barrires de contrle, formation et installation des cogardes, afin de mener des patrouilles permanentes dans lensembles des aires protges.
+
+Energie Implantation des Mini hydrolectricit hors rseau Mise en place des centrales hydrolectriques de 600 MW de puissance Substitution de 5 % des vhicules  nergie fossile par des voitures lectriques  lhorizon 2030 Installation dclairage efficace de 20 millions dampoules fluocompactes Installation dclairage efficace de 20 millions dampoules LED Rduction de la consommation nergtique du secteur industriel de 15 % Installation dclairage efficace de 2 millions dampoules fluocompactes et LED Production et Vulgarisation des foyers amliors et du gaz naturel (mthane) Distribution 500 000 foyers amliors dans la zone Soudano- Sahlienne Mise en place des centres intercommunaux de gestion des dchets dans les dix rgions du Cameroun Installation des biodigesteurs dans 10 % les fermes rurales Installation des biodigesteurs dans 5 % des grandes fermes Mise en place dunits de collecte et de recyclage des dchets plastiques Collecte et valorisation du biogaz dans les stations de traitement de dchet des eaux uses industrielles Valorisation des dchets organiques  des fins agricoles Mise en place dune conomie circulaire au Cameroun.
+
+Totaux 25784,66 A lhorizon 2030, la part dinvestissement pour lattnuation est value  25 784,66 de million USD. Ce montant est reparti selon les actions prioritaires du pays en matire de changement climatique et de dveloppement. Le secteur de lEnergie a la plus grand montant avec 14322,56 millions USD. Le secteur de lAgriculture totalise 7485,3 millions USD, le reste est reparti  hauteur de 2974,84 USD pour le secteur Foresterie et 1001,99 pour le secteur des Dchets. valus  31 856 millions USD soit 15 928 milliards FCFA. Le tableau 5 donne plus de dtails  ce sujet.
+
+Tableau 5 : cots des investissements dadaptation (millions USD) Secteurs Interventions/Investisseme nts 2021-2030 (En Mds USD) dans le cadre de cette CDN en 2030 slve  57 640 millions USD, soit 28 713 milliards de FCA. Le Cameroun compte mobiliser les ressources (finances, technologies, ressources humaines) publiques et prives, aussi bien sur le plan domestique quau niveau international pour la mise en uvre des actions de cette CDN.
+
+Au niveau des sources publiques domestiques, au cours de la priode 2015-2020, le Cameroun a mobilis environ 162,35 millions USD pour les activits prvues ou en lien avec la mise en uvre des engagements pris dans le cadre de lAccord de Paris. Cet effort reprsente certes, 70,84% du total des financements nationaux et internationaux consacrs aux dites activits pendant cette priode, mais il est largement insuffisant par rapport aux besoins des activits inconditionnelles.
+
+Pour cette raison et conformment  loption prise dans la prcdente version de la CDN, le pays entend augmenter ses financements budgtaires en faveur des actions climatiques, soit  travers des dpenses budgtaires directes, soit par le canal des fonds spcifiques aliments notamment par le budget de lEtat. A ce sujet, le Cameroun compte progressivement renforcer la prise en compte des financements des actions dattnuation et dadaptation dans ses documents et instruments de rfrence, de cadrage et de planification gnraux et sectoriels afin de parvenir  une meilleure intgration des questions de changements climatiques dans le financement de ses actions de dveloppement.
+
+Paralllement  cet effort, le pays explorera les possibilits de gnrer de nouvelles recettes pouvant contribuer au financement des activits de cette CDN, en faisant recours par exemple aux instruments fiscaux adapts (taxes, droits, obligations, prlvements, fiscalit environnementale). La possibilit dutiliser dautres outils fiscaux (subventions, allgements fiscaux, garanties ) pour susciter des investissements privs compatibles avec les objectifs de la CDN pourrait tre galement envisage.
+
+Jusqu prsent, limplication du secteur priv dans la mobilisation des ressources pour les actions dattnuation et dadaptation au Cameroun est timide. Au regard de ce constat, la participation du secteur priv constitue un des principaux dfis de la mise en uvre de la prsente CDN.
+
+Le Cameroun devra donc, plus que par le pass, mobiliser la contribution des acteurs privs (entreprises prives, bailleurs de fonds privs) internationaux et domestiques dans le cadre de la planification et de la mise en uvre des interventions contre le changement climatique. A cet effet, le Cameroun sefforcera  mettre en place un environnement favorable pour attirer les ressources prives, notamment en crant ou en amliorant lattractivit de lenvironnement commercial gnral du pays ainsi que celle de lenvironnement dinvestissement spcifique aux actions de la CDN.
+
+Il sagira entre autres damliorer les rglements et procdures commerciales, damliorer les infrastructures, de fournir des incitations non financires (renforcement de capacits, assistance technique, projets de dmonstration ou pilotes, tudes, donnes), du recours aux outils fiscaux incitatifs etc. Il sera aussi question dutiliser les fonds publics pour catalyser les flux financiers privs,  travers notamment les partenariats public-priv (PPP) dans le cadre dun dveloppement sobre en carbone et rsilient aux changements climatiques. Enfin, Certains investissements privs pourraient contribuer  gnrer des actifs carbones dont la cession au niveau international pourrait financer certaines actions de cette CDN.
+
+Au cours de la priode 2015-2020, Les ressources mobilises au niveau international pour les activits prvues ou en lien avec la mise en uvre des engagements pris dans le cadre de lAccord de Paris ont t values  environ 51,41 millions USD seulement. Ce montant est largement insignifiant par rapport  laccompagnement qui tait attendu de la communaut internationale dans le cadre des activits conditionnelles de la CDN.
+
+Au regard de ce constat, le Cameroun entend dployer plus defforts pour mobiliser les ressources  partir des financements bilatraux, des fonds climatiques multilatraux et des fonds multilatraux non axs sur le climat. A ce sujet, le Cameroun voudrait se donner les moyens de travailler non seulement avec les grands fournisseurs de ressources ou les plus en vue (Fonds Vert pour le Climat, Fonds Spcial pour les Changements Climatiques, Fonds pour lAdaptation, FEM, FIDA, FCPF, Fonds pour les Technologies Propres, ), mais aussi avec les autres fonds auprs desquels il est ligible (environ une trentaine active).
+
+Dans le but dassurer une mise en uvre efficace, ces mesures font lobjet dun plan daction accompagn dun dispositif de suivi valuation dans le cadre dune stratgie de mobilisation des ressources pour limplmentation de la CDN.
+
+Latteinte de cet objectif tout comme la ralisation des ambitions exprimes plus haut en ce qui concerne les financements publics domestiques et les ressources prives va ncessiter une combinaison de mesures  caractre politique, lgale, rglementaire, institutionnelle et technique qui ont t approuves par les parties prenantes du processus CDN dans le cadre dun plan de mobilisation des ressources. Il sagit notamment :
+
+Du renforcement, de la rforme et/ou de la mise en place de cadres politique, lgal, rglementaire et institutionnel adquat par rapport aux exigences de mobilisation et gestion optimale des ressources. Rfrence est faite ici par exemple  la rglementation sur la fiscalit environnementale et autres financements innovants ;  laccrditation dentits nationales auprs des principaux fonds internationaux et  la cration par exemple dun fond climat national qui aurait pour missions, entre autres de coordonner la mobilisation des ressources destines  la lutte contre les changements climatiques ou  la dvolution de cette responsabilit aux entits nationales accrdites. Dans ce cadre, le processus daccrditation du MINFI et du FEICOM en cours et la mise en place du Comit Interne de Coordination de Projets lis  la Finance Climatique au sein du MINEPDED constituent des avances. En plus de ces deux institutions intervenant pour financer la CDN lune au niveau national et la seconde  lchelle des rgions, il est envisag de susciter et de faciliter laccrditation dune autre structure spcialise dans le financement des micro-projets dadaptation.
+
+Du Renforcement de la gouvernance et de lamlioration du climat des affaires. Il sagit dune part, de mesures de diverses natures lies  la participation,  la reddition des comptes,  la transparence,  lefficacit et  lefficience dans la gestion des fonds et, dautre part, de toutes actions de nature  amliorer le rang du Cameroun dans le classement  Doing Business  ;
+
+Du renforcement de capacits (a) dans les domaines relatifs aux changements climatiques en gnral (b) en matire de montage, excution, suivi-valuation des projets/programmes ligibles aux diffrents fonds et (c) en matire de recherche et mobilisation des ressources en fonction des exigences des principaux fonds. Le renforcement de capacits devra dboucher entre autres sur la mise en place dune banque de projets et programmes pouvant faire lobjet de propositions aux fournisseurs de ressources ;
+
+De lamlioration de la communication ainsi que du dveloppement de la coopration et des partenariats. Les principales actions de ce chapitre sont(a) le dveloppement et la mise en uvre dune stratgie dinformation, de communication et de lobbying (b), lorganisation de campagnes de lobbying de haut niveau et de tables rondes de fournisseurs de ressources et en particulier la sensibilisation des banques  restructurer leur portefeuille qui devra privilgier les projets ddis au verdissement de lconomie, (c) le renforcement de la collaboration rgional pour la mobilisation des financements dans le cadre par exemple des organisations comme la COMIFAC, la CBLT, la Commission Climat du Sahel et (d) le renforcement de la collaboration avec des organisations internationales, les entits rgionales et multilatrales accrdites et les entits de mise en uvre des diffrents fonds. A ce sujet, la collaboration en cours entre lUICN et le Gouvernement pour la mobilisation dune trentaine de millions de USD auprs du FVC constitue un exemple pouvant faire tache dhuile.
+
+En termes de la formation permanente, il est envisag de susciter en lien avec le Ministre de lEnseignement Suprieur, la mise en place des curricula nouveaux en mesure dadresser les besoins de capacits manant du secteur de la finance climatique et du verdissement de lconomie.
+
+Programme 01 : Mettre  niveau les systmes nationaux de collecte de donnes hydro mtorologiques, danalyse, de prvision, d'information, dalerte prcoce, et renforcement des capacits ;
+
+Programme 02 : Actualisation des plans de contingence national, rgionaux et dpartementaux, accroissement et oprationnalisation du fonds durgence ;  Programme 03 : Dveloppement des programmes Risques climatiques et Plan dAffectation des Terres ;
+
+Programme 04 : Sensibilisation de la population, des professionnels, des administrations et des dcideurs sur les effets des CC et sur les mesures  prendre ;  Programme 05 : Protection et amnagement du littoral contre les effets des changements climatiques ;
+
+Programme 06 : ducation, formation professionnelle et renforcement des capacits sur les CC ;
+
+Programme 07 : Adaptation des rfrentiels techniques de construction des infrastructures aux effets des CC ;
+
+Programme 08 : Rduction de la vulnrabilit des populations urbaines aux effets des CC ;
+
+Programme 09 : Amlioration de la gouvernance foncire locale en rponse aux  Programme 10 : Adaptation de la politique nationale genre et rduction de leur vulnrabilit au CC ;
+
+Programme 11 : CC et gestion intgre de dchets mnagers, collecte et valorisation  Programme 12 : Diversification de loffre nergtique dans un contexte de changement climatique ;
+
+Programme 13 : Renforcement et scurisation de laccs aux ressources en eau et aux services dassainissement dans un contexte de changement climatique  Programme 14 : Renforcement des capacits dadaptation du systme de sant nationale, face aux CC ;
+
+Programme 15 : Prise des CC dans le dveloppement des activits touristiques et  Programme 16 : Dveloppement dune agriculture intgre et rsiliente face aux effets des CC ;
+
+Programme 17 : Rduction de la vulnrabilit de llevage aux effets des changements climatiques ;
+
+Programme 18 : Rduction des effets des changements climatiques sur le secteur halieutique ;
+
+Programme 19 : Rduction de la vulnrabilit des forts aux changements climatiques au Cameroun ;
+
+Programme 20 : Prise en compte du CC dans le dveloppement des industries au Cameroun ;
+
+Annexe 2 : Cot dinvestissement par secteur aux horizons 2025 Fort et faune 14 407 21 610,5 7 203,3 27 373,3 12 966,3 Eau et Energie 222 845 334 267,5 111 422,5 423 405,5 200 560,5 Mines et industries 8 237 12 355,5 4 118,5 15 650,3 7 413,3 Sant humaine 188 815 283 222,5 94 407,5 358 748,5 169 933,5 Tourisme et loisir 9 079 13 613,5 4 539,5 17 250,1 8 171,1 MINDEF 226 333 339 499,5 113 116,5 426 432,6 200 099,7 MINEDUB 226 015 339 022,5 113 007,5 425 828,5 199 813,5 Annexe 3 : Planification budgtaire des actions dattnuation (en Agriculture Foresterie Energie Dchets Totaux 2021-2025 Totaux 7 485,30 2 974,81 14 322,56 1 001,99 25 784,66  Biogaz dans les fermes rurales substituant le bois de feu non renouvelables ;
+
+Biogaz manant des eaux uses industrielles ;
+
+Biogaz issu des dchets solides municipaux ;
+
+Combustibles issus de dchets municipaux solides ;
+
+clairage de bureau efficace avec des ampoules fluo compactes :
+
+clairage de bureau efficace avec LED ;
+
+clairage efficace avec LED ;
+
+clairage efficace avec LED remplaant les fluo compactes ;  clairage efficace avec les ampoules fluo compactes ;
+
+clairage public efficace ;
+
+Efficacit nergtique dans l'industrie ;
+
+Efficacit nergtique de service ;
+
+Gestion durable et Rgnration assiste des forts ;
+
+Lampadaires solaires.
+
+Le biogaz dans les grandes fermes ;
+
+Mini hydrolectricit hors rseau ;
+
+PV solaire grand rseau ;
+
+PV solaire petit rseau isol 100% solaire ;
+
+Reboisement ;
+
+Recyclage des plastiques ;
+
+Rduction du CH4 des cultures de riz ;
+
+Rseaux lectrique efficaces ;
+

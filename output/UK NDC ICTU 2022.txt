@@ -1,0 +1,334 @@
+United Kingdom of Great Britain and Northern Irelands Nationally Determined Contribution Presented to Parliament by the Secretary of State for Business, Energy, and Industrial Strategy by Command of His Majesty Updated: September 2022 United Kingdom of Great Britain and Northern Irelands Nationally Determined Contribution Presented to Parliament by the Secretary of State for Business, Energy, and Industrial Strategy by Command of His Majesty Updated: September 2022 United Kingdom of Great Britain and Northern Irelands Nationally Determined Contribution The Paris Agreement provides for the international community to keep the increase in global average temperature to well below 2C above pre-industrial levels, and to pursue efforts to limit the temperature increase to 1.5C.
+
+In December 2020, the United Kingdom of Great Britain and Northern Ireland (the UK) communicated its Nationally Determined Contribution (NDC) to the United Nations Framework Convention on Climate Change (UNFCCC) in line with Article 4 of the Paris Agreement. In its NDC, the UK commits to reducing economy-wide greenhouse gas emissions by at least 68% by 2030, compared to 1990 levels.
+
+At COP26 in November 2021, which the UK hosted in Glasgow, Parties resolved to pursue efforts to limit global temperature increase to 1.5C. They recognised that this would require rapid, deep and sustained reductions in greenhouse gas emissions and accelerated action in this critical decade to 2030.
+
+Parties also agreed in paragraph 29 of the Glasgow Climate Pact to revisit and strengthen the 2030 targets in their NDCs as necessary to align with the Paris Agreement temperature goal by the end of 2022, taking into account different national circumstances"1.
+
+In light of the Glasgow Climate Pact and the urgency conveyed by the latest science, the UK has been through a process to revisit its NDC and ensure it is aligned with the Paris Agreement temperature goal, whilst exploring ways to strengthen it in line with best practice. This process involved analysis of a range of factors including the latest available science, expectations in the Paris Agreement and the Glasgow Climate Pact, the UKs existing 2050 net zero commitment, and energy security, as well as advice and evidence from the Climate Change Committee and other independent commentators.
+
+The UK has strengthened its NDC in several ways, and these updates are reflected in the information to facilitate clarity, transparency and understanding (ICTU) accompanying the NDC, in compliance with Decision 4/CMA.12. In summary, these updates include:
+
+Agreement temperature goal;
+
+The UK submitted its updated Adaptation Communication3 to the UNFCCC in October 2021, ahead of COP26, in compliance with Decision 9/CMA.14. The Adaptation Communication sets out the UKs domestic and international ambition and action on adaptation and resilience. The UK submitted its first Finance Biennial Communication to the UNFCCC in 20205 in fulfilment of Article 9.5 of the Paris Agreement. The UK will submit its second Finance Biennial Communication by the end of 2022.
+
+In line with Article 4, paragraph 8 of the Paris Agreement and Decision 4/CMA.1 the UK submits the following ICTU.
+
+1990.
+
+For hydrofluorocarbons (HFCs), perfluorocarbons (PFCs), sulphur hexafluoride (SF6) and nitrogen trifluoride (NF3) the reference year is 1995.
+
+These reference years are consistent with those used in the UKs domestic emissions reduction targets under the Climate Change Act (2008).
+
+Reference indicator: Net6 greenhouse gas (GHG) emissions in MtCO2e.
+
+The reference indicator (MtCO2e) in the reference years (1990 and 1995) will be based on the 1990-2030 UK GHG Inventory submitted to the UNFCCC in 2032. The value for the target year (2030) will be based on applying a 68% fixed percentage reduction target to the reference indicator value.
+
+Not applicable7.
+
+1 January 2021 - 31 December 2030.
+
+Single-year target in 2030.
+
+7 The use of not applicable acknowledges that certain guidelines are not always relevant to a Partys NDC depending on the type of NDC target that has been set.
+
+The sectors, gases, categories and pools covered by the UKs NDC are based on the 2006 IPCC Guidelines for National Greenhouse Gas Inventories, the 2013 IPCC Kyoto Protocol Guidelines in the future.
+
+Energy (including transport); Industrial Processes and Product Use (IPPU); Agriculture;
+
+Land-use, Land-Use Change and Forestry (LULUCF); and Waste.
+
+CO2, CH4, N2O, HFCs, PFCs, SF6 and NF3.
+
+All LULUCF pools are included in the NDC: above ground biomass, below ground biomass, litter, deadwood soil organic carbon and stocks of harvested wood products.
+
+The UKs NDC includes all IPCC sectors and GHGs covered by the UKs current reporting obligations under the United Nations Framework Convention on Climate Change (hereafter referred to as the Convention) and the Kyoto Protocol.
+
+The NDC for the United Kingdom of Great Britain and Northern Ireland (the UKs NDC) encompasses emissions and removals from England, Scotland, Wales and Northern Ireland. It also includes emissions and removals from the UK Crown Dependency of the Bailiwick of Jersey and the Overseas Territory of Gibraltar, following the extension to them of the UKs ratification of the Paris Agreement (and hence the territorial scope of the UKs NDC). Extension of the UK ratification of the Paris Agreement to the Crown Dependencies of the Bailiwick of Guernsey and to the Isle of Man is in progress and expected to be completed shortly. The UK Government (here on referred to as His Majestys (HM) Government) is consulting with other UK Overseas Territories on extension to them of the UKs ratification of the Paris Agreement.
+
+In the UK GHG Inventory submission to the UNFCCC, the UK reports emissions on behalf of the Crown Dependencies (Jersey, Guernsey, Isle of Man) and the Overseas Territories (Bermuda, Cayman Islands, Falkland Islands, Gibraltar) which are covered by the UKs ratification of the Convention. Collectively, emissions from these Crown Dependencies and Overseas Territories currently constitute approximately 1% of total UK emissions 8.
+
+Emissions from International Aviation and Shipping are not included in the scope of this NDC, in line with advice from the Climate Change Committee (CCC), the UKs independent advisors. The UK currently reports these emissions as a memo item in the UKs GHG Inventory,9 and is supportive of efforts to reduce these emissions through action under the International Civil Aviation Organisation and the International Maritime Organisation. 8 Under the UKs Climate Change Act the scope of emissions covered is limited to those emitted in the UK and UK coastal waters. Therefore, emissions from UK Crown Dependencies and Overseas Territories are not included in UK carbon budgets.
+
+Not applicable.
+
+The United Kingdom of Great Britain and Northern Ireland is a Party to the UNFCCC and the Paris Agreement. The UKs NDC represents a single, economy-wide emissions reduction Dependencies and Overseas Territories that the Paris Agreement has been extended to (See section 3c). The UK employs a range of institutional structures  at national, sub- national and local level - to enable economy-wide emissions mitigation, as well as numerous policies and measures to underpin delivery.
+
+The Department for Business, Energy and Industrial Strategy (BEIS) is responsible for the strategic oversight of the UKs international climate and energy policy, and for HM Governments domestic climate and energy policy. The Devolved Administrations10 in Scotland, Wales and Northern Ireland and the Crown Dependencies and Overseas Territories have control over certain policy areas to deliver emissions reductions, while HM Government retains control over a number of other policy areas. The approach taken by each government will differ, drawing on the range of powers at their disposal.
+
+The legally binding Climate Change Act 2008 sets a framework for the UK to reduce GHG emissions and build capacity to adapt and strengthen resilience to climate risks11. The Act originally committed the UK to cut its emissions by at least 80% below the 1990 baseline level by 205012. On 27 June 2019, this target was amended, committing the UK to a legally- binding target of net zero emissions by 2050, set on a whole-economy basis.
+
+The Climate Change Act introduced carbon budgets for the UK, which cap emissions over successive five-year periods and must be set 12 years in advance. The first six carbon budgets cover the period from 2008-37.
+
+The Act also established the Climate Change Committee (CCC)  the independent statutory mitigation and adaptation, including emissions reduction targets. When providing advice, the CCC considers a wide range of factors including the UKs international obligations under the Paris Agreement and the UNFCCC.
+
+As climate change policy is devolved, the Devolved Administrations in Scotland, Wales and Northern Ireland have their own statutory emissions reduction targets. The Crown Dependencies and Overseas Territories are also responsible for setting their own emission reduction targets. HM Government and the Devolved Administrations have established governance arrangements at ministerial and official level to co-ordinate the approach to meeting net zero. HM Government will work on delivery of the UK NDC with the Crown Dependencies and Overseas Territories that have had the Paris Agreement extended to them.
+
+Scotland has its own distinct framework of statutory climate change targets, set under the Climate Change (Scotland) Act 200913 and amended by the Climate Change (Emissions Reduction Targets) (Scotland) Act 201914. This legislation includes targets for Scotland to reach net zero greenhouse gas emissions by 2045, and interim targets of 75% and 90% reductions in emissions by 2030 and 2040 respectively, relative to a 1990-95 baseline. To help ensure delivery of the long-term targets, the Scottish framework also includes statutory annual targets for every year to net zero.
+
+Wales emission targets are set through the Environment (Wales) Act (2016)15. In March 2021, the Senedd increased its ambition and formally committed Wales to achieving net zero emissions by 2050. Alongside the net zero target, the Act was updated to reflect the revised interim targets and the second and third carbon budgets, which are now set as:
+
+Carbon Budget 2 (2021-25): 37% average reduction (without the use of international The Climate Change Act (Northern Ireland) 202216 received Royal Assent on 6 June 2022. This provides a basis for setting targets for the reduction of emissions. The Act includes a target of 100% reduction in emissions by 2050, against the 1990-95 baseline.
+
+For more information on the UK's and Devolved Administrations approach to tackling climate change, please see Chapter 3 in the UKs Eighth National Communication17 and the CCCs Insight Briefings18.
+
+The UK's NDC was informed by the UKs commitments under the Paris Agreement, the UKs legally binding net zero commitment and guidance from the CCC, amongst other factors.
+
+Devolved Administrations.
+
+The process to revisit and strengthen the UKs NDC in line with the Glasgow Climate Pact was led by BEIS and agreed through HM Government governance structures at official and Ministerial level, including through the Climate Action Implementation Cabinet Committee (see Section 6 for more on the process followed).
+
+Delivery of the UKs NDC will draw on a range of policies and measures already in place, as well as policies and measures that will be developed in the future.
+
+The UKs Net Zero Strategy, published in 2021, sets out how the UK will deliver on Carbon Budgets 4, 5 and 6 and the Nationally Determined Contribution, and keep us on track to achieve net zero greenhouse gas emissions by 205019. It includes policies and proposals to reduce emissions for each sector of the economy, and cross-cutting action to support the transition to net zero by 2050. The Net Zero Strategy was submitted to the UNFCCC in October 2021 as the UKs revised Long-Term Low Emission Development Strategy under Article 4, paragraph 19 of the Paris Agreement.
+
+Since publishing the Net Zero Strategy, economic conditions have changed significantly, due primarily to the Russian invasion of Ukraine. Energy prices and inflation have risen sharply, the former to record levels. The UK Prime Minister has therefore announced an independent review of the Governments approach to meeting its net zero 2050 target, to ensure it is delivered in a way that is pro-business and pro-growth.
+
+Underpinning the Net Zero Strategy the UK has also published a range of sectoral strategies, which will support delivery of the NDC by 2030. These include the Energy White Paper20, the North Sea Transition Deal21, the Industrial Decarbonisation Strategy22, the Transport Decarbonisation Plan23, the Hydrogen Strategy24 and the Heat and Buildings Strategy25. Most recently, the British Energy Security Strategy26 sets out how Great Britain will accelerate homegrown power for greater energy independence 27.
+
+As COP Presidency the UK also built international support for, and signed up to, a range of sectoral pledges announced at COP26 in November 2021. These include the Global Coal to Clean Power Transition Statement28, the Statement on international public support for the clean energy transition29, the Glasgow Leaders Declaration on Forests and Land Use30, the Glasgow Breakthroughs Agenda on clean energy, road transport, steel, hydrogen and agriculture31, the Zero Emission Vehicles (ZEVs) Declaration32, the Product Efficiency Call to Action33, and the Global Methane Pledge34.
+
+Since its NDC was first communicated in December 2020, the UK has made progress on a range of specific policies and measures that will support delivery of the NDC. For example, as of September 2022, when the UK submitted its updated NDC, the UK has:
+
+Invested substantially in clean energy, committing up to 1.7 billion to increase the capacity to meet the UKs 50GW target by 2050;
+
+Published the first three investor roadmaps for automotive, hydrogen and carbon capture, usage and storage (CCUS). These are the first in a series of roadmaps to be published over the course of 2022 for each sector of the Governments Ten Point Plan for a Green Industrial Revolution, showcasing how the UK is delivering on its green commitments;
+
+Launched the 240 million Net Zero Hydrogen Fund to drive the industry forward and developed plans for the next stage of the Hydrogen Village trial, where 2,000 occupied homes, offices and other buildings will all use 100% hydrogen for a period of at least 12 months;
+
+Committed to phase out unabated coal power by 2024 and to fully decarbonise the power system by 2035;
+
+Committed to ending HM Governments direct support for the fossil fuel energy sector overseas;
+
+Committed to ending the sale of new petrol and diesel vehicles by 2030, and for all launched a consultation on this in April 202235;
+
+Undertaken to explore updating and expanding Ecodesign product regulation which targets for ore-based steelmaking to reach near zero emissions by 2035. Additionally, the UKs agriculture sector will contribute towards the UKs NDC, and HM Government will support farmers to take up low carbon practices and technologies, simultaneously helping to improve business productivity and profitability gains. As highlighted in the Net Zero Strategy, one of the ways the UK will do this is through supporting actions that produce environmental benefits.
+
+The Net Zero Strategy built on the detail set out in the England Tree Action Plan36 and England Peat Action Plan37, on how the UK will use nature-based solutions (including peatlands and trees), to tackle climate change and help avert its impacts. Initiatives include:
+
+The 750m Nature for Climate Fund, which is helping to protect, restore, expand and support the resilience of habitats such as peat bogs and woodlands;
+
+Support for farmers and landowners to create woodland and restore peatlands; and  Exploration of setting a long-term tree planting target through the UKs Environmental Targets.
+
+Under the Kigali Amendment to the Montreal Protocol, the UK is taking ambitious action to phase down the UKs use of hydrofluorocarbons (HFCs). As committed to in the Net Zero Strategy, HM Government will conduct a review of the F-gas Regulation38 and publish a report in due course. This will set out any further measures the UK can take to reduce HFC use in favour of climate friendly, energy efficient alternatives.
+
+Collectively, these strategies, pledges, policies and measures will support delivery of the UKs NDC by 2030, as well as the UKs domestic carbon budgets and net zero by 2050. The Climate Change Committees Progress Report to Parliament, published in June 2022, delivering against its emissions reduction targets including the NDC39. HM Government will respond to the Committees report, and update on the progress made on the delivery pathway to Net Zero in due course.
+
+The UKs Adaptation Communication contains more details on the UKs adaptation plans.
+
+The UK will submit its Methane Memorandum at COP27 in November 2022.
+
+Under Scotlands statutory framework, a Climate Change Plan setting out policies and proposals to meet the emissions reduction targets must be published at least every five years and prepared with reference to a set of statutory Just Transition and Climate Justice principles. In March 2021, the Scottish Government updated its Climate Change Plan40 (which should be read alongside the original 2018 Plan41), setting out over 200 policies and proposals to cut greenhouse gas emissions across all sectors of the Scottish economy over the period to 2032. The updated Plan reflects the increase in target ambition from the Climate Change (Emissions Reductions Targets) (Scotland) Act 2019, in response to the global goals of the Paris Agreement.
+
+Under the Environment (Wales) Act, each new administration is required to set out a plan containing policies and proposals to meet the carbon budget. The Welsh Government has taken the first step towards a net zero pathway for 2050 in publishing Net Zero Wales42, in October 2021, covering Waless second carbon budget period 202125. It contains 123 policies and proposals across all ministerial portfolios and looks beyond to start building the foundations for Waless third carbon budget and 2030 target, as well as net zero by 2050. The plan focuses on the need to outperform this second carbon budget of 37% average reduction in emissions, in line with the Climate Change Committees recommendation. This is because Waless third carbon budget (202630) requires an average reduction of 58%, reflecting the huge step change Wales needs to make if its actions are to have time to take effect.
+
+In October 2021, the Department of Agriculture, Environment and Rural Affairs launched a public consultation on a Green Growth Strategy for Northern Ireland43. The Green Growth Strategy is the Northern Ireland Executives multi-decade strategy, balancing climate, environment and the economy in Northern Ireland. It sets out the long-term vision for tackling the climate crisis and will be underpinned by the provisions of the recently passed Climate Change Act (Northern Ireland) 2022 with which it closely aligns. This longer-term Strategy will be delivered through a series of Climate Action Plans aligned to carbon budget periods, the first of which is to be developed by the end of 2023 and which will set out a series of policies and proposals to achieve the first carbon budget for the period 2023-27.
+
+The Green Growth Strategy is currently awaiting sign off by the NI Executive. Additionally, The Path to Net Zero44 is Northern Irelands current energy strategy and sets a long-term vision of net zero carbon and affordable energy for Northern Ireland by 2050.
+
+Local authorities play an essential role in driving action to tackle climate change with significant influence in energy, housing and transport. Across the UK, local authorities are actively driving progress on net zero. Local Government can also attract net zero private investment.
+
+HM Government works closely with local government and has provided support to help them contribute to delivering net zero. This includes:
+
+Establishing five Local Net Zero Hubs, each covering a region of England. The Hubs promote best practice and support local authorities to develop net zero projects and attract commercial investment;
+
+Funding work to develop business models to increase private sector investment in  Running the Local Net Zero Forum for national and local senior government officials to discuss local net zero policy and delivery issues.
+
+The UK recognises that women and girls  alongside other marginalised people  are disproportionately impacted by climate change and are also critical leaders and agents of change in climate action. The UK is dedicated to promoting equality and inclusion, including Action Plan. Public authorities must fulfil responsibilities set out under the UKs Equality Act (2010)45, which covers a range of protected characteristics.
+
+The UK has agreed nuclear46 and offshore wind sector47 deals with specific targets established to increase workforce diversity. The UK also supports industry-led initiatives like POWERful women48 in order to address the lack of gender diversity in the green economy.
+
+Ministerial campaign under which countries have committed to working towards equal pay, equal leadership and equal opportunities for women in the clean energy sector by 203050. The UK joined the International Energy Agency (IEA) Gender Advisory Council in 2021, which is intended to guide work on gender diversity and improve equal opportunities in the energy sector. It will help to take forward the IEA Gender Diversity Initiative and will strengthen collaboration with C3E and Equal by 30.
+
+During its COP26 Presidency, the UK sought to advance gender equality in its own climate action, to urge others to enhance gender-responsive climate action in their national contexts, and to learn from and amplify the good practices of other countries and observer organisations. The Glasgow Climate Pact resulted in strengthened language on gender and inclusion. The UK has provided funding and support to widen participation including the full, meaningful, and equal participation and leadership of women in all aspects of the UNFCCC. The UK continues to work with delivery partners to capture the impacts of International Climate Finance (ICF) programmes on certain groups of people and to embed gender mainstreaming into every stage of the programme cycle. The UKs Climate Ambition Support Alliance (CASA)51 has provided funding for the active participation of women from Small Island Developing States (SIDS) in negotiations and has supported the European Capacity Building Initiatives (ecbi) Women Negotiator Mentoring Initiative. The UK PACT (Partnering for Accelerated Climate Transitions)52 programme has developed gender equality and social inclusion (GESI) guidance53. This includes a requirement for applicants to state how their projects could support women and/or marginalised groups. As part of its commitments under the Generation Equality Forums Action Coalition on Feminist Action for Climate Justice54, the UK will strengthen collection and use of data on gender, inclusion and climate.
+
+The UK is dedicated to supporting workers, communities and businesses to transition to net zero. HM Government convened the Green Jobs Taskforce55 to advise on the actions that government, industry and the education sector can take to create the skilled workforce to deliver net zero while supporting workers in high carbon sectors with the transition. It will also look to explore what actions can be taken across industry to improve diversity in the green economy, including improving data collection and transparency.
+
+Signed by over 30 major donor countries under the UKs COP Presidency, the International Just Transition Declaration56 commits, for the first time, to embedding labour and human rights principles into overseas funding in developing and emerging economies. This supports a range of activities, from supporting social dialogues to investing in new, decent jobs for all. The Declaration also commits countries to ensuring that workers and communities in outgoing high-carbon supply chains are supported, and that procurement is made from green supply chains that adhere to minimum labour standards.
+
+The UK recognises the critical need to work in partnership with high emitting developing countries who want to take ambitious climate action and accelerate their clean energy transitions. Just Energy Transition Partnerships (JETPs) tailor international support to individual countries plans focused on the many thousands of people who still rely on fossil fuels for their livelihoods. The UK is leading efforts to deliver the ground-breaking South African JETP announced at COP26 and is working together with G7 and other partners to support further JETPs57.
+
+As agreed at COP26, the Glasgow Work Programme on Action for Climate Empowerment highlights the key role that a broad range of stakeholders - such as national, regional and indigenous peoples - play in fostering greener economies.
+
+The UK is a Party to the Aarhus Convention, a United Nations Economic Commission for Europe (UNECE) Treaty which provides for access to information, public participation in decision making and access to justice in environmental matters.
+
+The UKs NDC has been informed by guidance from the Climate Change Committee (CCC), in the context of the UKs legally binding net zero commitment. In producing its advice the CCC relies on a range of evidence, including expert and stakeholder sources. For example, the CCC has in the past run public calls for evidence, roundtables and workshops with non- governmental organisations (NGOs), industry stakeholders and trade associations, and held more than 200 meetings with individual stakeholders across all sectors. More information on this can be found in the CCCs Insight Briefings58.
+
+The approach towards the UKs NDC was discussed in meetings with NGOs, civil society and business groups, and covered in correspondence with representatives of these groups and interested Parliamentarians. A copy of the UKs updated NDC will be laid in the UKs Houses of Parliament.
+
+The Net Zero Strategy is a key element of how HM Government informs the public about achieving the UKs carbon commitments. A wide range of stakeholders were engaged to support the development of the strategy, including organisations that represent business interests, NGOs, local sectors, and public facing bodies. In 2020, BEIS invited a diverse group of 93 members of the public to join deliberative dialogues on net zero, to get an insight into their understanding and views of net zero, their perceptions on what role the public should play in reaching net zero and how we can best bring the public along with us.
+
+The findings of these dialogues were considered and informed the development of the Net Zero Strategy.
+
+HM Government has also run and funded public workshops and deliberative dialogues on a range of net zero issues such as net zero homes, heating, transport decarbonisation, hydrogen, food, Carbon Capture Use and Storage (CCUS), Advanced Nuclear Technologies (ANT), energy, and the environment. HM Government also ran a public consultation on the approach to the UK Emissions Trading Scheme59 in March 2022.
+
+Engagement and Action on Climate Change 2022-26 will be published for consultation in October 2022.
+
+The Scottish Government launched a new Public Engagement Strategy for Climate Change in September 202162. The Strategy recognises the vital role of public and community engagement in facilitating a societal transition to a net zero and climate resilient nation. Scotlands Climate Assembly brought together over 100 people, broadly representative of the Scottish population, to learn about, discuss and make recommendations on how Scotland should change to tackle the climate emergency in a fair and effective way. The full report of Scotlands Climate Assembly was laid in Scottish Parliament in June 2021, with the Scottish Government issuing a detailed response to their recommendations in December 2021.
+
+The Northern Ireland Executive, in developing and bringing forward policies and strategies such as the Green Growth Strategy, the Path to Net Zero Energy Strategy63 and the recently engagement with a wide range of stakeholders. This engagement will continue with the development of the first Climate Action Plan for Northern Ireland and other key deliverables arising out of the new legislation.
+
+The UK will continue to carry out a wide range of engagement with a cross-section of society including experts, industry, non-governmental organisations, trade bodies and the wider public, helping to shape plans and policies for reaching net zero emissions by 2050.
+
+The Glasgow Climate Pact urges Parties and stakeholders to ensure meaningful youth participation and representation in multilateral, national and local decision-making processes.
+
+The UK will continue to ensure that young people are engaged in both the design and implementation of climate-related policies where relevant. For example, the UK Department for Education (DfE) engaged Civil Society, NGOs, educators and young people to develop a sustainability and climate change strategy for the education and children services system. This included a youth panel so young people could share their views and inform the development of the strategy.
+
+For the UKs national circumstances, including climate, population and economy, please see the UKs Eighth National Communication.
+
+The UK is committed to the implementation of the UN Sustainable Development Goals (SDGs). For more information about the UKs approach to the SDGs, please see the UKs Voluntary National Review64.
+
+The UKs NDC follows the rules for transparency and understanding set out in Decision 4/CMA.1.
+
+As described in Section 4a(i), development of the NDC has been closely linked with the UKs domestic processes for delivery of the net zero commitment under the framework of the Climate Change Act. It also takes into account best available science and evidence, as well as guidance from the CCC65.
+
+A range of HM Government departments were involved in setting the UKs economy-wide emissions reduction target. This is crucial, given that ownership of the policies required to reduce emissions is spread across government. Going forward, the UK will continue to progress against the NDC.
+
+For more information on the UKs domestic institutional structures and GHG inventory governance, see Section 4a(i). For more information on the UKs process in reviewing its NDC in line with the Glasgow Climate Pact, see Section 6.
+
+Beyond the communication of an NDC, the UK continues to make progress on priority policy areas that are crucial to the UKs overall approach to climate action.
+
+Scotlands National Performance Framework (NPF)68, which integrates the SDGs alongside National Outcomes, is an important part of Scotlands localisation of the UN 2030 Agenda for Sustainable Development ensuring that these objectives are increasingly located at the centre of policymaking and delivery. The NPF has a focus on tackling inequalities so that no simultaneously.
+
+The UKs vision for the marine environment is for clean, healthy, safe, and biologically diverse ocean and seas. The sustainable use, protection and restoration of the UKs marine environment is underpinned by the UK Marine and Coastal Access Act (2009)69, the Environment Act (2021) 70 and Fisheries Act (2020) 71, UK Marine Policy Statement72, Marine Strategy73, commitment to an ecologically coherent well-managed network of Marine Protected Areas, and Joint Fisheries Statement. Through the UK Marine Strategy, HM Government and Devolved Administrations are working closely together to achieve Good Environmental Status (GES) in the UKs seas.
+
+The UKs National Adaptation Programme74 outlines how the UK will address marine climate risks by introducing a Sustainable Fisheries policy, giving consideration to climate change in marine planning, building ecological resilience at sea.
+
+The Scottish Government has set out a new Blue Economy vision for the sustainable management of Scotlands seas, establishing long term outcomes to 2045 and including a dedicated climate outcome to support ecosystem health, improved livelihoods, economic prosperity, social inclusion and wellbeing. New actions to increase protection of the marine environment include; delivery of a network of highly protected marine areas by 2026, fishery introduction of a Scottish Wild Salmon Strategy. New evidence is also being delivered through the Scottish Blue Carbon Forum, building upon actions set out in the second Scottish Climate Change Adaptation Programme75 to address Scotlands marine climate risks.
+
+In November 2019 the Welsh Government published the first Welsh National Marine Plan76. This sets out policy for the next 20 years to achieve healthy and resilient seas and marine ecosystems, in support of a thriving, sustainable economy. The Plan provides the strategic framework to enable renewable energy generation at sea.
+
+The draft Marine Plan for Northern Ireland77, published in April 2018, supports the UK Marine Policy Statement, the UK Marine Strategy and the UKs vision for the marine environment. The sustainable development of Northern Irelands marine area is further underpinned by the Marine Act (Northern Ireland) 201378 and the Marine and Coastal Access Act 200979. The Plan represents the first step in sustainably managing Northern Irelands marine area in supporting economic, environmental and social objectives. A second iteration of the Plan is currently being drafted which will take account of the advancements in science, technology, policy and legislation, particularly in relation to climate change mitigation and adaption including Blue Carbon, Sustainable Fisheries and Offshore Renewable Energy. The Marine Plan for Northern Ireland is expected to be finalised, adopted and published in 2023.
+
+Given the mutually reinforcing effects of climate change and biodiversity loss on people and the planet, an integrated approach is the only way to address these issues. HM Government is developing a 2030 strategic framework for international climate and nature action that will set out the UKs integrated approach to tackling both challenges.
+
+The UK will fulfil its responsibilities under the Convention on Biological Diversity (CBD)80, the Ramsar Convention81 and the Leaders Pledge for Nature82 - including implementation of the CBD vision that by 2050 biodiversity is valued, conserved, restored and wisely used, maintains ecosystem services, sustains a healthy planet and delivers benefits essential for all people. This will provide significant climate mitigation and adaptation benefits. UK domestic biodiversity policy is devolved. In England, the UKs 25 Year Environment Plan (25YEP)83 set out the aim to support natures recovery and restore historical losses, including for the marine environment. Since then, HM Government has introduced the Environment Act 2021 that introduces ambitious measures to address the biggest environmental priorities of our age, including restoring nature. The Act requires a new, legally binding and world-leading target to be set to halt the decline in species abundance by 2030. This is in addition to setting at least one long-term legally binding target for biodiversity. In England, the original plan was to publish a standalone strategy to replace Biodiversity 2020. The delays to the development of the CBD Global Framework however have provided an opportunity to integrate ambitions and approach to nature recovery into a refreshed Environmental Improvement Plan (EIP), set to be published by January 2023. This will link together the different objectives, plans and mechanisms for achieving biodiversity targets and recovering nature.
+
+The Scottish Government is committed to delivering improved and enduring benefits to the natural environment through the Environment Strategy for Scotland84. Sitting beneath this, the Scottish Biodiversity Strategy85 will take account of the new post-2020 global biodiversity framework and targets for the Convention on Biological Diversitys 2050 vision. The Scottish Biodiversity Programme86 has been created to coordinate all activity on biodiversity including the development of a future strategic framework for biodiversity that compromises both terrestrial and marine aspects.
+
+The Nature Recovery Action Plan (NRAP) is the National Biodiversity Strategy and Action Plan for Wales87. It sets out how the Convention on Biological Diversitys Strategic Plan for Biodiversity and the associated Aichi Biodiversity Targets are addressed in Wales. The NRAP has been refreshed for 2020-21 to prioritise the maintenance and improvement of resilient ecological networks and transformative change. Relevant actions include developing the new Sustainable Land Management scheme and the National Forest for Wales, work to improve the condition of Protected Sites Network, and the National Peatland Action Programme. The NRAP will be realigned to address the post-2020 framework for the Convention on Biological Diversity in line with commitments made under the Edinburgh Declaration88 and the Leaders Pledge for Nature.
+
+In Northern Ireland, the Department of Agriculture, Environment and Rural Affairs (DAERA) completed a public consultation on a future Environment Strategy for Northern Ireland in January 202289. This will be Northern Irelands first overarching Environment Strategy and subject to the approval of the Northern Ireland Executive, it will be adopted as Northern Irelands Environmental Improvement Plan under the Environment Act 2021.
+
+A new Biodiversity Strategy for Northern Ireland is being developed to take account of the post-2020 framework and targets for the Convention on Biological Diversitys 2050 vision. This strategy will commit Northern Ireland to relevant actions on a number of important issues, including implementing nature-based solutions for tackling climate change and reversing biodiversity loss in line with the commitments made under the Edinburgh Declaration and the Leaders Pledge for Nature.
+
+The UK is strengthening awareness of and building consensus in tackling climate change through various education initiatives at all stages of life, including: a new education course on climate science for 16- to 18-year-olds; a Green Home Grant Skills Training competition to support training for installation of energy efficient and low carbon heating measures; and initiatives as part of the UK's Offshore Wind Sector Deal.
+
+The UK also supports gender balance in physics and computing to increase Science, Technology, Engineering and Mathematics (STEM) take up amongst girls. For example, the UK is funding the Institute of Physics to deliver the Improving Gender Balance research trial. This randomised control trial will scale up an approach that has shown significant early promise in increasing girls uptake of A level physics. Since 2010, there has been a 31% increase in girls entries to STEM A levels in England, and there are now one million women accepted onto full-time STEM undergraduate courses also increased by 34% in the UK.
+
+The Net Zero Strategy sets out HM Governments plans to work with industry to create the skilled workforce to deliver net zero. This includes green apprenticeships, retraining bootcamps, publishing a climate and sustainability strategy for education and children services, and establishing the Green Jobs Delivery Group with industry. The Green Jobs Delivery Group is the central forum through which government, industry and other key stakeholders work together to ensure the UK has the workforce needed to deliver a green industrial revolution.
+
+Additionally, HM Government is proud to have published the Department for Educations Strategy for Sustainability and Climate Change for Education and Childrens Services in April 2022.The strategy sets out key actions in climate education and green skills which will equip children, young people and adult learners with the knowledge and skills needed to contribute to the green economy. This includes the development of a new GCSE in Natural History, to be taught in schools by 2025. This GCSE will give young people a further opportunity to engage with and develop a deeper knowledge and understanding of the natural world.
+
+The Scottish Governments Climate Emergency Skills Action Plan provides a framework for skills planning, development and investment across sectors of the economy known to be crucial to achieving net zero. As part of this, the Green Jobs Workforce Academy was launched in August 2021 and is an invaluable step in preparing Scotlands current and future workforce for green careers. For workers in high carbon sectors, the Scottish Government has committed to launch a Skills Guarantee  to ensure that individuals who are making the move to employment in new, green jobs, have access to career guidance and retraining opportunities. In addition, Scotlands Curriculum for Excellence90 incorporates an emphasis on the cross-cutting theme of Learning for Sustainability  a term that brings together sustainable development education, global citizenship and outdoor learning. A refreshed and strengthened Learning for Sustainability Action Plan91 will help to ensure that all children and young people in Scotland have the opportunity to experience this vital area of education.
+
+The Welsh Government is investing in people to develop the skills needed for a low-carbon, circular economy, including reskilling workers in existing industries. The Welsh Government will seek to exploit the opportunities of this transition to secure greater added value in sectors like energy and housing (timber in construction and modular housing).
+
+In Northern Ireland, the Department for Economys 10X Economy92 sets out the vision for the 2020s as a decade of innovation bringing opportunity and growth. The Energy Strategy discusses the substantial and underpinning role of skills development in delivering on Northern Irelands commitment to a net zero carbon future  and the focus on innovation, research and development is reinforced in the Green Growth Strategy. The Skills Strategy consultation93 recognises that a transformational change in skills is required to take advantage of Northern Irelands scale, yet whilst addressing the challenges in the skills sector. A Skills Audit to identify the skills and training needs for energy decarbonisation is planned for 2022-23. Skill Up, a flexible skills programme, also provides a range of opportunities in the green technologies area, with courses and qualifications available in hydrogen, heat pumps, retrofitting, solar and electrical vehicles across the further and higher education sectors in 2022 and 2023.
+
+The UK is committed to delivering a sustainable food system, ensuring that everyone has access to nutritious and healthier food, while meeting our commitment to broadly maintain food production94. The Resources and Waste Strategy95 sets out Englands plans to move away from a linear economy, towards a more circular and sustainable economy in which natural resources are used efficiently and waste is minimised. The UK Environment Act 2021 further provides the powers to significantly change the way that waste is managed and take forward a number of the proposals from the Resources and Waste Strategy and the Net Zero Strategy.
+
+The Scottish Government recognises the transition to net zero will require significant lifestyle changes. Scotlands Heat in Buildings Strategy96 sets out the pathway to achieving net-zero emissions from Scotlands buildings, and making them warmer, greener and more efficient, by 2045. Scotlands National Transport Strategy97 embeds the sustainable travel hierarchy in decision making, enabling people to make sustainable travel choices and improve the lives of future generations by promoting health and wellbeing. Scotlands Making Things Last Strategy98 sets out priorities for achieving a move towards a more circular economy  where products and materials are kept in high value use for as long as possible. The Scottish Government has recently consulted on proposals for a Circular Economy Bill99 which includes proposals for a duty to publish a Scottish Circular Economy Strategy every five years.
+
+Northern Ireland published the second iteration of the national Waste Prevention Programme Stopping Waste in its Tracks101 in 2019. The programme aims to decouple waste from growth and the actions contained within are designed to help Northern Ireland transition to a low-carbon circular economy. A Northern Ireland Circular Economy Strategy is being developed that proposes to design out waste and manage resources to preserve value. It is scheduled to go out for consultation in autumn 2022.
+
+Air pollution is the top environmental risk to human health in the UK. The UKs Clean Air Strategy102 sets out how the UK will tackle all types of air pollution, making the air healthier to breathe and protecting nature. This will save lives and reduce health inequalities, in line with protecting the right to health as set out in the Paris Agreement.
+
+The Scottish Government published its Cleaner Air for Scotland strategy103 in 2015 setting out a series of actions for improving air quality across a wide range of policy areas. Following an independent review of the strategy in 2019104, which made recommendations for additional action on air pollution, a new strategy - Cleaner Air for Scotland 2: Towards a Better Place for Everyone - was published in July 2021105. This sets out Scotlands air quality policy framework for the period 2021 to 2026 with a continued focus on delivery of co-benefits for air pollutant and greenhouse gas reductions.
+
+The Clean Air Plan for Wales: Healthy Air, Healthy Wales sets the Welsh Governments commitment and long-term ambition to improve air quality, and the steps it will take to deliver this106.
+
+In 2020, Department for Agriculture, Environment and Rural Affairs issued a Discussion Document on Northern Irelands first Clean Air Strategy to public consultation107. A synopsis of the responses has now been published and an inter-departmental working group has been established to further develop proposals and identify policies for cross-departmental consideration. The Draft Clean Air Strategy will be subject to further public consultation which is planned for December 2022, in advance of seeking NI Executive approval.
+
+Not applicable.
+
+In Paris, 2015, it was agreed that Parties would take stock of their collective efforts in a Facilitative Dialogue in 2018, later called the Talanoa Dialogue. It was decided that the Talanoa Dialogue would play a role in informing the next round of NDCs, and this was reinforced in Decision 1/CP.24108.
+
+Several Talanoa events took place in the UK in 2018, including one involving the Fijian COP23 Presidency. The UK found this process valuable thanks to the rich and open exchanges and learnt from the experiences and solutions shared by others, which alongside the latest science, informed UK approaches on the way forward.
+
+Following the Talanoa Dialogue, the UK took note alongside other Parties of the Call for Action109 which Parties were invited to consider when preparing their NDCs. The UK recognises the need for the global community to go further to mitigate the harmful effects of climate change. The UKs NDC has been prepared using the best available science, in the spirit of the Talanoa Dialogue, including the IPCC Special Report on Global Warming of 1.5C110 and the 6th Assessment Report111.
+
+The UK is actively engaged in the first Global Stocktake and looks forward to considering its outcomes in the implementation of its NDC in due course.
+
+Agreement to submit information on:
+
+Not applicable.
+
+Not applicable.
+
+In accordance with the modalities, procedures and guidelines outlined in Decisions 4/CMA.1 and 18/CMA.1 of the Paris Rulebook, the UK will publish an annual National Inventory Report and Biennial Transparency Report by 31 December 2024 at the latest, and biennially thereafter, to the UNFCCC. The National Inventory Report will account for UK anthropogenic GHG emissions and removals, and the Biennial Transparency Report will report on progress towards the UKs NDC through the use of a structured summary. To account for the UKs NDC, the UK will compare achieved net GHG emissions (in MtCO2e values) with the UKs NDC target for 2030.
+
+The UK will comply with future UNFCCC reporting guidelines on tracking, and reporting on, progress against the UKs NDC. This will help inform future Global Stocktakes.
+
+For the IPCC methodologies and metrics that will be used to account for the UKs NDC, see Section 5(d). Final accounting towards the target will take place in 2032. It will be based on reference year for CO2, CH4 and N2O and a 1995 reference year for HFCs, PFCs, SF6 and NF3112.
+
+The UK intends to meet its NDC target through domestic emissions reductions. If the UK were to use voluntary cooperation under Article 6 of the Paris Agreement, such use would be accounted for in accordance with relevant decisions adopted by the Conference of the Parties serving as the meeting of the Parties to the Paris Agreement (the CMA). gases made up 3% of UK net emissions (based on 1990-2020 inventory).
+
+Not applicable.
+
+Paris Agreement.
+
+The UKs current GHG Inventory is submitted in accordance with decision 24/CP.19 and utilises the 2006 IPCC Guidelines for National Greenhouse Gas Inventories, 2013 IPCC Kyoto Protocol Supplement and 2013 IPCC Wetlands Supplement.
+
+The UK looks forward to implementing methodologies introduced by the 2019 Refinement to the 2006 IPCC Guidelines in the future.
+
+The 2006 IPCC Guidelines for National Greenhouse Gas Inventories, 2013 IPCC Kyoto Protocol Supplement and 2013 IPCC Wetlands Supplement will be used for estimating GHG methodologies introduced by the 2019 Refinement to the 2006 IPCC Guidelines in the future. Values listed in table 8.A.1 of the IPCCs 5th Assessment Report on the Global Warming Potentials for a 100-year time horizon (without climate-carbon feedback) will be used to calculate CO2 equivalents of GHG emissions.
+
+All emissions and removals reported in the UK GHG Inventory are included in the NDC, with no specific approach to exclude emissions from natural disturbances.
+
+The UK will reflect emissions and removals resulting from changes in the carbon pool of harvested wood products using a production approach.
+
+Not applicable.
+
+Final reference year and target year emissions will be based on the 1990-2030 UK GHG Inventory submitted to the UNFCCC in 2032. Emissions estimates in the UK GHG Inventory Greenhouse Gas Inventories and subsequent IPCC guidelines (see Section 5(d)). The Inventory is revised annually and undergoes extensive review processes.
+
+Not applicable.
+
+Not applicable.
+
+Not applicable.
+
+While the UK intends to meet its NDC target through reducing emissions domestically, it reserves the right to use voluntary cooperation under Article 6 of the Paris Agreement. Such use could occur through the linking of the UK emissions trading scheme to another emissions trading system or through the use of emissions reductions or removals units.
+
+6. How the Party considers that its NDC is fair and ambitious in the light of its national circumstances In its NDC the UK commits to reducing economy-wide greenhouse gas emissions by at least 68% by 2030 compared to 1990 levels. This requires the fastest rate of reduction in greenhouse gases between 1990 and 2030 of all major economies. It remains a fair and ambitious contribution to global action on climate change.
+
+In determining the target level and revisiting it in light of the Glasgow Climate Pact, BEIS led work across HM Government departments to identify the UKs highest possible ambition, taking account of a range of factors including the temperature goal and principle of equity in decarbonisation potential, the UKs legally binding net zero commitment and guidance from the Climate Change Committee (CCC).
+
+In guidance published in December 2020, the CCC stated that a 2030 target of at least 68% below base year levels would constitute a decisive commitment to a net zero emissions trajectory, consistent with the Paris Agreement and would place the UK among the leading In its Progress Report to Parliament in June 2022, the Climate Change Committee reiterated that the UK NDC is ambitious and consistent with the Paris temperature goal.114 The CCC did not recommend a change to the headline target but recommended that the UK should focus on delivery of the current NDC.
+
+The UKs NDC target was determined taking account of the temperature goal of the Paris Agreement and in particular the principles of equity and common but differentiated responsibilities and respective capabilities, in the light of different national circumstances.
+
+There is no international consensus on which indicators should be used, and so the UK considered a range of internationally recognised effort sharing metrics and took into account other independent assessments of the level of ambition of the UKs NDC.
+
+The Glasgow Climate Pact recognises the need for deep and sustained reductions in global greenhouse gas emissions. The UKs previous NDC submission referred to evidence set out in the Intergovernmental Panel on Climate Changes (IPCC) Special Report on Global Warming of 1.5C, including the need for global greenhouse gas emissions to fall by around 45% by 2030 relative to the 2010 level. Based on estimates set out in the UKs latest (1990- 2020) GHG inventory, the NDC target would achieve a reduction of around 57% over the same period.
+
+In its more recent Sixth Assessment Report (AR6) Working Group III, the IPCC highlighted following significant reductions already achieved between 2010 and 2019.
+
+Based on latest estimates, the UKs NDC suggests that emissions per person in 2030 would be below 4tCO2e, which is of a comparable level (3.5-4 tCO2e) to estimates for the global 2100, aligning with the goal of the Paris Agreement. The wider C1 set of 1.5C with limited or no overshoot pathways imply a similar reduction of 43% over 2019-30 average implied by the IPCCs median pathways consistent with limiting warming to 1.5 degrees116.
+
+The NDC is also on the trajectory to net zero greenhouse gas emissions by 2050, which the Climate Change Committee and other independent external commentators consider to be aligned with a least-cost global pathway to keep the global temperature rise below 1.5C.
+
+The UKs NDC target was determined taking account of the temperature goal of the Paris Agreement and in particular the principles of equity and common but differentiated responsibilities and respective capabilities, in the light of different national circumstances.
+
+HM Government has a well-established process involving all relevant departments to regularly review domestic greenhouse gas abatement potential, as part of the framework to deliver on carbon budgets and net zero under the Climate Change Act. Having revisited its NDC through this process in line with the Glasgow Climate Pact, HM Government has determined that the target to reduce greenhouse gas emissions by at least 68% by 2030 on 1990 levels represents its highest possible ambition.
+
+As set out in the UKs previous NDC communication, the target in the UKs NDC represents a significant progression on the UKs previous contribution to the EUs then joint Intended NDC (INDC) from 2015, which was estimated by the CCC to imply a 53% reduction in UK emissions by 2030 on 1990 levels.
+
+In line with the Glasgow Climate Pact, the UK has been through a process to revisit its NDC and ensure it remains aligned with the Paris Agreement temperature goal. The UK has also strengthened its NDC in several ways, including by clarifying how the NDC will be delivered by 2030, by updating on the progress made in expanding the territorial scope of the NDC to 116 Global population projections from 2022 Revision of World Population Prospects, UK population projections from 2020 based Interim principal projection include the UKs Crown Dependencies and Overseas Territories, and by including more information on the UKs approach to gender, green skills, Just Transition and public engagement.
+
+The UKs NDC is an economy-wide absolute emissions reduction target in compliance with Article 4.4 of the Paris Agreement.
+
+During its COP Presidency, the UK has been encouraging all Parties to revisit and strengthen their NDCs as necessary to align with the Paris Agreement temperature goal, in line with the Glasgow Climate Pact.
+
+The UK recognises the importance of supporting developing country parties in implementing the Paris Agreement. The UK is a core funder and, alongside Jamaica, 2021-22 co-chair of the Nationally Determined Contributions Partnership (NDC Partnership). The UK has members to turn NDCs from stand-alone documents into national policies and plans. As set out in the UKs International Development Strategy117 (May 2022), the UK has doubled its total International Climate Finance (ICF) to 11.6 billion between 2021/22 and 2025/26, ensuring a balanced split between mitigation and adaptation finance. A major focus of ICF programming will be on accelerating the clean energy transition in developing countries and at least 3bn of ICF between 2021-22 and 2025-26 will be invested in climate change and poverty reduction solutions that protect, restore, and sustainably manage nature.
+
+In line with expectations in the Paris Agreement and UNFCCC, the UKs International Communication, 5th Biennial Report and Finance Biennial Communication. The UK will submit its second Finance Biennial Communication by the end of 2022.
+
+Not applicable.
+
+7. How the nationally determined contribution contributes towards achieving the objective of the Convention as set out in its Article 2 The UKs NDC represents the UKs contribution to the objectives of Article 2 of the Convention to stabilise GHG concentrations in the atmosphere at a level that would prevent dangerous anthropogenic interference with the climate system. Sections 4 and 6 detail the UKs mitigation ambition that will contribute to achieving Article 2 of the Convention.
+
+See Section 4 and 6 on the UKs legislated commitment to reach net zero emissions by 2050 and how the UKs NDC contributes to that goal.
+

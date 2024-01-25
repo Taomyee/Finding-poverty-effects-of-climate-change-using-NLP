@@ -1,0 +1,204 @@
+1. Quantified information on the reference point, including, as appropriate, a base year (a) Reference year(s), base year(s), reference period(s) or other starting point(s) The reference year used in Grenadas second NDC is 2010, the same as in the initial NDC. (b) Quantifiable information on the reference indicators, their values in the reference year (s), base year(s), reference period(s) or other starting point(s), and, as applicable, in the target year Grenadas net Greenhouse Gas (GHG) emissions in 2010 were estimated to be 216.9 GgCO2e.
+
+(c) For strategies, plans and actions referred to in Article 4, paragraph 6, of the Paris Agreement, or polices and measures as components of nationally determined contributions where paragraph 1(b) above is not applicable, Parties to provide other relevant information Not applicable.
+
+(d) Target relative to the reference indicator, expressed numerically, for example in percentage or amount of reduction Grenada commits to reducing its GHG emissions by 40% of the 2010 emissions levels by 2030.
+
+The sources of data used in quantifying the reference points are as follows: - Grenadas Intended Nationally Determined Contribution, 2015. - Grenadas 2nd National Communication to the United Nations Framework Convention on Climate Change (UNFCCC), 2017. - National Waste Management Strategy for Grenada, 2003. - GRENLEC Annual reports. - Land Degradation Neutrality National Report, 2009.
+
+Additionally, data was provided by: - Energy Division, Ministry of Infrastructure Development, Public Utilities, Energy, Transport & Implementation. - Transport Division, Ministry of Infrastructure Development, Public Utilities, Energy, Transport & Implementation. - Land Use Summary data, Grenada Land Use Division, Ministry of Agriculture, Lands and Forestry. - Central Statistical Office. - Traffic Division, Royal Grenada Police Force. - Private sector agencies in the shipping and power sectors.
+
+(f) Information on the circumstances under which the Party may update the values of the reference indicators The 2010 base year data may be recalculated and updated due to continuous methodological improvements. Information on updates made will be included in the Biennial Transparency Report.
+
+(a) Time frame and/or period for implementation, including start and end date, consistent with any further relevant decision adopted by the CMA;
+
+This target will be a continuation and expansion of efforts to meet the 2025 target in the first NDC and addresses the 2020-2030 period.
+
+(b) Whether it is a single- year or multi-year target, as applicable.
+
+The target is a single year target in 2030.
+
+(a) General description of the target;
+
+Grenadas economy wide target to reduce emissions by 40% by 2030 covers the energy, forestry, waste and IPPU sectors. The inclusion of F-gases is a new addition to Grenadas second NDC.
+
+(b) Sectors, gases, categories and pools covered by the nationally determined contribution, including, as applicable, consistent with IPCC guidelines;
+
+Sectors: - Energy (including domestic transport) - Forestry - Waste - IPPU (Cooling sector) Gases:
+
+- Carbon Dioxide (CO2) - Methane (CH4) - F-gases: hydrochlorofluorocarbons (HCFC) and hydrofluorocarbons (HFC) and their mixture/blends. In line with obligations under the Kigali Amendment to the Montreal protocol.
+
+(c) How the Party has taken into consideration paragraphs 31(c) and (d) of decision 1/CP.21;
+
+As per paragraph 31(c) of decision 1/CP.21, Grenada is committed to expanding the scope of the coverage of its NDC to all categories of anthropogenic emissions.
+
+(d) Mitigation co-benefits resulting from Parties adaptation actions and/or economic diversification plans, including description of specific projects, measures and initiatives of Parties adaptation actions In accordance with Grenadas National Climate Change Policy, the implementation vehicles for the policys objectives, strategies and outcomes are the NDC and NAP. Delivery of the actions articulated in each document will ensure the operational components of the policy.
+
+Grenadas NAP (2017-2021) along with projects currently under implementation include mitigation co-benefits. The reductions emerging from these contribute towards the target as outlined in 1(d) and should not be considered additional.
+
+Grenada is also committed to continue reporting data and information on quantified co-benefits of adaptation actions in its NAP and National communications.
+
+Mitigation actions within adaptation projects will be captured through the data collection framework and GHG inventory and reported in the respective sectors.
+
+(a) Information on the planning processes that the Party undertook to prepare its NDC and, if available, on the Partys implementation plans, including, as appropriate:
+
+(i) Domestic institutional arrangements, public participation and engagement with local communities and indigenous peoples, in a gender-responsive manner;
+
+Grenadas NDC planning process was led by the National Climate Change Committee (NCCC) and involved the following steps:
+
+- A technical committee as a sub-group from the NCCC was formed in 2018 and comprised of representatives from the relevant ministries (Ministry of Agriculture, Lands, Forestry, Fisheries and the Environment; the Energy Division in the Ministry of Infrastructure Development, Public Utilities, Energy, Transport and Implementation).
+
+- Several workshops were held with key stakeholders to develop strategies and initiatives and to identify the possible data sources that will be needed to update the NDC.
+
+2019, the ensuing Grenada NDC Plan was endorsed by the Government of Grenada (GoG).
+
+- The GoG then sought support from NDC Partnership for technical assistance for the revision of Grenadas NDC through the Climate Action Enhancement Package (CAEP).
+
+- Throughout most of 2020, representatives from relevant ministries, implementing partners, private sector entities, technical experts and civil society were engaged at different stages of the development process for their inputs to updating the NDC.
+
+(ii) Contextual matters, including, inter alia (among other things), as appropriate:
+
+(a) National circumstances, such as geography, climate, economy, sustainable development, and poverty eradication;
+
+Geography: Grenada is a small island developing state located in the south-eastern Caribbean and is comprised of three islands, Grenada, Carriacou and Petite Martinique. The combined land area is 345km2 and is the southernmost of the Windward Islands. Grenadas location coordinates are 12.07 N, 61.40 W.
+
+Climate: Grenada has a humid tropical marine climate with little seasonal or diurnal (daily) variation and a constant, strong ("trade") wind out of the east. This climate is affected mainly by the subtropical cyclone belt and the intertropical convergence zone. The location of these two meteorological systems varies in a cyclical pattern, and their movement gives a seasonal character to the weather. Rain tends to be showery and is distributed roughly into a drier season from January to May and a wetter season from June to December. Average temperature ranges between 28-33C while rainfall ranges between 1000-4000 mm depending on the elevation and location with variations observed in the rainfall and drought due to El Nino Southern Oscillation (ENSO) phenomena. Grenada is very vulnerable to the impacts of climate change and is already experiencing climate change and its impacts. This is evidenced by increased average temperatures; variations in rainfall patterns with longer dry seasons and shorter rainy seasons resulting in increased incidence of drought; and sea level rise which has resulted in coastal degradation and intrusion of saline water into aquifers, among others.
+
+Economy: Grenada is classified as an upper middle-income country. Over the past two decades, the economy changed from being predominantly agriculture-based (production of sugar cane, cocoa, nutmeg, and banana) to services dominated (tourism, real estate, education, and construction). Grenadas economy was buffeted during the 2000s due to Hurricane Ivan in 2004 (the damages inflicted by exceeded 200% of the countrys GDP); Hurricane Emily in 2005; the global food and oil price shock in 2008; the global financial crisis in 2009; and the extreme drought in 2010. Grenada made a notable recovery and between 2011-2018, the real GDP growth averaged at 3.7% and per capita income rose persistently. Even though Grenada has seen a consistent rise in real GDP and per capita growth, the impacts of Covid-19 threaten this growth going forward given, in most part, Grenadas economy relies heavily on tourism and agriculture.
+
+Sustainable Development: The National Sustainable Development Plan is the anchor for Grenadas development agenda and priorities over the period 2020-2035. It puts forward strategic priorities that have been identified to address crucial social, economic, environmental, and other development challenges. It envisions the workings of an economy and society that is premised on genuine partnership in which the public sector, private sector, civil society, and wider non-state actors share collective responsibility for Grenadas sustainable development and plays complementary roles in the process of nation building. Grenadas government is committed to social inclusion on the national level and is also striving for a more comprehensive involvement of the countrys diaspora.
+
+Poverty: The most recent snapshot of poverty in Grenada comes from the 2008 Country Poverty Assessment. 37.7% of the population was deemed to be poor and 2.4 % was deemed to be indigent. Children (persons aged 0-14) and youths (persons 15-24) accounted for 66.4% of the poor. Grenada is actively trying to eradicate poverty through its flagship poverty reduction programmes: Growth and Poverty Reduction Strategy, the Basic Needs Trust Fund (BNTF) and Support for Education, Empowerment and Development (SEED) as well as the Climate- Smart Rural Enterprise Development Programme (SAEP).
+
+Inclusiveness: Grenada has anchored inclusivity as a cornerstone of its development process. The development and implementation of the successful 2013-2017 Structural Adjustment Process was led by a Committee of Social Partners chaired by the Prime Minister and which included stakeholders from the major societal groupings - private sector, NGOs, trade unions, gender and youth, academia and faith based organizations. The development of national policies and strategies including the annual Budget includes processes to ensure that key stakeholders are consulted. The resulting policies therefore reflect the inputs from key stakeholder groupings and provide a framework that serves as a guide to the public sector, private sector, labour, and civil society.
+
+(b) Best practices and experience related to the preparation of the NDC;
+
+Grenadas best practices in the preparation of the NDC are as follows:
+
+Inclusiveness and Engagement: The process was characterized by its inclusiveness and consultative nature albeit in mostly virtual sessions due to Covid-19 and the need to adhere to the attendant protocols. All key stakeholders at both the governmental and non- governmental levels were fully involved and meaningfully engaged in major decision making over the NDC preparation period in 2020.
+
+Linkages and Ownership: The NDC has been integrally linked and consistent with other relevant policies in particular, the National Climate Change Policy, The National Adaptation Plan, The National Sustainable Development Plan 2035 and the national planning and budgeting process. The NDC preparation was also characterized by high level ownership as senior government officials and non-government practitioners have endorsed the content of the NDC and expressed their commitment to its full implementation.
+
+Partnership: Through the NDC Partnership as the anchor, Grenada with the support of the Regional Collaboration Centre partnered with several regional and international organizations to determine a robust and practical NDC based on the latest science, methodologies, guidance, and applications.
+
+(c) Other contextual aspirations and priorities acknowledged when joining the Paris Agreement.
+
+Grenada remains committed to linking the NDC implementation to the countrys Sustainable Development Goals agenda as reflected in Grenadas Sustainable Development Plan 2020- 2035, with a particular emphasis on development outcomes that contribute to building the resilience of most vulnerable groups. The governments objective is to maximize the social co-benefits of the mitigation measures presented in the NDC.
+
+Grenada will adopt a holistic and multi-sectoral approach to low-carbon development and climate resilience, which encompasses education, health, food security, water and sanitation, housing and social protection and to ensure a resilient, inclusive, gender-sensitive, and peaceful society.
+
+(b) Specific information applicable to Parties, including regional economic integration organizations and their member States, that have reached an agreement to act jointly under Article 4, paragraph 2, of the Paris Agreement, including the Parties that agreed to act jointly and the terms of the agreement, in accordance with Article 4, paragraphs 1618, of the Paris Agreement;
+
+Grenada is not part of an agreement to act jointly under Article 4 of the Paris Agreement.
+
+(c) How the Partys preparation of its NDC has been informed by the outcomes of the global stocktake, in accordance with Article 4, paragraph 9, of the Paris Agreement;
+
+Grenada participated in the Talanoa Dialogue and took note of the outcome, inputs and outputs as expressed in Decision 1/CP.24 and the invitation from the COP to consider the outcome, inputs and outputs of the Talanoa Dialogue in preparing nationally determined contributions.
+
+Grenadas climate policies and targets were therefore developed in the context of best available science with the IPCC Special Report on 1.5oC being central to the assessment of its NDC.
+
+(d) Each Party with an NDC under Article 4 of the Paris Agreement that consists of adaptation action and/or economic diversification plans resulting in mitigation co-benefits consistent with Article 4, paragraph 7, of the Paris (i) How the economic and social consequences of response measures have been considered in developing the NDC;
+
+Grenada considered all social, economic, and environmental impacts of its domestic mitigation measures in developing and implementing the NDC.
+
+Please refer to Section 3(d) above.
+
+Agreement to submit information on:
+
+5. Assumptions and methodological approaches, including those for estimating and accounting for anthropogenic greenhouse gas emissions and, as appropriate, removals:
+
+(a) Assumptions and methodological approaches used for accounting for anthropogenic greenhouse gas emissions and removals corresponding to the Partys nationally determined contribution, consistent with decision 1/CP.21, paragraph 31, and accounting guidance adopted by the CMA;
+
+Grenada accounted for its anthropogenic GHG emissions and removals using the 2006 Intergovernmental Panel on Climate Change (IPCC) Guidelines for National Greenhouse Gas Inventories as guided by 1/CP.21 Article 4, paragraph 13 of the Paris Agreement.
+
+(b) Assumptions and methodological approaches used for accounting for the implementation of policies and measures or strategies in the nationally determined contribution;
+
+Please see 5(a) above. Grenada will apply specific assumptions and methodologies, where relevant, when accounting for the progress of various policies and measures or strategies in its Biennial Update Report or Biennial Transparency Report.
+
+(c) If applicable, information on how the Party will take into account existing methods and guidance Please refer to 5(a) above.
+
+(d) IPCC methodologies and metrics used for estimating anthropogenic greenhouse gas emissions and removals;
+
+Grenadas emissions for CO2, CH4, and the F-gases were derived using the Tier 1 method of the 2006 IPCC guidelines.
+
+(e) Sector-, category- or activity-specific assumptions, methodologies and approaches consistent with IPCC guidance, as appropriate, including, as applicable:
+
+Energy: A sectoral approach was used to calculate the GHG emissions. Agriculture, Forestry, and other Land use: The data was sourced from FAOSTAT database coupled with field inventory measurements for land-use and land-use change and emission factors were estimated using IPCC 2006 guidelines.
+
+Waste Sector: GHG emissions were estimated by using IPCC waste model (IPCC 2006 guidelines). IPPU: Emissions were estimated using IPCC 2006 guidelines.
+
+(i) Approach to addressing emissions and subsequent removals from natural disturbances on managed lands; Where relevant, GHG emissions and removals from natural disturbances, were accounted for in accordance with the prescribed 2006 IPCC Guidelines, coupled with field inventory measurements where applicable.
+
+Field inventory estimates for Grenada and measurements for previous hurricane impacts across the region were used to estimate potential future natural disturbances from forest fires, extended moderate drought and major hurricane impacts (corresponding floods and landslides). Accordingly, an allowance of 23% of the total carbon stock in forests, amounting to between 1,118 Gg CO2 and 1,280 Gg CO2 and equal to expected disturbance caused by a single category 4 hurricane making landfall on Grenada between 2020 and 2030 was included.
+
+(ii) Approach used to account for emissions and removals from harvested wood products;
+
+Not applicable. Harvested wood products (HWP) are considered negligible as only a minor fraction of Grenadas national forest area (210 ha) is managed for wood production. No changes in HWP consumption patterns are expected and the respective temporary impact on the carbon cycle is therefore considered insignificant.
+
+Not applicable. National data on the age-class structure in forests is currently unavailable.
+
+However, recent severe hurricane damage to national forest stands combined with the age- class structure and hurricane impacts reported elsewhere in the region lend support to the assumption that age-class structure will not impact the forest carbon cycle during the NDC period.
+
+(f) Other assumptions and methodological approaches used for understanding the nationally determined contribution and, if applicable, estimating corresponding emissions and removals, including:
+
+(i) How the reference indicators, baseline(s) and/or reference level(s), including, where applicable, sector-, category- or activity- specific reference levels, are constructed, including, for example, key parameters, assumptions, definitions, methodologies, data sources and models used;
+
+The baseline GHG emissions for all sectors were calculated using 2006 IPCC guidelines.
+
+- Energy: A sectoral approach was used to calculate the GHG emissions.
+
+- Agriculture, Forestry, and other Land use: The data was sourced from FAOSTAT database coupled with national inventory data and emission factors were estimated using IPCC 2006 guidelines.
+
+- Waste: GHG emissions were estimated using IPCC waste model (IPCC 2006 guidelines).
+
+- IPPU: GHG emissions were estimated using IPCC 2006 guidelines.
+
+(ii) For Parties with nationally determined contributions that contain non-greenhouse-gas components, information on assumptions and methodological approaches used in relation to those components, as applicable;
+
+Not applicable.
+
+(iii) For climate forcers included in nationally determined contributions not covered by IPCC guidelines, information on how the climate forcers are estimated;
+
+Not applicable.
+
+(iv) Further technical information, as necessary;
+
+Not applicable.
+
+(g) The intention to use voluntary cooperation under Article 6 of the Paris Agreement, if applicable.
+
+Grenada currently uses no market mechanisms but is willing to explore its potential along with other mechanisms under the UNFCCC process that demonstrate environmental integrity.
+
+6. How the Party considers that its NDC is fair and ambitious in light of its national circumstances (a) How the Party considers that its NDC is fair and ambitious in the light of its national circumstances; Grenadas NDC is fair and ambitious. The NDC target of 40% reduction by 2030 on 2010 levels is consistent with the IPCC Special Report on the Impacts of Global Warming of 1.5C. This special report shows pathways that limit global warming to 1.5C with no or limited overshoot. Pathways that describe a 40-50 % reduction in net anthropogenic GHG emissions by 2030 compared to 2010 levels, and net anthropogenic CO2 emissions reaching net zero around 2050. Grenadas NDC is in line with the emissions pathways towards 2050 and onwards that correspond to keeping global warming in line with the global long- term goal of the Paris Agreement.
+
+(b) Fairness considerations, including reflecting on equity;
+
+Please refer to 6(a) above.
+
+(c) How the Party has addressed Article 4, paragraph 3, of the Paris Agreement;
+
+The emissions reductions are a confirmation of the indicative ambitious 2030 NDC target submitted in 2016. This target remains the highest possible ambition that Grenada can achieve for this NDC target year. In fact, due to changing and unforeseen circumstances, the 2030 target represents a more significant effort on the part of Grenada than when it was initially proposed.
+
+The achievement of the first NDC assumed that geothermal electricity would be available for the 2025 target. It is now clear that significant external support is required for the Geothermal programme for the 2030 target. Geothermal is currently the main contributor to Grenadas mitigation efforts, however it is still in its exploratory phase. The existing feeder line network is believed to be able to incorporate a total of 15 MW of intermittent renewable energy. To meet the 2030 target, Grenada will require a rapid transition, involving energy conservation mechanisms and renewable energy deployment.
+
+Vehicle sales have increased significantly than projected since the first NDC. In 2018, the number of registered vehicles was 51% higher than in 2010. As a result, the measures proposed in the first NDC for the transport sector (introduction of gasoline taxes, biofuel blends, and fuel efficiency standards) will be insufficient to achieve the 20% reductions anticipated from this sector by 2025, much less to achieve further reductions by 2030 support as already indicated from the NDC Partnership, the UNDP Climate Promise and UNICEF.
+
+Grenada anticipates implementing the NDC through access to multilateral and bilateral support including through the Green Climate Fund, multilateral agencies, and bilateral arrangements with development partners. These funds will be used to leverage the limited national resources and technical capacities that are available for combatting climate change.
+
+The inclusion of F-gases and gender and youth considerations represent an expansion in scope relative to the first NDC.
+
+Grenada will also develop a long-term low emissions development strategy.
+
+(d) How the Party has addressed Article 4, paragraph 4, of the Paris Agreement;
+
+Please refer to 6(e) below.
+
+(e) How the Party has addressed Article 4, paragraph 6, of the Paris Agreement.
+
+Grenada has the option under the Paris Agreement to prepare and communicate strategies, plans, and actions for low greenhouse gas emissions development that reflects its special circumstances. Notwithstanding, from its initial NDC, Grenada has chosen to demonstrate its commitment to fighting climate change and making its contributions to reducing emissions in the context of the Paris Agreement, by submitting an economy-wide base year emissions reduction target. In this same spirit and in line with Article 4 paragraphs 3 and 4, Grenadas second NDC remains an economy-wide base year target.
+
+7. How the NDC contributes towards achieving the objectives of the Convention as set out in its Article 2 (a) How the NDC contributes towards achieving the objective of the Convention as set out in its Article 2; Grenada considers the ambitious nature of the NDC to be in line with Article 2 of the convention. The NDC is an ambitious economy-wide target consistent with the best available science and based on the best available data.
+
+(b) How the NDC contributes towards Article 2, paragraph 1(a), and Article 4, paragraph 1, of the Paris Agreement. Grenada considers the ambitious nature of the NDC to be in line with Article 2 paragraph 1 (a) and Article 4, paragraph 1 of the Paris Agreement. The emissions reduction target in the NDC is consistent with the level of ambition required to limit the temperature increase to 1.5 C above pre-industrial levels, as called for by the best available science and is also consistent with national efforts to achieve sustainable development and eradicate poverty.
+

@@ -1,0 +1,722 @@
+Foreword The Kingdom of Tonga is a Small Island Developing State (SIDS) with a population of just over 100,000 people and as such our total contribution to global greenhouse gas (GHG) emissions is negligible, especially when compared to countries with far larger and more developed economies. Nevertheless, Tonga is prepared to do its part and be an example of what we are asking from the rest of the world in terms of climate action. We are convinced that Tongas development, need not come at the cost of our own natural environment nor of the livelihoods of future generations and we call for all countries to take the same decisive action to reduce their greenhouse gas emissions as a matter of urgency. Critical to achieving the 1.5 C goal of the Paris Agreement is the Nationally Determined Contribution (NDC) of each country, which articulates efforts by each country to reduce national emissions and adapt to the impacts of climate change. Tonga is proud to be amongst the countries submitting its second NDC in 2020, as agreed under the timeline set by the Paris Agreement on Climate Change. This year, more than ever, it is time for every country to double-down on its climate change commitments and support the full implementation of the Paris Agreement to spare our planet from the worst effects of a future in a changing climate. Despite the COVID-19 pandemic and the impacts it has had on Tongas people and livelihoods, Tonga has increased its ambition to cut greenhouse gas emissions in our 2020 NDC and has laid out clear means to implement the targets that have been set, as well as providing the information required for clarity, transparency and accountability of our NDC.
+
+Acknowledgements The Government of Tonga would like to acknowledge and thank the Regional Pacific NDC Hub and the New Zealand Ministry of Foreign Affairs and Trade (MFAT) for their kind and generous support to review and enhance Tongas NDC. Thanks, are also extended to the governments of Germany, the United Kingdom, New Zealand and Australia for their funding of the Pacific NDC Hub and to the Deutsche Gesellschaft fr Internationale Zusammenarbeit GmbH (GIZ), the Pacific Community (SPC), the Secretariat of the Pacific Regional Environment Programme (SPREP) and the Global Green Growth Institute (GGGI) as the implementing partners of the Hub. The development of the 2020 NDC of Tonga has been led by the Department of Climate Change (DCC) of the Ministry of Meteorology, Energy, Information, Disaster Management, Environment, Climate Change and Communications (MEIDECC) with technical assistance provided by GGGI. Notable contributions were also made by the members of the Joint National Action Plan on Climate Change and Disaster Risk Management (JNAP) Technical Team and by a broad group of stakeholders who attended the national NDC workshops and consultations. Kind contributions were also made by ClimateWorks Australia (CWA) and Relative Creative (Australia).
+
+Acronyms and Abbreviations ADB Asian Development Bank AFOLU Agriculture, Forestry and Other Land Use CH4 Methane CMA Conference of the Parties serving as the meeting of the Parties to the & Disaster Risk Management JNAP 2 Joint National Action Plan 2 on Climate Change Adaptation & Disaster Risk Management 2018-2028 LT-LEDS Long-Term Low Emission Development Strategy MAFF Ministry of Agriculture, Food and Forests MEIDECC Ministry of Meteorology, Energy, Information, Disaster Management, Environment, Climate Change and Communications Nz MFAT New Zealand Ministry of Foreign Affairs and Trade MPAs Marine Protected Areas N2O Nitrous oxide NCDs Non-communicable diseases NDC Nationally Determined Contribution NGOs Non-Governmental Organizations PACC Pacific Adaptation to Climate Change SF6 Sulphur hexafluoride SIDS Small Island Developing State SMAs Special Management Areas SPC The Pacific Community SPREP The Secretariat of the Pacific Regional Environment Programme TNC Third National Communication on Climate Change TSDF II Tonga Strategic Development Framework 2015-2025 UNFCCC United Nations Framework Convention on Climate Change WHO World Health Organization Key Messages The Kingdom of Tonga (Tonga) is one of the most vulnerable countries in the world to climate change due to its geographic location, status as a SIDS, and the importance of natural resources to its main economic sectors of fisheries, agriculture and tourism. The World Risk Report 2017 has ranked Tonga as the second most at-risk country in the world for natural hazards, including cyclones and flooding, as well as sea level rise. Although Tonga makes a negligible contribution to global GHG emissions, there is no doubt that climate change is already affecting Tongas development and the livelihood of its people and future.
+
+The impact of climate change induced phenomena such as sea level rise, ocean acidification, temperature rise and increased intensity of cyclones continue to pose a threat to the people of Tonga, its society, livelihoods, and its natural environment. Irreversible loss and damage from extreme weather events and coastal erosions are putting the Governments poverty alleviation commitments and national development objectives at risk, and this risk is now compounded by the impacts of the COVID-19 pandemic.
+
+According to Tongas Third National Communication (TNC) to the United Nation Framework Convention Climate Change, Tonga emitted a total of 310.4 Gg of CO2-equivalent in 2006, with the Energy sector accounting for 39%, Agriculture, forestry and other land use (AFOLU) accounting for 61%, and Waste accounting for 0.3% of total GHG emissions. Taking into account its negligible emissions and limited resources, as well as the ongoing disruption and uncertainty brought about by the COVID-19 pandemic, Tongas second NDC is nevertheless ambitious and reflects the urgency of the Paris Agreement. Tongas targets for mitigation are as follows:
+
+Energy: 13% (16 Gg) reduction in GHG emissions by 2030 compared to 2006 through a transition to 70% renewable electricity as well as energy efficiency measures.
+
+AFOLU: establishment of a forest inventory as prerequisite to identify a GHG emission target for the 2025 NDC and planting one million trees by 2023.
+
+Waste: expansion of the formal waste collection system as prerequisite to identify a GHG emission target for the 2025 NDC.
+
+Adaptation to the adverse impacts of climate change within this NDC focusses on coping with the impacts of an increase in temperature and a rise in sea level. In the context of adaptation, the Government of Tonga has set three targets:
+
+30% of land in Tonga utilized for agro-forestry or forestry by 2025,  Prevent any permanent loss of land to rising sea levels on Tongas four main islands (i.e. Tongatapu, Haapai, Vavau, and Eua),  Maintenance of the existing stocks of fish and other marine species through a commitment to expand the area covered by Marine Protected Areas (MPAs) and Special Management Areas (SMAs) to 30% of the Tongas Exclusive Economic Zone (EEZ).
+
+In addition, Tonga is currently developing a Long-Term Low Emission Development Strategy (LT-LEDS) which will be submitted to the UNFCCC in 2021.
+
+1. Introduction The Government of Tonga (GoT) developed its Intended Nationally Determined Contributions (INDC) and submitted it to the UNFCCC in 2015 and ratified the Paris Agreement on 21st September 2016. When the Paris Agreement came into force on 4th November 2016, Tongas INDC submitted in 2015 automatically became Tongas first NDC.
+
+In accordance with decision 1/CP.21, Tonga hereby communicates its 2020 NDC, its second NDC towards achieving the objective of the United Nations Framework Convention on Climate Change as set out in its Article 2, as well as accompanying information to facilitate clarity, transparency, and understanding of its NDC.
+
+The process to develop Tongas 2020 NDC included a review of the 2015 INDC, determining the progress made to date towards achieving its targets and identifying recommendations for the formulation of the 2020 NDC. The review and the recommendations were informed by data sets, academic studies, policies, strategies, roadmaps and other reports and structured interviews with stakeholders in Tonga. The review and recommendations were discussed, comments were received and integrated, and the findings were validated by the Tonga JNAP technical team and relevant stakeholders through national workshops. The 2020 NDC was then prepared building on the recommendations which had been developed and was taken through a final validation process with the JNAP technical team and national stakeholders. The 2020 NDC was then approved by the Tongan Cabinet.
+
+Tongas second NDC is aligned with other international conventions and agreements that Tonga is a party to, including but not limited to the Convention on Biological Diversity and the Montreal Protocol.
+
+2.1 Geographical characteristics Tonga has four main island groups extended over a south to north axis. Tongatapu (260 km2) and Eua (87 km2) in the south, Haapai (109 km2) in the middle, Vavau (121 km2) in the north and Niuafoou (15 km2) and Niuatoputapu (71.7 km2) in the far north. Nukualofa is the capital of Tonga, which is located in the main island of Tongatapu. 2.2 Climate profile Tongas tropical climate reflects its position within the southeast trade wind zone of the South Pacific. Tongas climate is tropical throughout the year, with two distinct seasons: namely dry season (May- October) and wet season (November- April). The northern islands of Tonga receive more rainfall than the southern islands. The driest month is July, and the wettest month is March. During the dry season, the rainfall level received ranges from 100.53 mm to 145.87 mm/decade while the maximum and minimum temperature varies from 24.7C to 28.1C/decade and from 14.71C to 22.33C/decade respectively. The wet season is summertime in Tonga, where the rainfall level varies from 140.85 mm to 235.73 mm/decade while the maximum and minimum temperature varies from 27.6C to 30.3C/decade, 20.78C to 24.34C/decade respectively. In terms of winds, the southeast trades dominate Tonga. The strength of winds is normally light to moderate with a wind speed of 10 to 16 knots at a distance of 7 to 9 km per hour which is strongly correlated to Tongas Southeast trade winds. During dry season, the wind speed is strong in the northern islands of Tonga with little variation in the southern islands. During the wet season, which is summertime in Tonga, tropical cyclones can bring very strong winds at a speed of 22 to more than 65 knots. Tropical cyclones have become more intense than historical records of cyclone occurrences. The El Nio-Southern Oscillation (ENSO) plays a significant role in Tonga's climatic patterns. ENSO is associated with large year-to-year changes in the risks of drought, flood, tropical cyclones and coral bleaching throughout the region. Water temperature continues to increase by 0.0004C since 1993. Sea level rise has also increased by 0.007 m per year since 1993.
+
+Climate determines the state of natural resources such as water, forest, biodiversity and other sectors such as agriculture, fisheries, tourism and health. Henceforth, Tonga is highly vulnerable to the impacts of climate change.
+
+2.3 Environmental resources Natural resources are the primary source of living for the people of Tonga. Despite being highly vulnerable to the impacts of climate change, natural resources are also affected by population growth and environment degradation. Forest area covers 12.5% of the lands while 43.1% is by agricultural land and 44.4% by settlement areas including roads and other transportation features, barren land/wasteland, and other construction purposes. Captured rainwater and underground aquifers are the main sources of water resources in Tonga. Water is used daily for household usage, industrial, agricultural, and commercial purposes. These uses put pressure on water resources and are likely to be exacerbated by climate change. The quality and quantity of surface water can be affected by human activities and climate change. Warmer temperature is affecting the water cycle resulting on changes of the amount of rainfall during cyclone season. The demands for water in Tonga are very high as all Tongans need water to maintain health and other economic activities.
+
+2.4 Population profile The total population of Tonga is about 100,651 as of 2016 (Department of Statistics Tonga, 2016) with 50,255 males and 50,396 females. Tongatapu remains the most populated island in the archipelago, followed by Vavau, Haapai, Eua, Niuatoputapu then Niuafoou. The population decreased by 2.5% from 2011 to 2016 and this is largely due to emigration. Census data also showed that the populations of the outer islands in Tonga have also decreased with many people migrating to the main islands for education and other purposes. Tonga has a relatively young population, with a median age of 22 years. More than one third (39%) of the population is aged 15 years and younger, while only 9% are 60 years and older. Tongatapus population was 74,611, constituting 74% of Tongas total population. This has increased from 73% in 2011. The urban population of Tongatapu was 23,221 (23% of the total population). The average population density was 155 people per km2. However, this varies widely across island division and districts, with the population density in Tongatapu being 286 people per km2 compared to only 17 people per km2 in the Niuas.
+
+2.5 Socio-economic background The key economic sectors in Tonga are agriculture, fisheries and tourism. Remittances to Gross Domestic Product (GDP) ratio in 2015 was 26.5%, which shows the importance of remittances in the economy of Tonga, whereas, exports to GDP ratio was 3.3% in the same year1. Gross National Income (GNI) per capita is around 4.3 thousand US dollars2. Tonga is heavily dependent on imported fossil fuel to meet energy demand. The use of renewable energy is increasing but is dependent on external funding and technical support. According to Asian Development Bank (ADB) (2019) the total unemployment rate is 1.1 %, with the female unemployment rate at 2 %, higher than the male unemployment rate at 0.5 %. About 11% of the population aged 15 and older in rural areas are subsistence workers compared with only 1% of the population aged 15 and older in urban areas. 22.1% of the population in Tonga in 2015 lived under the national poverty line. Tongas Human Development Index (HDI) in 2015 was 0.721, slightly higher than 0.7, the average of developing countries in the same year.
+
+According to Tongas TNC to the UNFCCC, Tonga emitted a total of 310.4 Gg of CO2-equivalent in 2006, with the Energy sector accounting for 39%, AFOLU accounting for 61%, and Waste accounting for 0.3% of total GHG emissions. However, uncertainty in land use data, combined with paucity of information regarding assumptions and methodologies used to calculate GHG emissions and carbon sequestration from living biomass undermines the reliability of the estimate for the AFOLU sector.
+
+Tonga wishes to communicate the following targets for reducing greenhouse gas emissions (table 1):
+
+2. Industrial processes and product use (IPPU): no target, 3. AFOLU: non-emission targets of establishing a forest inventory as prerequisite to identify a GHG emission target for the 2025 NDC and planting one million trees by 2023, 4. Waste: non-emission target of expanding the formal waste collection system as prerequisite to identify a GHG emission target for the 2025 NDC.
+
+70% of electricity generated from renewable sources by 2030 through combination of solar, wind and battery storage To be determined: kind of trees to be planted, land on which trees to be planted, and who will be responsible for planting the trees Tonga set the target of reducing GHG emissions from the combustion of fossil fuels by 13% (16 Gg) by 2030 compared to 2006. This target is to be achieved by implementing the following measures:
+
+70% of electricity generated from renewable sources,  2% efficiency gain per year for newly purchased light duty vehicles,  Limit growth in grid-connected residential electricity end-use to 1% per year on average for the period 2021-2030 by adopting minimum energy performance standards for appliances, lighting, and electrical equipment.
+
+First, generating 70% of electricity from renewable sources requires considerable expansion of generation capacity from solar and wind as well as a substantial increase in battery storage and upgrading of the existing network infrastructure. Technology transfer, capacity building and external financial support will be required to build, operate, and maintain the necessary infrastructure.
+
+Second, achieving a 2% efficiency gain per year for newly purchased light duty vehicles either requires establishing mandatory vehicle standards and/or incentives for purchasing more efficient vehicles through taxes, fees, or import tariffs. While price incentives would likely directly affect consumer choices, mandatory standards would profit from being aligned with price signals for consumers in order to be effective. Establishing mandatory standards and price incentives will require public acceptance as both will likely have an impact on vehicle prices and/or vehicle size.
+
+Third, limiting growth in grid-connected residential electricity end-use to 1% per year on average for the period 2021-2030 may be achieved by adopting minimum energy performance standards for appliances, lighting, and electrical equipment. The successful adoption of energy performance standards will require public acceptance as their introduction will likely increase purchasing prices, though possibly reducing electricity costs. For both vehicle and appliance standards and incentives, technology transfer, capacity building and external financial support may be required.
+
+Tonga does not have any target to reduce GHG emissions from IPPU for two reasons. First, GHG emissions from IPPU represent a fraction of Tongas total greenhouse gas emissions given the absence of mineral, chemical, metal, electronics, and other manufacturing industries as well as the limited use of lubricants, paraffin waxes and solvents. Second, the paucity of data on GHG emissions from IPPU prevents the establishment of a verifiable target.
+
+Tonga set two non-emission targets for AFOLU:
+
+establishing a forest inventory by 2025  planting one million trees by 2023.
+
+First, while not reducing GHG emissions, the establishment of forest inventory will improve clarity and transparency for the AFOLU sector, providing a basis for the calculation of GHG emissions and carbon sequestration from forests and other woody biomass. Such an inventory will serve as the foundation for quantifying GHG emissions from the sector and identifying a GHG emission target for the 2025 NDC. Currently, the paucity of reliable data leads to significant uncertainty in any attempt to quantify GHG emissions and carbon sequestration from forests and other woody biomass.3 The establishment of such a forest inventory requires financing and the development of the necessary technical capacity within the administration to maintain the inventory.
+
+Second, the successful achievement of planting one million trees will reduce GHG emissions. However, it is not possible to quantify this target in terms of GHG emission reductions, as the volume of reductions will depend on the kind and the age of trees to be planted. Successfully planting one million trees will require technical expertise, financial support, and consent from various stakeholders in order to determine what kind of trees will be planted, the land on which the trees will be planted, and who will be responsible for planting the trees.
+
+3.3.1 Targets Tonga set a non-emission target for the waste sector of expanding the formal waste collection system, including the collection of relevant data on waste amounts and waste composition, as a prerequisite to identify a GHG emissions target for the sector in the 2025 NDC. Expanding the countrys formal waste collection system will also allow to improve transparency and clarity regarding assumptions and methodologies used to calculate GHG emissions from waste.
+
+3.3.2 Overview of measures and requirements to achieve targets The expansion of the formal waste collection systems requires financing and the development of the necessary technical capacity within the Waste Authority and the administration to collect the relevant data in order to determine GHG emissions from waste and identify a quantifiable target for reducing GHG emissions.
+
+3 For example, the Government of Tongas Third National Communication states that GHG emissions from land use, land use change and forestry (LULUCF) are entirely offset by carbon sequestration from the countrys forests, with changes in forest and other woody biomass capturing an estimated 1,437.5 gigagrams of CO2e and abandonment of managed lands sequestering a further 441.8 gigagrams of CO2e (Government of Tonga, 2019). However, these estimates could not be confirmed based on the available land use data.
+
+4.1 Priorities and objectives for adaptation In Tonga, adapting to the adverse impacts of climate change focusses on coping with the impacts of an increase in temperature and a rise in sea level. Adapting to the impacts of these two phenomena is regarded as a priority for two reasons. First, there is a high confidence in the available scientific evidence that these two phenomena are a direct manifestation of climate change in Tonga. There is considerable uncertainty about the relationship between climate change and other phenomena, including changes in rainfall patterns, occurrence of droughts, and occurrence of tropical cyclones. Second, there are feasible measures available to respond to the impact of increasing temperatures and rising sea levels on a national scale. There are no effective measures to respond to other phenomena, such as ocean acidification, on a national scale. For more information, please refer to Annex A2. Impacts of climate change.
+
+In the context of adaptation, the GoT identified three targets:  30% of land in Tonga utilized for agro-forestry or forestry by 2025,  Prevent any permanent loss of land to rising sea levels on Tongas four main islands (i.e. Tongatapu, Haapai, Vavau, and Eua),  Maintenance of the existing stocks of fish and other marine species.
+
+Target Means Requirement 30% of land in Tonga utilized for agro-forestry or forestry by 2025 Technical expertise Financial support Consensus on the kind of trees to be planted, the land on which the trees are to be planted, and responsibility for planting the trees Prevent any permanent loss of land to rising sea levels on Tongas four main islands been amended by a target year.  The target of preventing any permanent land loss to rising sea levels has been derived from the JNAP 2 target of resilient coastal development, infrastructures, and integrated coastal ecosystems management.
+
+The target of maintaining Tongas stocks of fish and other marine species has been derived from the 2018 JNAP 2 target of resilient fisheries and marine and coastal ecosystems.
+
+The target of 30% of land in Tonga being utilized for agro-forestry or forestry is envisioned to be achieved by planting of one million trees by 2023, among others. Successfully planting one million trees will require technical expertise, financial support, and consent from various stakeholders in order to determine what kind of trees will be planted, the land on which the trees will be planted, and who will be responsible for planting the trees.
+
+The expansion of MPAs and SMAs is regarded as an important means to achieve the two targets of preventing any permanent loss of land to rising sea levels on Tongas four main islands and maintaining existing stocks of fish and other marine species. In that context, the Government of Tonga aims to expand the area covered by MPAs and SMAs to 30% of Tongas EEZ. In order to be effective, the expansion of MPAs will require a clear definition of MPAs  including if and how they differ from SMAs  as well as strengthened enforcement.
+
+5.1 Information on the process to prepare the NDC The Tonga Strategic Development Framework 2018-2028 (TSDF II) is the overarching national planning document and the principles of the TSDF II have informed the development of the 2020 NDC. There are a number of key sectoral policies and plans which have also informed the 2020 NDC. These include the Tonga Energy Road Map, the Energy Efficiency Master Plan, the National Forestry Policy and the JNAP 2.
+
+The Department of Climate Change has led the development of Tongas second NDC. The Department reviewed the progress made to date towards achieving the targets identified in the 2015 INDC and identified means of how to enhance the 2020 NDC. As part of this process, the Department of Climate Change took a coordinating role in gathering input from stakeholders, both for evaluating progress on the 2015 INDC and designing the 2020 NDC. The review of progress and the development of recommendations for the 2020 NDC were informed by data sets, academic studies, policies, strategies, roadmaps and other reports and structured interviews with stakeholders in Tonga, including government and non-government organisations. Further details of the review and recommendations process are available in Annex 3 of this NDC in the Review of the 2015 Intended Nationally Determined Contribution and Recommendations for the 2020 Nationally Determined Contributions report.
+
+The review and recommendations were discussed, comments were received and integrated, and the findings were validated by the Tonga JNAP technical team and relevant stakeholders through national workshops. These meetings were attended by stakeholders from government, private sector and non- governmental organizations (NGOs) with approximately 25 women and 20 men taking part in the workshops. The 2020 NDC was then prepared building on the recommendations which had been developed and went through a final validation process with the JNAP technical team and national stakeholders. Once the 2020 NDC contents had been agreed across ministries and departments, the NDC was submitted to and approved by Cabinet.
+
+5.2 Information on implementation plans Tonga is currently developing a LT-LEDS which will be submitted to the UNFCCC in 2021. This NDC is aligned with the upcoming LT-LEDS and stakeholder dialogue for the development of the LT-LEDS has fed into the development of the 2020 NDC. The Tongan Government also intends to develop a NDC Roadmap and Investment Plan in 2021.
+
+6. Fairness and Ambition Tonga is a SIDS and its GHG emissions are negligible on a global scale. Due to its geography and economy, Tonga is highly affected by the adverse impact of climate change. Tonga is classified as one of the most at-risk countries in the world in terms of its exposure to the unfolding effects of climate change. The ongoing need for Tonga to invest large portions of its public finance and service capacity in the ambitious quest to achieve our climate resilience objectives is a consequence of the emissions of other large countries over many generations as they developed and became wealthy. Achieving the targets set out in Tongas 2020 NDC will require considerable support for financing, capacity and technology investment. Accounting for these circumstances, Tonga considers its NDC as fair and ambitious.
+
+A1. Information to facilitate clarity, transparency and understanding of Tongas 2020 NDC 1. Quantifiable information on the reference point (including, as appropriate, a base year) (a) Reference year(s), base year(s), reference period(s) or other starting point(s);
+
+Base year for GHG emission target: 2006 Base year for planting one million trees: 2020 (b) Quantifiable information on the reference indicators, their values in the reference year(s), base year(s), reference period(s) or other starting point(s), and, as applicable, in the target year;
+
+(c) For strategies, plans and actions referred to in Article 4, paragraph 6, of the Paris Agreement, or polices and measures as components of nationally determined contributions where paragraph 1(b) above is not applicable, Parties to provide other relevant information;
+
+Relevant strategies, plans and actions include:  Long-term low emissions development strategy  Tonga Energy Road Map  Energy Efficiency Master Plan  Joint National Adaptation Plan 2 on (d) Target relative to the reference indicator, expressed numerically, for example in percentage or amount of reduction;
+
+(e) Information on sources of data used in quantifying the reference point(s);
+
+(f) Information on the circumstances under which the Party may update the values of the reference indicators. GHG emissions from energy sector in 2006 may be updated and recalculated as a result of methodological improvements. Information on updates made will be included in the Government of Tongas Third National Communications to the UNFCCC.
+
+(a) Time frame and/or period for implementation, including start and end date, consistent with any further relevant decision adopted by the Conference of the Parties serving as the meeting of the Parties to the Paris Agreement (CMA);
+
+(b) Whether it is a single-year or multi-year target, as applicable.
+
+(a) General description of the target;
+
+(b) Sectors, gases, categories and pools covered by the nationally determined contribution, including, as applicable, consistent with Intergovernmental Panel on Climate Change (IPCC) guidelines;
+
+Nitrous oxide (N2O),  Carbon monoxide (CO)  Sulphur dioxide (SO2)  Non-Volatile organic compound (c) How the Party has taken into consideration paragraphs 31 (c) and (d) of decision 1/CP.21; Tonga aimed to include all categories of anthropogenic emissions or removals in its NDC. However, targets for GHG emission reductions could only be developed for the energy sector because:  Industrial processes and product use (IPPU): There is a paucity of data for the IPPU sector, preventing the inclusion of the sector. In addition, GHG emissions from IPPU represent a fraction of Tongas total greenhouse gas emissions given the absence of mineral, chemical, metal, electronics and other manufacturing industries as well as the limited use of lubricants, paraffin waxes and solvents. Therefore, omission of the sector has a negligible impact on Tongas NDC.
+
+Waste: Paucity of relevant data on waste amounts and waste composition prevented considering GHG emissions from the waste sector as part of Tongas NDC. However, Tonga is striving to include anthropogenic emissions from waste in its 2025 NDC.
+
+(d) Mitigation co-benefits resulting from Parties adaptation actions and/or economic diversification plans, including description of specific projects, measures and initiatives of Parties adaptation actions and/or economic diversification plans.
+
+Not applicable. Tonga accounts for any mitigation co-benefits from adaptation actions and/or economic diversification as mitigation actions in accordance with the assumptions and methodological approaches indicated in section 5 of this document.
+
+4. Planning Processes (a) Information on the planning processes that the Party undertook to prepare its nationally determined contribution and, if available, on the Partys implementation plans, including, as appropriate: (i) Domestic institutional arrangements, public participation and engagement with local communities and indigenous peoples, in a gender-responsive manner;
+
+The Department of Climate Change was responsible for developing Tongas 2020 NDC. As part of this process, the Department of Climate Change took a coordinating role in gathering input from stakeholders, both for evaluating progress on the 2015 INDC and designing the 2020 NDC. Stakeholders included government officials, technical experts, and representatives of civil society. In addition, the targets and measures put forward in Tongas 2020 NDC have been informed by academic studies, policies, strategies, and roadmaps. The contents of the 2020 NDC were agreed across ministries and departments and approved by the cabinet.
+
+(ii) Contextual matters, including, inter alia, as appropriate:
+
+a. National circumstances, such as geography, climate, economy, sustainable development and poverty eradication;
+
+Tonga is a small island developing state consisting of 176 islands. Tongas economy is characterized by agriculture and fishing, with a high level of subsistence agriculture and dependence on remittances. Both, Tongas geography and its economic structure make the country susceptible to the adverse impacts of climate change. More information on Tongas national circumstances is available in its Third National Communication to the UNFCCC.
+
+b. Best practices and experience related to the preparation of the nationally determined contributions;
+
+Tonga regards coordination between and consultation of all relevant stakeholders as a prerequisite to develop its NDC and its effective implementation. Tonga also regards consistency with existing policies, strategies, and roadmaps as pertinent for developing its NDC and its effective implementation. Tonga recognises the need to strengthen data collection in order to comply with the 2006 IPCC guidelines. The 2020 NDC puts forward specific targets to increase clarity and transparency in this area.
+
+c. Other contextual aspirations and priorities acknowledged when joining the Paris Agreement;
+
+Food security: Given the countrys geographical and economic characteristics, ensuring food security for its population is a priority for Tonga Social inclusion: Tonga puts a strong emphasis on ensuring the consideration of aspects such as gender, income, age, etc. when developing its nationally determined contributions (b) Specific information applicable to Parties, including regional economic integration organizations and their member States, that have reached an agreement to act jointly under Article 4, paragraph 2, of the Paris Agreement, including the Parties that agreed to act jointly and the terms of the agreement, in accordance with Article 4, paragraphs 16 18, of the Paris Agreement;
+
+Not applicable. Tonga is not part of any joint fulfilment agreement under Article 4, paragraph 2 of the Paris Agreement.
+
+(c) How the Partys preparation of its nationally determined contribution has been informed by the outcomes of the global stocktake, in accordance with Article 4, paragraph 9, of the Paris Agreement;
+
+According to Article 14, paragraph 2 of the Paris Agreement, the first global stocktake will take place in 2023. In line with Article 14, paragraph 3 of the Paris Agreement, the outcome of the global stocktake will inform Tonga in updating and enhancing its nationally determined contribution.
+
+(d) Each Party with a nationally determined contribution under Article 4 of the Paris Agreement that consists of adaptation action and/or economic diversification plans resulting in mitigation co-benefits consistent with Article 4, paragraph 7, of the Paris Agreement to submit information on:
+
+(i) How the economic and social consequences of response measures have been considered in developing the nationally determined contribution;
+
+Not applicable. Tonga accounts for any mitigation co-benefits from adaptation actions and/or economic diversification as mitigation actions in accordance with the assumptions and methodological (ii) Specific projects, measures and activities to be implemented to contribute to mitigation co-benefits, including information on adaptation plans that also yield mitigation co-benefits, which may cover, but are not limited to, key sectors, such as energy, resources, water resources, coastal resources, human settlements and urban planning, agriculture and forestry; and economic diversification actions, which may cover, but are not limited to, sectors such as manufacturing and industry, energy and mining, transport and communication, construction, tourism, real estate, agriculture and fisheries.
+
+5. Assumptions and methodological approaches, including those for estimating and accounting for anthropogenic greenhouse gas emissions and, as appropriate, removals:
+
+(a) Assumptions and methodological approaches used for accounting for anthropogenic greenhouse gas emissions and removals corresponding to the Partys nationally determined contributions accounting guidance adopted by the CMA;
+
+(b) Assumptions and methodological approaches used for accounting for the implementation of policies and measures or strategies in the nationally determined contribution;
+
+When accounting for the implementation of policies and measures or strategies in the nationally determined contributions for the energy sector, Tonga will apply the 2006 Intergovernmental Panel on Climate Change Guidelines for National Greenhouse Gas Inventories, using the tier 1 approach and applying default emission factors. When reporting progress towards the targets set in the 2020 NDC, Tonga will strive to apply the 2006 Intergovernmental Panel on Climate Change Guidelines for National Greenhouse Gas Inventories, and the 2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories, using the tier 1 approach and applying default emission factors.
+
+(c) If applicable, information on how the Party will take into account existing methods and guidance under the Convention to account for anthropogenic emissions and removals, in accordance with Article 4, paragraph 14, of the Paris Agreement, as appropriate;
+
+For the energy sector, Tonga reported GHG emissions following the 2006 Intergovernmental Panel on Climate Change Guidelines for National Greenhouse Gas Inventories, using the tier 1 approach and applying default emission factors. Tonga strives to report a complete GHG inventory by 2025, following the 2006 Intergovernmental Panel on Climate Change Guidelines for National Greenhouse Gas Inventories, and the 2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories, using the tier 1 approach and applying default emission factors.
+
+(d) IPCC methodologies and metrics used for estimating anthropogenic greenhouse gas emissions and removals;
+
+For the energy sector, Tonga reported GHG emissions following the 2006 Intergovernmental Panel on Climate Change Guidelines for National Greenhouse Gas Inventories, using the tier 1 approach and applying default emission factors.
+
+(e) Sector-, category- or activity-specific assumptions, methodologies and approaches consistent with IPCC guidance, as appropriate, including, as applicable:
+
+(i) Approach to addressing emissions and subsequent removals from natural disturbances on managed lands;
+
+Not applicable as the current GHG inventory does not adequately capture GHG emissions and removals from agriculture, forestry and other land use. Tonga strives to report anthropogenic emissions or removals from AFOLU, following the 2006 Intergovernmental Panel on Climate Change Guidelines for National Greenhouse Gas Inventories, and the 2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories, using the tier 1 approach and applying default emission factors.
+
+(ii) Approach used to account for emissions and removals from harvested wood products;
+
+(iii) Approach used to address the effects of age-class structure in forests;
+
+(f) Other assumptions and methodological approaches used for understanding the nationally determined contribution and, if applicable, estimating corresponding emissions and removals, including:
+
+(i) How the reference indicators, baseline(s) and/or reference level(s), including, where applicable, sector-, category- or activity-specific reference levels, are constructed, including, for example, key parameters, assumptions, definitions, methodologies, data sources and models used;
+
+Not applicable. For the energy sector, Tonga reported GHG emissions following the 2006 Intergovernmental Panel on Climate Change Guidelines for National Greenhouse Gas Inventories, using the tier 1 approach and applying default emission factors.
+
+(ii) For Parties with nationally determined contributions that contain non-greenhouse-gas components, information on assumptions and methodological approaches used in relation to those components, as applicable;
+
+Tongas non-GHG components largely aim at improving clarity and transparency, enabling Tonga to report anthropogenic emissions or removals from AFOLU and waste, following the 2006 Intergovernmental Panel on Climate Change Guidelines for National Greenhouse Gas Inventories, and the 2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories, using the tier 1 approach and applying default emission factors. There are not specific assumptions and methodological approaches underpinning these components.
+
+(iii) For climate forcers included in nationally determined contributions not covered by IPCC guidelines, information on how the climate forcers are estimated;
+
+Not applicable. Tongas 2020 NDC does not include any climate forcers that are not covered by the IPCC guidelines.
+
+(iv) Further technical information, as necessary;
+
+Not applicable.
+
+(g) The intention to use voluntary cooperation under Article 6 of the Paris Agreement, if applicable.
+
+Tonga intends to achieve the mitigation objectives under its 2020 NDC exclusively through domestic efforts and does not envision any internationally transferred mitigation outcomes.
+
+6. How the Party considers that its nationally determined contribution is fair and ambitious in the light of its national circumstances:
+
+(a) How the Party considers that its nationally determined contribution is fair and ambitious in the light of its national circumstances;
+
+Tonga is a small island developing state. Its GHG emissions are negligible on a global scale. Due to its geography and economy, Tonga is highly affected by the adverse impact of climate change. Accounting for these circumstances, Tonga considers its NDC as fair and ambitious.
+
+(b) Fairness considerations, including reflecting on equity;
+
+(c) How the Party has addressed Article 4, paragraph 3, of the Paris Agreement;
+
+The targets set in Tongas 2020 NDC represent a progression beyond Tongas 2015 NDC in that: The 2020 NDC, for the first time, sets a clear and transparent target for reducing GHG emissions, and the 2020 NDC, for the first time, sets clear and transparent non-emission targets for the AFOLU and waste sectors.
+
+(d) How the Party has addressed Article 4, paragraph 4, of the Paris Agreement;
+
+The non-GHG emissions targets set in the 2020 NDC aim at establishing the prerequisites for Tonga to develop an economy-wide GHG emission reduction target as part of its 2025 NDC, accounting for anthropogenic emissions or removals from energy, AFOLU and waste, following the 2006 Intergovernmental Panel on Climate Change Guidelines for National Greenhouse Gas Inventories, and the 2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories, using the tier 1 approach and applying default emission factors.
+
+(e) How the Party has addressed Article 4, paragraph 6, of the Paris Agreement.
+
+In alignment with its 2020 NDC, Tonga is preparing a long-term low emission development strategy to be launched in 2021.
+
+7. How the nationally determined contribution contributes towards achieving the objective of the Convention as set out in its Article 2 (a) How the nationally determined contribution contributes towards achieving the objective of the Convention as set out in its Article 2; As part of its 2020 NDC, Tonga has identified a clear and transparent target to reduce GHG emissions and charted a course towards gradually increasing its ambitions in the future by expanding its target from a sector-specific to an economy-wide target. As part of its 2020 NDC, Tonga has also identified clear targets towards increasing the countrys ability to adapt to the adverse impacts of climate change. As part of its 2020 NDC, Tonga has also identified where financing will be required to achieve its targets.
+
+(b) How the nationally determined contribution contributes towards Article 2, paragraph 1(a), and Article 4, paragraph 1, of the Paris Agreement. As part of its 2020 NDC, Tonga has identified a clear and transparent target to reduce GHG emissions and charted a course towards gradually increasing its ambitions in the future by expanding its target from a sector-specific to an economy-wide target.
+
+For the purpose of clarity and transparency, this section assesses the impact of five different phenomena related to climate change in Tonga: changes in temperatures, shifts in rainfall patterns, a rise in sea levels, ocean acidification, and the occurrence of tropical cyclones. It summarizes what can be regarded as consensus in the existing literature, highlights areas of uncertainty, and indicates areas in need of future research.
+
+Very high Increase in temperature s by up to 1.0C by 2030 and up to 1.8-4.1C by 2090 Increase in surface air temperature by up to 0.7C  0.2C by 2030, 2.6C  0.3C by 2090 (high emissions) Increase of annual mean rainfall by 2-3% by 2030 under a high emissions scenario coral reefs due to pollution of coastal areas by sediments and debris  Increase in vector- Very high Aragonite saturation levels in the ocean will decrease to 3.5 by 2035 and continue to decline after Decrease in number but increase in intensity of cyclones in the southeast Pacific Ocean basin  Decrease in agricultural productivity with severe damage to perennial tree crops such as coconuts, Under all emission scenarios, temperatures in Tonga are predicted to rise. The Australian Bureau of Meteorology and CSIRO (2014) indicate that temperatures will increase by 1.0C by 2030 under all emission scenarios, and between 0.2C and 4.1C by 2090 depending on the emission scenario. In its Third National Communication, the Government of Tonga (2019) suggests an increase in temperature of up to 0.7C by 2030 and 2.6C by 2090. An increase in temperatures has direct repercussions for agriculture, fishery, and human health.
+
+First, impacts from rising temperatures are expected to be particularly pronounced in the agriculture sector. Agriculture is a crucial sector in Tonga, accounting for approximately 15% of the countrys GDP in 2018/19, with a quarter of the countrys employed laborers working in agriculture, forestry and fishing (Tonga Statistics Department 2019; Tonga Statistics Department 2018). Furthermore, in 2015, more than 80% of Tongas population were engaged in agriculture to meet their own food needs or earn cash income through sale, with squash, yam, taro, sweet potato and cassava representing the most common crops (MAFF et al. 2015). Higher temperatures can lead to lower crop yields because levels of photosynthesis decrease at temperatures above 25C for tropical crops, like sweet potato, cassava, taro, and yams (Hay et al. 2003).
+
+Second, according to Dutra et al. 2018, increase in temperature along with nutrient enrichment and ocean acidification can affect corals immune response, thus increasing the susceptibility of corals to diseases and affecting their survivability and growth. Higher sea surface temperatures of Tongas coastal waters have reportedly led to reduced fish catch as a result of widespread coral bleaching (Government of Tonga 2018b).
+
+Third, Tonga, along with most Pacific island countries, faces effects of water scarcity, vector-, food- and waterborne diseases (McIver et al. 2016). Increasing temperatures are known to facilitate the spread of foodborne diseases such as diarrheal disease, ciguatera and salmonella, due to an increase in the concentration of certain pathogens in food along the pathway from preparation and handling to cooking, serving and storing (WHO 2015). In addition, an increase in temperature may exacerbate Tongas incidences of non- communicable diseases (NCDs) such as obesity and diabetes. As one of the countries with the highest obesity and diabetes rates worldwide  affecting two in five and one in five Tongans respectively  an increase in temperature may contribute to further worsening of public health (WHO 2016). For example, temperature extremes put type-2 diabetes patients at increased risk (Hajat et al. 2017). Similarly, Moellering and Smith (2012) suggest that as air conditioning increases with the rise in temperatures, energy expenditure of the human body decreases which may contribute to rising obesity rates.
+
+Projections for the impact of climate change on rainfall patterns are subject to considerable uncertainty. While existing projections suggest with high confidence that extreme rain events will occur more frequently, there is low confidence that mean annual rainfall will be affected by climate change (Government of Tonga 2019; Australian Bureau of Meteorology and CSIRO 2014). An increase in extreme rain events can be expected to adversely impact infrastructure, agriculture, and public health in Tonga.
+
+First, an increase in extreme rainfall events threatens to reduce agricultural productivity in Tonga (Government of Tonga 2018b). As a large share of Tongas population relies on subsistence agriculture, reduced production might threaten food security of many households. Furthermore, lower productivity as a result of an increase in extreme rainfall events will likely affect revenue from agriculture exports which are vital for the Tongan economy (Government of Tonga 2019). In 2019, agriculture products represented almost half of the countrys export revenue (National Reserve Bank of Tonga 2019).
+
+Second, Tonga occasionally faces heavy rainfall that causes flooding and prolonged ponding of water, which is associated with health risks such as waterborne and vector diseases, including dengue fever (Fakhruddin 2015). In 2017, the Tongan Ministry of Health has expressed concerns with the increased risk of dengue fever due to heavy rainfall (Tonga Broadcasting Commission 2017). Moreover, in the Pacific, WHO (2015) identified diarrheal illness as the most significant category of waterborne disease caused by changes in temperature, rainfall and humidity.
+
+Third, while a systematic analysis is prevented by paucity of data, extreme rainfall events are considered to cause considerable damage to infrastructure. Finally, heavy rainfall in combination with insufficient drainage systems increases surface runoff, resulting in the pollution of nearby coastal areas due to sediments and debris washing into these areas (Government of Tonga 2018b).
+
+Existing projections suggest little change in the incidence of droughts in Tonga due to climate change. However, confidence levels behind these projections are low since the confidence level of changes in mean rainfall change is low. Furthermore, there is no consensus about projected changes in ENSO and their impact on rainfall patterns (Australian Bureau of Meteorology and CSIRO 2014; Government of Tonga 2019). Although droughts might not increase due to climate change, they already pose a threat, particularly to Tongas agriculture sector and public health. If climate change was to result in more prolonged droughts, their impact would further increase.
+
+First, agricultural droughts  i.e. insufficient soil moisture to meet the needs of a crop  are already occurring regularly in Tonga (Government of Tonga 2019). Such droughts severely affect agriculture productivity in the country, resulting in stunted growth of annual crops such as squash, vegetables, yams, sweet potatoes, root crops, and coconuts (Government of Tonga 2018b; FAO and MAFF 2014).
+
+Second, despite the uncertainty in the projection of droughts in Tonga, droughts already pose health threats to the countrys population. For example, prolonged dry periods have caused reduced access to potable water (Fakhruddin 2015). Historically, droughts in 1982-83 and 1997-98 resulted in water shortage, devastating agriculture harvests in those years and causing food shortages (Government of Tonga 2018a). Such threats would be exacerbated in case the frequency or intensity of droughts were to increase as a result of climate change.
+
+Sea levels in Tongan territorial waters are predicted to rise under all emissions scenarios, though projections show considerable differences in the magnitude of that rise, with projections suggesting a 7-27cm rise by 2030 and an increase of 11-88cm by 2090 (Australian Bureau of Meteorology and CSIRO 2014; Government of Tonga 2019). Rising sea levels have a large spectrum of potential impacts, from land loss to salinization of ground water to degradation of coral reefs and migration, among others.
+
+First, along with many countries in the South Pacific, Tonga has experienced the risk of inundation and flooding as a result of sea level rise, making low-lying islands inhabitable (Mimura 1999). Additionally, short duration coastal flooding events can have devastating impacts on coastal infrastructure that further increases risks to populations residing in coastal areas (Aucan 2018). While a systematic analysis is prevented by paucity of data, more than 80% of Tongas population resides within a distance of less than 1km from the shore, suggesting a very high vulnerability to rising sea levels (Neil et al. 2019). Sea level rise combined with extreme weather events is likely to contribute to an increase in inundation of low-lying areas. Estimates suggest that flooding and inundation will affect approximately 4% to 14% of the total population of Tongatapu (Rawat et al. 2016). Even under a medium emissions scenario,4 considerable parts of Tongatapu are projected to be inundated by 2090. In particular, this would affect Nukualofa and the northern coasts of Tongatapu (Climate Central 2020). Ultimately, a considerable share of the population may have to relocate closer to the center of the islands.
+
+Second, rise in sea level will cause seawater intrusion in low lying coastal areas, which can reduce the availability of freshwater as salinity of groundwater increases (Government of Tonga 2018b). Furthermore, the marginal areas of farmland on the coast are expected to experience higher moisture and increased salinization due to inundation or flooding, reducing their suitability for agriculture (Rawat et al. 2016). Land loss, in addition to saltwater intrusion, is also predicted to reduce the availability of potable water (Fakhruddin 2015).
+
+4 Medium emissions scenario is based on RCP 4.5 and consistent with the Paris Agreements target of limiting global warming to 2C (Climate Central 2020).
+
+Higher concentrations of carbon dioxide in the atmosphere causes more CO2 to be absorbed by the worlds oceans. As more CO2 dissolves in the sea, ocean pH decreases, and aragonite saturation levels fall. This process is commonly referred to as ocean acidification. Coral reefs are highly vulnerable to projected decreases in ocean pH and aragonite saturation levels, as corals and crustaceans use aragonite to build their skeletons. At atmospheric concentrations of CO2 above 450 ppm, aragonite levels could fall to levels that make it impossible for corals to sustain building their skeletons (Bell et al. 2011).
+
+In Tonga, aragonite saturation levels are predicted to decrease to 3.5 by 2035 and continue to decline further (Australian Bureau of Meteorology and CSIRO 2014, Government of Tonga 2019), threating corals reef-building calcification rates and structural integrity, making coral reefs the most vulnerable marine habitat in the tropical Pacific region (Fakhruddin 2015).
+
+In particular, according to Dutra et al. 2018, increase in ocean acidification is expected to impact on coral physiology (calcification rates, ability to repair tissues and growth), behavior (feeding rate), reproduction (early life-stage survival, timing of spawning) as well as weaken calcified structures, and alter coral stress- response mechanisms (Fabricius et al. 2015; Fabricius et al. 2011). In addition, ocean acidification is predicted to pose moderate to high risk to the demersal fish and intertidal invertebrates with shells made of calcium carbonate (Fakhruddin 2015). These combined impacts could potentially have detrimental consequences for fisheries (IPCC 2014; Dutra et al. 2018). With more than 13% of Tongan households engaged in fisheries for both consumption and sale, this would affect a considerable share of the population (Tonga Statistics Department 2018).
+
+While the number of cyclones is projected to decrease, their intensity in the Southeast Pacific Ocean basin in Tonga will increase (Government of Tonga 2019). The frequency is predicted to decrease varying from 6% to 35%, while the mean maximum wind speeds are predicted to increase between 2% and 11% (Australian Bureau of Meteorology and CSIRO 2014). However, these projections are made with only moderate confidence. If climate change was to lead to an increase in the intensity of cyclones, it can be expected that the already existing negative impacts on agriculture, coral reefs and fisheries, and public health would be exacerbated.
+
+First, Tonga is regularly affected by cyclones which cause considerable damage to agriculture and related infrastructure. Cyclones are accompanied by heavy winds, rainfall, and storm surges that devastate crops and trees (FAO 2010). For instance, Cyclone Gita in 2018 significantly damaged perennial tree crops, such as coconuts, bananas and breadfruit (Government of Tonga 2018b). Cyclone Harold in 2020 contributed a drop in agricultural export volumes by nearly 30%, with lower exports of taro and cassava (National Reserve Bank of Tonga. 2020). In addition, cyclones contribute to soil erosion and salinization, which lead to loss of soil nutrients in coastal areas and stream catchments, creating unfavorable conditions for crop cultivation (FAO 2010; Government of Tonga 2018b). In addition, past cyclones have caused considerable damage to infrastructure, such as transport infrastructure and buildings. In turn, some of that infrastructure is essential to support the agriculture sector, like farm buildings and fences (FAO 2010).
+
+Second, cyclones  in combination with heavy rainfall  affect coral reefs, fisheries and related infrastructure (Dutra et al. 2018; FAO 2014). Once damage has been done by cyclones, fish habitats such as coral reefs take years to re-establish and function normally, thus negatively affecting ecosystems that depend on coral reefs (Government of Tonga 2019). Furthermore, cyclones destroy fishing vessels and equipment. For example, Cyclone Ian in 2014 severely devastated the fisheries sector of Haapai, due to damage sustained to fishing boats, outboard motors and an estimated 100% of all fishing gears (FAO 2014). If climate change was to cause an increase in the intensity of cyclones, the damage to coral reefs and fisheries would increase accordingly.
+
+Third, cyclones, along with other extreme weather events, have a direct impact on health, especially from water contamination (WHO 2015). As tropical cyclones bring heavy rainfall and provoke flooding, water treatment plants tend to be overwhelmed, leading to cross-contamination between sewage and drinking water pipes, sewage overflow, or bypass into local waterways (Semenza and Nichols 2007).
+
+Government of Tonga. 2019. Third National Communication on Climate Change Report.
+
+Government of Tonga. 2018a. El Nio and drought Watch for Tonga.
+
+Government of Tonga. 2018b. Joint National Action Plan 2 on Climate Change and Disaster Risk Management 2018-2028.
+
+Tonga Statistics Department. 2018. Tonga 2016 Census of Population and Housing. Volume 1: Basic Tables and Administrative Report. Second Edition. Nukualofa.
+
+This document has been produced with the financial support of the Regional Pacific NDC Hub under the Review and Enhancement of Tonga Nationally Determined Contributions. This project is part of the Regional Pacific NDC Hubs support to the Government of Tonga in implementing, enhancing and financing its NDCs. The NDC Hub is financed by the governments of Germany, the United Kingdom, New Zealand and Australia. The NDC Hub is managed by the Deutsche Gesellschaft fr Internationale Zusammenarbeit GmbH (GIZ) in partnership with the Pacific Community (SPC), the Secretariat of the Pacific Regional Environment Programme (SPREP) and the Global Green Growth Institute (GGGI). The Hub has a close collaboration with the NDC Partnerships Support Unit (NDCP SU). The NDC Hub is funded by the German Federal Ministry of Economic Cooperation and Development (BMZ), the Foreign and Commonwealth Office (FCO) of the United Kingdom, the Department of Foreign Affairs and Trade (DFAT) of Australia and the Ministry of Foreign Affairs and Trade (MFAT) of New Zealand.
+
+TPL Tonga Power Limited UNDP United Nations Development Programme UNEP-WCMC United Nations Environment Programme World Conservation Monitoring Centre UNFCCC United Nations Framework Convention on Climate Change USD United States Dollar WRI World Resources Institute The Paris Agreement aims to strengthen the global response to the threat of climate change, mentioning three specific means to achieve that aim:
+
+1. Holding the increase in the global average temperature to well below 2C above pre- industrial levels and pursuing efforts to limit the temperature increase to 1.5C above pre-industrial levels, 2. Increasing the ability to adapt to the adverse impacts of climate change, and 3. Making finance flows consistent with a pathway towards low greenhouse gas (GHG) emissions and climate-resilient development.
+
+To achieve its ambitious long-term goals, the Paris Agreement introduced the Nationally Determined Contributions (NDCs). In the lead-up to the Paris Agreement, governments initially developed Intended Nationally Determined Contributions (INDCs) and submitted these to the secretariat of United Nations Framework Convention on Climate Change (UNFCCC) in Bonn, Germany. With the ratification of the Paris Agreement, those INDCs became Nationally Determined Contributions (Fransen et al., 2017). These NDCs represent a five-year cycle of pledges and reviews of governments actions to mitigate their countries contribution to climate change. Each party1 to the Paris Agreement is required to prepare and submit a successive NDC every five years to the UNFCCC secretariat (UNFCCC, 2015).
+
+This NDC review process was designed to provide a formal framework within which governments would increase the ambition of their actions against climate change and reduce its GHG emission over time, with the intention that each successive NDC would represent a progression beyond a countrys current NDC and ultimately allow to meet the aims of the Paris Agreement goal.
+
+Following the submission of each NDC to the UNFCCC secretariat, governments are required to pursue domestic measures to achieve their mitigation objectives. While most of the submitted NDCs have contained information on adaptation, this is not required. Parties are invited to submit and periodically update communications on adaptation, which may describe adaptation priorities, implementation and support needs, as well as plans and actions, either through their NDCs or other relevant formats such as national adaptation plans or national communications (UNFCCC, 2015).
+
+The Government of Tonga developed its INDC and submitted it to the UNFCCC in 2015 and ratified the Paris Agreement on 21st September 2016. When the Paris Agreement came into force on 4th November 2016, Tongas INDC submitted in 2015 automatically became Tongas first NDC.
+
+1 A party to the Paris Agreement is a country which has ratified the agreement.
+
+This report presents the progress made towards achieving the targets set in Tongas 2015 INDC. It also presents a set of recommendations to be considered for the development of the countrys 2020 NDC. The Department of Climate Change seeks input from all relevant stakeholders on the findings of this report as guidance for drafting Tongas 2020 NDC. The department expects to draft the 2020 NDC in the fourth quarter of this year.
+
+This report is one of the deliverables of the project Review and Enhancement of Tonga Nationally Determined Contribution. The project is part of the Regional Pacific NDC Hubs support to the Government of Tonga in implementing, enhancing and financing its NDCs. The project is being led by the Department of Climate Change and implemented by the Global Green Growth Institute (GGGI), on behalf of the Regional Pacific NDC Hub.
+
+2. Methodology This report has two principal purposes. First, it reviews the 2015 INDC, determining the progress made to date towards achieving the identified targets. Second, it puts forward recommendations for the formulation of the 2020 NDC.
+
+First, the review presented in this report addresses the progress made towards existing goals and targets for both the mitigation and adaptation components of Tongas 2015 INDC. Within each component, the review considered three elements:
+
+1. To what extent identified targets have been achieved, 2. To what extent implementation is supported by identifying specific measures  or the lack thereof  to achieve the identified targets, 3. How targets and measures are communicated, with a particular focus on the available data, including important gaps and inconsistencies.
+
+Second, recommendations were developed to inform the scope and content of the 2020 NDC. There are a number of options for governments of how to enhance or update their NDCs. Following Fransen et al. (2017), these options include (Figure 1):
+
+Updating or adding relevant information,  Revising and/or expanding the existing goals and targets,  Providing information on specific measures to achieve those goals, and  Improving the clarity, transparency, and understanding of their NDCs.
+
+The analysis presented in this report was informed by publicly available data sets and reports, in- country interviews with stakeholders in Tonga facilitated by the Department of Climate Change, and data gathered as a result of these interviews.
+
+Interviews were held during the period of 9th March to 30th April 2020. Travel restrictions imposed as a result of the COVID-19 pandemic prevented the GGGI team from travelling to Tonga for face- to-face interviews. Therefore, all interviews were conducted remotely via video calls. A summary of these interviews is available in Annex 1 of this report. The list of the individuals interviewed from both public and private entities is available in Annex 2.
+
+The contents of this report were discussed and its findings were validated by the JNAP technical team on 24th July and during a 2-day validation workshop with relevant stakeholders on 30th and 31st July 2020. At the validation workshops, the following 3 questions were asked:
+
+Question 1. Do you agree with the results of the review of the 2015 INDC? Would you like to add any comments regarding the achievement of targets in the 2015 INDC?
+
+Question 2. Do you agree with the recommendations made for your sector for the 2020 NDC? Other than the recommendations presented, do you have any other recommendations for the 2020 NDC?
+
+Question 3. How can the suggested 2020 NDC targets be achieved in Tonga? What are the barriers and opportunities? What enabling actions need to be taken?
+
+The feedback in response to questions 1 and 2 was integrated into the review and recommendations of this report. Responses to question 3 on barriers, opportunities and enabling actions will be considered for drafting the 2020 NDC. Feedback collected addressing question 3 is presented in this report in Annex 3.
+
+3. Mitigation Mitigation refers to human interventions to reduce the emission of greenhouse gases from anthropogenic sources or enhance their removal from the atmosphere (UNFCCC, 2009). In other words, mitigation can be broken down into two components. First, it includes any activities that decrease the emission of greenhouse gases, such as switching from fossil fuels to renewable sources for electricity generation. Second, mitigation refers to removing GHG emissions from the atmosphere via carbon sinks, such as vegetations and soils absorbing carbon dioxide (CO2) The 2019 refinement to the 2006 IPCC guidelines for national greenhouse gas inventories identifies the following sectors as relevant sources for GHG emissions (IPCC, 2019):
+
+Energy, including electricity generation, transport, and commercial, institutional and residential end-use,  Industrial processes and product use (IPPU),  Agriculture, forestry and other land use (AFOLU), and  Waste.
+
+Available information suggests that Tongas GHG emissions originate from two main sources:
+
+Tongas 2015 INDC includes the following mitigation targets (Government of Tonga, 2015):
+
+50% of electricity generated from renewable sources by 2020,  70% of electricity generated from renewable sources by 2030,  Reduction of line losses of electricity to 9% by 2020, 2 The Government of Tongas Third National Communication to the UNFCCC distinguishes between (1) agriculture and (2) land use, land-use change and forestry (LULUCF) as separate sectors for GHG emissions (Government of Tonga, 2019). While this report generally follows the guidance provided by the 2019 refinement to the 2006 IPCC guidelines for national GHG inventories (IPCC, 2019), figure Figure 2 presents data as reported by the Government of Tonga in order to be consistent with the source of the data.
+
+Double the number of Marine Protected Areas by 2030, compared to 2015,3  Development of GHG emission reduction targets for the following sectors: transport, None of these targets was formulated in the form of quantifying reductions in GHG emissions. For the 2020 NDC, it is recommended that targets are formulated in terms of GHG emissions reductions, to the extent possible.
+
+This chapter summarizes the 2015 INDC distinguishing between the four sectors put forward as part of the 2006 IPCC guidelines and assesses the progress made towards achieving the identified targets. It also highlights important gaps within the 2015 INDC, such as missing sector targets, gaps in identifying measures to achieve the existing targets, and lack of and inconsistencies in the available data and calculations. Finally, under each section, the report suggests a set of recommendations for the 2020 NDC.
+
+Targets for the energy sector only refer to electricity generation, with the aim to generate 50% of electricity from renewable sources by 2020 and 70% by 2030, as well as to reduce line losses to 9% by 2020 (Government of Tonga, 2015). These targets are largely consistent with other policy documents, such as the second Joint National Action Plan on Climate Change and Disaster Risk Management 2 (JNAP 2) and the Tonga Energy Road Map (TERM) (Table 1).
+
+3 The 2015 INDC lists the target of doubling the number of Marine Protected Areas (MPAs) as part of mitigation. However, in-country interviews suggested that this target should be considered under adaptation. This review discusses MPAs under adaptation (see Box 1. Marine Protected Areas).
+
+4 The 2015 INDC refers to Sector Emission Reduction Targets: Transport, Agriculture, Environment Friendly Waste Management and Reforestation. It is not clear whether this refers to the objective of (1) setting GHG emission targets for these sectors or (2) reducing GHG emissions from these sectors. In the context of this review, the statement is interpreted as referring to setting GHG emission targets for the mentioned sectors.
+
+2018 Joint National Action Plan 2, 2015 Intended Nationally Determined Contributions, 2010 Tonga Energy Road Map 2018 Joint National Action Plan 2, 2015 Intended Nationally Determined Contributions In Tonga, electricity is generated from diesel, solar and wind. According to in- country interviews, Tonga is on track to achieve the target of 50% electricity generation from renewable sources by 2020. The target refers to the fiscal year 2020, which ends in June 2021. Data made available by the utility  Tonga Power Limited (TPL)  shows that the share of electricity generated from renewables increased from 7% in 2016 to 11% in 2019 (TPL, 2020a; Figure 3).
+
+Shares of electricity generated from renewable sources diverge considerably across the four main networks, with the highest share reported for Haapai at nearly 29% in 2019 (figure 5) and the lowest share in Vavau at less than 3% in 2019 (figure 6). Tongatapu, as the largest network by far, saw a share of slightly more than 11% of electricity generation from renewables in 2019 (figure 4). Data for the Eua network shows a share of approximately 5% of electricity generation from renewables in 2019 (TPL, 2020a; figure 7).
+
+Currently, solar and wind farms represent approximately 30% of total installed electricity generation capacity. Planned additions of generation capacity will increase the share of renewables in total capacity to more than 60% over the next two years (TPL, 2020c; in-country interviews).5 Given these capacity additions, it is expected that the share of electricity generated from renewable sources will increase further. However, achieving the target of 50% electricity generation from renewables in 2020 is extremely ambitious.
+
+In addition to the four networks, solar off-grid systems represent a total of approximately 0.8 MW, equivalent to 4% of total installed capacity (Department of Energy, 2020). Information on electricity generation from these systems is not available. Therefore, this review does not consider them when assessing electricity generation by fuel. However, it is estimated that they would only marginally increase the overall share of electricity from renewables.
+
+According to in-country interviews, TPL and the Department of Energy are committed to achieve the target of 70% electricity generation from renewable sources by 2030. The existing project pipeline is aimed at meeting the 50% target and it is assumed that further generation capacity will be needed to meet the 70% target by 2030. It is also assumed that considerable battery storage would be required in order to meet the 2030 target.
+
+According to data shared by TPL, line losses have been successfully reduced to below 9% of electricity generated for all four networks since 2018 (TPL, 2020b). In the period from 2015 to 2019, line losses were reported below 9% across all four networks for four out of five years (Table 2). In-country interviews confirmed the achievement of this target as a result of significant improvements in the network infrastructure reducing technical losses and the introduction of meters curbing non-technical losses.
+
+5 Planned additions will nearly quadruple total installed capacity of electricity generation from renewables, from 6,642 kW in 2Q2020 to approximately 25,292 kW (TPL, 2020c).
+
+The 2015 INDC neither includes any targets for transportation nor for commercial, institutional and residential end-use of energy. The document states that no targets for reducing GHG emissions from the transport sector have been identified, due to the lack of viable alternatives for fossil fuel in transportation (Government of Tonga, 2015). In-country interviews confirmed that no targets for reducing GHG emissions have been developed for these sectors since 2015. The Joint National Action Plan on Climate Change and Disaster Risk Management 2 (JNAP 2) highlights energy efficiency measures as an important means to reduce GHG emissions. However, the document does not set any specific targets (Government of Tonga, 2018). Therefore, it is recommended to derive relevant targets for reducing GHG emissions from the transport sector as well as from commercial, institutional and residential end- use of energy from the upcoming Energy Efficiency Master Plan (Government of Tonga and CTCN, 2020).
+
+The 2020 Energy Efficiency Master Plan  in its current draft versions  does not propose a target that quantifies the reduction of GHG emissions from transport. However, the plan suggests that a combination of targets would lead to an estimated reduction of 28% compared to GHG emission levels in 2030 under a business as usual scenario.6 Among the targets included in the plan, the following selection is regarded as the most relevant to be considered for formulating the 2020 NDC:7  30% improvement in fuel efficiency for newly registered light-duty vehicles, reducing consumption from 10.1 litres per 100 km in 2016 to 7 litres per 100 km in 2030, through registration fees, import tariffs, or fuel economy standards,  10% of all newly registered light-duty vehicles to be electric or hybrid vehicles by 2030.8 Similarly, the Energy Efficiency Master Plan does not propose a target that quantifies the reduction of GHG emissions from commercial, institutional and residential end-use of energy. Instead, the plan proposes several targets. Together, these targets would accumulate to a 35% reduction of GHG emissions from electricity generation, compared to a business as usual scenario.9 Among the targets included in the plan, the following selection is regarded as the most relevant to be considered for formulating the 2020 NDC:10  Adoption of minimum energy performance standards by 2022, following Australian and New Zealand standards for all fridges, freezers, air conditioners, water heaters, televisions, computers, clothes washing machines, dryers, cooking appliances,  Curtailment of import of non-LED bulbs,  Implementation of energy efficiency standards for buildings and performance of energy audits,11  100% of streetlights retrofitted with LED bulbs.
+
+Similarly, the 2015 INDC does not include any target for commercial, institutional and residential end-use of energy. It is recommended for the 2020 NDC to identify relevant measures, if any targets for commercial, institutional and residential end-use are to be included. The upcoming Energy Efficiency Master Plan proposes a number of measures that could be reflected in the 2020 NDC. For example, the plan suggests introducing building standards and energy audits to reduce electricity consumption in buildings. Furthermore, it proposes establishing minimum energy performance standards for electrical appliances and creating a revolving fund to finance the adoption of more energy-efficient equipment (Government of Tonga and CTCN, 2020).
+
+There are considerable gaps in the 2015 INDC regarding transparency and clarity for the energy sector. There is no information on which data and which conversion factors were used to estimate GHG emissions from the combustion of fossil fuels. Both the 2015 INDC and the 2019 Third National Communication (TNC) refer to 2006 data in order to estimate GHG emissions. However, for these two data sets are not consistent (Government of Tonga, 2015; Government of Tonga, 2019; Table 3). This is the result of data for GHG emissions having been revised and updated prior to the Third National Communication (in-country interviews). While the amount of total GHG emissions remained largely unchanged, the sectoral breakdown shows considerable revisions. Therefore, data published as part of the TNC is considered to be more accurate and is generally used for reference in this report, unless stated otherwise.
+
+Attempts to recalculate the 2006 data are prevented by the paucity of raw data and uncertainty about the methodology and conversion factors used. However, calculations based on the Department of Energys 2018 energy balance are consistent with GHG emissions reported in the Third National Communication. The numbers suggest that little change has occurred in the overall amounts of fossil fuels consumption. Therefore, GHG emissions from the combustion of fossil fuels should also remain largely unchanged.
+
+12 However, the Energy Efficiency Master Plan does not quantify the contribution of individual measures to achieve the suggested targets. Furthermore, during the validation workshops, stakeholders regarded the blending of biofuel as not feasible, noting that coconut oil is too expensive to be used for biofuel blending and other feedstocks are not available in Tonga.
+
+Table 3. GHG emissions reported in the 2015 INDC and Third National Communication (in gigagrams) 1 According to Tongas Second National Communication, conversion of forests and grasslands represents a source of emissions that is comparable to the amount emitted by the combustion of fossil fuels (Government of Tonga, 2012). However, no information is provided on the calculated amount. The 2015 INDC and the Third National Communication both report Tonga to be a net carbon sink, with the INDC reporting carbon removals by forests of approximately 1,691.97 gigagrams for 2006 and the Third National Communication reporting removals of 1,879.37 gigagrams for the same year.
+
+It is recommended to ensure the publication of relevant data and calculations in order to permit verification by third parties. This can be done either as part of the 2020 NDC or as part of the national communications to the UNFCCC. If relevant data and calculations are published separately from the NDC document, it should be ensured that the information published is consistent across documents. Furthermore, it is recommended to use the most recent data available for calculating and reporting GHG emissions. Data that is more than 10 years old should be considered outdated.
+
+The 2015 INDC does not include any targets, measures, or data related to industrial processes and product use (IPPU). However, the sectors omission does not necessarily reflect a gap in the document. Given the absence of mineral, chemical, metal, electronics and other manufacturing industries as well as the limited use of lubricants, paraffin waxes and solvents, the IPPU sector might have been considered as not sufficiently relevant to be considered as part of the 2015 INDC.
+
+For the 2020 NDC, it is recommended to not include a GHG emissions target for the IPPU sector. However, in the light of clarity and transparency, it is suggested to explain that there is no target for two reasons: First, GHG emissions from the sector represent only a fraction of Tongas total greenhouse gas emissions. Second, the paucity of data on GHG emissions from the IPPU sector prevents the establishment of a variable target.
+
+The 2015 INDC recognizes agriculture, forestry and other land use (AFOLU) is crucial for both mitigation and adaptation. However, the document does not set any targets to reduce emissions from the sector.
+
+Given the uncertainty of the extent of carbon sequestration, it is recommended for the 2020 NDC to identify a non-emission target for the AFOLU sector. For that purpose, it is suggested to include the establishment of forest inventory to improve clarity and transparency for the sector.
+
+In addition, in-country consultations asked for including a second non-emission target envisioning the planting of one million trees by 2023. While such a target can be considered for the 2020 NDC, it is recommended to ascertain the feasibility of this target prior to its inclusion.
+
+Finally, it is recommended to include a GHG emissions target for the AFOLU sector in the 2025 NDC, after the successful establishment of a forest inventory. Any such target could be derived from existing targets identified in the 2009 National Forest Policy, including halting deforestation and further degradation of indigenous forests, establishing and managing forest reserves, promoting reforestation and rehabilitation of cleared and degraded forests, and promoting agroforestry (Government of Tonga et al., 2009). However, establishing a forest inventory is required in order to be able to quantify any of these targets in terms of emission reduction or emissions removal.
+
+The 2015 INDC does not identify any specific measures to reduce GHG emissions from the AFOLU sector. However, existing policies and plans identify relevant means, which could be drawn upon for the formulation of the 2020 NDC. Among others, the National Forest Policy identified intercropping and agroforestry as an option to mitigate GHG emissions. In-country interviews also specifically highlighted these two measures. Complementarily, the Forest Management Plan identified a range of measures to reduce deforestation, such as improving the enforcement of illegal tree clearing, capacity building to promote agroforestry, and applying certification in order to adhere to international standards for sustainable timber production (Ministry of Agriculture Food Forestry and Fisheries, 2017).
+
+However, a prerequisite for setting specific targets and identifying measures to reduce GHG emissions is to improve data collection and establish a forest inventory. This is reflected in the National Forest Policy stating that Tonga needs a comprehensive inventory of its forest resources (Government of Tonga et al., 2009). Such an inventory will serve as the foundation for analysis, identifying trends and appropriate actions, and evaluating the impact of specific policies and interventions. Currently, the paucity of reliable data leads to significant uncertainty in any larger-scale assessment undertaken in the agriculture and forestry sectors. With basic information regarding forest cover and forest cover change lacking, assessing more complex issues  such as forest regeneration following clearing for agriculture  becomes largely impossible. In return, the paucity of reliable analysis impedes the development of relevant policies to address the issues faced within the sector. Finally, the absence of reliable data also prevents monitoring the impact and evaluating the effectiveness of policies and other interventions.
+
+Tongas 2015 INDC states that, when land use and forestry are considered, Tonga is a net carbon sink of approximately 1,691.97 gigagrams of CO2e per year, with its forests absorbing substantially more GHG emissions than the amount emitted by all other sectors combined (Government of Tonga, 2015).
+
+According to the Third National Communication to the UNFCCC, within the land use and forestry sector, the conversion of forests and grasslands represents the single largest source of GHG emissions in Tonga, accounting for 187.4 gigagrams of CO2e (Government of Tonga, 2019). The Third National Communication also states that GHG emissions from land-use are entirely offset by carbon sequestration from the countrys forests, with changes in forest and other woody biomass capturing an estimated 1,437.54 gigagrams of CO2e and abandonment of managed lands sequestering a further 441.8 gigagrams of CO2e (Government of Tonga, 2019). However, this could not be confirmed by the available land use data. Rather, estimates based on available data shed considerable doubt on whether Tonga constitutes a net carbon sink.
+
+1 The category other is assumed to represent land covered by settlements. This assumption is based on the following premises: First, according to the National Forest Policy, Tongas total land area amounts to 75,210 hectares. Second, the National Forest Policy reports the area covered by lakes and freshwater bodies at 6,523 hectares. Third, the remaining 68,687 hectares fall within the land categories shown in table 3. Within these categories, other is the only category eligible to represent land area covered by settlements.
+
+2 Total land area of Tonga does not include lakes and freshwater bodies. Estimates for total land area differ between sources. Table 4 is consistent with the figures published as part of the 2009 National Forest Policy.
+
+First, based on the size of different land categories published in Tongas National Forest Policy (Government of Tonga, 2009) and applying default factors for average annual above-ground biomass net growth as well as default ratios of below-ground biomass to above-ground biomass for specific vegetation types (IPCC, 2006a), it is estimated that changes in vegetation capture between 183 to 588 gigagrams of CO2e per year (Table 4).13 Even under the most optimistic assumptions, this estimate falls short considerably of the 1,437.54 gigagrams of CO2e reported in the Third National Communication and accordingly of the figures referred to in the 2015 INDC. In addition, the estimated range is considered to rather overestimate actual carbon sequestration, since annual carbon losses due to wood removals, fuelwood removal, and disturbance are not captured (IPCC, 2006a). The large variation in the estimate is a result of uncertainty regarding which default factors for above- ground net-biomass growth to apply. In particular, the category covering the largest share of land area  coconut (grassland, shrubland and cropland)  does not distinguish between natural and plantation areas, resulting in a large variance in the estimated amounts.
+
+Second, no separate estimate could be made to verify the numbers reported for carbon sequestration as a result of the abandonment of managed lands, as the necessary data was not available. However, if any estimates for abandonment of managed lands were included, the numbers for carbon sequestration from changes in forest and other woody biomass would diminish accordingly.
+
+Third, the Third National Communication states that forest area covers 12.5% of Tongas landmass, while 43.1% consists of agricultural land, and 44.4% of the land is covered by settlement areas (Government of Tonga, 2019). Given the large share of settlement areas compared to the data published in Tongas National Forest Policy, the high amount of reported carbon sequestration becomes even more questionable.
+
+In-country interviews confirmed the paucity of reliable data for forestry in Tonga. While a forest inventory is scheduled to be established in 2020-2021, interviewees highlighted the need for capacity building and funding within the Ministry of Agriculture, Food and Forestry to collect and analyse forestry data.
+
+Similar to the AFOLU and transport sectors, while the 2015 INDC calls for reducing GHG emissions from waste management, no specific targets are set, and no relevant measures are identified for this sector (Government of Tonga, 2015). In-country interviews confirmed that no targets for reducing GHG emissions from waste have been developed since 2015.
+
+Given that the waste sector represents only a fraction of Tongas GHG emissions  approximately 0.3% according to the Third National Communication, compared to 11% reported in the 2015 INDC (Government of Tonga, 2019; Government of Tonga, 2015)  and the uncertainty in the available data, it is recommended for the 2020 NDC to not include a target for reducing GHG from the waste sector.
+
+Instead, it is suggested to include a non-emissions target, establishing the necessary preconditions to be able to identify a GHG emissions target for the sector in the 2025 NDC. For that purpose, it is recommended for the 2020 NDC to include the target of expanding the formal waste collection system in Tonga beyond Tongatapu. In that context, relevant data should be collected in order to be able to set a quantifiable GHG emissions target for the next NDC cycle.
+
+13 The Forest Management Plan refers to nearly identical figures for the estimated area under the same set of land categories (Ministry of Agriculture Food Forestry and Fisheries, 2017).
+
+There are considerable gaps in the 2015 INDC regarding transparency and clarity for the waste sector. There is no information on the amounts of waste, based on which GHG emissions were calculated. In addition, there is no information on the calculation for converting available waste data into estimates for GHG emissions.
+
+Both the 2015 INDC and the 2019 Third National Communication refer to 2006 data in order to estimate GHG emissions. However, for these two data sets are not consistent (Government of Tonga, 2015; Government of Tonga, 2019; Table 3). Instead, data for GHG emissions was revised prior to the Third National Communication and is considered to be more accurate (in-country interviews).
+
+According to the 2006 IPCC guidelines, GHG emissions from the waste sector include emissions from (1) solid waste disposal, (2) biological treatment of solid waste, (3) incineration and open burning of waste, and (4) wastewater treatment and discharge (IPCC, 2006a). First, in-country interviews confirmed that only data capturing total amounts for solid waste is available, with no information on composition. Second, according to available data and in-country interviews, there is no biological treatment of solid waste in Tonga. Third, according to the 2016 census and in- country interviews, open burning of waste remains a common practice in Tonga, particularly outside Tongatapu (Tonga Statistics Department, 2017). However, information on the amounts of waste disposed of through the practice of open burning are not available. Finally, there is insufficient information on wastewater treatment and discharge in Tonga.
+
+Using the IPCC waste model (IPCC, 2006b), extrapolating the amounts for municipal solid waste reported for Tongatapu (Waste Authority Ltd., 2017), applying default factors for Other Oceania, assuming methane generation rate under moist and wet climatic conditions and no methane recovery at the landfill site, results in minimal GHG emissions from municipal solid waste of less than 1 gigagram.
+
+The 2015 INDC refers to strengthening resilience against the adverse impacts of climate change, mentioning specifically the following sectors and areas (Government of Tonga, 2015):
+
+Public infrastructure,  Buildings,  Coastal protection, and  Agriculture sector, mentioning measures such as improved soil management and agroforestry.
+
+In alignment with the National Forest Policy, the 2015 INDC also identifies goals to increase resilience in the forestry sector, including (Government of Tonga, 2015; Government of Tonga et al., 2009):14  Halting deforestation and degradation of indigenous forests,  Maintaining national parks, reserves and protected areas,  Establishing and managing forest reserves,  Promoting reforestation and rehabilitation of cleared and degraded forests with climate change resilient, and ecologically and socially appropriate tree species,  Promoting integrated agroforestry in areas earmarked for agriculture,  Discouraging tree removal on tax allotments,  Encouraging tax allotment holders to plant and manage trees on their properties.
+
+In addition to the goals mentioned above, the 2015 INDC also refers to the importance of trees for the protection of coastal areas.
+
+While references to strengthening resilience against and adapting to the adverse impacts of climate change are made throughout the document, the 2015 INDC lacks a systematic assessment of adaptation options. This is reflected in the documents neglect to distinguish between goals and measures to achieve these goals.
+
+It is recommended for the Government of Tonga to focus on targets related to coping with the impact of an increase in temperature and a rise in sea level, as there is a high confidence in the available scientific evidence that these two phenomena are a direct manifestation of climate change in Tonga. Other phenomena either entail considerable uncertainty (change in rainfall patterns, occurrence of droughts, occurrence of cyclones) or there are no feasible measures available to respond on a national scale (ocean acidification).
+
+In this context, several targets identified by the Joint National Action Plan 2 on Climate Change and Disaster Risk Management (JNAP 2) can be regarded as relevant. JNAP 2 identifies electricity, transport, agriculture, fisheries, coastal protection and flood management as important areas for adaptation (Government of Tonga, 2018). More importantly, JNAP 2 introduces 20 targets to strengthen resilience against climate change. Several of these targets could be included in the 2020 NDC (table 5).
+
+14 While the 2015 INDC lists these goals in the context of strengthening resilience towards the adverse impacts of climate change, the National Forest Policy lists them as measures in the context of mitigation.
+
+Resilient coastal development, infrastructures, and integrated coastal ecosystems management Strengthened capacity and awareness of climate change and disaster risk management among population If any of these targets were to be included in the 2020 NDC, it is recommended to define them more closely and/or make them quantifiable in order to be able to evaluate progress.
+
+In addition, JNAP 2 identifies a number of objectives, including:
+
+Mainstreaming climate resilience by strengthening existing decision-making structures, reflecting considerations related climate resilience in government planning and implementation, and developing guidelines,  Strengthening data collection and dissemination by building capacity and systematically sharing data across entities,  Developing a monitoring system to strengthen meteorological services, to assess water and soil conditions,  Raising awareness and increasing access to information within government, private sector, communities, and private households through trainings and web portals,  Increasing access to finance by establishing a coordination mechanism for funding from development partners, simplifying and harmonizing procedures for disbursement. However, it is unclear how these objectives relate to the targets identified earlier. Nevertheless, objectives from the JNAP 2 related to data gathering and monitoring are regarded as the most relevant to be reflected in the 2020 NDC. Both would allow to develop specific targets, increase transparency, and improve communication in later iterations of the Nationally Determined Contributions(post-2020).
+
+The 2015 INDC included a provision calling for the doubling the number of Marine Protected Areas (MPA) by 2030, compared to 2015. However, the document does not elaborate on how an increase in Marine Protected Areas would reduce GHG emissions or strengthen Tongas adaptive capacity towards the adverse impact of In-country interviews provided conflicting information on whether increasing the number of Marine Protected Areas is considered a mitigation or an adaptation target. On the one hand, it was mentioned that Marine Protected Areas were included in the 2015 INDC, because they were regarded as a means to maintain or increase the absorption of carbon from the atmosphere by sea organisms. However, the document does not provide any evidence that establishing Marine Protected Areas has a positive effect on carbon sequestration. On the other hand, in-country interviews suggested that the expansion of Marine Protected Areas should be considered as an adaptation target as the aim of MPAs is to preserve marine biodiversity and fish populations. However, the 2015 INDC does also not elaborate on how an increase in the number of MPAs would strengthen adaptive capacity (Government of Tonga, 2015).
+
+Independent of the questions whether or not MPAs are a suitable means to support mitigation or strengthen adaptive capacity, in-country consultation suggested that the number of Marine Protected Areas has increased from six in 2015 to ten in 2020. However, this change could not be confirmed by other sources with available data for the period from 2016 to 2018 showing no change in the size of Marine Protected Areas.
+
+World Bank (2019) reported a constant 1.5% of Tonga territorial waters  equivalent to approximately 10,050 km2  to be covered by Marine Protected Areas.16 This figure coincides with data published as part of the Tonga Fisheries Sector Plan 2016-2024, reporting 10,100 km2 of marine conservation area (Government of Tonga, World Bank, and International Fund for Agricultural Development, 2016).
+
+For the 2020 NDC, in-country consultations recommended to consider Marine Protected Areas as a means for mitigation as well as a means for adaptation. Therefore, it is suggested to include a non-emission target for preserving Tongas marine biodiversity to function as a carbon sink, considering MPAs as a measure to achieve this target. In addition, Marine Protected Areas could be mentioned under adaptation as a means for coastal protection and food security. However, it should be noted that connecting MPAs to a measurable target is unlikely. While the area covered by MPAs can be measured, it will not be possible to express their impact to function as a carbon sink as well as their effect on resilience as a quantifiable target.
+
+15 This report discusses MPAs as part of adaptation. Independent of whether MPAs are considered under mitigation or adaptation, the principal findings remain unchanged. 16 The total area of territorial waters for Tonga is reported at 668.055 km2 (UNEP-WCMC, 2020).
+
+The 2015 INDC does not identify measures to strengthen adaptation. In that context, it is very important to distinguish between goals and the means to achieve these goals. This is not the case in the 2015 INDC. While the 2015 INDC refers to a list of goals related to resilience, the National Forest Policy enumerates the same statements as measures (Government of Tonga, 2015; Government of Tonga et al., 2009). Therefore, in the 2020 NDC, it is recommended to systematically identify relevant goals and the related measures to achieve them. Examples are provided in Table 6 below.
+
+Enhance forest monitoring and enforcement of policies by increasing the number of staff.
+
+Establish agroforestry pilot projects in selected villages involving extension service workers Several existing policies and plans identify relevant measures, which could be drawn upon for the formulation of the 2020 NDC. Among others, the 2016 Tonga Agriculture Sector Plan includes measures to support climate-resilient agriculture. In that context, the plan refers to the maintenance of soil conditions, rotational and mixed cropping, diversity in life stock, and water management, among others. For example, in order to maintain soil conditions, the plan proposes to conduct soil surveys and trials with fertilizers and vermiculture. To improve water management, the plan suggests estimating groundwater resource and their current exploitation as well as identifying potential use and/or need for protection (Government of Tonga, World Bank, and IFAD, 2016b).17 Similarly, the National Forest Policy and the Forest Management Plan contain measures to enhance coastal protection in Tonga (Government of Tonga et al., 2009; Ministry of Agriculture Food Forestry and Fisheries, 2017).
+
+In addition, JNAP 2 identifies a range of activities to achieve its objectives. Some of these activities could be included in the 2020 NDC if it was to reflect any of the objectives from the JNAP 2.
+
+17 The Tonga Agricultural Sector Plan does not specify the geographical scope of the proposed interventions (Government of Tonga, World Bank, and IFAD, 2016b) The 2015 INDC refers to adaptation in various sections of the document. However, adaptation is not addressed systematically. Following the example of the JNAP2, it is recommended for the 2020 NDC to provide an overview of the different phenomena related to climate change  including changes in temperatures, shifts in rainfall patterns, a rise in sea levels, ocean acidification, and the occurrence of tropical cyclones  and their impact on Tonga (Table 7). This overview should summarize what can be regarded as consensus in the existing literature, highlight areas of uncertainty, and indicate areas in need of future research.
+
+Very high Increase in temperatures by up to 1.0C by 2030 and up to 1.8-4.1C by 2090 Increase in surface air temperature by up to 0.7C  0.2C by 2030, 2.6C  0.3C by 2090 (high emissions) Low Little change in annual mean rainfall.
+
+Increase of annual mean rainfall by 2-3% by 2030 under a high emissions scenario  Degradation of coral reefs as a result of pollution of coastal areas by sediments and debris  Reduced access to drinking water and reduced food security.
+
+Very high Aragonite saturation levels in the ocean will decrease to 3.5 ar by 2035 and continue to decline after Decrease in number but increase in intensity of cyclones in the southeast Pacific Ocean basin  Decrease in agricultural productivity with severe damage to perennial tree crops such as coconuts, bananas, and breadfruit 5. Recommendations This report reviewed and assessed Tongas 2015 Intended Nationally Determined Contributions regarding the identified goals and targets, the proposed measures to achieve those targets, and the clarity and transparency of communicating the relevant information. Based on the results of this review process, recommendations were developed for the scope and content of the 2020 NDC (see Table 8 for a summary of the recommendations).
+
+First, following international best practice, to the extent possible, it is recommended that mitigation targets in the 2020 NDC are formulated in terms of GHG emission reductions.
+
+Second, it is recommended to follow the 2006 IPCC guidelines for reporting GHG emissions and selecting targets for reducing emissions. This will considerably enhance transparency and clarity.
+
+Third, it is recommended to keep the focus of mitigation targets on the energy sector. However, the 2015 INDC largely focused on reducing emissions from electricity generation. It is recommended to expand the scope for the 2020 NDC and includes targets for the transport as well as for commercial, institutional and residential end-use. Such targets could be based on the upcoming Energy Efficiency Master Plan.
+
+Furthermore, given that none of the existing targets for the AFOLU sectors is quantified in terms of emission reduction or emissions removal as well as the uncertainty of the extent of carbon sequestration, it is recommended for the 2020 NDC to identify a non-emission target for the AFOLU sector. For that purpose, it is suggested to include the establishment of forest inventory to improve clarity and transparency for the sector. Based on data obtained through the forest inventory, it is recommended to include a GHG emissions target for the AFOLU sector in the 2025 NDC.
+
+Similarly, given the minimal amount of emissions from the industry and waste sectors, combined with the paucity of relevant data, it is recommended to not include emission targets for these two sectors in the 2020 NDC. It is suggested for these non-emission targets to focus on increasing clarity and transparency. In case of the waste sector, it is recommended to expand the formal waste collection system, including the collection of relevant data in order to define relevant GHG emissions targets for the 2025 NDC.
+
+In addition, for the 2020 NDC, in-country consultations recommended to consider Marine Protected Areas as a means for mitigation as well as a means for adaptation. Therefore, it is suggested to include a non-emission target for preserving Tongas marine biodiversity to function as a carbon sink, considering MPAs as a measure to achieve this target. In addition, Marine Protected Areas could be mentioned under adaptation as a means to support coastal protection and food security. However, either target will likely not be quantifiable, and  as a result  their achievement will be difficult to verify. Stakeholders suggested also considering Special Management Areas (SMAs). However, there is a need for clarification on the concept, definition and relationship between MPAs and SMAs (see Annex 4 to this report). Therefore, it is recommended to include only MPAs in the 2020 NDC. This would also provide consistency with the 2015 INDC.
+
+Fourth, the 2015 INDC generally omits to identify measures to achieve the proposed targets. However, identifying relevant means is crucial to establish realistic targets and to measure progress. It is suggested that once targets for the 2020 NDC have been identified to draw upon relevant measures from existing policies and plans for the formulation of the 2020 NDC.
+
+Fifth, the 2015 INDCs clarity and transparency are undermined by a paucity of relevant data and an inability for third parties to re-calculate results based on publicly available data. Therefore, it is recommended to ensure the publication of relevant data and calculations to permit verification by third parties. This can be done either as part of the NDC or as part of the national communications to the UNFCCC. In particular, there is a high uncertainty regarding GHG emissions from agriculture, forestry and other land use. Therefore, it is suggested to recalculate figures for carbon sequestration. If recalculation is not possible as part of the 2020 NDC, it should be considered to exclude GHG emission data for the AFOLU sector from the document and highlight the existing uncertainty instead.
+
+Finally, it is recommended for the 2020 NDC to clearly distinguish between mitigation and adaptation. For adaptation, it is suggested for the 2020 NDC to highlight that coping with the impact of an increase in temperature and a rise in sea level are priorities for Tonga. If specific targets for adaptation are to be identified as part of the 2020 NDC, it is recommended to select targets related to increasing temperatures and a rising sea levels. In this context, several targets identified by the Joint National Action Plan 2 on Climate Change and Disaster Risk Management are regarded as relevant. However, if any of these targets were to be included in the 2020 NDC, it is recommended to define them more closely and/or make them quantifiable in order to be able to evaluate progress. In order to improve clarity and transparency, it is recommended for the adaptation section of the 2020 NDC to provide an overview of the different phenomena related to climate change and their impact on Tonga, summarizing what can be regarded as consensus in the existing literature, highlighting areas of uncertainty, and indicating areas in need of future research.
+
+Structure Have a clear structure of the NDC, distinguishing between mitigation and adaptation. The mitigation section should distinguish between the four main sectors identified by the 2006 IPCC guidelines for national greenhouse gas inventories as relevant sources for GHG emissions.
+
+Follow the 2006 IPCC guidelines for reporting GHG emissions and selecting targets for reducing emissions. This will considerably enhance transparency and clarity.
+
+Targets Following international best practice, to the extent possible, formulate mitigation targets in terms of GHG emission reductions.
+
+Keep the focus of mitigation targets on the energy sector but expand the scope beyond reducing emissions from electricity generation and include transport as well as for commercial, institutional, and residential end-use. Relevant targets for the transport sector as well as for commercial, institutional and residential end-use could be based on the upcoming Energy Efficiency Master Plan.
+
+Maintain the target of achieving 70% of electricity generated from renewable sources by 2030. Consider updating the target of achieving 50% of electricity generated from renewable sources from being achieved in 2020.
+
+Targets Given that none of the existing targets for the AFOLU sectors is quantified in terms of emission reduction or emissions removal, include a non-emissions target in the 2020 NDC and include an emissions reduction target in a later iteration of the NDC. The non-emission target should include the establishment of Tongas national forest inventory as a means to enhance clarity and transparency.
+
+Given the minimal amount of emissions from the industry and waste sectors, combined with the paucity of relevant data, do not include any GHG emission targets for these two sectors in the 2020 NDC. Include the target of expanding the formal waste collection system in Tonga beyond Tongatapu, as a prerequisite for collecting relevant data and setting a quantifiable GHG emissions target during the next NDC cycle.
+
+Highlight that coping with the impact of an increase in temperature and a rise in sea level are priorities for Tonga. If specific targets for adaptation are to be identified as part of the 2020 NDC, select targets related to increasing temperatures and a rising sea levels. In this context, several targets identified by the Joint National Action Plan 2 on Climate Change and Disaster Risk Management are regarded as relevant. However, if any of these targets were to be included in the 2020 NDC, define them more closely and/or make them quantifiable in order to be able to evaluate progress.
+
+Implementation Complement targets with relevant measures to achieve them. In many cases, relevant measures can be drawn from existing policies and plans, such as the Energy Efficiency Master Plan, the National Forest Policy, and the Forest Management Plan.
+
+Consider the expansion of Marine Protected Areas as a means for mitigation as well as a means for adaptation rather than a target in itself. In that context, include a non-emission target for preserving Tongas marine biodiversity to function as a carbon sink, considering MPAs as a measure to achieve this target. In addition, Marine Protected Areas could be mentioned under adaptation as a means to support coastal protection and food security.
+
+Communication Ensure the publication of relevant data and calculations to permit verification by third parties. This can be done either as part of the NDC or as part of the national communications to the UNFCCC.
+
+Recalculate figures for carbon sequestration. If recalculation is not possible as part of the 2020 NDC, consider excluding GHG emission data for the AFOLU sector and explain the uncertainty in the available data.
+
+In order to improve clarity and transparency, provide an overview of the different phenomena related to climate change and their impact on Tonga, summarizing what can be regarded as consensus in the existing literature, highlighting areas of uncertainty, and indicating areas in need of future research.
+
+6. References Department of Energy 2020. Installed off-grid renewable energy. Fransen, T., Northrop, E., Mogelgaard, K. & Levin, K. 2017. Enhancing NDCs by 2020: Achieving the Goals of the Paris Agreement. Working paper. Washington, DC. : World Resources Institute.
+
+Fransen, T., Sato, I., Levin, K., Waskow, D., Rich, D., Ndoko, S. & Teng, J. 2019. Enhancing NDCs by 2020: Achieving the Goals of the Paris Agreement. Washington, DC.: World Resources Institute.
+
+Government of Tonga 2012. Second National Communication. Government of Tonga 2015. Intended Nationally Determined Contributions. Government of Tonga 2018. Joint National Action Plan 2 on Climate Change and Disaster Risk Management 2018-2028. Government of Tonga 2019. Third National Communication on Climate Change Report. Government of Tonga, Food and Agriculture Organization of the United Nations, German Agency for International Development Cooperation & Secretariat of the Pacific Community 2009. National Forest Policy for Tonga.
+
+Government of Tonga & United Nations Climate Technology Centre and Network (CTCN) 2020. Government of Tonga Energy Efficiency Master Plan, Unpublished.
+
+Government of Tonga, World Bank & International Fund for Agricultural Development 2016a. Tonga Agriculture Sector Plan 2016-2020.
+
+Government of Tonga, World Bank & International Fund for Agricultural Development 2016b. Tonga Fisheries Sector Plan 2016-2024.
+
+IPCC 2006a. 2006 IPCC Guidelines for National Greenhouse Gas Inventories, Prepared by the National Greenhouse Gas Inventories Programme, Japan, IGES.
+
+IPCC 2006b. IPCC Waste Model. IPCC 2019. 2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories, Calvo Buendia, E., Tanabe, K., Kranjc, A., Baasansuren, J., Fukuda, M., Ngarize, S., Osako, A., Pyrozhenko, Y., Shermanau, P. and Federici, S. (eds). Publish.
+
+Ministry of Agriculture Food Forestry and Fisheries 2017. Management Plan for the Forests and Tree Resources of Tonga. Tonga Power Limited (TPL) 2016. Tonga Power Limited Annual Report 2016. Tonga Power Limited (TPL) 2017. Tonga Power Limited Annual Report 2017. Tonga Power Limited (TPL) 2020a. Losses and Consumption Data 2015-2020. Internal Document. Tonga Power Limited (TPL) 2020b. TPL Generation Data. Internal Document. Tonga Power Limited (TPL) 2020c. TPL Installed and Planned Generation Capacity. Internal Document. Tonga Statistics Department 2017. Tonga 2016 Census of Population and Housing. Volume 1:
+
+Basic Tables and Administrative Report. UNEP-Wcmc 2020. Profile for Tonga. UNFCCC 2009. Fact sheet: The need for mitigation. UNFCCC 2015. Paris Agreement. World Bank 2019. Marine protected areas (% of territorial waters). Washington, D.C.: World Bank.
+
+Estimates are based on figures from oil companies. Sales figures from oil companies differ from imports/consumption data from Statistics Department.
+
+Diesel Sales data from oil companies to different consumers used to estimate breakdown between road transport and maritime transport (also relevant for gasoline). However, records are not always clear to make distinction.
+
+Fuel oil deliveries are not clearly distinguished in report, but all fuel oil deliveries counted towards maritime transport, as newer domestic ferries run on diesel.
+
+Data (energy) Approach followed for national communication: figures collected from shipping and aviation companies and authorities Willingness of oil companies to share data is limited as data regarded as commercially sensitive.
+
+Stock changes had to be estimated.
+
+Situation should improve once energy yearbook is available in 2021.
+
+Marine bunkers Data on deliveries to marine bunkers is difficult to obtain as some oil directly sold to vessels.
+
+Targets (energy) Target for electricity losses has been achieved.
+
+Renewable energy targets on track.
+
+Generation target has never been an official policy.
+
+Goals and targets for energy efficiency will be determined based on general direction provided by Energy Efficiency Master Plan. Key sector for energy efficiency measures is transport, particularly road transport (followed by maritime transport, with very limited contribution from aviation), and to a lesser extent residential sector.
+
+Lack of data as a hindrance to determine relevant targets and measures.
+
+Formal figures for only one logging company/forest plantation in Eua.
+
+Estimates for harvesting of trees for fuelwood, based on samples. Basing estimate on Department of Statistics expenditure survey would only capture fuelwood that is sold commercially. Particularly in outer islands, fuelwood represents the main source of energy.
+
+Estimate for CO2 sequestration of forests is likely too high in 2015 INDC, as figures for forest cover were probably too high. Using data from the National Forest Policy regarded as a good option.
+
+Age of trees is considered as low, due to considerable replanting in recent years and cultivation of fast-growing trees for fuel wood harvesting. This would have an impact when using IPCC default emission factors.
+
+Conversion of land for agriculture as the main contributor, including slashing and burning of forests, ploughing, agrichemicals, etc.
+
+Livestock not considered currently, but useful to capture in the future.
+
+Need to improve data.
+
+Need for capacity building for data collection and analysis of forestry data. Current capacity within the Ministry of Agriculture, Food and Forestry considered as limited.
+
+FAO forestry inventory scheduled to be concluded by 2021, by a Japanese consultant.
+
+Proposed goal of planting one million trees has to be put into context. Setting a single number is too simplistic. Tonga National Agriculture Sector Plan might include more practical goals.
+
+Electricity Main concern in Energy sector has shifted from access to electricity (100% access likely to be achieved by end 2021) to affordability (which will remain a concern for the near future) and will shift to acceptability of generation source in the future, with the necessity to move away from fossil fuels to renewables Access is defined broadly; anyone who is connected to main grids, mini- grids, or home systems being counted.
+
+2020/25: on track to achieve 50% of electricity generation from renewable sources Conditional on:
+
+Solar capacity Current: about 4.2 MW in Tongatapu, 400 kW in Vavau, 500 kW in Haapai, and 200 kW in Eua.
+
+Future capacity additions:
+
+Legislation Energy bill as umbrella for all energy-related acts, including electricity, petroleum, pricing, renewable energy, etc.
+
+Ministry of Infrastructure expected to provide recommendation on vehicle efficiency. Vehicle efficiency testing through technical verification agency required.
+
+Forest data If forest data in 2009 National Forest Policy came from Department of Environment, it would have been as part of the communication to CBD (part of the mandatory reporting as part of multilateral environmental agreements). The specific report in question is the 5th National Forestry Report.18 However, the data in the report comes from the Department of Forestry.
+
+Forest targets Relevant targets are formulated as part of the 5th National Forestry Report, referring to forest cover and mangroves, among others. The 2020 NDC could refer to these existing targets.
+
+Marine Protected Areas were included in the 2015 INDC as part of mitigation, because they were regarded as a means to maintain/increase the absorption of carbon by sea organisms. However, there is no system or methodology to measure the impact of establishing Marine Protected Areas on carbon sequestration.19 The 2015 INDC included the general goal of increasing the number of Marine Protected Areas. However, among the guidelines to establish Marine Protected Areas, the size of the area is one criterium.
+
+The current target is for 30% of Tongas exclusive economic zone to be covered by Marine Protected Areas, included in the Marine Spatial Plan. The plan itself is currently being drafted, but materials informing the plan are available.
+
+Adaptation Adaptation, as part of the 2020 NDC, should include measurable and realistic goals and targets. Targets have to be measurable and realistic as a prerequisite for funding and implementation.
+
+JNAP2 and the National Environmental Management Strategy (being drafted) are sources that could inform adaptation as part of the 2020 NDC.
+
+The State of the Environment Report could help to capture evaluate current development and identify gaps and barriers (e.g. terrestrial protected areas).
+
+Waste Department of Environment collects waste data from Waste Authority Ltd. Currently, no distinction between waste streams. However, there is an aim to collect waste information distinguishing between different categories of waste. No collection of data on methane emissions from landfill.
+
+Specific measure to be implemented concerns phase-out of single-use plastics.
+
+18 GGGI was not able to obtain the 5th National Forestry Report.
+
+19 In a follow up discussion, the Department of Environment suggested that the target of doubling the number of marine protected areas should be regarded as a means to strengthen adaptation.
+
+Biomass Information on consumption in household income and expenditure survey (2015) LPG Information on consumption in household income and expenditure survey (2015) Oil products Information on imports (quarterly) in foreign trade report, based on customs data. Note: Re-export refers to international marine bunkers.
+
+No data on consumption.
+
+Transport No data beyond census and household survey. No data on passenger and freight kilometers. Ask for vehicle registry data from the Ministry of Infrastructure.
+
+Waste No data beyond census and household survey. No data on amounts and waste composition. Ask waste authority.
+
+Generally, data gathering through census in order to gain an overview. Detailed data can be gathered through specific survey, covering specific topic.
+
+Data shared between ministries/departments once agreement on what data is shared, for what purpose and with whom. Arrangements are made based on Statistical Act with other line ministries (letter from CEO).
+
+Follow up Questions from Bureau of Statistics: Specific data collected as part of the preparation of Fiji LEDS?
+
+Answer from GGGI: Nothing specifically collected due to budget and time constraints.
+
+A1.5 Department of Transport, Ministry of Infrastructure, Land Transport Division Infrastructure Considering the impacts of climate change during the planning and design process Can share data on fuel consumption, vehicle registry, and traffic count (Tongatapu) Contacts for buildings control, maritime transport and aviation to set up interviews A1.6 Department of Transport, Ministry of Infrastructure, Maritime Transport Division Data Collecting data of fuel sales to domestic shipping for registered vessels (>8 meters). No data for smaller vessels that would often get gasoline/diesel directly from gas stations.
+
+Data on number of port calls by vessel.
+
+No data on passenger and freight numbers, only weight estimates when vessels cross load line.
+
+No projections on fuel consumption. Maybe collected by shipping companies.
+
+Diesel/fuel oil There are no domestic vessels using high sulphur fuel oil (HFO). HFO only used for international marine bunkers.
+
+Negations at IMO on GHG emissions from vessels. Tonga would need to adhere to any agreements achieved there.
+
+Contribution of domestic shipping to GHG emissions considered as insignificant, particularly on a global level.
+
+Energy Efficiency aster Plan focused on land transport, as major share of GHG emissions from land transport in Tonga. Any regulation on engine or fuel standards would likely impose an additional cost on vessel owners, who often can barely afford to pay the fuel. Also, it is unclear whether higher standards fuel can be used in existing engines.
+
+No impact on domestic shipping from IMO regulation on sulphur content.
+
+No systematic collection of fuel consumption data in aviation under Transport by the Civil Aviation Division. Information is requested from operators and Pacific Energy (which is responsible for fuel deliveries to aviation). As part of Tongas requirement as a member of the International Civil Aviation Organization (ICAO), the Civil Aviation Division will start to collect data on fuel consumption for international flights, starting from the second half of 2020. Data is expected to be published in 2021.
+
+Ad-hoc request to operators is possible, if it is specified what data is needed and for which purpose.
+
+No systematic collection of passenger and freight data in aviation u by the Civil Aviation Division. Civil Aviation Division can request data on passenger numbers from operators. Similar request can be made for freight data, but uncertain whether operators collect that data.
+
+Freight transport via aviation in Tonga is limited. Freight is rather transported via maritime transport. Domestic planes are small and mostly serve for passenger travel. There are no dedicated cargo planes.
+
+Establishing targets to reduce fuel consumption/GHG emissions from aviation was regarded as unrealistic, due to the lack of alternative fuels and technologies. Alternative fuels are currently not commercially viable. Introducing stricter engine standards would come at considerable costs for operators as airplanes would need to be replaced.
+
+Data No reliable data for forestry, no forest inventory in Tonga.
+
+2009 National Forest Policy uses data from the Department of Environment. Recommended to contact Department of Environment about the origin of this data. Also recommended to consult 2017 Forest Management Plan Estimates Difference between FAO estimate (9,000 ha) and National Forest Policy (68,000ha) as a result of different definition for forests GHG targets Limited land area in Tonga: Conflict between food security/income and need to clear land for agriculture vs reducing emissions Makes sense to have targets for forestry, but not for Tonga where no forest harvesting and forests are generally small on a global scale 2019 Corporate Plan of Ministry of Agriculture, Food and Forests (MAFF CP) envisions planting of 1 million trees Reducing land need (emissions from agriculture) requires considering most suitable crops/change in crops/viable alternatives with price and sustainability as two important determinants Agroforestry, intercropping of crops and trees, and mixed cropping as important measures to reduce the impact of climate change, droughts, pests and diseases, but dependent on funding Petroleum data Data collected by customs and shared with the Department of Statistics. Gaps in publicly availably foreign trade report (Department of Statistics) are likely the result of outage of automated customs system. In case of an outage, the system is updated manually afterwards, but statistics reports might not reflect those updates.
+
+Customs data can be shared and includes concession codes (tax exemption based on use) that allow for some distinction between product use.
+
+Oil supply chain While direct shipments from Singapore were under discussion a few years ago, they never materialized.
+
+Subsidies Subsidies entail the removal of excise tax and for some products/use consumption tax. Excise tax amounts to 65 cents per litre for all petroleum products, except lubricants. Weekly/monthly reports on subsidies contain details on concessions, such as amounts and categories of use that they apply to. These reports can be shared.
+
+Vehicle data Customs collects data on vehicle imports. Excise tax is based on engine size, which would allow to distinguish between vehicle categories. This data can be shared.
+
+Renewable energy Achieving 50% electricity generation from renewable sources as the main challenge, to be achieved by wind, solar and battery, with 10 major projects over the next two years (53.2 million USD) Implications on network/change to the network, even more so for achieving 70% by 2030 and 100% by 2035 Options to diversify renewable energy options: currently solar and wind, with the need for battery storage to possibly waste/biomass, tidal/wave in the future Demand Growing demand: TPL projects 2.5-2.7% year-on-year demand growth for 2020-2025, driven by construction of commercial and residential buildings Losses Loss reductions as a result of significant improvements in network infrastructure (technical losses) and the introduction of meters (non- technical losses) Goals and targets Goals and targets set by government, with TPL focusing on implementation and providing feedback on technical feasibility (impact on grid and security of supply) 2015-2020, grand funding for solar and wind as well as technical assistance, but increasingly private investment under power purchase agreements Drive towards private sector investment, with support from financing institutions If diesel prices drop considerably (March 2020), then solar/windless competitive. However, (1) low prices are considered to be a short-term phenomenon and (2) willingness for a temporary premium to be paid to achieve emission reductions.
+
+Providing baseload, particularly at night.
+
+Output changes much more gradual than solar, as a result, easier to operate (but only 7 months of data) Cloud cover as the main challenge, requiring diesel backup. Modern diesel generator fleet, but use for backup generations reduces efficiency as generators are run on lower frequencies Solar for main grids is cost-competitive with diesel, as evidenced by private sector investment. For off-grid systems, diesel is cheaper Upfront costs as a challenge. Grant-funded upfront costs not passed on to consumers 12-years life expectancy for batteries (at current cost of 30 million USD), impossible for TPL to fund replacement of components Biomass/waste Biomass and waste regarded as options to replace firm capacity diesel Adaptation 1. Hardening of infrastructure with project specifications and design of generation infrastructure to withstand cyclones + network upgrades to improve resilience 2. Rebuilding, with more flexible designs to re-establish power faster, instead of building infrastructure that can withstand all phenomena Regarded as an option for (1) reducing investment burden on TPL, as consumers pay for infrastructure, and (2) demand-side management TPL involved in system design, TPL permission required to connect systems to network Missing policies and incentives to encourage installation/investment. For example, unclear whether or not import fees and taxes are imposed on equipment. Currently, no policy/regulation but decision is project- based TPL heavily involved. Examples include street lighting (LED), distribution of light bulbs to consumers (15,000), energy auditing and training, development of standards, studies on consumer behaviour in cooperation with universities Recycling The entirety of the collected waste goes to the landfill, no recycling Waste collection Practice of burning waste has reduced, due to regulation (fine) and collection system in place. Fixed fee for households and commercial users provides incentives to use the system.
+
+A system established in Tongatapu and Vavau, to be established in Haapai and Eua in 2020. Further expansion to other islands required in the future.
+
+Willingness to pay is an issue in some areas, but regulation/fines has been helpful in enforcement Limited financial capacity of waste authority. Improvement in infrastructure requires improvement in financial situation for necessary investments. Currently dependent on donor funding. Fees are barely sufficient to cover operational costs, but not investments.
+
+Considering waste to energy as an option, but capacity and resources to assess viability are limited Data Collect data on fuel consumption for domestic flights. Collect data for domestic passenger numbers and distance travelled. Data can be shared pending approval from company CEO.
+
+No data on international flights.
+
+Setting emission reduction targets for aviation is not regarded as realistic for two reasons: (1) there are no alternative fuels and (2) costs would be too high.
+
+Diesel reflects Approximately 40% of total product sales. Half of the diesel is used for road transport, 40% for power generation, and 10% for marine bunkering (ferries, fishing, international).
+
+No reduction in diesel sales observed for electricity generation, despite increased deployment of renewables.
+
+Data Suggestion to use customs data as company data is confidential.
+
+Policy The only major change over the last 10 years is the tightening of fuel specifications, in particular regarding lower thresholds for Sulphur content.
+
+End-use of diesel sales (from Total) can be roughly broken down as follows: 60% for electricity generation, 30% for road transport, 10% for shipping Data Sales data is confidential. Suggestion to rely on customs data.
+
+2 Mr. Ofa Sefana Energy Planning Specialist Greenhouse gas inventory working group ofasefana@yahoo.com 3 Mr. Heimuli 4 Ms. Hepi Oko Road Officer Ministry of Infrastructure, Department of Transport, Land Transport Division Marine Port Officer Ministry of Infrastructure, Department of Transport, Maritime Transport Division Ministry of Meteorology, Energy, Information, Disaster Management, Environment, Climate Change and Communications. Department of Climate Change Assistant Secretary Ministry of Meteorology, Energy, Information, Disaster Management, Environment, Climate Change and Communications. Department of Climate Change Ministry of Meteorology, Energy, Information, Disaster Management, Environment, Climate Change and Communications. Department of Energy Ministry of Meteorology, Energy, Information, Disaster Management, Environment, Climate Change and Communications. Department of Energy Ministry of Meteorology, Energy, Information, Disaster Management, Environment, Climate mailto:th.hoponoa@gmail.com mailto:ofasefana@yahoo.com mailto:hlikiafu@yahoo.com mailto:hepioko@gmail.com mailto:likewater83@gmail.com mailto:lilumoala@gmail.com mailto:akesiuleua@gmail.com mailto:ttukunga@gmail.com mailto:sl_tausinga@yahoo.com mailto:tuhamoelotu@gmail.com Ministry of Meteorology, Energy, Information, Disaster Management, Environment, Climate Change and Communications. Department of Energy. Department of Environment Senior Secretary Ministry of Trade and Economic Development/ Tonga Competent Authority General Statistician Tonga Statistics Department. Statistical Advice and Capacity Assistances Principal Statistician Tonga Statistics Department. Real Sector Economic Statistics Poverty Statistician Tonga Statistics Department. Poverty Statistics tlatavao@stats.gov.to 23 Ms. Saane Lolo Chief Economist Ministry of Finance slolo@finance.gov.to 24 Ms. Lupe mailto:lupe.matoto@gmail.com mailto:sandraf@mted.gov.to mailto:sfotu@stats.gov.to mailto:mmasila@stats.gov.to mailto:tlatavao@stats.gov.to mailto:nfonua@tongapower.to mailto:vpalaki@tongapower.to mailto:lola.liavaa.tonga@gmail.com mailto:kilikilitefua@gmail.com mailto:avotay@hotmail.com mailto:slolo@finance.gov.to mailto:ltfeiloaki@gmail.com mailto:slolo@finance.gov.to Head of Corporate Division Ministry of Agriculture and Food, Forests and Fisheries Senior Aviation Officer Ministry of Infrastructure, Civil Aviation Division pltaimani@gmail.com mailto:mhalafihi@gmail.com mailto:pltaimani@gmail.com mailto:michaelc@customs.gov.to mailto:ifalemi.tauheluhelumau@p.energy mailto:ifalemi.tauheluhelumau@p.energy mailto:jese.tikomailepanoni@total.com mailto:amanaki.paea@paluaviation.to The information below was collected from stakeholders at two workshops on the 30th and 31st of July 2020. The stakeholders represented participants from the energy, IPPU, AFOLU, waste and adaptation sectors and cross-cutting areas such as finance, planning, local government and gender.
+
+The questions asked to stakeholder during the workshop were:  How can the suggested 2020 NDC targets be achieved in Tonga?  What are the barriers and opportunities?  What enabling actions need to be taken?
+
+Closely collaborate between agriculture, transport, waste, water to understand each other's targets and be involved in each others planning and budget processes Conduct a quarterly, biannual or annual monitoring and evaluation for all NDC sectors implementing the targets Lack of funding, resources and activities to implement the targets.
+
+Gaps need to be identified early so that it can be addressed early rather than being identified in the review.
+
+Improve communication and collaboration at a high level including within Ministries and with other stakeholders Lack of expertise To update or establish an Agriculture, Forestry and Fisheries Census Energy Impacts of Climate Change for example occurrence of intensive events such as Tropical Cyclones has affected the implementation of RE projects resulting in delays in implementation.
+
+Opportunity to conduct high-level consultation for decision-makers.
+
+Carry out more high-level consultations and awareness-raising so decision-makers know the challenges.
+
+Cyclones have affected the RE equipment.
+
+Opportunity to make alignment of different policies and national plans for future purposes and avoid contradictions Novelty of projects, different project requiring different procedure with different donor demands and procedures Tax and tariffs are focused on some goods while others are neglected thus need of fair and evenly tax imposition Through targets can enable aid in achieving the targets through such as Tax exemption on certain goods Lack of funding and capacities.
+
+Lack of in-country capacities in some specific areas which are needed for renewable energy projects and cannot fly-in specialists due to covid-19. This has caused delays 2021, changing the government priorities thus affecting the targets progress. Lack of aligning policies and national reports in Tonga There are two major strategies for Marine Managed Areas in Tonga. These are:
+
+1. Marine Protected Areas (MPAs); and 2. Special Management Areas (SMAs).
+
+Both strategies are managed by Government of which MPAs are managed under the Ministry of MEIDECC (Department of Environment) and SMAs under the Department of Fisheries.
+
+MPAs are areas of marine protection that are remote from communities, where community management is not possible, and are managed exclusively by the government. MPAs are labelled as 'parks' or 'reserves' designated under the Parks and Reserves Act 1979 (Rev. 1988) and are exclusively 'no-take zones'. SMAs are areas of marine protection that are located near island communities where they can be locally managed under government supervision of the Department of Fisheries (DoF). All SMAs are designated under the Fisheries Management Act 2003 and are 'multi- use' zones. The above-stated government ministries (MEIDECC and DoF) are also responsible for the monitoring of MPAs and SMAs.
+
+Exclusive 'no-take' area - non- extractive activities (snorkeling, diving, etc.) only.
+
+Legislation Parks and Reserves Act, 1979 Fisheries Management Act, 2003 (Rev. 1988) At the NDC review and recommendation validation workshops, the point was raised with regard to whether both MPAs and SMAs should be included in the 2020 NDC. This lead to discussions of some points which need to be decided first before making further decisions on how MPAs and SMAs are included into the future NDCs. At the validation workshops, it was recommended that there is a need to clarify definition of MPAs and SMAs, including that MPAs are all no-take zones and SMAs also in some cases include no-take zones so there are overlaps. The concept of MPA and SMA having a no- take policy is their similar characteristic that warrants them to be categorized together. There was a suggestion to use Marine Managed Areas to house both the MPA and SMA. However, the MPA is a global definition recognized by the Convention for Biological Diversity while the SMA is a national term dictated by Tonga and MMA is a regional term. To house the MPA & SMA under MMA was thus not regarded as ideal and stakeholders agreed there is a need for further discussion between the Department of Environment and the Ministry of Fisheries regarding this issue.
+

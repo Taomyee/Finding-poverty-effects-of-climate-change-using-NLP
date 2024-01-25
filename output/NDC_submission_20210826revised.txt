@@ -1,0 +1,286 @@
+Information to facilitate clarity, transparency and understanding of The Paris Agreement (PA) was adopted by COP21 in 2015, and subsequently signed and ratified by 191 Parties. The sole aim is to change the current course towards combating climate change, harboring sustainable development pathway by limiting global warming within 1.5 - 2 degrees Celsius above pre-industrial levels. One of the key elements of the PA is the Nationally Determined Contributions (NDCs) previously referred to as Intended Nationally Determined Contributions (INDCs) before the ratification of PA. Bangladesh submitted its INDC to UNFCCC on 25 September 2015, for three sectors (Power, Industry and Transport). Subsequently, Bangladesh prepared the NDC Implementation Roadmap and Action Plan in 2018.
+
+Bangladeshs INDC proposed for 12 million tons (5%) unconditional reduction in GHG emission from Business as Usual (BAU) scenario by 2030 and a further 24 million tons (10%) conditional reduction in GHG emission with support from the international community taking the base year 2011. As part of the global initiative, Bangladesh is updating the NDC incorporating additional sectors following IPCC guidelines. The updated NDC covers Energy, Industrial Processes and Product Use (IPPU), Agriculture, Forestry and other Land use (AFOLU) and Waste. For the NDC update, 2012 has been considered as the base year following the Third National Communication of Bangladesh, which details a comprehensive national GHG emission inventory for 2012.
+
+NDC in line with the guidelines set out in Katowice decisions (COP24/CMA1) is presented in the form of template in the last part of this document.
+
+The NDC update aims to further mitigation actions that Bangladesh may take to tackle its growing to a low-carbon, climate-resilient economy and becoming a middle-income country whilst ensuring that it will not cross the average per capita emissions of the developing countries.
+
+As part of the global initiative, Bangladesh is updating its NDC. This updated NDC covers Energy (Power, transport, energy use in industry, residential, commercial, agriculture and brick manufacturing, F-gases and Fugitive emission), Industrial Processes & Product Use (IPPU), Agriculture, Forestry and other Land use (AFOLU) and Waste sectors. In this aspect, the NDC is incorporating additional sectors according to IPCC guidelines to ensure comprehensive coverage. So, the Updated NDC tries to represent an economy-wide GHG emission reduction taking in to account lack of required information under AFOLU. The updated NDC is prepared following a structured process involving stakeholders from relevant ministries and agencies. The required data has been collected through IPCC suggested structured template from the agencies on present condition and future plans and projects relevant to GHG emission reduction. Following this, the initial scenario analysis outcomes have been validated with the relevant ministries and agencies in a validation workshop. The possible mitigation measures have been finalized based on discussion on the validation process.
+
+For the NDC update, 2012 has been considered for the base year following the Third National Communication of Bangladesh, detailing a comprehensive national GHG emission inventory for 2012. Energy, IPPU, AFOLU and Waste Sectors are considered for GHG emission inventory preparation.
+
+Power, Transport and Industry are three major sub-sectors under the Energy Sector, while Brick manufacturing, Residential and commercial buildings (energy use), Energy use in Agriculture refrigeration and Fugitive emission from gas transmission and distribution systems, flaring in oil/ gas fields etc. are considered as other sub-sectors of the Energy Sector.
+
+The Power sub-sector includes emissions from electricity generation activities from coal, gas, furnace oil-based power plants and different renewable energy sources such as solar home system, solar park, solar mini & micro grid, rooftop solar and net metering, solar irrigation, hydro, wind, biomass and biogas. Transport sub-sector comprises fuel combustion emission from the road, rail and inland water transport. Industry sub-sector covers energy use in industry covering fuel and electricity use in industrial activities.
+
+The IPPU sector covers industrial process based emissions from cement clinker production and urea fertilizer production. The AFOLU (agriculture) sub-sector covers methane emission from cultivated rice fields, nitrous oxide emission from nitrogen-based fertilizer, methane emission from enteric fermentation of livestock and methane and emission from manure management. The AFOLU (forestry) sub-sector covers emissions from forest areas and carbon stock in Bangladesh. The Waste sector covers methane emission from solid waste disposal and domestic wastewater.
+
+For the base year, total GHG emission accounts for 169.05 million tons CO2 equivalent (MtCO2e). Energy Sector holds the higher contribution to the total GHG emission which is 93.09 Mt CO2e or 55.07% of the total, followed by AFOLU (27.35% of total), Waste (14.26% of total) and IPPU (3.32% of total) Sectors.
+
+Power, Transport, Industry, Household and Brick Kilns are five major sub-sectors which contributes the AFOLU Sector generates the highest 45.87 MtCO2e, about 27.13% of the total GHG emission for the base scenario. According to IPCC guidelines for Forestry sub-sector, Bangladesh has established a Forest Reference Level (FRL) for the historical reference period 2000-2015. The estimated emission from the forestry sector is 1.19 MtCO2e/year, and the estimated removal is 0.81 MtCO2e/year. The net change, FRL, is 0.37 MtCO2e/year. Waste and IPPU Sector generates 24.11 and 5.61 MtCO2e emission respectively.
+
+The following table 1 presents the sector-wise GHG emission for the Base year scenario.
+
+Other energy sub sectors:
+
+The base year GHG emission scenario for 2012, has been updated with additional information for from 152.27 MtCO2e to 169. 05 MtCO2e.
+
+The BAU scenario is prepared considering the contribution of emission sources and information that has been collected from the relevant agencies of different ministries following the IPCC 2006 reporting guidelines. The BAU scenario does not contain any mitigative measures. The BAU scenario has been modeled following the use of conventional technology and national projections of development.
+
+Critical assumptions for modelling GHG emission for BAU scenarios are:
+
+In the energy sector, BAU is prepared following the Power Sector Master Plan (2016) with additional modifications of plans from the Ministry of Power and mineral resources; Energy Efficiency and Conservation Master Plan (2015) for industry, residential and commercial; previous trend-based projection for Transport; Brick sector roadmap and Department of Environment information on Brick manufacturing, National Cooling Action Plan and Montreal protocol targets for F-gases.
+
+In the IPPU sector, previous trends and demand-based projections have been made.  In AFOLU sector, BAU is prepared following rice cropping area and livestock population projection for 2030 from relevant Ministries and agencies; Forestry related emission is taken from Bangladeshs Forest Reference Level (FRL) and kept as constant. No mitigation scenario analysis was carried out for Other Land Use.
+
+BAU is prepared based on the extrapolation of waste generation using urban population estimates (UN data) and waste generation rate (Third National Communication) in the Waste sector.
+
+Total GHG emission is found to be increased from 169.05 Mt CO2e in 2012 to 409.4 Mt CO2e in 2030 under the Business as Usual (BAU) scenario with an increase of 2.4 times than base year. The following table 2 presents the sector-wise distribution of the GHG emission for the BAU scenario in 2030.
+
+The sector-wise emissions under BAU scenario by 2030 are 312.54 Mt CO2e (76.34% of total) in Energy, 10.97 Mt CO2e (2.68% of total) in IPPU, 55.01 Mt CO2e (13.44% of total) in AFOLU and 30.89 Mt CO2e (7.55% of total) in Waste Sectors.
+
+The highest contribution (24.91% of total) of GHG emission is found for Industry (energy) sub- sector followed by Power (23.24% of total) and Transport (8.86% of total) under the Energy Sector.
+
+Other energy sub-sectors:
+
+The mitigation scenario analysis and assessment of achievable but ambitious unconditional and conditional GHG mitigation measures by 2030 for the NDC update has been prepared following IPCC guidelines and stakeholder consultation. In the unconditional part of NDC, only those mitigation measures were considered which would be implemented based on current local-level capacity, and financed through internal resources. Contingent upon international funding and technological support, the conditional emission reduction will be implemented. The following sections present the updated unconditional and conditional contributions.
+
+In the unconditional scenario, GHG emissions would be reduced by 27.56 Mt CO2e (6.73%) below BAU in 2030 in the respective sectors. 26.3 Mt CO2e (95.4%) of this emission reduction will be from the Energy sector while 0.64 (2.3%) and 0.6 (2.2%) Mt CO2e reduction will be from AFOLU (agriculture) and waste sector respectively. There will be no reduction in the IPPU sector.
+
+In the conditional scenario, GHG emissions would be reduced by 61.9 Mt CO2e (15.12%) below BAU in 2030 in the respective sectors. This reduction is in addition to the proposed reductions in unconditional scenario. The conditional mitigation measures will be implemented by Bangladesh, only if there is external financial/technology support. The conditional scenario has 59.7Mt CO2e (96.46%) emission reduction from the Energy sector, while 0.4 (0.65%) and 1.84 (2.97%) Mt CO2e reduction will be from AFOLU (agriculture) and Waste Sector respectively. There will be no reduction in the IPPU Sector. Table 3 presents the GHG reduction under unconditional and conditional scenarios.
+
+Power 95.14 23.24 87.13 8.01 29.06 51.4 35.73 57.72 43.74 48.9 Transport 36.28 8.86 32.89 3.39 12.30 26.56 6.33 10.23 9.72 10.86 Industry (energy) 101.99 24.91 95.33 6.66 24.17 94.31 1.02 1.65 7.68 8.58 Other energy sub sectors:
+
+Households 30.41 7.43 28.78 1.63 5.91 24.77 4.01 6.46 5.64 6.3 Commercial 3.35 0.82 2.94 0.41 1.49 2.51 0.43 0.69 0.84 0.94 Agriculture 10.16 2.48 9.37 0.79 2.87 10.13 0.03 0.05 0.82 0.92 Brick Kilns 23.98 5.86 20.7 3.28 11.90 12.82 7.88 12.73 11.16 12.47 F Gases 2.92 0.71 0.78 2.14 7.76 0.03 0.75 1.21 2.89 3.23 312.54 76.34 286.23 26.31 95.46 226.56 59.71 96.46 85.98 96.1 Note: INDC (2015) proposed 12 MtCO2e (5%) reduction in unconditional and a further 24 MtCO2e (10%) reduction in conditional scenario Note: NDC (2020) proposed 27.56 MtCO2e (6.73%) reduction in unconditional and an additional 61.91 MtCO2e (15.12%) reduction in conditional scenario.
+
+This contribution is based on the analysis carried out in 2020-21 using the best available data.
+
+However data quality and availability is an issue in Bangladesh. If new and more robust data comes the government will update its analysis accordingly. This will be coordinated with the National Communication and Biennial Update Report reporting cycle.
+
+The targeted GHG emission reduction for unconditional contributions will be implemented through a set of mitigation actions. The potential mitigations actions are elaborated in Table 4.
+
+Table 4: Possible Mitigation Actions to deliver the Unconditional Contribution passenger-km) through different Transport projects such as BRT, MRT in major cities, Multi-modal hub creation, Padma Bridge etc.
+
+Increase energy efficiency in the Industry sub-sector system (Improve navigation for regional, sub-regional, and local routes, improve maintenance of water vessel to kiln (FCK), encourage advanced technology and non-fired  Reduction of Ozone Depleting Gases (HCFCs) use in air  Rice Varietal Improvement for 1,111,000 ha crop lands  209,000 ha crop land Management (leaf color chart, soil of urea in rice field, training, awareness) in 50,000 ha  Feed improvement by using a balanced diet and beneficial  Increase forest cover.
+
+Increase tree cover from 22.37% (2014) to 24%.  Afforestation and reforestation in the coastal areas, islands and degraded areas  150,000 ha.
+
+Restore the deforested forests  137,800 ha at the hill and plain land sal forest.
+
+Restore the degraded forests  200,000 ha at the hill and plain land sal forest.
+
+Plantation in roadsides, embankments, private lands etc.
+
+The mitigation actions for conditional contributions will be in a more extensive way along with the unconditional contribution. A set of potential mitigation actions for conditional contributions are described in Table 5.
+
+Table 5: Possible Mitigation Actions to deliver the Conditional Contribution  Implementation of renewable energy projects of 4114.3  Coal power plant with Ultra super critical technology- passenger-km) through different Transport projects such as BRT, MRT in major cities, Multi-modal hub creation, new bridges etc.
+
+Reduction of Ozone Depleting Gases (HCFCs) use in air conditioning after 2025.
+
+Rice Varietal Improvement for 2,129,000 ha crop lands  627,000 ha crop land Management (leaf color chart, soil of urea in rice field, training, awareness) in 150,000 ha  Feed improvement by using a balanced diet and beneficial other programs.
+
+Forest conservation by Scale-up of alternative income-  Additional coastal afforestation activities.  Maintain the restoration of degraded or deforested areas.  Plantation in roadsides, embankments, private lands etc.
+
+Expansion of Regional Integrated Landfill and Resource Along with these measures, a set of initiatives will be undertaken for IPPU Sector. However, no GHG emission reduction is committed for this Sector. The potential mitigation measures in IPPU sector fertilizer manufacturing, one Industry has been established with the modern and efficient process, and a few more are in the pipeline.
+
+Bangladesh has assumed the presidency of the 48-nation Climate Vulnerable Forum (CVF) and the Vulnerable Twenty (V20) Group of Finance Ministers. Honorable Prime Minister of Bangladesh H.E. Sheikh Hasina is serving as Chair of the CVF since June 2020. As Chair of the CVF, Honorable Prime Minister has launched a program to develop Mujib Climate Prosperity Plan for Bangladesh. The Plan will be the first of CVF plans, with a strategic investment framework to mobilize financing, especially through international cooperation, for implementing renewable energy and climate resilience initiatives. The Draft plan identifies several key initiatives, which focus in renewable energy, energy storage infrastructure, power grid modernization, Established carbon market regime, Bangladesh Delta Plan 2100 resilience bonds, training and skills development for future, Future-proof Bangladeshs industries, locally-led adaptation outcomes, Micro, Small and Medium Enterprise financial protection and productivity enhancement, Climate-Resilient and Nature-Based programs and Accelerated digital revolution.
+
+The government is implementing the shelter project for landless and homeless people. Under the project, 442,608 families have been rehabilitated in 22640 barracks and 0.26 million houses. Additionally, 4,409 climate refugee families are being rehabilitated in Khuruskul, Coxs Bazar. Besides enhancing disaster resilience, the project also focuses on mitigation through implementing 1.58 million tree plantations, rainwater harvesting, Solar Home System based alternate power sources, improved cook stoves etc. Besides this, 50,104 families have been rehabilitated by the Cluster village project, where 0.455 million trees have been planted.
+
+The National Solar Energy Roadmap, 2021 - 2041 has been drafted to frame a long-term vision for broader strategies required to achieve those targets. Based on three implementation scenarios, the Roadmap delineates a few general as well as specific and time-bound measures to achieve that target by the year 2041.
+
+Bangladeshs Country Action Plan for Clean Cook Stoves 2013 (CAP 2013) focused predominantly on climate funds, leveraging government funds to finance women-led businesses in the sector and lobbying for additional financing options from international donors at low rates. About 4.5 million improved cook stoves have been distributed already. A new National Action Plan for Clean Cooking in Bangladesh (2020-2030) is being formulated following its success.
+
+Bangladesh Forest Department (BFD) conducted National Forest Inventory (NFI) during 2016-2019 to identify the status of forest and tree resources, carbon and biomass stock, dependency of local people on trees and forests and the ecology. The government has developed the Forest Reference Level (FRL) and Forest Reference Emission Level (FREL) and submitted them to the UNFCCC. To reduce the carbon emission from the forestry sector, Bangladesh formulated Bangladesh National REDD+ Strategy (BNRS). It established a National Forest Monitoring System (NFMS) for periodical monitoring of tree and forest cover. To celebrate the birth centenary of the Father of the Nation Bangabandhu Sheikh Mujibur Rahman, BFD has planted 10 million tree saplings around Bangladesh.
+
+The Ministry of Disaster Management and Relief has planted 5.4 million Palm trees which will contribute to carbon sink and reduce the risk of death due to lightning.
+
+Bangladesh National Action Plan for Reducing Short-Lived Climate Pollutants The NAP-SLCPs were formulated with support from the Climate and Clean Air Coalition in February 2012 to reduce SLCPs. The plan focuses on identifying and implementing the most cost-effective measures for large-scale implementation of SLCP mitigation. Eleven priority mitigation measures target major methane sources. The plans full implementation is expected to reduce black carbon emissions by 40% and methane emission by 17% in 2030 compared to a business as usual (BAU) scenario.
+
+Energy Efficiency and Conservation Master Plan up to 2030 Under this comprehensive plan, the government aims to lower energy intensity (national primary energy consumption per unit of GDP) in 2030 by 20% compared to the 2013 level. A total of 95 million toe (113 billion m3 of gas equivalent) is expected to be saved during the period.
+
+Bangladesh has taken up a number of initiatives to enhance the best utilization of renewable energy. Bangladesh has installed more than 6 million solar-home systems (SHSs) across the country benefiting more than 18 million (11%) population. Around 66 MW is being produced through roof top solar panels installed in government and private buildings. 2226 solar irrigation systems have been installed around the country. The government has extended a re-financing scheme to finance alternative energy generation projects like small scale solar and micro grids, to improve energy access in off- grid areas.
+
+Bangladesh Bank established a refinance scheme to support environment-friendly technology such only 10 products, which has increased to 50 products under 11 categories: renewable energy, energy efficiency, solid waste management, liquid waste management, alternative energy, fire burnt factories, etc. 39 banks and 19 financial institutions have signed a participation agreement with Bangladesh Bank to avail finance from this scheme.
+
+The Bangladesh Climate Change Trust Fund (BCCTF) has undertaken 800 projects with an investment of 449.3 million USD to implement strategic actions of the Bangladesh Climate Change Strategy and Action Plan (BCCSAP), which mainly focus on adaptation, mitigation and climate change research.
+
+The government has recently adopted the Bangladesh Delta Plan 2100, a comprehensive 100-year strategic plan aimed at gradual sustainable development through adaptive delta management process. The Delta plan has included climate change as a significant future challenge. It reaffirms Bangladeshs commitment to reducing GHG emissions from key sectors through efforts like promoting improved rice parboiling systems and ensure energy efficiency, research on the suitability of various tree species for their carbon-locking properties suitable for forestry programs.
+
+The plan targets to achieve a safe, climate-resilient and prosperous delta with a mission to ensure long term water and food security, economic growth and environmental sustainability, effectively reducing vulnerability to natural disasters and building resilience to climate change. Total 80 as climate-sensitive.
+
+Bangladesh is currently preparing the National Adaptation Plan (NAP) to address climate change. This will include an overview on climate change hazard, risk and vulnerability for Bangladesh. Current adaptation strategies for different impacts due to climate change undertaken in different projects/initiatives from both the government and NGO/CSOs will be identified and Success stories/case studies on resilient adaptation options will be included in the NAP. The plan will include future recommendations on mentioned issues focusing on regional and local level solutions mechanism for NAP will be included.
+
+As stated earlier, mitigation and adaptation often coexist, and quite a few adaptation actions have mitigation co-benefits. Bangladesh's NDC, therefore, has an adaptation component that describes what Bangladesh has already done on adaptation and what are the priorities for the future long-term vision for adaptation keeping synergies with mitigation actions. Since the development of comprehensive National Adaptation Plan (NAP) is currently underway, Bangladesh wishes to communicate adaptation communication drawing the inputs from NAP process next year. The two vital national plans to address climate change in Bangladesh are the National Adaptation Programme of Action (NAPA), developed in 2005 and subsequently revised in 2009, and the Bangladesh Climate Change Strategy and Action Plan (BCCSAP), released in 2009. BCCSAP comprised 44 Programmes under six thematic areas to deal with adverse impacts of climate change as well as supporting low carbon economic growth. The priority pillars for implementing strategies were: (1) Food security, social protection and health; (2) Comprehensive disaster management; (3) Infrastructure development; (4) Research and knowledge management; (5) Mitigation and low carbon development; and (6) Capacity building and institutional development. BCCSAP is in the final stages of being updated to make it more appropriate in keeping with advancements in science, technology and knowledge since its first formulation.
+
+Climate Change Trust Fund Act 2010 (CCTFA) was introduced in response to the need for a specific law for handling Climate Change Trust Fund (CCTF) of the Government of Bangladesh with transparency so that the benefits accruing from CCTF-financed projects reach the intended beneficiaries.
+
+Plan 2100 resilience bonds, climate-resilient and nature-based agricultural and fisheries development, climate resilient well-being programs and accelerated digital revolution, training and skills development.
+
+The NAP formulation will identify the co-benefits so that the synergy between adaptation and to be provided, the government has formulated and operationalized a Climate Fiscal Framework (CFF), providing principles and tools for climate fiscal policy-making (CFP).
+
+8th FYP, Bangladesh Country Investment Plan for Environment, Forestry and Climate Change (2016- 2020) (EFCC CIP), Perspective Plan for 2021-2041 (PP2041) emphasizes the importance of managing climate change and indicates the priorities for implementing the BCCSAP. Other sectoral plans and strategies also focus on adaptation action to climate change.
+
+The Forest Investment Plan (FIP, 2017-2022) has been developed to identify future investment opportunities to increase the forest cover, reduce deforestation and forest degradation and improve the livelihoods of the forest-dependent people through the implementation of participatory/social forestry.
+
+The Government of Bangladesh has demonstrated its commitment to undertake both adaptation and mitigation efforts as part of its plan for sustainable development. Every year the Government channels resources for significant investment in projects/programs for ensuring climate resilience. adaptation (CCA). However, the World Bank estimates that the country would need US$5.7 billion as adaptation finance by 2050, which is more than 5 times higher than the current expenditure for CCA.1 Three-quarters of money spent on climate change in the country comes directly from the government, while the rest comes from international development partners including bilateral, multi-lateral and private funding. Some significant achievements towards climate change adaptation at the national level are briefly described below:
+
+Bangladesh Forest Department (BFD) is currently implementing the Sustainable Forests & Livelihoods Project (SUFAL) supported by World Bank, to improve forest management and increase benefits for forest dependent communities in targeted sites by financing nearly 79,000 hectares of Upazilas (sub-districts). The project emphasizes sustainable livelihood options for the forest dependent communities and engages them in ecosystem management to ensure the sustainability of the forest resources.
+
+Some of the completed projects for sustainable ecosystem management are- Climate Resilient Ecosystem and Livelihoods (CREL), Integrating Community-based Adaptation into Afforestation and Reforestation Programme in Bangladesh and Climate Resilient Participatory Afforestation and Reforestation Project (CRPARP). These projects helped reduce forest degradation and to build the long-term resilience of selected communities to climate change.
+
+Republic of Bangladesh. Available at: 2020-2021_Climate_BR_English.pdf (portal.gov.bd) The Coastal Embankment Improvement Project (CEIP) has helped Bangladesh mitigate some of the most significant impacts of cyclones and flooding and enhanced emergency response in the coastal region. The project costs US$ 400 million and is supported by the Pilot Program for Climate Resilience (PPCR), a targeted fund within the Climate Investment Funds (CIF) framework. Since 2013, the project has increased the protection of 183,900 people including 91,950 women with May 2019, the project has protected 21,700 ha of gross area and upgraded 130.58 km embankment. A comprehensive analysis is being undertaken to understand the coastal dynamics better and increase climate resilience in the coastal area.
+
+Other relevant programs that have been implemented over the last decade are National Resilience Programme, Project for Enhancing Capacity on Planning and Implementation of Regional Disaster Risk Reduction, Information Management System for Disaster Risk Management, Enhancing the Capacity of CPP Volunteers and Coastal fisherman to Cope with Climate Change, Construction of Multipurpose Cyclone Shelters in Coastal Areas and Construction of Flood Shelter in Flood Prone Areas across the Country and Comprehensive Disaster Management Programme II.
+
+The Ministry of Agriculture, Ministry of Fisheries and Livestock and Ministry of Food have contributed to climate change adaptation through the activities related to, research and education and distribution; support and rehabilitation; minor irrigation programs; and improved value chain. The ministries have initiated many investment projects/programmes which focus mainly on increasing food productivity and sustaining growth in the face of the adverse effect of climate change. Some of the notable projects are- National Agricultural Technology Program-Phase II Project (NATP-2), support to seaweed cultivation, processing and marketing through assessment and capacity development, Enhanced Coastal Fisheries (ECOFISH BD), Community-based Climate Resilient Fisheries and Aquaculture Development in Bangladesh, Inclusive agriculture and agro- industrial value chain development as an enabler of poverty reduction in Bangladesh, South West Region Livestock Development Project, Establishment of Regional Duck Breeding Farm along with Hatchery (3rd Phase), Scavenging Poultry Conservation and Development Project, and Establishment of Fish Landing Centers in Haor Area, Institutionalization of Food Safety in Bangladesh for Safer Food, Construction of new food storage, and Modern Food Storage Facilities.
+
+Ministry of Water Resources has a major function in addressing the adverse impacts of climate change. Through its recent activities, the Ministry has directly contributed to climate change adaptation. Projects strongly relevant to climate change under this Ministry include Char development and settlement project-4, Flood control and drainage improvement for removal of drainage congestion in Noakhali area, Climate smart agricultural water management, and Planning for flood management in Bangladesh (Ganges and Brahmaputra Basin), Blue Gold Program for Water Management and Environmental Development. Re-excavation of small rivers, canals and water bodies in 64 districts (1st phase) etc. A total 726 km river bank protection, 2,123 km river excavation and dredging, 1,266 km embankment, excavation/ re-excavation of 181 km irrigation canal and 499 km drainage canal, 2.58 million ha land reclamation from rivers and estuary areas in the last 10 years have been done. One million trees have been planted in the embankments, river/ canal banks to mitigate carbon emission and 2725.1 ha marsh lands were rehabilitated and included in fisheries culture to enhance livelihood activities by the Ministry of Livestock and fisheries.
+
+Several city water supply authorities are implementing projects to increase surface water use and reducing ground water use. These projects will reduce energy consumption for pumping groundwater and contribute to GHG emission reduction. Dhaka WASA has implemented three plants supplying 913 million litre per day (MLD) drinking water and 950 MLD capacity will be added from two plants under implementation. Similarly, Rajshahi WASA and Khulna WASA are implementing a 200 MLD capacity plant and 0.78 million cubic metre capacity reservoir.
+
+Monitoring, Transparency and Institutional Aspects for NDC Implementation Adhering to the spirit for global action, and given the various necessary policies and measures undertaken over the last few years and some of them already bearing fruits, the government is enhancing both unconditional and conditional contribution in the updated NDC. These contributions have been prepared considering the national principles of maintaining a minimum 8% rate of economic growth, complete eradication of poverty by 2030, and food and nutrition security for all citizens.
+
+Bangladesh has prepared an NDC implementation roadmap and action plan which suggests Governance arrangements for the NDC-NAP implementation framework. Bangladesh is working to put a workable Measurement, Reporting, and Verification (MRV) system to maintain transparency and verification of its mitigation efforts and outcomes. The NDC update is based on already planned projects of the government. The unconditional contribution has included confirmed mitigation actions from related ministries and the conditional contribution has included proposed/ planned mitigation actions from related ministries which would require international support.
+
+Bangladesh will need adequate finance, technology, and capacity-building support to implement the NDCs effectually. Capacity building has been identified as a mode of NDC enhancement. Some major areas for capacity building and awareness development include:
+
+Enhancing the capacity of MoEFCC and DoE for effective implementation of NDC.
+
+Consultation with key departments and ministries should be undertaken to understand the challenges they face during NDC implementation.
+
+Capacities need to be built on regular data collection, archiving and data management for GHG inventory, specialized technical capability, and assumptions to develop of various emissions drivers.
+
+Capacity building on MRV process and its implementation for different sectors.
+
+Bangladesh will require international support in Technology transfer related to GHG emission reduction for different sectors. The achievement of conditional contribution will heavily depend on new and more efficient technologies.
+
+Some of the key implementation challenges identified during NDC update are as follows:
+
+Lack of knowledge and awareness about NDC and mitigation among many relevant sector officials. An extensive awareness campaign on mitigation and NDC will be needed to overcome this.
+
+There is a lack of basic data collection on a regular basis for industries, transport, agriculture, forestry and waste. Studies need to be conducted on a periodic basis to overcome this.
+
+As the mitigation actions mostly require a large amount of money to successfully implement them, financial support from different agencies, banks, bilateral or multilateral funds will be needed.
+
+As Bangladesh is a small country with a high population, food security is a significant issue. Rice is the primary staple crop of Bangladesh and there is a growing concern among the sector related community regarding emission reduction activities from rice field. The updated NDC incorporated a minimal emission reduction from rice fields. Further research and technology transfer at the field level will be required to enhance emission reduction from the rice field.
+
+The growing need for land for human settlement, agriculture, industries, and timber and fuelwood is mainly responsible for deforestation and forest degradation. Most forest loss can be attributed to overpopulation, poverty and unemployment, and governance. Governance impacts all forest types and specifically included problems related to uncertainty in land tenure and lack of capacity to implement forestry-related management, policies, and law enforcement. In turn, these indirect drivers lead to a suite of direct drivers of deforestation, namely uncontrolled encroachment from industrialization and agriculture and illegal logging. So, the maintenance of existing forest land is of great concern.
+
+Sustainable management of the forest land and restoration of degraded/ deforested land will require substantial financial support. Collaborative management of forest areas with forest-dependent communities can be an effective solution to reduce degradation.
+
+The implementation of the proposed mitigation and adaptation actions to address climate change requires substantial financial resources. The Government of Bangladesh will continue to commit resources to climate change relevant strategies. The private sector and NGOs can also contribute significantly to these climate change-related activities through public-private partnerships. Banks and Financial Institutions in Bangladesh will continue to play a vital role in financing low-carbon climate-resilient projects and programmes through their separate Green Banking window. However, the full implementation of the strategic mitigation actions is conditional on the support of international stakeholders. The implementation of the prioritized policies and measures assume the climate finance and international market mechanisms where appropriate. To have an idea of the financial needs to implement the measures, tentative cost estimation was carried out. These estimates were drawn from existing information from stakeholders and might need to be updated based on further detailed analysis.
+
+The cost estimate for the implementation of Key mitigations measures in the energy sector under the unconditional and conditional scenario is outlined in table 6.
+
+Table 6: Estimated cost of key mitigation measures in Energy Mitigation Measure Estimated investment required (million USD, 2021-2030) Unconditional Conditional Implementation of energy efficient coal power plant 9905 13204 Transport Plan Preparation, policy initiatives and ITS 70 500 Widening of roads, improving road quality and Construct NMT and bicycle lanes Establish charging station network and electric buses in major cities Purchase of modern rolling stock and signaling system for railway Electrification of railway system and double track construction Improved and enhanced Inland Water Transport 3000 10000 The cost estimate for the implementation of Key mitigations measures in the AFOLU sector under the unconditional and conditional scenario is outlined in table 7.
+
+Table 7: Estimated cost of key mitigation measures in AFOLU Mitigation Measure Estimated investment required (million USD, 2021-2030) In the Waste Sector, the cost estimate for the implementation of Key mitigations measures in the energy sector under the unconditional and conditional scenario is outlined in table 8. Table 8: Estimated cost of key mitigation measures in Waste Mitigation Measure Estimated investment required (million USD, 2021-2030) Information to facilitate clarity, transparency and understanding of 1. Quantifiable information on the reference point (including, as appropriate, a base year) (a) Reference year(s), base year(s), reference period(s) or other starting point(s):
+
+The Base year for Bangladeshs updated NDC is 2012.
+
+(b) Quantifiable information on the reference indicators, their values in the reference year(s), base year(s), reference period(s) or other starting point(s), and, as applicable, in the target year:
+
+Base Year 2012. The contributions of the sectors are;
+
+Total GHG emission will be 409.4 MtCO2e in 2030 under BAU scenario. The contributions of the sectors are;
+
+Not applicable.
+
+Communication.
+
+2. Time frames and/or periods for implementation:
+
+(a) Time frame and/or period for implementation, including start and end date, consistent with any further relevant decision adopted by the Conference of the Parties serving as the meeting of the Parties to the Paris Agreement (CMA):
+
+From 1 January 2021- 31 December 2030.
+
+Single-year targets for 2030. The target might be updated in 2025.
+
+3. Scope and coverage:
+
+(a) General description of the target: Economy-wide absolute targets for 2030 in the respective sectors mentioned in 1(b).
+
+Bangladesh has expanded the coverage of NDC by including more sectors than in INDC.
+
+Not applicable.
+
+4. Planning processes:
+
+(a) Information on the planning processes that the Party undertook to prepare its nationally determined contribution and, if available, on the Partys implementation plans, including, as appropriate:
+
+(ii) Contextual matters, including, inter alia, as appropriate:
+
+Bangladesh is a low-lying delta with a flat topography that makes it particularly susceptible to extreme weather events. The country is relatively small with an area of population of Bangladesh is 169.81 million in 2020.
+
+Bangladesh has made substantial progress in the recent reduction measures. The country is also making progress in sustainable development and poverty eradication.
+
+The current NDC update is the result of experience gained Communications to UNFCCC.
+
+c. Other contextual aspirations and priorities acknowledged when joining the Paris Agreement:
+
+Bangladesh has always been an active participant in international climate change negotiations. The country demonstrated the same level of engagement in the negotiations, signing, and ratification of the Paris Agreement. Bangladesh is currently leading the Climate Vulnerable Forum for the second time. To implement the conditional contributions, Bangladesh will require financial, technology transfer and capacity building related support from the international community.
+
+18, of the Paris Agreement:
+
+Agreement:
+
+Bangladesh has updated its NDC to include additional sectors and enhanced its mitigation ambition from the first iteration. This will positively contribute to the global stock take in 2023.
+
+Agreement to submit information on:
+
+5. Assumptions and methodological approaches, including those for estimating and accounting for anthropogenic greenhouse gas emissions and, as appropriate, removals:
+
+Bangladesh had prepared its national inventories based on the 2006 IPCC Guidelines and other IPCC guidelines. Most of the analysis followed Tier 1 methodology, while adopted by the CMA:
+
+Bangladesh has prepared its Forest Reference Level using Tier 2 methodology.
+
+(b) Assumptions and methodological approaches used for accounting for the implementation of policies and measures or strategies in the nationally determined contribution:
+
+In addition to 5(a) above, Bangladesh will also apply specific assumptions and methodologies, when appropriate, when assessing progress made under the policies and measures related to the implementation of its NDC in its National Communications and Biennial Update Reports.
+
+(c) If applicable, information on how the Party will take into account existing methods and guidance under the Convention to account for anthropogenic emissions and removals, in accordance with Article 4, paragraph 14, of the Paris Agreement, as appropriate:
+
+See 5 (a) above.
+
+(d) IPCC methodologies and metrics used for estimating anthropogenic greenhouse gas emissions and removals:
+
+See 5 (a) above.
+
+Not Applicable.
+
+Not Applicable.
+
+Emission Scenario section.
+
+Not applicable.
+
+Not applicable.
+
+Not applicable.
+
+Agreement, if applicable:
+
+6. How the Party considers that its nationally determined contribution is fair and ambitious in the light of its national circumstances:
+
+Bangladesh is still putting forward actions that will allow ambition for mitigation with a substantial increase from the INDC.
+
+The actions needed to deliver on these commitments will integration of development and mitigation activities. In selecting the actions set out above, Bangladesh has prioritized those which fit with the growth priorities set mitigation and adaptation. The INDC suggested measures content to wait for international support to take action on climate change.
+
+See 6 (a) above.
+
+The updated unconditional and conditional contributions of Bangladesh have increased emission reduction targets substantially. The unconditional target has been increased from 12 MtCO2e to 27.56 MtCO2e below BAU in 2030. The conditional target has been increased from 36 MtCO2e to 89.47 MtCO2e below BAU in 2030.
+
+Despite being a least developing country, Bangladesh has already adopted an absolute, economy-wide target in this NDC update.
+
+Not applicable.
+
+7. How the nationally determined contribution contributes towards achieving the objective of the Convention as set out in its Article 2:
+
+See 6(a) and 6(c) above.
+
+1, of the Paris Agreement:
+
+See 6(a) and 6(c) above.
+
